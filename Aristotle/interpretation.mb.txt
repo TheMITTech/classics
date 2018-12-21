@@ -1,0 +1,1049 @@
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Aristotle/interpretation.html
+
+On Interpretation
+By Aristotle
+
+
+Translated by E. M. Edghill
+
+----------------------------------------------------------------------
+
+SECTION 1
+
+Part 1 
+
+First we must define the terms 'noun' and 'verb', then the terms
+'denial' and 'affirmation', then 'proposition' and 'sentence.'
+
+Spoken words are the symbols of mental experience and written words
+are the symbols of spoken words. Just as all men have not the same
+writing, so all men have not the same speech sounds, but the mental
+experiences, which these directly symbolize, are the same for all,
+as also are those things of which our experiences are the images.
+This matter has, however, been discussed in my treatise about the
+soul, for it belongs to an investigation distinct from that which
+lies before us. 
+
+As there are in the mind thoughts which do not involve truth or falsity,
+and also those which must be either true or false, so it is in speech.
+For truth and falsity imply combination and separation. Nouns and
+verbs, provided nothing is added, are like thoughts without combination
+or separation; 'man' and 'white', as isolated terms, are not yet either
+true or false. In proof of this, consider the word 'goat-stag.' It
+has significance, but there is no truth or falsity about it, unless
+'is' or 'is not' is added, either in the present or in some other
+tense. 
+
+Part 2
+
+By a noun we mean a sound significant by convention, which has no
+reference to time, and of which no part is significant apart from
+the rest. In the noun 'Fairsteed,' the part 'steed' has no significance
+in and by itself, as in the phrase 'fair steed.' Yet there is a difference
+between simple and composite nouns; for in the former the part is
+in no way significant, in the latter it contributes to the meaning
+of the whole, although it has not an independent meaning. Thus in
+the word 'pirate-boat' the word 'boat' has no meaning except as part
+of the whole word. 
+
+The limitation 'by convention' was introduced because nothing is by
+nature a noun or name-it is only so when it becomes a symbol; inarticulate
+sounds, such as those which brutes produce, are significant, yet none
+of these constitutes a noun. 
+
+The expression 'not-man' is not a noun. There is indeed no recognized
+term by which we may denote such an expression, for it is not a sentence
+or a denial. Let it then be called an indefinite noun. 
+
+The expressions 'of Philo', 'to Philo', and so on, constitute not
+nouns, but cases of a noun. The definition of these cases of a noun
+is in other respects the same as that of the noun proper, but, when
+coupled with 'is', 'was', or will be', they do not, as they are, form
+a proposition either true or false, and this the noun proper always
+does, under these conditions. Take the words 'of Philo is' or 'of
+or 'of Philo is not'; these words do not, as they stand, form either
+a true or a false proposition. 
+
+Part 3
+
+A verb is that which, in addition to its proper meaning, carries with
+it the notion of time. No part of it has any independent meaning,
+and it is a sign of something said of something else. 
+
+I will explain what I mean by saying that it carries with it the notion
+of time. 'Health' is a noun, but 'is healthy' is a verb; for besides
+its proper meaning it indicates the present existence of the state
+in question. 
+
+Moreover, a verb is always a sign of something said of something else,
+i.e. of something either predicable of or present in some other thing.
+
+Such expressions as 'is not-healthy', 'is not, ill', I do not describe
+as verbs; for though they carry the additional note of time, and always
+form a predicate, there is no specified name for this variety; but
+let them be called indefinite verbs, since they apply equally well
+to that which exists and to that which does not. 
+
+Similarly 'he was healthy', 'he will be healthy', are not verbs, but
+tenses of a verb; the difference lies in the fact that the verb indicates
+present time, while the tenses of the verb indicate those times which
+lie outside the present. 
+
+Verbs in and by themselves are substantival and have significance,
+for he who uses such expressions arrests the hearer's mind, and fixes
+his attention; but they do not, as they stand, express any judgement,
+either positive or negative. For neither are 'to be' and 'not to be'
+the participle 'being' significant of any fact, unless something is
+added; for they do not themselves indicate anything, but imply a copulation,
+of which we cannot form a conception apart from the things coupled.
+
+Part 4
+
+A sentence is a significant portion of speech, some parts of which
+have an independent meaning, that is to say, as an utterance, though
+not as the expression of any positive judgement. Let me explain. The
+word 'human' has meaning, but does not constitute a proposition, either
+positive or negative. It is only when other words are added that the
+whole will form an affirmation or denial. But if we separate one syllable
+of the word 'human' from the other, it has no meaning; similarly in
+the word 'mouse', the part 'ouse' has no meaning in itself, but is
+merely a sound. In composite words, indeed, the parts contribute to
+the meaning of the whole; yet, as has been pointed out, they have
+not an independent meaning. 
+
+Every sentence has meaning, not as being the natural means by which
+a physical faculty is realized, but, as we have said, by convention.
+Yet every sentence is not a proposition; only such are propositions
+as have in them either truth or falsity. Thus a prayer is a sentence,
+but is neither true nor false. 
+
+Let us therefore dismiss all other types of sentence but the proposition,
+for this last concerns our present inquiry, whereas the investigation
+of the others belongs rather to the study of rhetoric or of poetry.
+
+Part 5
+
+The first class of simple propositions is the simple affirmation,
+the next, the simple denial; all others are only one by conjunction.
+
+Every proposition must contain a verb or the tense of a verb. The
+phrase which defines the species 'man', if no verb in present, past,
+or future time be added, is not a proposition. It may be asked how
+the expression 'a footed animal with two feet' can be called single;
+for it is not the circumstance that the words follow in unbroken succession
+that effects the unity. This inquiry, however, finds its place in
+an investigation foreign to that before us. 
+
+We call those propositions single which indicate a single fact, or
+the conjunction of the parts of which results in unity: those propositions,
+on the other hand, are separate and many in number, which indicate
+many facts, or whose parts have no conjunction. 
+
+Let us, moreover, consent to call a noun or a verb an expression only,
+and not a proposition, since it is not possible for a man to speak
+in this way when he is expressing something, in such a way as to make
+a statement, whether his utterance is an answer to a question or an
+act of his own initiation. 
+
+To return: of propositions one kind is simple, i.e. that which asserts
+or denies something of something, the other composite, i.e. that which
+is compounded of simple propositions. A simple proposition is a statement,
+with meaning, as to the presence of something in a subject or its
+absence, in the present, past, or future, according to the divisions
+of time. 
+
+Part 6
+
+An affirmation is a positive assertion of something about something,
+a denial a negative assertion. 
+
+Now it is possible both to affirm and to deny the presence of something
+which is present or of something which is not, and since these same
+affirmations and denials are possible with reference to those times
+which lie outside the present, it would be possible to contradict
+any affirmation or denial. Thus it is plain that every affirmation
+has an opposite denial, and similarly every denial an opposite affirmation.
+
+We will call such a pair of propositions a pair of contradictories.
+Those positive and negative propositions are said to be contradictory
+which have the same subject and predicate. The identity of subject
+and of predicate must not be 'equivocal'. Indeed there are definitive
+qualifications besides this, which we make to meet the casuistries
+of sophists. 
+
+Part 7
+
+Some things are universal, others individual. By the term 'universal'
+I mean that which is of such a nature as to be predicated of many
+subjects, by 'individual' that which is not thus predicated. Thus
+'man' is a universal, 'Callias' an individual. 
+
+Our propositions necessarily sometimes concern a universal subject,
+sometimes an individual. 
+
+If, then, a man states a positive and a negative proposition of universal
+character with regard to a universal, these two propositions are 'contrary'.
+By the expression 'a proposition of universal character with regard
+to a universal', such propositions as 'every man is white', 'no man
+is white' are meant. When, on the other hand, the positive and negative
+propositions, though they have regard to a universal, are yet not
+of universal character, they will not be contrary, albeit the meaning
+intended is sometimes contrary. As instances of propositions made
+with regard to a universal, but not of universal character, we may
+take the 'propositions 'man is white', 'man is not white'. 'Man' is
+a universal, but the proposition is not made as of universal character;
+for the word 'every' does not make the subject a universal, but rather
+gives the proposition a universal character. If, however, both predicate
+and subject are distributed, the proposition thus constituted is contrary
+to truth; no affirmation will, under such circumstances, be true.
+The proposition 'every man is every animal' is an example of this
+type. 
+
+An affirmation is opposed to a denial in the sense which I denote
+by the term 'contradictory', when, while the subject remains the same,
+the affirmation is of universal character and the denial is not. The
+affirmation 'every man is white' is the contradictory of the denial
+'not every man is white', or again, the proposition 'no man is white'
+is the contradictory of the proposition 'some men are white'. But
+propositions are opposed as contraries when both the affirmation and
+the denial are universal, as in the sentences 'every man is white',
+'no man is white', 'every man is just', 'no man is just'.
+
+We see that in a pair of this sort both propositions cannot be true,
+but the contradictories of a pair of contraries can sometimes both
+be true with reference to the same subject; for instance 'not every
+man is white' and some men are white' are both true. Of such corresponding
+positive and negative propositions as refer to universals and have
+a universal character, one must be true and the other false. This
+is the case also when the reference is to individuals, as in the propositions
+'Socrates is white', 'Socrates is not white'. 
+
+When, on the other hand, the reference is to universals, but the propositions
+are not universal, it is not always the case that one is true and
+the other false, for it is possible to state truly that man is white
+and that man is not white and that man is beautiful and that man is
+not beautiful; for if a man is deformed he is the reverse of beautiful,
+also if he is progressing towards beauty he is not yet beautiful.
+
+This statement might seem at first sight to carry with it a contradiction,
+owing to the fact that the proposition 'man is not white' appears
+to be equivalent to the proposition 'no man is white'. This, however,
+is not the case, nor are they necessarily at the same time true or
+false. 
+
+It is evident also that the denial corresponding to a single affirmation
+is itself single; for the denial must deny just that which the affirmation
+affirms concerning the same subject, and must correspond with the
+affirmation both in the universal or particular character of the subject
+and in the distributed or undistributed sense in which it is understood.
+
+For instance, the affirmation 'Socrates is white' has its proper denial
+in the proposition 'Socrates is not white'. If anything else be negatively
+predicated of the subject or if anything else be the subject though
+the predicate remain the same, the denial will not be the denial proper
+to that affirmation, but on that is distinct. 
+
+The denial proper to the affirmation 'every man is white' is 'not
+every man is white'; that proper to the affirmation 'some men are
+white' is 'no man is white', while that proper to the affirmation
+'man is white' is 'man is not white'. 
+
+We have shown further that a single denial is contradictorily opposite
+to a single affirmation and we have explained which these are; we
+have also stated that contrary are distinct from contradictory propositions
+and which the contrary are; also that with regard to a pair of opposite
+propositions it is not always the case that one is true and the other
+false. We have pointed out, moreover, what the reason of this is and
+under what circumstances the truth of the one involves the falsity
+of the other. 
+
+Part 8
+
+An affirmation or denial is single, if it indicates some one fact
+about some one subject; it matters not whether the subject is universal
+and whether the statement has a universal character, or whether this
+is not so. Such single propositions are: 'every man is white', 'not
+every man is white';'man is white','man is not white'; 'no man is
+white', 'some men are white'; provided the word 'white' has one meaning.
+If, on the other hand, one word has two meanings which do not combine
+to form one, the affirmation is not single. For instance, if a man
+should establish the symbol 'garment' as significant both of a horse
+and of a man, the proposition 'garment is white' would not be a single
+affirmation, nor its opposite a single denial. For it is equivalent
+to the proposition 'horse and man are white', which, again, is equivalent
+to the two propositions 'horse is white', 'man is white'. If, then,
+these two propositions have more than a single significance, and do
+not form a single proposition, it is plain that the first proposition
+either has more than one significance or else has none; for a particular
+man is not a horse. 
+
+This, then, is another instance of those propositions of which both
+the positive and the negative forms may be true or false simultaneously.
+
+Part 9
+
+In the case of that which is or which has taken place, propositions,
+whether positive or negative, must be true or false. Again, in the
+case of a pair of contradictories, either when the subject is universal
+and the propositions are of a universal character, or when it is individual,
+as has been said,' one of the two must be true and the other false;
+whereas when the subject is universal, but the propositions are not
+of a universal character, there is no such necessity. We have discussed
+this type also in a previous chapter. 
+
+When the subject, however, is individual, and that which is predicated
+of it relates to the future, the case is altered. For if all propositions
+whether positive or negative are either true or false, then any given
+predicate must either belong to the subject or not, so that if one
+man affirms that an event of a given character will take place and
+another denies it, it is plain that the statement of the one will
+correspond with reality and that of the other will not. For the predicate
+cannot both belong and not belong to the subject at one and the same
+time with regard to the future. 
+
+Thus, if it is true to say that a thing is white, it must necessarily
+be white; if the reverse proposition is true, it will of necessity
+not be white. Again, if it is white, the proposition stating that
+it is white was true; if it is not white, the proposition to the opposite
+effect was true. And if it is not white, the man who states that it
+is making a false statement; and if the man who states that it is
+white is making a false statement, it follows that it is not white.
+It may therefore be argued that it is necessary that affirmations
+or denials must be either true or false. 
+
+Now if this be so, nothing is or takes place fortuitously, either
+in the present or in the future, and there are no real alternatives;
+everything takes place of necessity and is fixed. For either he that
+affirms that it will take place or he that denies this is in correspondence
+with fact, whereas if things did not take place of necessity, an event
+might just as easily not happen as happen; for the meaning of the
+word 'fortuitous' with regard to present or future events is that
+reality is so constituted that it may issue in either of two opposite
+directions. Again, if a thing is white now, it was true before to
+say that it would be white, so that of anything that has taken place
+it was always true to say 'it is' or 'it will be'. But if it was always
+true to say that a thing is or will be, it is not possible that it
+should not be or not be about to be, and when a thing cannot not come
+to be, it is impossible that it should not come to be, and when it
+is impossible that it should not come to be, it must come to be. All,
+then, that is about to be must of necessity take place. It results
+from this that nothing is uncertain or fortuitous, for if it were
+fortuitous it would not be necessary. 
+
+Again, to say that neither the affirmation nor the denial is true,
+maintaining, let us say, that an event neither will take place nor
+will not take place, is to take up a position impossible to defend.
+In the first place, though facts should prove the one proposition
+false, the opposite would still be untrue. Secondly, if it was true
+to say that a thing was both white and large, both these qualities
+must necessarily belong to it; and if they will belong to it the next
+day, they must necessarily belong to it the next day. But if an event
+is neither to take place nor not to take place the next day, the element
+of chance will be eliminated. For example, it would be necessary that
+a sea-fight should neither take place nor fail to take place on the
+next day. 
+
+These awkward results and others of the same kind follow, if it is
+an irrefragable law that of every pair of contradictory propositions,
+whether they have regard to universals and are stated as universally
+applicable, or whether they have regard to individuals, one must be
+true and the other false, and that there are no real alternatives,
+but that all that is or takes place is the outcome of necessity. There
+would be no need to deliberate or to take trouble, on the supposition
+that if we should adopt a certain course, a certain result would follow,
+while, if we did not, the result would not follow. For a man may predict
+an event ten thousand years beforehand, and another may predict the
+reverse; that which was truly predicted at the moment in the past
+will of necessity take place in the fullness of time. 
+
+Further, it makes no difference whether people have or have not actually
+made the contradictory statements. For it is manifest that the circumstances
+are not influenced by the fact of an affirmation or denial on the
+part of anyone. For events will not take place or fail to take place
+because it was stated that they would or would not take place, nor
+is this any more the case if the prediction dates back ten thousand
+years or any other space of time. Wherefore, if through all time the
+nature of things was so constituted that a prediction about an event
+was true, then through all time it was necessary that that should
+find fulfillment; and with regard to all events, circumstances have
+always been such that their occurrence is a matter of necessity. For
+that of which someone has said truly that it will be, cannot fail
+to take place; and of that which takes place, it was always true to
+say that it would be. 
+
+Yet this view leads to an impossible conclusion; for we see that both
+deliberation and action are causative with regard to the future, and
+that, to speak more generally, in those things which are not continuously
+actual there is potentiality in either direction. Such things may
+either be or not be; events also therefore may either take place or
+not take place. There are many obvious instances of this. It is possible
+that this coat may be cut in half, and yet it may not be cut in half,
+but wear out first. In the same way, it is possible that it should
+not be cut in half; unless this were so, it would not be possible
+that it should wear out first. So it is therefore with all other events
+which possess this kind of potentiality. It is therefore plain that
+it is not of necessity that everything is or takes place; but in some
+instances there are real alternatives, in which case the affirmation
+is no more true and no more false than the denial; while some exhibit
+a predisposition and general tendency in one direction or the other,
+and yet can issue in the opposite direction by exception.
+
+Now that which is must needs be when it is, and that which is not
+must needs not be when it is not. Yet it cannot be said without qualification
+that all existence and non-existence is the outcome of necessity.
+For there is a difference between saying that that which is, when
+it is, must needs be, and simply saying that all that is must needs
+be, and similarly in the case of that which is not. In the case, also,
+of two contradictory propositions this holds good. Everything must
+either be or not be, whether in the present or in the future, but
+it is not always possible to distinguish and state determinately which
+of these alternatives must necessarily come about. 
+
+Let me illustrate. A sea-fight must either take place to-morrow or
+not, but it is not necessary that it should take place to-morrow,
+neither is it necessary that it should not take place, yet it is necessary
+that it either should or should not take place to-morrow. Since propositions
+correspond with facts, it is evident that when in future events there
+is a real alternative, and a potentiality in contrary directions,
+the corresponding affirmation and denial have the same character.
+
+This is the case with regard to that which is not always existent
+or not always nonexistent. One of the two propositions in such instances
+must be true and the other false, but we cannot say determinately
+that this or that is false, but must leave the alternative undecided.
+One may indeed be more likely to be true than the other, but it cannot
+be either actually true or actually false. It is therefore plain that
+it is not necessary that of an affirmation and a denial one should
+be true and the other false. For in the case of that which exists
+potentially, but not actually, the rule which applies to that which
+exists actually does not hold good. The case is rather as we have
+indicated. 
+
+Part 10
+
+An affirmation is the statement of a fact with regard to a subject,
+and this subject is either a noun or that which has no name; the subject
+and predicate in an affirmation must each denote a single thing. I
+have already explained' what is meant by a noun and by that which
+has no name; for I stated that the expression 'not-man' was not a
+noun, in the proper sense of the word, but an indefinite noun, denoting
+as it does in a certain sense a single thing. Similarly the expression
+'does not enjoy health' is not a verb proper, but an indefinite verb.
+Every affirmation, then, and every denial, will consist of a noun
+and a verb, either definite or indefinite. 
+
+There can be no affirmation or denial without a verb; for the expressions
+'is', 'will be', 'was', 'is coming to be', and the like are verbs
+according to our definition, since besides their specific meaning
+they convey the notion of time. Thus the primary affirmation and denial
+are 'as follows: 'man is', 'man is not'. Next to these, there are
+the propositions: 'not-man is', 'not-man is not'. Again we have the
+propositions: 'every man is, 'every man is not', 'all that is not-man
+is', 'all that is not-man is not'. The same classification holds good
+with regard to such periods of time as lie outside the present.
+
+When the verb 'is' is used as a third element in the sentence, there
+can be positive and negative propositions of two sorts. Thus in the
+sentence 'man is just' the verb 'is' is used as a third element, call
+it verb or noun, which you will. Four propositions, therefore, instead
+of two can be formed with these materials. Two of the four, as regards
+their affirmation and denial, correspond in their logical sequence
+with the propositions which deal with a condition of privation; the
+other two do not correspond with these. 
+
+I mean that the verb 'is' is added either to the term 'just' or to
+the term 'not-just', and two negative propositions are formed in the
+same way. Thus we have the four propositions. Reference to the subjoined
+table will make matters clear: 
+
+A. Affirmation    B. Denial Man is just    Man is not just \  / X
+/  \ D. Denial       C. Affirmation Man is not not-just   Man is not-just
+Here 'is' and 'is not' are added either to 'just' or to 'not-just'.
+This then is the proper scheme for these propositions, as has been
+said in the Analytics. The same rule holds good, if the subject is
+distributed. Thus we have the table: 
+
+A'. Affirmation        B'. Denial Every man is just      Not every
+man is just \  / X D'. Denial     /  \   C'. Affirmation
+
+Not every man is not-just    Every man is not-just Yet here it is
+not possible, in the same way as in the former case, that the propositions
+joined in the table by a diagonal line should both be true; though
+under certain circumstances this is the case. 
+
+We have thus set out two pairs of opposite propositions; there are
+moreover two other pairs, if a term be conjoined with 'not-man', the
+latter forming a kind of subject. Thus: 
+
+A."              B." Not-man is just        Not-man is not just \
+/ -                X 
+
+D."       /  \     C." Not-man is not not-just    Not-man is not-just
+
+This is an exhaustive enumeration of all the pairs of opposite propositions
+that can possibly be framed. This last group should remain distinct
+from those which preceded it, since it employs as its subject the
+expression 'not-man'. 
+
+When the verb 'is' does not fit the structure of the sentence (for
+instance, when the verbs 'walks', 'enjoys health' are used), that
+scheme applies, which applied when the word 'is' was added.
+
+Thus we have the propositions: 'every man enjoys health', 'every man
+does-not-enjoy-health', 'all that is not-man enjoys health', 'all
+that is not-man does-not-enjoy-health'. We must not in these propositions
+use the expression 'not every man'. The negative must be attached
+to the word 'man', for the word 'every' does not give to the subject
+a universal significance, but implies that, as a subject, it is distributed.
+This is plain from the following pairs: 'man enjoys health', 'man
+does not enjoy health'; 'not-man enjoys health', 'not man does not
+enjoy health'. These propositions differ from the former in being
+indefinite and not universal in character. Thus the adjectives 'every'
+and no additional significance except that the subject, whether in
+a positive or in a negative sentence, is distributed. The rest of
+the sentence, therefore, will in each case be the same. 
+
+Since the contrary of the proposition 'every animal is just' is 'no
+animal is just', it is plain that these two propositions will never
+both be true at the same time or with reference to the same subject.
+Sometimes, however, the contradictories of these contraries will both
+be true, as in the instance before us: the propositions 'not every
+animal is just' and 'some animals are just' are both true.
+
+Further, the proposition 'no man is just' follows from the proposition
+'every man is not just' and the proposition 'not every man is not
+just', which is the opposite of 'every man is not-just', follows from
+the proposition 'some men are just'; for if this be true, there must
+be some just men. 
+
+It is evident, also, that when the subject is individual, if a question
+is asked and the negative answer is the true one, a certain positive
+proposition is also true. Thus, if the question were asked Socrates
+wise?' and the negative answer were the true one, the positive inference
+'Then Socrates is unwise' is correct. But no such inference is correct
+in the case of universals, but rather a negative proposition. For
+instance, if to the question 'Is every man wise?' the answer is 'no',
+the inference 'Then every man is unwise' is false. But under these
+circumstances the inference 'Not every man is wise' is correct. This
+last is the contradictory, the former the contrary. Negative expressions,
+which consist of an indefinite noun or predicate, such as 'not-man'
+or 'not-just', may seem to be denials containing neither noun nor
+verb in the proper sense of the words. But they are not. For a denial
+must always be either true or false, and he that uses the expression
+'not man', if nothing more be added, is not nearer but rather further
+from making a true or a false statement than he who uses the expression
+'man'. 
+
+The propositions 'everything that is not man is just', and the contradictory
+of this, are not equivalent to any of the other propositions; on the
+other hand, the proposition 'everything that is not man is not just'
+is equivalent to the proposition 'nothing that is not man is just'.
+
+The conversion of the position of subject and predicate in a sentence
+involves no difference in its meaning. Thus we say 'man is white'
+and 'white is man'. If these were not equivalent, there would be more
+than one contradictory to the same proposition, whereas it has been
+demonstrated' that each proposition has one proper contradictory and
+one only. For of the proposition 'man is white' the appropriate contradictory
+is 'man is not white', and of the proposition 'white is man', if its
+meaning be different, the contradictory will either be 'white is not
+not-man' or 'white is not man'. Now the former of these is the contradictory
+of the proposition 'white is not-man', and the latter of these is
+the contradictory of the proposition 'man is white'; thus there will
+be two contradictories to one proposition. 
+
+It is evident, therefore, that the inversion of the relative position
+of subject and predicate does not affect the sense of affirmations
+and denials. 
+
+----------------------------------------------------------------------
+
+SECTION 2
+
+Part 11 
+
+There is no unity about an affirmation or denial which, either positively
+or negatively, predicates one thing of many subjects, or many things
+of the same subject, unless that which is indicated by the many is
+really some one thing. do not apply this word 'one' to those things
+which, though they have a single recognized name, yet do not combine
+to form a unity. Thus, man may be an animal, and biped, and domesticated,
+but these three predicates combine to form a unity. On the other hand,
+the predicates 'white', 'man', and 'walking' do not thus combine.
+Neither, therefore, if these three form the subject of an affirmation,
+nor if they form its predicate, is there any unity about that affirmation.
+In both cases the unity is linguistic, but not real. 
+
+If therefore the dialectical question is a request for an answer,
+i.e. either for the admission of a premiss or for the admission of
+one of two contradictories-and the premiss is itself always one of
+two contradictories-the answer to such a question as contains the
+above predicates cannot be a single proposition. For as I have explained
+in the Topics, question is not a single one, even if the answer asked
+for is true. 
+
+At the same time it is plain that a question of the form 'what is
+it?' is not a dialectical question, for a dialectical questioner must
+by the form of his question give his opponent the chance of announcing
+one of two alternatives, whichever he wishes. He must therefore put
+the question into a more definite form, and inquire, e.g.. whether
+man has such and such a characteristic or not. 
+
+Some combinations of predicates are such that the separate predicates
+unite to form a single predicate. Let us consider under what conditions
+this is and is not possible. We may either state in two separate propositions
+that man is an animal and that man is a biped, or we may combine the
+two, and state that man is an animal with two feet. Similarly we may
+use 'man' and 'white' as separate predicates, or unite them into one.
+Yet if a man is a shoemaker and is also good, we cannot construct
+a composite proposition and say that he is a good shoemaker. For if,
+whenever two separate predicates truly belong to a subject, it follows
+that the predicate resulting from their combination also truly belongs
+to the subject, many absurd results ensue. For instance, a man is
+man and white. Therefore, if predicates may always be combined, he
+is a white man. Again, if the predicate 'white' belongs to him, then
+the combination of that predicate with the former composite predicate
+will be permissible. Thus it will be right to say that he is a white
+man so on indefinitely. Or, again, we may combine the predicates 'musical',
+'white', and 'walking', and these may be combined many times. Similarly
+we may say that Socrates is Socrates and a man, and that therefore
+he is the man Socrates, or that Socrates is a man and a biped, and
+that therefore he is a two-footed man. Thus it is manifest that if
+man states unconditionally that predicates can always be combined,
+many absurd consequences ensue. 
+
+We will now explain what ought to be laid down. 
+Those predicates, and terms forming the subject of predication, which
+are accidental either to the same subject or to one another, do not
+combine to form a unity. Take the proposition 'man is white of complexion
+and musical'. Whiteness and being musical do not coalesce to form
+a unity, for they belong only accidentally to the same subject. Nor
+yet, if it were true to say that that which is white is musical, would
+the terms 'musical' and 'white' form a unity, for it is only incidentally
+that that which is musical is white; the combination of the two will,
+therefore, not form a unity. 
+
+Thus, again, whereas, if a man is both good and a shoemaker, we cannot
+combine the two propositions and say simply that he is a good shoemaker,
+we are, at the same time, able to combine the predicates 'animal'
+and 'biped' and say that a man is an animal with two feet, for these
+predicates are not accidental. 
+
+Those predicates, again, cannot form a unity, of which the one is
+implicit in the other: thus we cannot combine the predicate 'white'
+again and again with that which already contains the notion 'white',
+nor is it right to call a man an animal-man or a two-footed man; for
+the notions 'animal' and 'biped' are implicit in the word 'man'. On
+the other hand, it is possible to predicate a term simply of any one
+instance, and to say that some one particular man is a man or that
+some one white man is a white man. 
+
+Yet this is not always possible: indeed, when in the adjunct there
+is some opposite which involves a contradiction, the predication of
+the simple term is impossible. Thus it is not right to call a dead
+man a man. When, however, this is not the case, it is not impossible.
+
+Yet the facts of the case might rather be stated thus: when some such
+opposite elements are present, resolution is never possible, but when
+they are not present, resolution is nevertheless not always possible.
+Take the proposition 'Homer is so-and-so', say 'a poet'; does it follow
+that Homer is, or does it not? The verb 'is' is here used of Homer
+only incidentally, the proposition being that Homer is a poet, not
+that he is, in the independent sense of the word. 
+
+Thus, in the case of those predications which have within them no
+contradiction when the nouns are expanded into definitions, and wherein
+the predicates belong to the subject in their own proper sense and
+not in any indirect way, the individual may be the subject of the
+simple propositions as well as of the composite. But in the case of
+that which is not, it is not true to say that because it is the object
+of opinion, it is; for the opinion held about it is that it is not,
+not that it is. 
+
+Part 12
+
+As these distinctions have been made, we must consider the mutual
+relation of those affirmations and denials which assert or deny possibility
+or contingency, impossibility or necessity: for the subject is not
+without difficulty. 
+
+We admit that of composite expressions those are contradictory each
+to each which have the verb 'to be' its positive and negative form
+respectively. Thus the contradictory of the proposition 'man is' is
+'man is not', not 'not-man is', and the contradictory of 'man is white'
+is 'man is not white', not 'man is not-white'. For otherwise, since
+either the positive or the negative proposition is true of any subject,
+it will turn out true to say that a piece of wood is a man that is
+not white. 
+
+Now if this is the case, in those propositions which do not contain
+the verb 'to be' the verb which takes its place will exercise the
+same function. Thus the contradictory of 'man walks' is 'man does
+not walk', not 'not-man walks'; for to say 'man walks' merely equivalent
+to saying 'man is walking'. 
+
+If then this rule is universal, the contradictory of 'it may be' is
+may not be', not 'it cannot be'. 
+
+Now it appears that the same thing both may and may not be; for instance,
+everything that may be cut or may walk may also escape cutting and
+refrain from walking; and the reason is that those things that have
+potentiality in this sense are not always actual. In such cases, both
+the positive and the negative propositions will be true; for that
+which is capable of walking or of being seen has also a potentiality
+in the opposite direction. 
+
+But since it is impossible that contradictory propositions should
+both be true of the same subject, it follows that' it may not be'
+is not the contradictory of 'it may be'. For it is a logical consequence
+of what we have said, either that the same predicate can be both applicable
+and inapplicable to one and the same subject at the same time, or
+that it is not by the addition of the verbs 'be' and 'not be', respectively,
+that positive and negative propositions are formed. If the former
+of these alternatives must be rejected, we must choose the latter.
+
+The contradictory, then, of 'it may be' is 'it cannot be'. The same
+rule applies to the proposition 'it is contingent that it should be';
+the contradictory of this is 'it is not contingent that it should
+be'. The similar propositions, such as 'it is necessary' and 'it is
+impossible', may be dealt with in the same manner. For it comes about
+that just as in the former instances the verbs 'is' and 'is not' were
+added to the subject-matter of the sentence 'white' and 'man', so
+here 'that it should be' and 'that it should not be' are the subject-matter
+and 'is possible', 'is contingent', are added. These indicate that
+a certain thing is or is not possible, just as in the former instances
+'is' and 'is not' indicated that certain things were or were not the
+case. 
+
+The contradictory, then, of 'it may not be' is not 'it cannot be',
+but 'it cannot not be', and the contradictory of 'it may be' is not
+'it may not be', but cannot be'. Thus the propositions 'it may be'
+and 'it may not be' appear each to imply the other: for, since these
+two propositions are not contradictory, the same thing both may and
+may not be. But the propositions 'it may be' and 'it cannot be' can
+never be true of the same subject at the same time, for they are contradictory.
+Nor can the propositions 'it may not be' and 'it cannot not be' be
+at once true of the same subject. 
+
+The propositions which have to do with necessity are governed by the
+same principle. The contradictory of 'it is necessary that it should
+be', is not 'it is necessary that it should not be,' but 'it is not
+necessary that it should be', and the contradictory of 'it is necessary
+that it should not be' is 'it is not necessary that it should not
+be'. 
+
+Again, the contradictory of 'it is impossible that it should be' is
+not 'it is impossible that it should not be' but 'it is not impossible
+that it should be', and the contradictory of 'it is impossible that
+it should not be' is 'it is not impossible that it should not be'.
+
+To generalize, we must, as has been stated, define the clauses 'that
+it should be' and 'that it should not be' as the subject-matter of
+the propositions, and in making these terms into affirmations and
+denials we must combine them with 'that it should be' and 'that it
+should not be' respectively. 
+
+We must consider the following pairs as contradictory propositions:
+
+It may be.       It cannot be. 
+It is contingent.    It is not contingent. 
+It is impossible.    It is not impossible. 
+It is necessary.    It is not necessary. 
+It is true.       It is not true. 
+
+Part 13
+
+Logical sequences follow in due course when we have arranged the propositions
+thus. From the proposition 'it may be' it follows that it is contingent,
+and the relation is reciprocal. It follows also that it is not impossible
+and not necessary. 
+
+From the proposition 'it may not be' or 'it is contingent that it
+should not be' it follows that it is not necessary that it should
+not be and that it is not impossible that it should not be. From the
+proposition 'it cannot be' or 'it is not contingent' it follows that
+it is necessary that it should not be and that it is impossible that
+it should be. From the proposition 'it cannot not be' or 'it is not
+contingent that it should not be' it follows that it is necessary
+that it should be and that it is impossible that it should not be.
+
+Let us consider these statements by the help of a table:
+
+A.            B. 
+It may be.          It cannot be. 
+It is contingent.      It is not contingent. 
+It is not impossible     It is impossible that it 
+
+that it should be.      should be. 
+It is not necessary     It is necessary that it 
+
+that it should be.      should not be. 
+
+C.            D. 
+It may not be.        It cannot not be. 
+It is contingent that it   It is not contingent that 
+
+should not be.        it should not be. 
+It is not impossible     It is impossible thatit 
+
+that it should not be.    should not be. 
+It is not necessary that   It is necessary that it 
+
+it should not be.      should be. 
+
+Now the propositions 'it is impossible that it should be' and 'it
+is not impossible that it should be' are consequent upon the propositions
+'it may be', 'it is contingent', and 'it cannot be', 'it is not contingent',
+the contradictories upon the contradictories. But there is inversion.
+The negative of the proposition 'it is impossible' is consequent upon
+the proposition 'it may be' and the corresponding positive in the
+first case upon the negative in the second. For 'it is impossible'
+is a positive proposition and 'it is not impossible' is negative.
+
+We must investigate the relation subsisting between these propositions
+and those which predicate necessity. That there is a distinction is
+clear. In this case, contrary propositions follow respectively from
+contradictory propositions, and the contradictory propositions belong
+to separate sequences. For the proposition 'it is not necessary that
+it should be' is not the negative of 'it is necessary that it should
+not be', for both these propositions may be true of the same subject;
+for when it is necessary that a thing should not be, it is not necessary
+that it should be. The reason why the propositions predicating necessity
+do not follow in the same kind of sequence as the rest, lies in the
+fact that the proposition 'it is impossible' is equivalent, when used
+with a contrary subject, to the proposition 'it is necessary'. For
+when it is impossible that a thing should be, it is necessary, not
+that it should be, but that it should not be, and when it is impossible
+that a thing should not be, it is necessary that it should be. Thus,
+if the propositions predicating impossibility or non-impossibility
+follow without change of subject from those predicating possibility
+or non-possibility, those predicating necessity must follow with the
+contrary subject; for the propositions 'it is impossible' and 'it
+is necessary' are not equivalent, but, as has been said, inversely
+connected. 
+
+Yet perhaps it is impossible that the contradictory propositions predicating
+necessity should be thus arranged. For when it is necessary that a
+thing should be, it is possible that it should be. (For if not, the
+opposite follows, since one or the other must follow; so, if it is
+not possible, it is impossible, and it is thus impossible that a thing
+should be, which must necessarily be; which is absurd.) 
+
+Yet from the proposition 'it may be' it follows that it is not impossible,
+and from that it follows that it is not necessary; it comes about
+therefore that the thing which must necessarily be need not be; which
+is absurd. But again, the proposition 'it is necessary that it should
+be' does not follow from the proposition 'it may be', nor does the
+proposition 'it is necessary that it should not be'. For the proposition
+'it may be' implies a twofold possibility, while, if either of the
+two former propositions is true, the twofold possibility vanishes.
+For if a thing may be, it may also not be, but if it is necessary
+that it should be or that it should not be, one of the two alternatives
+will be excluded. It remains, therefore, that the proposition 'it
+is not necessary that it should not be' follows from the proposition
+'it may be'. For this is true also of that which must necessarily
+be. 
+
+Moreover the proposition 'it is not necessary that it should not be'
+is the contradictory of that which follows from the proposition 'it
+cannot be'; for 'it cannot be' is followed by 'it is impossible that
+it should be' and by 'it is necessary that it should not be', and
+the contradictory of this is the proposition 'it is not necessary
+that it should not be'. Thus in this case also contradictory propositions
+follow contradictory in the way indicated, and no logical impossibilities
+occur when they are thus arranged. 
+
+It may be questioned whether the proposition 'it may be' follows from
+the proposition 'it is necessary that it should be'. If not, the contradictory
+must follow, namely that it cannot be, or, if a man should maintain
+that this is not the contradictory, then the proposition 'it may not
+be'. 
+
+Now both of these are false of that which necessarily is. At the same
+time, it is thought that if a thing may be cut it may also not be
+cut, if a thing may be it may also not be, and thus it would follow
+that a thing which must necessarily be may possibly not be; which
+is false. It is evident, then, that it is not always the case that
+that which may be or may walk possesses also a potentiality in the
+other direction. There are exceptions. In the first place we must
+except those things which possess a potentiality not in accordance
+with a rational principle, as fire possesses the potentiality of giving
+out heat, that is, an irrational capacity. Those potentialities which
+involve a rational principle are potentialities of more than one result,
+that is, of contrary results; those that are irrational are not always
+thus constituted. As I have said, fire cannot both heat and not heat,
+neither has anything that is always actual any twofold potentiality.
+Yet some even of those potentialities which are irrational admit of
+opposite results. However, thus much has been said to emphasize the
+truth that it is not every potentiality which admits of opposite results,
+even where the word is used always in the same sense. 
+
+But in some cases the word is used equivocally. For the term 'possible'
+is ambiguous, being used in the one case with reference to facts,
+to that which is actualized, as when a man is said to find walking
+possible because he is actually walking, and generally when a capacity
+is predicated because it is actually realized; in the other case,
+with reference to a state in which realization is conditionally practicable,
+as when a man is said to find walking possible because under certain
+conditions he would walk. This last sort of potentiality belongs only
+to that which can be in motion, the former can exist also in the case
+of that which has not this power. Both of that which is walking and
+is actual, and of that which has the capacity though not necessarily
+realized, it is true to say that it is not impossible that it should
+walk (or, in the other case, that it should be), but while we cannot
+predicate this latter kind of potentiality of that which is necessary
+in the unqualified sense of the word, we can predicate the former.
+
+Our conclusion, then, is this: that since the universal is consequent
+upon the particular, that which is necessary is also possible, though
+not in every sense in which the word may be used. 
+
+We may perhaps state that necessity and its absence are the initial
+principles of existence and non-existence, and that all else must
+be regarded as posterior to these. 
+
+It is plain from what has been said that that which is of necessity
+is actual. Thus, if that which is eternal is prior, actuality also
+is prior to potentiality. Some things are actualities without potentiality,
+namely, the primary substances; a second class consists of those things
+which are actual but also potential, whose actuality is in nature
+prior to their potentiality, though posterior in time; a third class
+comprises those things which are never actualized, but are pure potentialities.
+
+Part 14
+
+The question arises whether an affirmation finds its contrary in a
+denial or in another affirmation; whether the proposition 'every man
+is just' finds its contrary in the proposition 'no man is just', or
+in the proposition 'every man is unjust'. Take the propositions 'Callias
+is just', 'Callias is not just', 'Callias is unjust'; we have to discover
+which of these form contraries. 
+
+Now if the spoken word corresponds with the judgement of the mind,
+and if, in thought, that judgement is the contrary of another, which
+pronounces a contrary fact, in the way, for instance, in which the
+judgement 'every man is just' pronounces a contrary to that pronounced
+by the judgement 'every man is unjust', the same must needs hold good
+with regard to spoken affirmations. 
+
+But if, in thought, it is not the judgement which pronounces a contrary
+fact that is the contrary of another, then one affirmation will not
+find its contrary in another, but rather in the corresponding denial.
+We must therefore consider which true judgement is the contrary of
+the false, that which forms the denial of the false judgement or that
+which affirms the contrary fact. 
+
+Let me illustrate. There is a true judgement concerning that which
+is good, that it is good; another, a false judgement, that it is not
+good; and a third, which is distinct, that it is bad. Which of these
+two is contrary to the true? And if they are one and the same, which
+mode of expression forms the contrary? 
+
+It is an error to suppose that judgements are to be defined as contrary
+in virtue of the fact that they have contrary subjects; for the judgement
+concerning a good thing, that it is good, and that concerning a bad
+thing, that it is bad, may be one and the same, and whether they are
+so or not, they both represent the truth. Yet the subjects here are
+contrary. But judgements are not contrary because they have contrary
+subjects, but because they are to the contrary effect. 
+
+Now if we take the judgement that that which is good is good, and
+another that it is not good, and if there are at the same time other
+attributes, which do not and cannot belong to the good, we must nevertheless
+refuse to treat as the contraries of the true judgement those which
+opine that some other attribute subsists which does not subsist, as
+also those that opine that some other attribute does not subsist which
+does subsist, for both these classes of judgement are of unlimited
+content. 
+
+Those judgements must rather be termed contrary to the true judgements,
+in which error is present. Now these judgements are those which are
+concerned with the starting points of generation, and generation is
+the passing from one extreme to its opposite; therefore error is a
+like transition. 
+
+Now that which is good is both good and not bad. The first quality
+is part of its essence, the second accidental; for it is by accident
+that it is not bad. But if that true judgement is most really true,
+which concerns the subject's intrinsic nature, then that false judgement
+likewise is most really false, which concerns its intrinsic nature.
+Now the judgement that that is good is not good is a false judgement
+concerning its intrinsic nature, the judgement that it is bad is one
+concerning that which is accidental. Thus the judgement which denies
+the true judgement is more really false than that which positively
+asserts the presence of the contrary quality. But it is the man who
+forms that judgement which is contrary to the true who is most thoroughly
+deceived, for contraries are among the things which differ most widely
+within the same class. If then of the two judgements one is contrary
+to the true judgement, but that which is contradictory is the more
+truly contrary, then the latter, it seems, is the real contrary. The
+judgement that that which is good is bad is composite. For presumably
+the man who forms that judgement must at the same time understand
+that that which is good is not good. 
+
+Further, the contradictory is either always the contrary or never;
+therefore, if it must necessarily be so in all other cases, our conclusion
+in the case just dealt with would seem to be correct. Now where terms
+have no contrary, that judgement is false, which forms the negative
+of the true; for instance, he who thinks a man is not a man forms
+a false judgement. If then in these cases the negative is the contrary,
+then the principle is universal in its application. 
+
+Again, the judgement that that which is not good is not good is parallel
+with the judgement that that which is good is good. Besides these
+there is the judgement that that which is good is not good, parallel
+with the judgement that that that is not good is good. Let us consider,
+therefore, what would form the contrary of the true judgement that
+that which is not good is not good. The judgement that it is bad would,
+of course, fail to meet the case, since two true judgements are never
+contrary and this judgement might be true at the same time as that
+with which it is connected. For since some things which are not good
+are bad, both judgements may be true. Nor is the judgement that it
+is not bad the contrary, for this too might be true, since both qualities
+might be predicated of the same subject. It remains, therefore, that
+of the judgement concerning that which is not good, that it is not
+good, the contrary judgement is that it is good; for this is false.
+In the same way, moreover, the judgement concerning that which is
+good, that it is not good, is the contrary of the judgement that it
+is good. 
+
+It is evident that it will make no difference if we universalize the
+positive judgement, for the universal negative judgement will form
+the contrary. For instance, the contrary of the judgement that everything
+that is good is good is that nothing that is good is good. For the
+judgement that that which is good is good, if the subject be understood
+in a universal sense, is equivalent to the judgement that whatever
+is good is good, and this is identical with the judgement that everything
+that is good is good. We may deal similarly with judgements concerning
+that which is not good. 
+
+If therefore this is the rule with judgements, and if spoken affirmations
+and denials are judgements expressed in words, it is plain that the
+universal denial is the contrary of the affirmation about the same
+subject. Thus the propositions 'everything good is good', 'every man
+is good', have for their contraries the propositions 'nothing good
+is good', 'no man is good'. The contradictory propositions, on the
+other hand, are 'not everything good is good', 'not every man is good'.
+
+It is evident, also, that neither true judgements nor true propositions
+can be contrary the one to the other. For whereas, when two propositions
+are true, a man may state both at the same time without inconsistency,
+contrary propositions are those which state contrary conditions, and
+contrary conditions cannot subsist at one and the same time in the
+same subject. 
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.

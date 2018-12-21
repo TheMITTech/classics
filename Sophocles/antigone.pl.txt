@@ -1,0 +1,1516 @@
+
+<BASE HREF="http://classics.mit.edu/Sophocles/antigone.pl.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Sophocles/antigone.pl.txt"><font color=blue>classics.mit.edu/Sophocles/antigone.pl.txt</font></a>.<br>
+<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Sophocles/antigone.pl.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
+<html><body><pre>
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Sophocles/antigone.html
+
+Antigone
+By Sophocles
+
+
+Translated by R. C. Jebb
+
+----------------------------------------------------------------------
+
+Dramatis Personae
+
+daughters of Oedipus:
+ANTIGONE
+ISMENE
+CREON, King of Thebes
+EURYDICE, his wife
+HAEMON, his son
+TEIRESIAS, the blind prophet
+GUARD, set to watch the corpse of Polyneices
+FIRST MESSENGER
+SECOND MESSENGER, from the house
+CHORUS OF THEBAN ELDERS
+
+----------------------------------------------------------------------
+
+The same as in Oedipus the King, an open space before the royal palace,
+once that of Oedipus, at Thebes. The backscene represents the front
+of the palace, with three doors, of which the central and largest
+is the principal entrance into the house. The time is at daybreak
+on the morning after the fall of the two brothers, Eteocles and Polyneices,
+and the flight of the defeated Argives. ANTIGONE calls ISMENE forth
+from the palace, in order to speak to her alone.
+
+----------------------------------------------------------------------
+
+ANTIGONE Ismene, sister, mine own dear sister, knowest thou what
+ill there is, of all bequeathed by Oedipus, that Zeus fulfils not
+for us twain while we live? Nothing painful is there, nothing fraught
+with ruin, no shame, no dishonour, that I have not seen in thy woes
+and mine. 
+
+And now what new edict is this of which they tell, that our Captain
+hath just published to all Thebes? Knowest thou aught? Hast thou heard?
+Or is it hidden from thee that our friends are threatened with the
+doom of our foes? 
+
+ISMENE No word of friends, Antigone, gladsome or painful, hath come
+to me, since we two sisters were bereft of brothers twain, killed
+in one day by twofold blow; and since in this last night the Argive
+host hath fled, know no more, whether my fortune be brighter, or more
+grievous. 
+
+ANTIGONE I knew it well, and therefore sought to bring thee beyond
+the gates of the court, that thou mightest hear alone. 
+
+ISMENE What is it? 'Tis plain that thou art brooding on some dark
+tidings. 
+
+ANTIGONE What, hath not Creon destined our brothers, the one to honoured
+burial, the other to unburied shame? Eteocles, they say, with due
+observance of right and custom, he hath laid in the earth, for his
+honour among the dead below. But the hapless corpse of Polyneices-as
+rumour saith, it hath been published to the town that none shall entomb
+him or mourn, but leave unwept, unsepulchred, a welcome store for
+the birds, as they espy him, to feast on at will. 
+
+Such, 'tis said, is the edict that the good Creon hath set forth for
+thee and for me,-yes, for me,-and is coming hither to proclaim it
+clearly to those who know it not; nor counts the matter light, but,
+whoso disobeys in aught, his doom is death by stoning before all the
+folk. Thou knowest it now; and thou wilt soon show whether thou art
+nobly bred, or the base daughter of a noble line. 
+
+ISMENE Poor sister,-and if things stand thus, what could I help to
+do or undo? 
+
+ANTIGONE Consider if thou wilt share the toil and the deed.
+
+ISMENE In what venture? What can be thy meaning? 
+
+ANTIGONE Wilt thou aid this hand to lift the dead? 
+
+ISMENE Thou wouldst bury him,-when 'tis forbidden to Thebes?
+
+ANTIGONE I will do my part,-and thine, if thou wilt not,-to a brother.
+False to him will I never be found. 
+
+ISMENE Ah, over-bold! when Creon hath forbidden? 
+
+ANTIGONE Nay, he hath no right to keep me from mine own.
+
+ISMENE Ah me! think, sister, how our father perished, amid hate and
+scorn, when sins bared by his own search had moved him to strike both
+eyes with self-blinding hand; then the mother wife, two names in one,
+with twisted noose did despite unto her life; and last, our two brothers
+in one day,-each shedding, hapless one, a kinsman's blood,-wrought
+out with mutual hands their common doom. And now we in turn-we two
+left all alone think how we shall perish, more miserably than all
+the rest, if, in defiance of the law, we brave a king's decree or
+his powers. Nay, we must remember, first, that we were born women,
+as who should not strive with men; next, that we are ruled of the
+stronger, so that we must obey in these things, and in things yet
+sorer. I, therefore, asking the Spirits Infernal to pardon, seeing
+that force is put on me herein, will hearken to our rulers. for 'tis
+witless to be over busy. 
+
+ANTIGONE I will not urge thee,-no nor, if thou yet shouldst have
+the mind, wouldst thou be welcome as a worker with me. Nay, be what
+thou wilt; but I will bury him: well for me to die in doing that.
+I shall rest, a loved one with him whom I have loved, sinless in my
+crime; for I owe a longer allegiance to the dead than to the living:
+in that world I shall abide for ever. But if thou wilt, be guilty
+of dishonouring laws which the gods have stablished in honour.
+
+ISMENE I do them no dishonour; but to defy the State,-I have no strength
+for that. 
+
+ANTIGONE Such be thy plea:-I, then, will go to heap the earth above
+the brother whom I love. 
+
+ISMENE Alas, unhappy one! How I fear for thee! 
+
+ANTIGONE Fear not for me: guide thine own fate aright. 
+
+ISMENE: At least, then, disclose this plan to none, but hide it closely,-and
+so, too, will I. 
+
+ANTIGONE Oh, denounce it! Thou wilt be far more hateful for thy silence,
+if thou proclaim not these things to all. 
+
+ISMENE Thou hast a hot heart for chilling deeds. 
+
+ANTIGONE I know that I please where I am most bound to please.
+
+ISMENE Aye, if thou canst; but thou wouldst what thou canst not.
+
+ANTIGONE Why, then, when my strength fails, I shall have done.
+
+ISMENE A hopeless quest should not be made at all. 
+
+ANTIGONE If thus thou speakest, thou wilt have hatred from me, and
+will justly be subject to the lasting hatred of the dead. But leave
+me, and the folly that is mine alone, to suffer this dread thing;
+for I shall not suffer aught so dreadful as an ignoble death.
+
+ISMENE Go, then, if thou must; and of this be sure,-that though thine
+errand is foolish, to thy dear ones thou art truly dear.  (Exit ANTIGONE
+on the spectators' left. ISMENE retires into the palace by one of
+the two side-doors. When they have departed, the CHORUS OF THEBAN
+ELDERS enters.)  
+
+CHORUS  (singing, strophe 1)
+
+Beam of the sun, fairest light that ever dawned on Thebe of the seven
+gates, thou hast shone forth at last, eye of golden day, arisen above
+Dirce's streams! The warrior of the white shield, who came from Argos
+in his panoply, hath been stirred by thee to headlong flight, in swifter
+career; 
+
+LEADER OF THE CHORUS (systema 1)
+
+who set forth against our land by reason of the vexed claims of Polyneices;
+and, like shrill-screaming eagle, he flew over into our land, in snow-white
+pinion sheathed, with an armed throng, and with plumage of helms.
+
+CHORUS (antistrophe 1)
+
+He paused above our dwellings; he ravened around our sevenfold portals
+with spears athirst for blood; but he went hence, or ever his jaws
+were glutted with our gore, or the Fire-god's pine-fed flame had seized
+our crown of towers. So fierce was the noise of battle raised behind
+him, a thing too hard for him to conquer, as he wrestled with his
+dragon foe. 
+
+LEADER (systema 2)
+
+For Zeus utterly abhors the boasts of a proud tongue; and when he
+beheld them coming on in a great stream, in the haughty pride of clanging
+gold, he smote with brandished fire one who was now hasting to shout
+victory at his goal upon our ramparts. 
+
+CHORUS (strophe 2)
+
+Swung down, he fell on the earth with a crash, torch in hand, he
+who so lately, in the frenzy of the mad onset, was raging against
+us with the blasts of his tempestuous hate. But those threats fared
+not as he hoped; and to other foes the mighty War-god dispensed their
+several dooms, dealing havoc around, a mighty helper at our need.
+
+LEADER (systema 3)
+
+For seven captains at seven gates, matched against seven, left the
+tribute of their panoplies to Zeus who turns the battle; save those
+two of cruel fate, who, born of one sire and one mother, set against
+each other their twain conquering spears, and are sharers in a common
+death. 
+
+CHORUS (antistrophe 2)
+
+But since Victory of glorious name hath come to us, with joy responsive
+to the joy of Thebe whose chariots are many, let us enjoy forgetfulness
+after the late wars, and visit all the temples of the gods with night-long
+dance and song; and may Bacchus be our leader, whose dancing shakes
+the land of Thebe. 
+
+LEADER (systema 4)
+
+But lo, the king of the land comes yonder, Creon, son of Menoeceus,
+our new ruler by the new fortunes that the gods have given; what counsel
+is he pondering, that he hath proposed this special conference of
+elders, summoned by his general mandate?  (Enter CREON, from the central
+doors of the palace, in the garb of king, with two attendants.)
+
+CREON Sirs, the vessel of our State, after being tossed on wild waves,
+hath once more been safely steadied by the gods: and ye, out of all
+the folk, have been called apart by my summons, because I knew, first
+of all, how true and constant was your reverence for the royal power
+of Laius; how, again, when Oedipus was ruler of our land, and when
+he had perished, your steadfast loyalty still upheld their children.
+Since, then, his sons have fallen in one day by a twofold doom,-each
+smitten by the other, each stained with a brother's blood,-I now possess
+the throne and all its powers, by nearness of kinship to the dead.
+
+No man can be fully known, in soul and spirit and mind, until he hath
+been seen versed in rule and law-giving. For if any, being supreme
+guide of the State, cleaves not to the best counsels, but, through
+some fear, keeps his lips locked, I hold, and have ever held, him
+most base; and if any makes a friend of more account than his fatherland,
+that man hath no place in my regard. For I-be Zeus my witness, who
+sees all things always-would not be silent if I saw ruin, instead
+of safety, coming to the citizens; nor would I ever deem the country's
+foe a friend to myself; remembering this, that our country is the
+ship that bears us safe, and that only while she prospers in our voyage
+can we make true friends. 
+
+Such are the rules by which I guard this city's greatness. And in
+accord with them is the edict which I have now published to the folk
+touching the sons of Oedipus;-that Eteocles, who hath fallen fighting
+for our city, in all renown of arms, shall be entombed, and crowned
+with every rite that follows the noblest dead to their rest. But for
+his brother, Polyneices,-who came back from exile, and sought to consume
+utterly with fire the city of his fathers and the shrines of his fathers'
+gods,-sought to taste of kindred blood, and to lead the remnant into
+slavery;-touching this man, it hath been proclaimed to our people
+that none shall grace him with sepulture or lament, but leave him
+unburied, a corpse for birds and dogs to eat, a ghastly sight of shame.
+
+Such the spirit of my dealing; and never, by deed of mine, shall the
+wicked stand in honour before the just; but whoso hath good will to
+Thebes, he shall be honoured of me, in his life and in his death.
+
+LEADER OF THE CHORUS Such is thy pleasure, Creon, son of Menoeceus,
+touching this city's foe, and its friend; and thou hast power, I ween,
+to take what order thou wilt, both for the dead, and for all us who
+live. 
+
+CREON See, then, that ye be guardians of the mandate. 
+
+LEADER Lay the burden of this task on some younger man.
+
+CREON Nay, watchers of the corpse have been found. 
+
+LEADER What, then, is this further charge that thou wouldst give?
+
+CREON That ye side not with the breakers of these commands.
+
+LEADER No man is so foolish that he is enamoured of death.
+
+CREON In sooth, that is the meed; yet lucre hath oft ruined men through
+their hopes.  (A GUARD enters from the spectators' left.)
+
+GUARD My liege, I will not say that I come breathless from speed,
+or that have plied a nimble foot; for often did my thoughts make me
+pause, and wheel round in my path, to return. My mind was holding
+large discourse with me; 'Fool, why goest thou to thy certain doom?'
+'Wretch, tarrying again? And if Creon hears this from another, must
+not thou smart for it?' So debating, I went on my way with lagging
+steps, and thus a short road was made long. At last, however, it carried
+the day that I should come hither-to thee; and, though my tale be
+nought, yet will I tell it; for I come with a good grip on one hope,-that
+I can suffer nothing but what is my fate. 
+
+CREON And what is it that disquiets thee thus? 
+
+GUARD I wish to tell thee first about myself-I did not do the deed-I
+did not see the doer-it were not right that I should come to any harm.
+
+CREON Thou hast a shrewd eye for thy mark; well dost thou fence thyself
+round against the blame; clearly thou hast some strange thing to tell.
+
+GUARD Aye, truly; dread news makes one pause long. 
+
+CREON Then tell it, wilt thou, and so get thee gone? 
+
+GUARD Well, this is it.-The corpse-some one hath just given it burial,
+and gone away,-after sprinkling thirsty dust on the flesh, with such
+other rites as piety enjoins. 
+
+CREON What sayest thou? What living man hath dared this deed?
+
+GUARD I know not; no stroke of pickaxe was seen there, no earth thrown
+up by mattock; the ground was hard and dry, unbroken, without track
+of wheels; the doer was one who had left no trace. And when the first
+day-watchman showed it to us, sore wonder fell on all. The dead man
+was veiled from us; not shut within a tomb, but lightly strewn with
+dust, as by the hand of one who shunned a curse. And no sign met the
+eye as though any beast of prey or any dog had come nigh to him, or
+torn him. 
+
+Then evil words flew fast and loud among us, guard accusing guard;
+und it would e'en have come to blows at last, nor was there any to
+hinder. Every man was the culprit, and no one was convicted, but all
+disclaimed knowledge of the deed. And we were ready to take red-hot
+iron in our hands;-to walk through fire;-to make oath by the gods
+that we had not done the deed,-that we were not privy to the planning
+or the doing. 
+
+At last, when all our searching was fruitless, one spake, who made
+us all bend our faces on the earth in fear; for we saw not how we
+could gainsay him, or escape mischance if we obeyed. His counsel was
+that this deed must be reported to thee, and not hidden. And this
+seemed best; and the lot doomed my hapless self to win this prize.
+So here I stand,-as unwelcome as unwilling, well I wot; for no man
+delights in the bearer of bad news. 
+
+LEADER O king, my thoughts have long been whispering, can this deed,
+perchance, be e'en the work of gods? 
+
+CREON Cease, ere thy words fill me utterly with wrath, lest thou
+be found at once an old man and foolish. For thou sayest what is not
+to be borne, in saying that the gods have care for this corpse. Was
+it for high reward of trusty service that they sought to hide his
+nakedness, who came to burn their pillared shrines and sacred treasures,
+to burn their land, and scatter its laws to the winds? Or dost thou
+behold the gods honouring the wicked? It cannot be. No! From the first
+there were certain in the town that muttered against me, chafing at
+this edict, wagging their heads in secret; and kept not their necks
+duly under the yoke, like men contented with my sway. 
+
+'Tis by them, well I know, that these have been beguiled and bribed
+to do this deed. Nothing so evil as money ever grew to be current
+among men. This lays cities low, this drives men from their homes,
+this trains and warps honest souls till they set themselves to works
+of shame; this still teaches folk to practise villainies, and to know
+every godless deed. 
+
+But all the men who wrought this thing for hire have made it sure
+that, soon or late, they shall pay the price. Now, as Zeus still hath
+my reverence, know this-I tell it thee on my oath:-If ye find not
+the very author of this burial, and produce him before mine eyes,
+death alone shall not be enough for you, till first, hung up alive,
+ye have revealed this outrage,-that henceforth ye may thieve with
+better knowledge whence lucre should be won, and learn that it is
+not well to love gain from every source. For thou wilt find that ill-gotten
+pelf brings more men to ruin than to weal. 
+
+GUARD May I speak? Or shall I just turn and go? 
+
+CREON Knowest thou not that even now thy voice offends?
+
+GUARD Is thy smart in the ears, or in the soul? 
+
+CREON And why wouldst thou define the seat of my pain? 
+
+GUARD The doer vexes thy mind, but I, thine ears. 
+
+CREON Ah, thou art a born babbler, 'tis well seen. 
+
+GUARD May be, but never the doer of this deed. 
+
+CREON Yea, and more,-the seller of thy life for silver.
+
+GUARD Alas! 'Tis sad, truly, that he who judges should misjudge.
+
+CREON Let thy fancy play with 'judgment' as it will;-but, if ye show
+me not the doers of these things, ye shall avow that dastardly gains
+work sorrows.  (CREON goes into the palace.)  
+
+GUARD Well, may he be found! so 'twere best. But, be he caught or
+be he not-fortune must settle that-truly thou wilt not see me here
+again. Saved, even now, beyond hope and thought, I owe the gods great
+thanks.  (The GUARD goes out on the spectators' left.)  
+
+CHORUS  (singing, strophe 1)
+
+Wonders are many, and none is more wonderful than man; the power
+that crosses the white sea, driven by the stormy south-wind, making
+a path under surges that threaten to engulf him; and Earth, the eldest
+of the gods, the immortal, the unwearied, doth he wear, turning the
+soil with the offspring of horses, as the ploughs go to and fro from
+year to year. 
+
+(antistrophe 1)
+
+And the light-hearted race of birds, and the tribes of savage beasts,
+and the sea-brood of the deep, he snares in the meshes of his woven
+toils, he leads captive, man excellent in wit. And he masters by his
+arts the beast whose lair is in the wilds, who roams the hills; he
+tames the horse of shaggy mane, he puts the yoke upon its neck, he
+tames the tireless mountain bull. 
+
+(strophe 2)
+
+And speech, and wind-swift thought, and all the moods that mould
+a state, hath he taught himself; and how to flee the arrows of the
+frost, when 'tis hard lodging under the clear sky, and the arrows
+of the rushing rain; yea, he hath resource for all; without resource
+he meets nothing that must come: only against Death shall he call
+for aid in vain; but from baffling maladies he hath devised escapes.
+
+(antistrophe 2)
+
+Cunning beyond fancy's dream is the fertile skill which brings him,
+now to evil, now to good. When he honours the laws of the land, and
+that justice which he hath sworn by the gods to uphold, proudly stands
+his city: no city hath he who, for his rashness, dwells with sin.
+Never may he share my hearth, never think my thoughts, who doth these
+things!  (Enter the GUARD on the spectators' left, leading in ANTIGONE.)
+
+LEADER OF THE CHORUS What portent from the gods is this?-my soul
+is amazed. I know her-how can I deny that yon maiden is Antigone?
+
+O hapless, and child of hapless sire,-Of Oedipus! What means this?
+Thou brought a prisoner?-thou, disloyal to the king's laws, and taken
+in folly? 
+
+GUARD Here she is, the doer of the deed:-caught this girl burying
+him:-but where is Creon?  (CREON enters hurriedly from the palace.)
+
+LEADER Lo, he comes forth again from the house, at our need.
+
+CREON What is it? What hath chanced, that makes my coming timely?
+
+GUARD O king, against nothing should men pledge their word; for the
+after-thought belies the first intent. I could have vowed that I should
+not soon be here again,-scared by thy threats, with which I had just
+been lashed: but,-since the joy that surprises and transcends our
+hopes is like in fulness to no other pleasure,-I have come, though
+'tis in breach of my sworn oath, bringing this maid; who was taken
+showing grace to the dead. This time there was no casting of lots;
+no, this luck hath fallen to me, and to none else. And now, sire,
+take her thyself, question her, examine her, as thou wilt; but I have
+a right to free and final quittance of this trouble. 
+
+CREON And thy prisoner here-how and whence hast thou taken her?
+
+GUARD She was burying the man; thou knowest all. 
+
+CREON Dost thou mean what thou sayest? Dost thou speak aright?
+
+GUARD I saw her burying the corpse that thou hadst forbidden to bury.
+Is that plain and clear? 
+
+CREON And how was she seen? how taken in the act? 
+
+GUARD It befell on this wise. When we had come to the place,-with
+those dread menaces of thine upon us,-we swept away all the dust that
+covered the corpse, and bared the dank body well; and then sat us
+down on the brow of the hill, to windward, heedful that the smell
+from him should not strike us; every man was wide awake, and kept
+his neighbour alert with torrents of threats, if anyone should be
+careless of this task. 
+
+So went it, until the sun's bright orb stood in mid heaven, and the
+heat began to burn: and then suddenly a whirlwind lifted from the
+earth storm of dust, a trouble in the sky the plain, marring all the
+leafage of its woods; and the wide air was choked therewith: we closed
+our eyes, and bore the plague from the gods. 
+
+And when, after a long while, this storm had passed, the maid was
+seen; and she cried aloud with the sharp cry of a bird in its bitterness,-even
+as when, within the empty nest, it sees the bed stripped of its nestlings.
+So she also, when she saw the corpse bare, lifted up a voice of wailing,
+and called down curses on the doers of that deed. And straightway
+she brought thirsty dust in her hands; and from a shapely ewer of
+bronze, held high, with thrice-poured drink-offering she crowned the
+dead. 
+
+We rushed forward when we saw it, and at once dosed upon our quarry,
+who was in no wise dismayed. Then we taxed her with her past and present
+doings; and she stood not on denial of aught,-at once to my joy and
+to my pain. To have escaped from ills one's self is a great joy; but
+'tis painful to bring friends to ill. Howbeit, all such things are
+of less account to me than mine own safety. 
+
+CREON Thou-thou whose face is bent to earth-dost thou avow, or disavow,
+this deed? 
+
+ANTIGONE I avow it; I make no denial. 
+
+CREON  (to GUARD) Thou canst betake thee whither thou wilt, free
+and clear of a grave charge.  (Exit GUARD, To ANTIGONE)  Now, tell
+me thou-not in many words, but briefly-knewest thou that an edict
+had forbidden this? 
+
+ANTIGONE I knew it: could I help it? It was public. 
+
+CREON And thou didst indeed dare to transgress that law?
+
+ANTIGONE Yes; for it was not Zeus that had published me that edict;
+not such are the laws set among men by the justice who dwells with
+the gods below; nor deemed I that thy decrees were of such force,
+that a mortal could override the unwritten and unfailing statutes
+of heaven. For their life is not of to-day or yesterday, but from
+all time, and no man knows when they were first put forth.
+
+Not through dread of any human pride could I answer to the gods for
+breaking these. Die I must,-I knew that well (how should I not?)-even
+without thy edicts. But if I am to die before my time, I count that
+a gain: for when any one lives, as I do, compassed about with evils,
+can such an one find aught but gain in death? 
+
+So for me to meet this doom is trifling grief; but if I had suffered
+my mother's son to lie in death an unburied corpse, that would have
+grieved me; for this, I am not grieved. And if my present deeds are
+foolish in thy sight, it may be that a foolish judge arraigns my folly.
+
+LEADER OF THE CHORUS The maid shows herself passionate child of passionate
+sire, and knows not how to bend before troubles. 
+
+CREON Yet I would have thee know that o'er-stubborn spirits are most
+often humbled; 'tis the stiffest iron, baked to hardness in the fire,
+that thou shalt oftenest see snapped and shivered; and I have known
+horses that show temper brought to order by a little curb; there is
+no room for pride when thou art thy neighbour's slave.-This girl was
+already versed in insolence when she transgressed the laws that had
+been set forth; and, that done, lo, a second insult,-to vaunt of this,
+and exult in her deed. 
+
+Now verily I am no man, she is the man, if this victory shall rest
+with her, and bring no penalty. No! be she sister's child, or nearer
+to me in blood than any that worships Zeus at the altar of our house,-she
+and her kinsfolk shall not avoid a doom most dire; for indeed I charge
+that other with a like share in the plotting of this burial.
+
+And summon her-for I saw her e'en now within,-raving, and not mistress
+of her wits. So oft, before the deed, the mind stands self-convicted
+in its treason, when folks are plotting mischief in the dark. But
+verily this, too, is hateful,-when one who hath been caught in wickednes
+then seeks to make the crime a glory. 
+
+ANTIGONE Wouldst thou do more than take and slay me? 
+
+CREON No more, indeed; having that, I have all. 
+
+ANTIGONE Why then dost thou delay? In thy discourse there is nought
+that pleases me,-never may there be!-and so my words must needs be
+unpleasing to thee. And yet, for glory-whence could I have won a nobler,
+than by giving burial to mine own brother? All here would own that
+they thought it well, were not their lips sealed by fear. But royalty,
+blest in so much besides, hath the power to do and say what it will.
+
+CREON Thou differest from all these Thebans in that view.
+
+ANTIGONE These also share it; but they curb their tongues for thee.
+
+CREON And art thou not ashamed to act apart from them? 
+
+ANTIGONE No; there is nothing shameful in piety to a brother.
+
+CREON Was it not a brother, too, that died in the opposite cause?
+
+ANTIGONE Brother by the same mother and the same sire. 
+
+CREON Why, then, dost thou render a grace that is impious in his
+sight? 
+
+ANTIGONE The dead man will not say that he so deems it.
+
+CREON Yea, if thou makest him but equal in honour with the wicked.
+
+ANTIGONE It was his brother, not his slave, that perished.
+
+CREON Wasting this land; while he fell as its champion.
+
+ANTIGONE Nevertheless, Hades desires these rites. 
+
+CREON But the good desires not a like portion with the evil.
+
+ANTIGONE Who knows but this seems blameless in the world below?
+
+CREON A foe is never a friend-not even in death. 
+
+ANTIGONE Tis not my nature to join in hating, but in loving.
+
+CREON Pass, then, to the world of the dead, and, it thou must needs
+love, love them. While I live, no woman shall rule me.  (Enter ISMENE
+from the house, led in by two attendants.)  
+
+CHORUS  (chanting) Lo, yonder Ismene comes forth, shedding such tears
+as fond sisters weep; a cloud upon her brow casts its shadow over
+her darkly-flushing face, and breaks in rain on her fair cheek.
+
+CREON And thou, who, lurking like a viper in my house, wast secretly
+draining my life-blood, while I knew not that I was nurturing two
+pests, to rise against my throne-come, tell me now, wilt thou also
+confess thy part in this burial, or wilt thou forswear all knowledge
+of it? 
+
+ISMENE I have done the deed,-if she allows my claim,-and share the
+burden of the charge. 
+
+ANTIGONE Nay, justice will not suffer thee to do that: thou didst
+not consent to the deed, nor did I give thee part in it.
+
+ISMENE But, now that ills beset thee, I am not ashamed to sail the
+sea of trouble at thy side. 
+
+ANTIGONE Whose was the deed, Hades and the dead are witnesses: a
+friend in words is not the friend that I love. 
+
+ISMENE Nay, sister, reject me not, but let me die with thee, and
+duly honour the dead. 
+
+ANTIGONE Share not thou my death, nor claim deeds to which thou hast
+not put thy hand: my death will suffice. 
+
+ISMENE And what life is dear to me, bereft of thee? 
+
+ANTIGONE Ask Creon; all thy care is for him. 
+
+ISMENE Why vex me thus, when it avails thee nought? 
+
+ANTIGONE Indeed, if I mock, 'tis with pain that I mock thee.
+
+ISMENE Tell me,-how can I serve thee, even now? 
+
+ANTIGONE Save thyself: I grudge not thy escape. 
+
+ISMENE Ah, woe is me! And shall I have no share in thy fate?
+
+ANTIGONE Thy choice was to live; mine, to die. 
+
+ISMENE At least thy choice was not made without my protest.
+
+ANTIGONE One world approved thy wisdom; another, mine. 
+
+ISMENE Howbeit, the offence is the same for both of us.
+
+ANTIGONE Be of good cheer; thou livest; but my life hath long been
+given to death, that so I might serve the dead. 
+
+CREON Lo, one of these maidens hath newly shown herself foolish,
+as the other hath been since her life began. 
+
+ISMENE Yea, O king, such reason as nature may have given abides not
+with the unfortunate, but goes astray. 
+
+CREON Thine did, when thou chosest vile deeds with the vile.
+
+ISMENE What life could I endure, without her presence? 
+
+CREON Nay, speak not of her 'presence'; she lives no more.
+
+ISMENE But wilt thou slay the betrothed of thine own son?
+
+CREON Nay, there are other fields for him to plough. 
+
+ISMENE But there can never be such love as bound him to her.
+
+CREON I like not an evil wife for my son. 
+
+ANTIGONE Haemon, beloved! How thy father wrongs thee! 
+
+CREON Enough, enough of thee and of thy marriage! 
+
+LEADER OF THE CHORUS Wilt thou indeed rob thy son of this maiden?
+
+CREON 'Tis Death that shall stay these bridals for me. 
+
+LEADER 'Tis determined, it seems, that she shall die. 
+
+CREON Determined, yes, for thee and for me.-  (To the two attendants)
+No more delay-servants, take them within! Henceforth they must be
+women, and not range at large; for verily even the bold seek to fly,
+when they see Death now closing on their life.  (Exeunt attendants,
+guarding ANTIGONE and ISMENE.-CREON remains.)  
+
+CHORUS  (singing, strophe 1)
+
+Blest are they whose days have not tasted of evil. For when a house
+hath once been shaken from heaven, there the curse fails nevermore,
+passing from life to life of the race; even as, when the surge is
+driven over the darkness of the deep by the fierce breath of Thracian
+sea-winds, it rolls up the black sand from the depths, and there is
+sullen roar from wind-vexed headlands that front the blows of the
+storm. 
+
+(antistrophe 1)
+
+I see that from olden time the sorrows in the house of the Labdacidae
+are heaped upon the sorrows of the dead; and generation is not freed
+by generation, but some god strikes them down, and the race hath no
+deliverance. 
+
+For now that hope of which the light had been spread above the last
+root of the house of Oedipus-that hope, in turn, is brought low--by
+the blood-stained dust due to the gods infernal, and by folly in speech,
+and frenzy at the heart. 
+
+(strophe 2)
+
+Thy power, O Zeus, what human trespass can limit? That power which
+neither Sleep, the all-ensnaring, nor the untiring months of the gods
+can master; but thou, a ruler to whom time brings not old age, dwellest
+in the dazzling splendour of Olympus. 
+
+And through the future, near and far, as through the past, shall this
+law hold good: Nothing that is vast enters into the life of mortals
+without a curse. 
+
+(antistrophe 2)
+
+For that hope whose wanderings are so wide is to many men a comfort,
+but to many a false lure of giddy desires; and the disappointment
+comes on one who knoweth nought till he burn his foot against the
+hot fire. 
+
+For with wisdom hath some one given forth the famous saying, that
+evil seems good, soon or late, to him whose mind the god draws to
+mischief; and but for the briefest space doth he fare free of woe.
+
+LEADER OF THE CHORUS But lo, Haemon, the last of thy sons;-Comes
+he grieving for the doom of his promised bride, Antigone, and bitter
+for the baffled hope of his marriage?  (Enter HAEMON)  
+
+CREON We shall know soon, better than seers could tell us.-My son,
+hearing the fixed doom of thy betrothed, art thou come in rage against
+thy father? Or have I thy good will, act how I may? 
+
+HAEMON Father, I am thine; and thou, in thy wisdom, tracest for me
+rules which I shall follow. No marriage shall be deemed by me a greater
+gain than thy good guidance. 
+
+CREON Yea, this, my son, should be thy heart's fixed law,-in all
+things to obey thy father's will. 'Tis for this that men pray to see
+dutiful children grow up around them in their homes,-that such may
+requite their father's foe with evil, and honour, as their father
+doth, his friend. But he who begets unprofitable children-what shall
+we say that he hath sown, but troubles for himself, and much triumph
+for his foes? Then do not thou, my son, at pleasure's beck, dethrone
+thy reason for a woman's sake; knowing that this is a joy that soon
+grows cold in clasping arms,-an evil woman to share thy bed and thy
+home. For what wound could strike deeper than a false friend? Nay,
+with loathing, and as if she were thine enemy, let this girl go to
+find a husband in the house of Hades. For since I have taken her,
+alone of all the city, in open disobedience, I will not make myself
+a liar to my people-I will slay her. 
+
+So let her appeal as she will to the majesty of kindred blood. If
+I am to nurture mine own kindred in naughtiness, needs must I bear
+with it in aliens. He who does his duty in his own household will
+be found righteous in the State also. But if any one transgresses,
+and does violence to the laws, or thinks to dictate to his rulers,
+such an one can win no praise from me. No, whomsoever the city may
+appoint, that man must be obeyed, in little things and great, in just
+things and unjust; and I should feel sure that one who thus obeys
+would be a good ruler no less than a good subject, and in the storm
+of spears would stand his ground where he was set, loyal and dauntless
+at his comrade's side. 
+
+But disobedience is the worst of evils. This it is that ruins cities;
+this makes homes desolate; by this, the ranks of allies are broken
+into head-long rout; but, of the lives whose course is fair, the greater
+part owes safety to obedience. Therefore we must support the cause
+of order, and in no wise suffer a woman to worst us. Better to fall
+from power, if we must, by a man's hand; then we should not be called
+weaker than a woman. 
+
+LEADER To us, unless our years have stolen our wit, thou seemest
+to say wisely what thou sayest. 
+
+HAEMON Father, the gods implant reason in men, the highest of all
+things that we call our own. Not mine the skill-far from me be the
+quest!-to say wherein thou speakest not aright; and yet another man,
+too, might have some useful thought. At least, it is my natural office
+to watch, on thy behalf, all that men say, or do, or find to blame.
+For the dread of thy frown forbids the citizen to speak such words
+as would offend thine ear; but can hear these murmurs in the dark,
+these moanings of the city for this maiden; 'no woman,' they say,
+'ever merited her doom less,-none ever was to die so shamefully for
+deeds so glorious as hers; who, when her own brother had fallen in
+bloody strife, would not leave him unburied, to be devoured by carrion
+dogs, or by any bird:-deserves not she the meed of golden honour?'
+
+Such is the darkling rumour that spreads in secret. For me, my father,
+no treasure is so precious as thy welfare. What, indeed, is a nobler
+ornament for children than a prospering sire's fair fame, or for sire
+than son's? Wear not, then, one mood only in thyself; think not that
+thy word, and thine alone, must be right. For if any man thinks that
+he alone is wise,-that in speech, or in mind, he hath no peer,-such
+a soul, when laid open, is ever found empty. 
+
+No, though a man be wise, 'tis no shame for him to learn many things,
+and to bend in season. Seest thou, beside the wintry torrent's course,
+how the trees that yield to it save every twig, while the stiff-necked
+perish root and branch? And even thus he who keeps the sheet of his
+sail taut, and never slackens it, upsets his boat, and finishes his
+voyage with keel uppermost. 
+
+Nay, forego thy wrath; permit thyself to change. For if I, a younger
+man, may offer my thought, it were far best, I ween, that men should
+be all-wise by nature; but, otherwise-and oft the scale inclines not
+so-'tis good also to learn from those who speak aright. 
+
+LEADER Sire, 'tis meet that thou shouldest profit by his words, if
+he speaks aught in season, and thou, Haemon, by thy father's; for
+on both parts there hath been wise speech. 
+
+CREON Men of my age are we indeed to be schooled, then, by men of
+his? 
+
+HAEMON In nothing that is not right; but if I am young, thou shouldest
+look to my merits, not to my years. 
+
+CREON Is it a merit to honour the unruly? 
+
+HAEMON I could wish no one to show respect for evil-doers.
+
+CREON Then is not she tainted with that malady? 
+
+HAEMON Our Theban folk, with one voice, denies it. 
+
+CREON Shall Thebes prescribe to me how I must rule? 
+
+HAEMON See, there thou hast spoken like a youth indeed.
+
+CREON Am I to rule this land by other judgment than mine own?
+
+HAEMON That is no city which belongs to one man. 
+
+CREON Is not the city held to be the ruler's? 
+
+HAEMON Thou wouldst make a good monarch of a desert. 
+
+CREON This boy, it seems, is the woman's champion. 
+
+HAEMON If thou art a woman; indeed, my care is for thee.
+
+CREON Shameless, at open feud with thy father! 
+
+HAEMON Nay, I see thee offending against justice. 
+
+CREON Do I offend, when I respect mine own prerogatives?
+
+HAEMON Thou dost not respect them, when thou tramplest on the gods'
+honours, 
+
+CREON O dastard nature, yielding place to woman! 
+
+HAEMON Thou wilt never find me yield to baseness. 
+
+CREON All thy words, at least, plead for that girl. 
+
+HAEMON And for thee, and for me, and for the gods below.
+
+CREON Thou canst never marry her, on this side the grave.
+
+HAEMON Then she must die, and in death destroy another.
+
+CREON How! doth thy boldness run to open threats? 
+
+HAEMON What threat is it, to combat vain resolves? 
+
+CREON Thou shalt rue thy witless teaching of wisdom. 
+
+HAEMON Wert thou not my father, I would have called thee unwise.
+
+CREON Thou woman's slave, use not wheedling speech with me.
+
+HAEMON Thou wouldest speak, and then hear no reply? 
+
+CREON Sayest thou so? Now, by the heaven above us-be sure of it-thou
+shalt smart for taunting me in this opprobrious strain. Bring forth
+that hated thing, that she may die forthwith in his presence-before
+his eyes-at her bridegroom's side! 
+
+HAEMON No, not at my side-never think it-shall she perish; nor shalt
+thou ever set eyes more upon my face:-rave, then, with such friends
+as can endure thee.  (Exit HAEMON)  
+
+LEADER The man is gone, O king, in angry haste; a youthful mind,
+when stung, is fierce. 
+
+CREON Let him do, or dream, more than man-good speed to him!-But
+he shall not save these two girls from their doom. 
+
+LEADER Dost thou indeed purpose to slay both? 
+
+CREON Not her whose hands are pure: thou sayest well. 
+
+LEADER And by what doom mean'st thou to slay the other?
+
+CREON I will take her where the path is loneliest, and hide her,
+living, in rocky vault, with so much food set forth as piety prescribes,
+that the city may avoid a public stain. And there, praying to Hades,
+the only god whom she worships, perchance she will obtain release
+from death; or else will learn, at last, though late, that it is lost
+labour to revere the dead.  (CREON goes into the palace.)
+
+CHORUS  (singing, strophe)
+
+Love, unconquered in the fight, Love, who makest havoc of wealth,
+who keepest thy vigil on the soft cheek of a maiden; thou roamest
+over the sea, and among the homes of dwellers in the wilds; no immortal
+can escape thee, nor any among men whose life is for a day; and he
+to whom thou hast come is mad. 
+
+(antistrophe)
+
+The just themselves have their minds warped by thee to wrong, for
+their ruin: 'tis thou that hast stirred up this present strife of
+kinsmen; victorious is the love-kindling light from the eyes of the
+fair bride; it is a power enthroned in sway beside the eternal laws;
+for there the goddess Aphrodite is working her unconquerable will.
+(ANTIGONE is led out of the palace by two Of CREON'S attendants who
+are about to conduct her to her doom.)  But now I also am carried
+beyond the bounds of loyalty, and can no more keep back the streaming
+tears, when I see Antigone thus passing to the bridal chamber where
+all are laid to rest.  (The following lines between ANTIGONE and the
+CHORUS are chanted responsively.)  
+
+ANTIGONE (strophe 1)
+
+See me, citizens of my fatherland, setting forth on my last way,
+looking my last on the sunlight that is for me no more; no, Hades
+who gives sleep to all leads me living to Acheron's shore; who have
+had no portion in the chant that brings the bride, nor hath any song
+been mine for the crowning of bridals; whom the lord of the Dark Lake
+shall wed. 
+
+CHORUS (systema 1)
+
+Glorious, therefore, and with praise, thou departest to that deep
+place of the dead: wasting sickness hath not smitten thee; thou hast
+not found the wages of the sword; no, mistress of thine own fate,
+and still alive, thou shalt pass to Hades, as no other of mortal kind
+hath passed. 
+
+ANTIGONE (antistrophe 1)
+
+I have heard in other days how dread a doom befell our Phrygian guest,
+the daughter of Tantalus, on the Sipylian heights; I how, like clinging
+ivy, the growth of stone subdued her; and the rains fail not, as men
+tell, from her wasting form, nor fails the snow, while beneath her
+weeping lids the tears bedew her bosom; and most like to hers is the
+fate that brings me to my rest. 
+
+CHORUS (systema 2)
+
+Yet she was a goddess, thou knowest, and born of gods; we are mortals,
+and of mortal race. But 'tis great renown for a woman who hath perished
+that she should have shared the doom of the godlike, in her life,
+and afterward in death. 
+
+ANTIGONE (strophe 2)
+
+Ah, I am mocked! In the name of our fathers' gods, can ye not wait
+till I am gone,-must ye taunt me to my face, O my city, and ye, her
+wealthy sons? Ah, fount of Dirce, and thou holy ground of Thebe whose
+chariots are many; ye, at least, will bear me witness, in what sort,
+unwept of friends, and by what laws I pass to the rock-closed prison
+of my strange tomb, ah me unhappy! who have no home on the earth or
+in the shades, no home with the living or with the dead.
+
+CHORUS (strophe 3)
+
+Thou hast rushed forward to the utmost verge of daring; and against
+that throne where justice sits on high thou hast fallen, my daughter,
+with a grievous fall. But in this ordeal thou art paying, haply, for
+thy father's sin. 
+
+ANTIGONE (antistrophe 2)
+
+Thou hast touched on my bitterest thought,-awaking the ever-new lament
+for my sire and for all the doom given to us, the famed house of Labdacus.
+Alas for the horrors of the mother's bed! alas for the wretched mother's
+slumber at the side of her own son,-and my sire! From what manner
+of parents did I take my miserable being! And to them I go thus, accursed,
+unwed, to share their home. Alas, my brother, ill-starred in thy marriage,
+in thy death thou hast undone my life! 
+
+CHORUS (antistrophe 3)
+
+Reverent action claims a certain praise for reverence; but an offence
+against power cannot be brooked by him who hath power in his keeping.
+Thy self-willed temper hath wrought thy ruin. 
+
+ANTIGONE (epode)
+
+Unwept, unfriended, without marriage-song, I am led forth in my sorrow
+on this journey that can be delayed no more. No longer, hapless one,
+may I behold yon day-star's sacred eye; but for my fate no tear is
+shed, no friend makes moan.  (CREON enters from the palace.)
+
+CREON Know ye not that songs and wailings before death would never
+cease, if it profited to utter them? Away with her-away! And when
+ye have enclosed her, according to my word, in her vaulted grave,
+leave her alone, forlorn-whether she wishes to die, or to live a buried
+life in such a home. Our hands are clean as touching this maiden.
+But this is certain-she shall be deprived of her sojourn in the light.
+
+ANTIGONE Tomb, bridal-chamber, eternal prison in the caverned rock,
+whither go to find mine own, those many who have perished, and whom
+Persephone hath received among the dead! Last of all shall I pass
+thither, and far most miserably of all, before the term of my life
+is spent. But I cherish good hope that my coming will be welcome to
+my father, and pleasant to thee, my mother, and welcome, brother,
+to thee; for, when ye died, with mine own hands I washed and dressed
+you, and poured drink-offerings at your graves; and now, Polyneices,
+'tis for tending thy corpse that I win such recompense as this.
+
+And yet I honoured thee, as the wise will deem, rightly. Never, had
+been a mother of children, or if a husband had been mouldering in
+death, would I have taken this task upon me in the city's despite.
+What law, ye ask, is my warrant for that word? The husband lost, another
+might have been found, and child from another, to replace the first-born:
+but, father and mother hidden with Hades, no brother's life could
+ever bloom for me again. Such was the law whereby I held thee first
+in honour; but Creon deemed me guilty of error therein, and of outrage,
+ah brother mine! And now he leads me thus, a captive in his hands;
+no bridal bed, no bridal song hath been mine, no joy of marriage,
+no portion in the nurture of children; but thus, forlorn of friends,
+unhappy one, I go living to the vaults of death. 
+
+And what law of heaven have I transgressed? Why, hapless one, should
+I look to the gods any more,-what ally should I invoke,-when by piety
+I have earned the name of impious? Nay, then, if these things are
+pleasing to the gods, when I have suffered my doom, I shall come to
+know my sin; but if the sin is with my judges, I could wish them no
+fuller measure of evil than they, on their part, mete wrongfully to
+me. 
+
+CHORUS Still the same tempest of the soul vexes this maiden with
+the same fierce gusts. 
+
+CREON Then for this shall her guards have cause to rue their slowness.
+
+ANTIGONE Ah me! that word hath come very near to death.
+
+CREON I can cheer thee with no hope that this doom is not thus to
+be fulfilled. 
+
+ANTIGONE O city of my fathers in the land of Thebe! O ye gods, eldest
+of our race!-they lead me henc--now, now-they tarry not! Behold me,
+princes of Thebes, the last daughter of the house of your kings,-see
+what I suffer, and from whom, because I feared to cast away the fear
+of Heaven!  (ANTIGONE is led away by the guards.)  
+
+CHORUS  (singing, strophe 1)
+
+Even thus endured Danae in her beauty to change the light of day
+for brass-bound walls; and in that chamber, secret as the grave, she
+was held close prisoner; yet was she of a proud lineage, O my daughter,
+and charged with the keeping of the seed of Zeus, that fell in the
+golden rain. 
+
+But dreadful is the mysterious power of fate: there is no deliverance
+from it by wealth or by war, by fenced city, or dark, sea-beaten ships.
+
+(antistrophe 1)
+
+And bonds tamed the son of Dryas, swift to wrath, that king of the
+Edonians; so paid he for his frenzied taunts, when, by the will of
+Dionysus, he was pent in a rocky prison. There the fierce exuberance
+of his madness slowly passed away. That man learned to know the god,
+whom in his frenzy he had provoked with mockeries; for he had sought
+to quell the god-possessed women, and the Bacchanalian fire; and he
+angered the Muses that love the flute. 
+
+(strophe 2)
+
+And by the waters of the Dark Rocks, the waters of the twofold sea,
+are the shores of Bosporus, and Thracian Salmydessus; where Ares,
+neighbour to the city, saw the accurst, blinding wound dealt to the
+two sons of Phineus by his fierce wife,-the wound that brought darkness
+to those vengeance-craving orbs, smitten with her bloody hands, smitten
+with her shuttle for a dagger. 
+
+(antistrophe 2)
+
+Pining in their misery, they bewailed their cruel doom, those sons
+of a mother hapless in her marriage; but she traced her descent from
+the ancient line of the Erechtheidae; and in far-distant caves she
+was nursed amid her father's storms, that child of Boreas, swift as
+a steed over the steep hills, a daughter of gods; yet upon her also
+the gray Fates bore hard, my daughter.  (Enter TEIRESIAS, led by a
+Boy, on the spectators' right.)  
+
+TEIRESIAS Princes of Thebes, we have come with linked steps, both
+served by the eyes of one; for thus, by a guide's help, the blind
+must walk. 
+
+CREON And what, aged Teiresias, are thy tidings? 
+
+TEIRESIAS I will tell thee; and do thou hearken to the seer.
+
+CREON Indeed, it has not been my wont to slight thy counsel.
+
+TEIRESIAS Therefore didst thou steer our city's course aright.
+
+CREON I have felt, and can attest, thy benefits. 
+
+TEIRESIAS Mark that now, once more, thou standest on fate's fine
+edge. 
+
+CREON What means this? How I shudder at thy message! 
+
+TEIRESIAS Thou wilt learn, when thou hearest the warnings of mine
+art. As I took my place on mine old seat of augury, where all birds
+have been wont to gather within my ken, I heard a strange voice among
+them; they were screaming with dire, feverish rage, that drowned their
+language in jargon; and I knew that they were rending each other with
+their talons, murderously; the whirr of wings told no doubtful tale.
+
+Forthwith, in fear, I essayed burnt-sacrifice on a duly kindled altar:
+but from my offerings the Fire-god showed no flame; a dank moisture,
+oozing from the thigh-flesh, trickled forth upon the embers, and smoked,
+and sputtered; the gall was scattered to the air; and the streaming
+thighs lay bared of the fat that had been wrapped round them.
+
+Such was the failure of the rites by which I vainly asked a sign,
+as from this boy I learned; for he is my guide, as I am guide to others.
+And 'tis thy counsel that hath brought this sickness on our State.
+For the altars of our city and of our hearths have been tainted, one
+and all, by birds and dogs, with carrion from the hapless corpse,
+the son of Oedipus: and therefore the gods no more accept prayer and
+sacrifice at our hands, or the flame of meat-offering; nor doth any
+bird give a clear sign by its shrill cry, for they have tasted the
+fatness of a slain man's blood. 
+
+Think, then, on these things, my son. All men are liable to err; but
+when an error hath been made, that man is no longer witless or unblest
+who heals the ill into which he hath fallen, and remains not stubborn.
+
+Self-will, we know, incurs the charge of folly. Nay, allow the claim
+of the dead; stab not the fallen; what prowess is it to slay the slain
+anew? I have sought thy good, and for thy good I speak: and never
+is it sweeter to learn from a good counsellor than when he counsels
+for thine own gain. 
+
+CREON Old man, ye all shoot your shafts at me, as archers at the
+butts;-Ye must needs practise on me with seer-craft also;-aye, the
+seer-tribe hath long trafficked in me, and made me their merchandise.
+Gain your gains, drive your trade, if ye list, in the silver-gold
+of Sardis and the gold of India; but ye shall not hide that man in
+the grave,-no, though the eagles of Zeus should bear the carrion morsels
+to their Master's throne-no, not for dread of that defilement will
+I suffer his burial:-for well I know that no mortal can defile the
+gods.-But, aged Teiresias, the wisest fall with shameful fall, when
+they clothe shameful thoughts in fair words, for lucre's sake.
+
+TEIRESIAS Alas! Doth any man know, doth any consider...
+
+CREON Whereof? What general truth dost thou announce? 
+
+TEIRESIAS How precious, above all wealth, is good counsel.
+
+CREON As folly, I think, is the worst mischief. 
+
+TEIRESIAS Yet thou art tainted with that distemper. 
+
+CREON I would not answer the seer with a taunt. 
+
+TEIRESIAS But thou dost, in saying that I prophesy falsely.
+
+CREON Well, the prophet-tribe was ever fond of money. 
+
+TEIRESIAS And the race bred of tyrants loves base gain.
+
+CREON Knowest thou that thy speech is spoken of thy king?
+
+TEIRESIAS I know it; for through me thou hast saved Thebes.
+
+CREON Thou art a wise seer; but thou lovest evil deeds.
+
+TEIRESIAS Thou wilt rouse me to utter the dread secret in my soul.
+
+CREON Out with it!-Only speak it not for gain. 
+
+TEIRESIAS Indeed, methinks, I shall not,-as touching thee.
+
+CREON Know that thou shalt not trade on my resolve. 
+
+TEIRESIAS Then know thou-aye, know it well-that thou shalt not live
+through many more courses of the sun's swift chariot, ere one begotten
+of thine own loins shall have been given by thee, a corpse for corpses;
+because thou hast thrust children of the sunlight to the shades, and
+ruthlessly lodged a living soul in the grave; but keepest in this
+world one who belongs to the gods infernal, a corpse unburied, unhonoured,
+all unhallowed. In such thou hast no part, nor have the gods above,
+but this is a violence done to them by thee. Therefore the avenging
+destroyers lie in wait for thee, the Furies of Hades and of the gods,
+that thou mayest be taken in these same ills. 
+
+And mark well if I speak these things as a hireling. A time not long
+to be delayed shall awaken the wailing of men and of women in thy
+house. And a tumult of hatred against thee stirs all the cities whose
+mangled sons had the burial-rite from dogs, or from wild beasts, or
+from some winged bird that bore a polluting breath to each city that
+contains the hearths of the dead. 
+
+Such arrows for thy heart-since thou provokest me-have I launched
+at thee, archer-like, in my anger,-sure arrows, of which thou shalt
+not escape the smart.-Boy, lead me home, that he may spend his rage
+on younger men, and learn to keep a tongue more temperate, and to
+bear within his breast a better mind than now he bears.  (The Boy
+leads TEIRESIAS Out.)  
+
+LEADER OF THE CHORUS The man hath gone, O King, with dread prophecies.
+And, since the hair on this head, once dark, hath been white, I know
+that he hath never been a false prophet to our city. 
+
+CREON I, too, know it well, and am troubled in soul. 'Tis dire to
+yield; but, by resistance, to smite my pride with ruin-this, too,
+is a dire choice. 
+
+LEADER Son of Menoeceus, it behoves thee to take wise counsel.
+
+CREON What should I do then? Speak and I will obey. 
+
+LEADER Go thou, and free the maiden from her rocky chamber, and make
+a tomb for the unburied dead. 
+
+CREON And this is thy counsel? Thou wouldst have me yield?
+
+LEADER Yea, King, and with all speed; for swift harms from the gods
+cut short the folly of men. 
+
+CREON Ah me, 'tis hard, but I resign my cherished resolve,-I obey.
+We must not wage a vain war with destiny. 
+
+LEADER Go, thou, and do these things; leave them not to others.
+
+CREON Even as I am I'll go:-on, on, my servants, each and all of
+you,-take axes in your hands, and hasten to the ground that ye see
+yonder! Since our judgment hath taken this turn, I will be present
+to unloose her, as myself bound her. My heart misgives me, 'tis best
+to keep the established laws, even to life's end.  (CREON and his
+servants hasten out on the spectators' left.)  
+
+CHORUS  (singing, strophe 1)
+
+O thou of many names, glory of the Cadmeian bride, offspring of loud-thundering
+Zeus! thou who watchest over famed Italia, and reignest, where all
+guests are welcomed, in the sheltered plain of Eleusinian Deo! O Bacchus,
+dweller in Thebe, mother-city of Bacchants, by the softly-gliding
+stream of Ismenus, on the soil where the fierce dragon's teeth were
+sown! 
+
+(antistrophe 1)
+
+Thou hast been seen where torch-flames glare through smoke, above
+the crests of the twin peaks, where move the Corycian nymphs, thy
+votaries, hard by Castalia's stream. 
+
+Thou comest from the ivy-mantled slopes of Nysa's hills, and from
+the shore green with many-clustered vines, while thy name is lifted
+up on strains of more than mortal power, as thou visitest the ways
+of Thebe: 
+
+(strophe 2)
+
+Thebe, of all cities, thou holdest first in honour, thou and thy
+mother whom the lightning smote; and now, when all our people is captive
+to a violent plague, come thou with healing feet over the Parnassian
+height, or over the moaning strait! 
+
+(antistrophe 2)
+
+O thou with whom the stars rejoice as they move, the stars whose
+breath is fire; O master of the voices of the night; son begotten
+of Zeus; appear, O king, with thine attendant Thyiads, who in night-long
+frenzy dance before thee, the giver of good gifts, Iacchus!  (Enter
+MESSENGER, on the spectators' left.)  
+
+MESSENGER Dwellers by the house of Cadmus and of Amphion, there is
+no estate of mortal life that I would ever praise or blame as settled.
+Fortune raises and Fortune humbles the lucky or unlucky from day to
+day, and no one can prophesy to men concerning those things which
+are established. For 
+
+CREON was blest once, as I count bliss; he had saved this land of
+Cadmus from its foes; he was clothed with sole dominion in the land;
+he reigned, the glorious sire of princely children. And now all hath
+been lost. For when a man hath forfeited his pleasures, I count him
+not as living,-I hold him but a breathing corpse. Heap up riches in
+thy house, if thou wilt; live in kingly state; yet, if there be no
+gladness therewith, I would not give the shadow of a vapour for all
+the rest, compared with joy. 
+
+LEADER OF THE CHORUS And what is this new grief that thou hast to
+tell for our princes? 
+
+MESSENGER Death; and the living are guilty for the dead.
+
+LEADER And who is the slayer? Who the stricken? Speak. 
+
+MESSENGER Haemon hath perished; his blood hath been shed by no stranger.
+
+LEADER By his father's hand, or by his own? 
+
+MESSENGER By his own, in wrath with his sire for the murder.
+
+LEADER O prophet, how true, then, hast thou proved thy word!
+
+MESSENGER These things stand thus; ye must consider of the rest.
+
+LEADER Lo, I see the hapless Eurydice, Creon's wife, approaching;
+she comes from the house by chance, haply,-or because she knows the
+tidings of her son.  (Enter EURYDICE from the palace.)  
+
+EURYDICE People of Thebes, I heard your words as I was going forth,
+to salute the goddess Pallas with my prayers. Even as I was loosing
+the fastenings of the gate, to open it, the message of a household
+woe smote on mine ear: I sank back, terror-stricken, into the arms
+of my handmaids, and my senses fled. But say again what the tidings
+were; I shall hear them as one who is no stranger to sorrow.
+
+MESSENGER Dear lady, I will witness of what I saw, and will leave
+no word of the truth untold. Why, indeed, should I soothe thee with
+words in which must presently be found false? Truth is ever best.-I
+attended thy lord as his guide to the furthest part of the plain,
+where the body of Polyneices, torn by dogs, still lay unpitied. We
+prayed the goddess of the roads, and Pluto, in mercy to restrain their
+wrath; we washed the dead with holy washing; and with freshly-plucked
+boughs we solemnly burned such relics as there were. We raised a high
+mound of his native earth; and then we turned away to enter the maiden's
+nuptial chamber with rocky couch, the caverned mansion of the bride
+of Death. And, from afar off, one of us heard a voice of loud wailing
+at that bride's unhallowed bower; and came to tell our master Creon.
+
+And as the king drew nearer, doubtful sounds of a bitter cry floated
+around him; he groaned, and said in accents of anguish, 'Wretched
+that I am, can my foreboding be true? Am I going on the wofullest
+way that ever I went? My son's voice greets me.-Go, my servants,-haste
+ye nearer, and when ye have reached the tomb, pass through the gap,
+where the stones have been wrenched away, to the cell's very mouth,-and
+look. and see if 'tis Haemon's voice that I know, or if mine ear is
+cheated by the gods.' 
+
+This search, at our despairing master's word, we went to make; and
+in the furthest part of the tomb we descried her hanging by the neck,
+slung by a thread-wrought halter of fine linen: while he was embracing
+her with arms thrown around her waist, bewailing the loss of his bride
+who is with the dead, and his father's deeds, and his own ill-starred
+love. 
+
+But his father, when he saw him, cried aloud with a dread cry and
+went in, and called to him with a voice of wailing:-'Unhappy, what
+deed hast thou done! What thought hath come to thee? What manner of
+mischance hath marred thy reason? Come forth, my child! I pray thee-I
+implore!' But the boy glared at him with fierce eyes, spat in his
+face, and, without a word of answer, drew his cross-hilted sword:-as
+his father rushed forth in flight, he missed his aim;-then, hapless
+one, wroth with himself, he straightway leaned with all his weight
+against his sword, and drove it, half its length, into his side; and,
+while sense lingered, he clasped the maiden to his faint embrace,
+and, as he gasped, sent forth on her pale cheek the swift stream of
+the oozing blood. 
+
+Corpse enfolding corpse he lies; he hath won his nuptial rites, poor
+youth, not here, yet in the halls of Death; and he hath witnessed
+to mankind that, of all curses which cleave to man, ill counsel is
+the sovereign curse.  (EURYDICE retires into the house.)
+
+LEADER What wouldst thou augur from this? The lady hath turned back,
+and is gone, without a word, good or evil. 
+
+MESSENGER I, too, am startled; yet I nourish the hope that, at these
+sore tidings of her son, she cannot deign to give her sorrow public
+vent, but in the privacy of the house will set her handmaids to mourn
+the household grief. For she is not untaught of discretion, that she
+should err. 
+
+LEADER I know not; but to me, at least, a strained silence seems
+to portend peril, no less than vain abundance of lament.
+
+MESSENGER Well, I will enter the house, and learn whether indeed
+she is not hiding some repressed purpose in the depths of a passionate
+heart. Yea, thou sayest well: excess of silence, too, may have a perilous
+meaning.  (The MESSENGER goes into the palace. Enter CREON, on the
+spectators' left, with attendants, carrying the shrouded body of HAEMON
+on bier. The following lines between CREON and the CHORUS are chanted
+responsively.)  
+
+CHORUS Lo, yonder the king himself draws near, bearing that which
+tells too clear a tale,-the work of no stranger's madness,-if we may
+say it,-but of his own misdeeds. 
+
+CREON (strophe 1)
+
+Woe for the sins of a darkened soul, stubborn sins, fraught with
+death! Ah, ye behold us, the sire who hath slain, the son who hath
+perished! Woe is me, for the wretched blindness of my counsels! Alas,
+my son, thou hast died in thy youth, by a timeless doom, woe is me!-thy
+spirit hath fled,-not by thy folly, but by mine own! 
+
+CHORUS (strophe 2)
+
+Ah me, how all too late thou seemest to see the right! 
+CREON Ah me, I have learned the bitter lesson! But then, methinks,
+oh then, some god smote me from above with crushing weight, and hurled
+me into ways of cruelty, woe is me,-overthrowing and trampling on
+my joy! Woe, woe, for the troublous toils of men!  (Enter MESSENGER
+from the house.)  
+
+MESSENGER Sire, thou hast come, methinks, as one whose hands are
+not empty, but who hath store laid up besides; thou bearest yonder
+burden with thee-and thou art soon to look upon the woes within thy
+house. 
+
+CREON And what worse ill is yet to follow upon ills? 
+
+MESSENGER Thy queen hath died, true mother of yon corpse-ah, hapless
+lady by blows newly dealt. 
+
+CREON (antistrophe 1)
+
+Oh Hades, all-receiving whom no sacrifice can appease! Hast thou,
+then, no mercy for me? O thou herald of evil, bitter tidings, what
+word dost thou utter? Alas, I was already as dead, and thou hast smitten
+me anew! What sayest thou, my son? What is this new message that thou
+bringest-woe, woe is me!-Of a wife's doom-of slaughter headed on slaughter?
+
+CHORUS Thou canst behold: 'tis no longer hidden within.  (The doors
+of the palace are opened, and the corpse of EURYDICE is disclosed.)
+
+CREON (antistrophe 2)
+
+Ah me,-yonder I behold a new, a second woe! What destiny, ah what,
+can yet await me? I have but now raised my son in my arms,-and there,
+again, I see a corpse before me! Alas, alas, unhappy mother! Alas,
+my child! 
+
+MESSENGER There, at the altar, self-stabbed with a keen knife, she
+suffered her darkening eyes to close, when she had wailed for the
+noble fate of Megareus who died before, and then for his fate who
+lies there,-and when, with her last breath, she had invoked evil fortunes
+upon thee, the slayer of thy sons. 
+
+CREON (strophe 3)
+
+Woe, woe! I thrill with dread. Is there none to strike me to the
+heart with two-edged sword?-O miserable that I am, and steeped in
+miserable anguish! 
+
+MESSENGER Yea, both this son's doom, and that other's, were laid
+to thy charge by her whose corpse thou seest. 
+
+CREON And what was the manner of the violent deed by which she passed
+away? 
+
+MESSENGER Her own hand struck her to the heart, when she had learned
+her son's sorely lamented fate. 
+
+CREON (strophe 4)
+
+Ah me, this guilt can never be fixed on any other of mortal kind,
+for my acquittal! I, even I, was thy slayer, wretched that I am-I
+own the truth. Lead me away, O my servants, lead me hence with all
+speed, whose life is but as death! 
+
+CHORUS Thy counsels are good, if there can be good with ills; briefest
+is best, when trouble is in our path. 
+
+CREON (antistrophe 3)
+
+Oh, let it come, let it appear, that fairest of fates for me, that
+brings my last day,-aye, best fate of all! Oh, let it come, that I
+may never look upon to-morrow's light. 
+
+CHORUS These things are in the future; present tasks claim our care:
+the ordering of the future rests where it should rest. 
+
+CREON All my desires, at least, were summed in that prayer.
+
+CHORUS Pray thou no more; for mortals have no escape from destined
+woe. 
+
+CREON (antistrophe 4)
+
+Lead me away, I pray you; a rash, foolish man; who have slain thee,
+ah my son, unwittingly, and thee, too, my wife-unhappy that I am!
+I know not which way I should bend my gaze, or where I should seek
+support; for all is amiss with that which is in my hands,-and yonder,
+again, a crushing fate hath leapt upon my head.  (As CREON is being
+conducted into the palace, the LEADER OF THE CHORUS speaks the closing
+verses.)  
+
+LEADER Wisdom is the supreme part of happiness; and reverence towards
+the gods must be inviolate. Great words of prideful men are ever punished
+with great blows, and, in old age, teach the chastened to be wise.
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.
+</pre></body></html>

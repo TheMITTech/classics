@@ -1,0 +1,2048 @@
+
+<BASE HREF="http://classics.mit.edu/Plato/phaedo.1b.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Plato/phaedo.1b.txt"><font color=blue>classics.mit.edu/Plato/phaedo.1b.txt</font></a>.<br>
+<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Plato/phaedo.1b.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
+<html><body><pre>
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Plato/phaedo.html
+
+Phaedo
+By Plato
+
+
+Translated by Benjamin Jowett
+
+Persons of the Dialogue
+PHAEDO, who is the narrator of the dialogue to ECHECRATES of
+Phlius
+SOCRATES
+APOLLODORUS
+SIMMIAS
+CEBES
+CRITO
+ATTENDANT OF THE PRISON
+
+Scene
+The Prison of Socrates.
+----------------------------------------------------------------------
+
+Place OF THE NARRATION: Phlius. 
+
+Echecrates. Were you yourself, Phaedo, in the prison with Socrates
+on the day when he drank the poison? 
+
+Phaedo. Yes, Echecrates, I was. 
+
+Ech. I wish that you would tell me about his death. What did he say
+in his last hours? We were informed that he died by taking poison,
+but no one knew anything more; for no Phliasian ever goes to Athens
+now, and a long time has elapsed since any Athenian found his way
+to Phlius, and therefore we had no clear account. 
+
+Phaed. Did you not hear of the proceedings at the trial?
+
+Ech. Yes; someone told us about the trial, and we could not understand
+why, having been condemned, he was put to death, as appeared, not
+at the time, but long afterwards. What was the reason of this?
+
+Phaed. An accident, Echecrates. The reason was that the stern of the
+ship which the Athenians send to Delos happened to have been crowned
+on the day before he was tried. 
+
+Ech. What is this ship? 
+
+Phaed. This is the ship in which, as the Athenians say, Theseus went
+to Crete when he took with him the fourteen youths, and was the saviour
+of them and of himself. And they were said to have vowed to Apollo
+at the time, that if they were saved they would make an annual pilgrimage
+to Delos. Now this custom still continues, and the whole period of
+the voyage to and from Delos, beginning when the priest of Apollo
+crowns the stern of the ship, is a holy season, during which the city
+is not allowed to be polluted by public executions; and often, when
+the vessel is detained by adverse winds, there may be a very considerable
+delay. As I was saying, the ship was crowned on the day before the
+trial, and this was the reason why Socrates lay in prison and was
+not put to death until long after he was condemned. 
+
+Ech. What was the manner of his death, Phaedo? What was said or done?
+And which of his friends had he with him? Or were they not allowed
+by the authorities to be present? And did he die alone? 
+
+Phaed. No; there were several of his friends with him. 
+
+Ech. If you have nothing to do, I wish that you would tell me what
+passed, as exactly as you can. 
+
+Phaed. I have nothing to do, and will try to gratify your wish. For
+to me, too, there is no greater pleasure than to have Socrates brought
+to my recollection, whether I speak myself or hear another speak of
+him. 
+
+Ech. You will have listeners who are of the same mind with you, and
+I hope that you will be as exact as you can. 
+
+Phaed. I remember the strange feeling which came over me at being
+with him. For I could hardly believe that I was present at the death
+of a friend, and therefore I did not pity him, Echecrates; his mien
+and his language were so noble and fearless in the hour of death that
+to me he appeared blessed. I thought that in going to the other world
+he could not be without a divine call, and that he would be happy,
+if any man ever was, when he arrived there, and therefore I did not
+pity him as might seem natural at such a time. But neither could I
+feel the pleasure which I usually felt in philosophical discourse
+(for philosophy was the theme of which we spoke). I was pleased, and
+I was also pained, because I knew that he was soon to die, and this
+strange mixture of feeling was shared by us all; we were laughing
+and weeping by turns, especially the excitable Apollodorus-you know
+the sort of man? 
+
+Ech. Yes. 
+
+Phaed. He was quite overcome; and I myself and all of us were greatly
+moved. 
+
+Ech. Who were present? 
+
+Phaed. Of native Athenians there were, besides Apollodorus, Critobulus
+and his father Crito, Hermogenes, Epigenes, Aeschines, and Antisthenes;
+likewise Ctesippus of the deme of Paeania, Menexenus, and some others;
+but Plato, if I am not mistaken, was ill. 
+
+Ech. Were there any strangers? 
+
+Phaed. Yes, there were; Simmias the Theban, and Cebes, and Phaedondes;
+Euclid and Terpison, who came from Megara. 
+
+Ech. And was Aristippus there, and Cleombrotus? 
+
+Phaed. No, they were said to be in Aegina. 
+
+Ech. Anyone else? 
+
+Phaed. I think that these were about all. 
+
+Ech. And what was the discourse of which you spoke? 
+
+Phaed. I will begin at the beginning, and endeavor to repeat the entire
+conversation. You must understand that we had been previously in the
+habit of assembling early in the morning at the court in which the
+trial was held, and which is not far from the prison. There we remained
+talking with one another until the opening of the prison doors (for
+they were not opened very early), and then went in and generally passed
+the day with Socrates. On the last morning the meeting was earlier
+than usual; this was owing to our having heard on the previous evening
+that the sacred ship had arrived from Delos, and therefore we agreed
+to meet very early at the accustomed place. On our going to the prison,
+the jailer who answered the door, instead of admitting us, came out
+and bade us wait and he would call us. "For the Eleven," he said,
+"are now with Socrates; they are taking off his chains, and giving
+orders that he is to die to-day." He soon returned and said that we
+might come in. On entering we found Socrates just released from chains,
+and Xanthippe, whom you know, sitting by him, and holding his child
+in her arms. When she saw us she uttered a cry and said, as women
+will: "O Socrates, this is the last time that either you will converse
+with your friends, or they with you." Socrates turned to Crito and
+said: "Crito, let someone take her home." Some of Crito's people accordingly
+led her away, crying out and beating herself. And when she was gone,
+Socrates, sitting up on the couch, began to bend and rub his leg,
+saying, as he rubbed: "How singular is the thing called pleasure,
+and how curiously related to pain, which might be thought to be the
+opposite of it; for they never come to a man together, and yet he
+who pursues either of them is generally compelled to take the other.
+They are two, and yet they grow together out of one head or stem;
+and I cannot help thinking that if Aesop had noticed them, he would
+have made a fable about God trying to reconcile their strife, and
+when he could not, he fastened their heads together; and this is the
+reason why when one comes the other follows, as I find in my own case
+pleasure comes following after the pain in my leg, which was caused
+by the chain." 
+
+Upon this Cebes said: I am very glad indeed, Socrates, that you mentioned
+the name of Aesop. For that reminds me of a question which has been
+asked by others, and was asked of me only the day before yesterday
+by Evenus the poet, and as he will be sure to ask again, you may as
+well tell me what I should say to him, if you would like him to have
+an answer. He wanted to know why you who never before wrote a line
+of poetry, now that you are in prison are putting Aesop into verse,
+and also composing that hymn in honor of Apollo. 
+
+Tell him, Cebes, he replied, that I had no idea of rivalling him or
+his poems; which is the truth, for I knew that I could not do that.
+But I wanted to see whether I could purge away a scruple which I felt
+about certain dreams. In the course of my life I have often had intimations
+in dreams "that I should make music." The same dream came to me sometimes
+in one form, and sometimes in another, but always saying the same
+or nearly the same words: Make and cultivate music, said the dream.
+And hitherto I had imagined that this was only intended to exhort
+and encourage me in the study of philosophy, which has always been
+the pursuit of my life, and is the noblest and best of music. The
+dream was bidding me to do what I was already doing, in the same way
+that the competitor in a race is bidden by the spectators to run when
+he is already running. But I was not certain of this, as the dream
+might have meant music in the popular sense of the word, and being
+under sentence of death, and the festival giving me a respite, I thought
+that I should be safer if I satisfied the scruple, and, in obedience
+to the dream, composed a few verses before I departed. And first I
+made a hymn in honor of the god of the festival, and then considering
+that a poet, if he is really to be a poet or maker, should not only
+put words together but make stories, and as I have no invention, I
+took some fables of esop, which I had ready at hand and knew, and
+turned them into verse. Tell Evenus this, and bid him be of good cheer;
+that I would have him come after me if he be a wise man, and not tarry;
+and that to-day I am likely to be going, for the Athenians say that
+I must. 
+
+Simmias said: What a message for such a man! having been a frequent
+companion of his, I should say that, as far as I know him, he will
+never take your advice unless he is obliged. 
+
+Why, said Socrates,-is not Evenus a philosopher? 
+I think that he is, said Simmias. 
+Then he, or any man who has the spirit of philosophy, will be willing
+to die, though he will not take his own life, for that is held not
+to be right. 
+
+Here he changed his position, and put his legs off the couch on to
+the ground, and during the rest of the conversation he remained sitting.
+
+Why do you say, inquired Cebes, that a man ought not to take his own
+life, but that the philosopher will be ready to follow the dying?
+
+Socrates replied: And have you, Cebes and Simmias, who are acquainted
+with Philolaus, never heard him speak of this? 
+
+I never understood him, Socrates. 
+My words, too, are only an echo; but I am very willing to say what
+I have heard: and indeed, as I am going to another place, I ought
+to be thinking and talking of the nature of the pilgrimage which I
+am about to make. What can I do better in the interval between this
+and the setting of the sun? 
+
+Then tell me, Socrates, why is suicide held not to be right? as I
+have certainly heard Philolaus affirm when he was staying with us
+at Thebes: and there are others who say the same, although none of
+them has ever made me understand him. 
+
+But do your best, replied Socrates, and the day may come when you
+will understand. I suppose that you wonder why, as most things which
+are evil may be accidentally good, this is to be the only exception
+(for may not death, too, be better than life in some cases?), and
+why, when a man is better dead, he is not permitted to be his own
+benefactor, but must wait for the hand of another. 
+
+By Jupiter! yes, indeed, said Cebes, laughing, and speaking in his
+native Doric. 
+
+I admit the appearance of inconsistency, replied Socrates, but there
+may not be any real inconsistency after all in this. There is a doctrine
+uttered in secret that man is a prisoner who has no right to open
+the door of his prison and run away; this is a great mystery which
+I do not quite understand. Yet I, too, believe that the gods are our
+guardians, and that we are a possession of theirs. Do you not agree?
+
+Yes, I agree to that, said Cebes. 
+And if one of your own possessions, an ox or an ass, for example took
+the liberty of putting himself out of the way when you had given no
+intimation of your wish that he should die, would you not be angry
+with him, and would you not punish him if you could? 
+
+Certainly, replied Cebes. 
+Then there may be reason in saying that a man should wait, and not
+take his own life until God summons him, as he is now summoning me.
+
+Yes, Socrates, said Cebes, there is surely reason in that. And yet
+how can you reconcile this seemingly true belief that God is our guardian
+and we his possessions, with that willingness to die which we were
+attributing to the philosopher? That the wisest of men should be willing
+to leave this service in which they are ruled by the gods who are
+the best of rulers is not reasonable, for surely no wise man thinks
+that when set at liberty he can take better care of himself than the
+gods take of him. A fool may perhaps think this-he may argue that
+he had better run away from his master, not considering that his duty
+is to remain to the end, and not to run away from the good, and that
+there is no sense in his running away. But the wise man will want
+to be ever with him who is better than himself. Now this, Socrates,
+is the reverse of what was just now said; for upon this view the wise
+man should sorrow and the fool rejoice at passing out of life.
+
+The earnestness of Cebes seemed to please Socrates. Here, said he,
+turning to us, is a man who is always inquiring, and is not to be
+convinced all in a moment, nor by every argument. 
+
+And in this case, added Simmias, his objection does appear to me to
+have some force. For what can be the meaning of a truly wise man wanting
+to fly away and lightly leave a master who is better than himself?
+And I rather imagine that Cebes is referring to you; he thinks that
+you are too ready to leave us, and too ready to leave the gods who,
+as you acknowledge, are our good rulers. 
+
+Yes, replied Socrates; there is reason in that. And this indictment
+you think that I ought to answer as if I were in court? 
+
+That is what we should like, said Simmias. 
+Then I must try to make a better impression upon you than I did when
+defending myself before the judges. For I am quite ready to acknowledge,
+Simmias and Cebes, that I ought to be grieved at death, if I were
+not persuaded that I am going to other gods who are wise and good
+(of this I am as certain as I can be of anything of the sort) and
+to men departed (though I am not so certain of this), who are better
+than those whom I leave behind; and therefore I do not grieve as I
+might have done, for I have good hope that there is yet something
+remaining for the dead, and, as has been said of old, some far better
+thing for the good than for the evil. 
+
+But do you mean to take away your thoughts with you, Socrates? said
+Simmias. Will you not communicate them to us?-the benefit is one in
+which we too may hope to share. Moreover, if you succeed in convincing
+us, that will be an answer to the charge against yourself.
+
+I will do my best, replied Socrates. But you must first let me hear
+what Crito wants; he was going to say something to me. 
+
+Only this, Socrates, replied Crito: the attendant who is to give you
+the poison has been telling me that you are not to talk much, and
+he wants me to let you know this; for that by talking heat is increased,
+and this interferes with the action of the poison; those who excite
+themselves are sometimes obliged to drink the poison two or three
+times. 
+
+Then, said Socrates, let him mind his business and be prepared to
+give the poison two or three times, if necessary; that is all.
+
+I was almost certain that you would say that, replied Crito; but I
+was obliged to satisfy him. 
+
+Never mind him, he said. 
+And now I will make answer to you, O my judges, and show that he who
+has lived as a true philosopher has reason to be of good cheer when
+he is about to die, and that after death he may hope to receive the
+greatest good in the other world. And how this may be, Simmias and
+Cebes, I will endeavor to explain. For I deem that the true disciple
+of philosophy is likely to be misunderstood by other men; they do
+not perceive that he is ever pursuing death and dying; and if this
+is true, why, having had the desire of death all his life long, should
+he repine at the arrival of that which he has been always pursuing
+and desiring? 
+
+Simmias laughed and said: Though not in a laughing humor, I swear
+that I cannot help laughing when I think what the wicked world will
+say when they hear this. They will say that this is very true, and
+our people at home will agree with them in saying that the life which
+philosophers desire is truly death, and that they have found them
+out to be deserving of the death which they desire. 
+
+And they are right, Simmias, in saying this, with the exception of
+the words "They have found them out"; for they have not found out
+what is the nature of this death which the true philosopher desires,
+or how he deserves or desires death. But let us leave them and have
+a word with ourselves: Do we believe that there is such a thing as
+death? 
+
+To be sure, replied Simmias. 
+And is this anything but the separation of soul and body? And being
+dead is the attainment of this separation; when the soul exists in
+herself, and is parted from the body and the body is parted from the
+soul-that is death? 
+
+Exactly: that and nothing else, he replied. 
+And what do you say of another question, my friend, about which I
+should like to have your opinion, and the answer to which will probably
+throw light on our present inquiry: Do you think that the philosopher
+ought to care about the pleasures-if they are to be called pleasures-of
+eating and drinking? 
+
+Certainly not, answered Simmias. 
+And what do you say of the pleasures of love-should he care about
+them? 
+
+By no means. 
+And will he think much of the other ways of indulging the body-for
+example, the acquisition of costly raiment, or sandals, or other adornments
+of the body? Instead of caring about them, does he not rather despise
+anything more than nature needs? What do you say? 
+
+I should say the true philosopher would despise them. 
+Would you not say that he is entirely concerned with the soul and
+not with the body? He would like, as far as he can, to be quit of
+the body and turn to the soul. 
+
+That is true. 
+In matters of this sort philosophers, above all other men, may be
+observed in every sort of way to dissever the soul from the body.
+
+That is true. 
+Whereas, Simmias, the rest of the world are of opinion that a life
+which has no bodily pleasures and no part in them is not worth having;
+but that he who thinks nothing of bodily pleasures is almost as though
+he were dead. 
+
+That is quite true. 
+What again shall we say of the actual acquirement of knowledge?-is
+the body, if invited to share in the inquiry, a hinderer or a helper?
+I mean to say, have sight and hearing any truth in them? Are they
+not, as the poets are always telling us, inaccurate witnesses? and
+yet, if even they are inaccurate and indistinct, what is to be said
+of the other senses?-for you will allow that they are the best of
+them? 
+
+Certainly, he replied. 
+Then when does the soul attain truth?-for in attempting to consider
+anything in company with the body she is obviously deceived.
+
+Yes, that is true. 
+Then must not existence be revealed to her in thought, if at all?
+
+Yes. 
+And thought is best when the mind is gathered into herself and none
+of these things trouble her-neither sounds nor sights nor pain nor
+any pleasure-when she has as little as possible to do with the body,
+and has no bodily sense or feeling, but is aspiring after being?
+
+That is true. 
+And in this the philosopher dishonors the body; his soul runs away
+from the body and desires to be alone and by herself? 
+
+That is true. 
+Well, but there is another thing, Simmias: Is there or is there not
+an absolute justice? 
+
+Assuredly there is. 
+And an absolute beauty and absolute good? 
+Of course. 
+But did you ever behold any of them with your eyes? 
+Certainly not. 
+Or did you ever reach them with any other bodily sense? (and I speak
+not of these alone, but of absolute greatness, and health, and strength,
+and of the essence or true nature of everything). Has the reality
+of them ever been perceived by you through the bodily organs? or rather,
+is not the nearest approach to the knowledge of their several natures
+made by him who so orders his intellectual vision as to have the most
+exact conception of the essence of that which he considers?
+
+Certainly. 
+And he attains to the knowledge of them in their highest purity who
+goes to each of them with the mind alone, not allowing when in the
+act of thought the intrusion or introduction of sight or any other
+sense in the company of reason, but with the very light of the mind
+in her clearness penetrates into the very fight of truth in each;
+he has got rid, as far as he can, of eyes and ears and of the whole
+body, which he conceives of only as a disturbing element, hindering
+the soul from the acquisition of knowledge when in company with her-is
+not this the sort of man who, if ever man did, is likely to attain
+the knowledge of existence? 
+
+There is admirable truth in that, Socrates, replied Simmias.
+
+And when they consider all this, must not true philosophers make a
+reflection, of which they will speak to one another in such words
+as these: We have found, they will say, a path of speculation which
+seems to bring us and the argument to the conclusion that while we
+are in the body, and while the soul is mingled with this mass of evil,
+our desire will not be satisfied, and our desire is of the truth.
+For the body is a source of endless trouble to us by reason of the
+mere requirement of food; and also is liable to diseases which overtake
+and impede us in the search after truth: and by filling us so full
+of loves, and lusts, and fears, and fancies, and idols, and every
+sort of folly, prevents our ever having, as people say, so much as
+a thought. For whence come wars, and fightings, and factions? whence
+but from the body and the lusts of the body? For wars are occasioned
+by the love of money, and money has to be acquired for the sake and
+in the service of the body; and in consequence of all these things
+the time which ought to be given to philosophy is lost. Moreover,
+if there is time and an inclination toward philosophy, yet the body
+introduces a turmoil and confusion and fear into the course of speculation,
+and hinders us from seeing the truth: and all experience shows that
+if we would have pure knowledge of anything we must be quit of the
+body, and the soul in herself must behold all things in themselves:
+then I suppose that we shall attain that which we desire, and of which
+we say that we are lovers, and that is wisdom, not while we live,
+but after death, as the argument shows; for if while in company with
+the body the soul cannot have pure knowledge, one of two things seems
+to follow-either knowledge is not to be attained at all, or, if at
+all, after death. For then, and not till then, the soul will be in
+herself alone and without the body. In this present life, I reckon
+that we make the nearest approach to knowledge when we have the least
+possible concern or interest in the body, and are not saturated with
+the bodily nature, but remain pure until the hour when God himself
+is pleased to release us. And then the foolishness of the body will
+be cleared away and we shall be pure and hold converse with other
+pure souls, and know of ourselves the clear light everywhere; and
+this is surely the light of truth. For no impure thing is allowed
+to approach the pure. These are the sort of words, Simmias, which
+the true lovers of wisdom cannot help saying to one another, and thinking.
+You will agree with me in that? 
+
+Certainly, Socrates. 
+But if this is true, O my friend, then there is great hope that, going
+whither I go, I shall there be satisfied with that which has been
+the chief concern of you and me in our past lives. And now that the
+hour of departure is appointed to me, this is the hope with which
+I depart, and not I only, but every man who believes that he has his
+mind purified. 
+
+Certainly, replied Simmias. 
+And what is purification but the separation of the soul from the body,
+as I was saying before; the habit of the soul gathering and collecting
+herself into herself, out of all the courses of the body; the dwelling
+in her own place alone, as in another life, so also in this, as far
+as she can; the release of the soul from the chains of the body?
+
+Very true, he said. 
+And what is that which is termed death, but this very separation and
+release of the soul from the body? 
+
+To be sure, he said. 
+And the true philosophers, and they only, study and are eager to release
+the soul. Is not the separation and release of the soul from the body
+their especial study? 
+
+That is true. 
+And as I was saying at first, there would be a ridiculous contradiction
+in men studying to live as nearly as they can in a state of death,
+and yet repining when death comes. 
+
+Certainly. 
+Then, Simmias, as the true philosophers are ever studying death, to
+them, of all men, death is the least terrible. Look at the matter
+in this way: how inconsistent of them to have been always enemies
+of the body, and wanting to have the soul alone, and when this is
+granted to them, to be trembling and repining; instead of rejoicing
+at their departing to that place where, when they arrive, they hope
+to gain that which in life they loved (and this was wisdom), and at
+the same time to be rid of the company of their enemy. Many a man
+has been willing to go to the world below in the hope of seeing there
+an earthly love, or wife, or son, and conversing with them. And will
+he who is a true lover of wisdom, and is persuaded in like manner
+that only in the world below he can worthily enjoy her, still repine
+at death? Will he not depart with joy? Surely he will, my friend,
+if he be a true philosopher. For he will have a firm conviction that
+there only, and nowhere else, he can find wisdom in her purity. And
+if this be true, he would be very absurd, as I was saying, if he were
+to fear death. 
+
+He would, indeed, replied Simmias. 
+And when you see a man who is repining at the approach of death, is
+not his reluctance a sufficient proof that he is not a lover of wisdom,
+but a lover of the body, and probably at the same time a lover of
+either money or power, or both? 
+
+That is very true, he replied. 
+There is a virtue, Simmias, which is named courage. Is not that a
+special attribute of the philosopher? 
+
+Certainly. 
+Again, there is temperance. Is not the calm, and control, and disdain
+of the passions which even the many call temperance, a quality belonging
+only to those who despise the body and live in philosophy?
+
+That is not to be denied. 
+For the courage and temperance of other men, if you will consider
+them, are really a contradiction. 
+
+How is that, Socrates? 
+Well, he said, you are aware that death is regarded by men in general
+as a great evil. 
+
+That is true, he said. 
+And do not courageous men endure death because they are afraid of
+yet greater evils? 
+
+That is true. 
+Then all but the philosophers are courageous only from fear, and because
+they are afraid; and yet that a man should be courageous from fear,
+and because he is a coward, is surely a strange thing. 
+
+Very true. 
+And are not the temperate exactly in the same case? They are temperate
+because they are intemperate-which may seem to be a contradiction,
+but is nevertheless the sort of thing which happens with this foolish
+temperance. For there are pleasures which they must have, and are
+afraid of losing; and therefore they abstain from one class of pleasures
+because they are overcome by another: and whereas intemperance is
+defined as "being under the dominion of pleasure," they overcome only
+because they are overcome by pleasure. And that is what I mean by
+saying that they are temperate through intemperance. 
+
+That appears to be true. 
+Yet the exchange of one fear or pleasure or pain for another fear
+or pleasure or pain, which are measured like coins, the greater with
+the less, is not the exchange of virtue. O my dear Simmias, is there
+not one true coin for which all things ought to exchange?-and that
+is wisdom; and only in exchange for this, and in company with this,
+is anything truly bought or sold, whether courage or temperance or
+justice. And is not all true virtue the companion of wisdom, no matter
+what fears or pleasures or other similar goods or evils may or may
+not attend her? But the virtue which is made up of these goods, when
+they are severed from wisdom and exchanged with one another, is a
+shadow of virtue only, nor is there any freedom or health or truth
+in her; but in the true exchange there is a purging away of all these
+things, and temperance, and justice, and courage, and wisdom herself
+are a purgation of them. And I conceive that the founders of the mysteries
+had a real meaning and were not mere triflers when they intimated
+in a figure long ago that he who passes unsanctified and uninitiated
+into the world below will live in a slough, but that he who arrives
+there after initiation and purification will dwell with the gods.
+For "many," as they say in the mysteries, "are the thyrsus bearers,
+but few are the mystics,"-meaning, as I interpret the words, the true
+philosophers. In the number of whom I have been seeking, according
+to my ability, to find a place during my whole life; whether I have
+sought in a right way or not, and whether I have succeeded or not,
+I shall truly know in a little while, if God will, when I myself arrive
+in the other world: that is my belief. And now, Simmias and Cebes,
+I have answered those who charge me with not grieving or repining
+at parting from you and my masters in this world; and I am right in
+not repining, for I believe that I shall find other masters and friends
+who are as good in the world below. But all men cannot believe this,
+and I shall be glad if my words have any more success with you than
+with the judges of the Athenians. 
+
+Cebes answered: I agree, Socrates, in the greater part of what you
+say. But in what relates to the soul, men are apt to be incredulous;
+they fear that when she leaves the body her place may be nowhere,
+and that on the very day of death she may be destroyed and perish-immediately
+on her release from the body, issuing forth like smoke or air and
+vanishing away into nothingness. For if she could only hold together
+and be herself after she was released from the evils of the body,
+there would be good reason to hope, Socrates, that what you say is
+true. But much persuasion and many arguments are required in order
+to prove that when the man is dead the soul yet exists, and has any
+force of intelligence. 
+
+True, Cebes, said Socrates; and shall I suggest that we talk a little
+of the probabilities of these things? 
+
+I am sure, said Cebes, that I should gready like to know your opinion
+about them. 
+
+I reckon, said Socrates, that no one who heard me now, not even if
+he were one of my old enemies, the comic poets, could accuse me of
+idle talking about matters in which I have no concern. Let us, then,
+if you please, proceed with the inquiry. 
+
+Whether the souls of men after death are or are not in the world below,
+is a question which may be argued in this manner: The ancient doctrine
+of which I have been speaking affirms that they go from this into
+the other world, and return hither, and are born from the dead. Now
+if this be true, and the living come from the dead, then our souls
+must be in the other world, for if not, how could they be born again?
+And this would be conclusive, if there were any real evidence that
+the living are only born from the dead; but if there is no evidence
+of this, then other arguments will have to be adduced. 
+
+That is very true, replied Cebes. 
+Then let us consider this question, not in relation to man only, but
+in relation to animals generally, and to plants, and to everything
+of which there is generation, and the proof will be easier. Are not
+all things which have opposites generated out of their opposites?
+I mean such things as good and evil, just and unjust-and there are
+innumerable other opposites which are generated out of opposites.
+And I want to show that this holds universally of all opposites; I
+mean to say, for example, that anything which becomes greater must
+become greater after being less. 
+
+True. 
+And that which becomes less must have been once greater and then become
+less. 
+
+Yes. 
+And the weaker is generated from the stronger, and the swifter from
+the slower. 
+
+Very true. 
+And the worse is from the better, and the more just is from the more
+unjust. 
+
+Of course. 
+And is this true of all opposites? and are we convinced that all of
+them are generated out of opposites? 
+
+Yes. 
+And in this universal opposition of all things, are there not also
+two intermediate processes which are ever going on, from one to the
+other, and back again; where there is a greater and a less there is
+also an intermediate process of increase and diminution, and that
+which grows is said to wax, and that which decays to wane?
+
+Yes, he said. 
+And there are many other processes, such as division and composition,
+cooling and heating, which equally involve a passage into and out
+of one another. And this holds of all opposites, even though not always
+expressed in words-they are generated out of one another, and there
+is a passing or process from one to the other of them? 
+
+Very true, he replied. 
+Well, and is there not an opposite of life, as sleep is the opposite
+of waking? 
+
+True, he said. 
+And what is that? 
+Death, he answered. 
+And these, then, are generated, if they are opposites, the one from
+the other, and have there their two intermediate processes also?
+
+Of course. 
+Now, said Socrates, I will analyze one of the two pairs of opposites
+which I have mentioned to you, and also its intermediate processes,
+and you shall analyze the other to me. The state of sleep is opposed
+to the state of waking, and out of sleeping waking is generated, and
+out of waking, sleeping, and the process of generation is in the one
+case falling asleep, and in the other waking up. Are you agreed about
+that? 
+
+Quite agreed. 
+Then suppose that you analyze life and death to me in the same manner.
+Is not death opposed to life? 
+
+Yes. 
+And they are generated one from the other? 
+Yes. 
+What is generated from life? 
+Death. 
+And what from death? 
+I can only say in answer-life. 
+Then the living, whether things or persons, Cebes, are generated from
+the dead? 
+
+That is clear, he replied. 
+Then the inference is, that our souls are in the world below?
+
+That is true. 
+And one of the two processes or generations is visible-for surely
+the act of dying is visible? 
+
+Surely, he said. 
+And may not the other be inferred as the complement of nature, who
+is not to be supposed to go on one leg only? And if not, a corresponding
+process of generation in death must also be assigned to her?
+
+Certainly, he replied. 
+And what is that process? 
+Revival. 
+And revival, if there be such a thing, is the birth of the dead into
+the world of the living? 
+
+Quite true. 
+Then there is a new way in which we arrive at the inference that the
+living come from the dead, just as the dead come from the living;
+and if this is true, then the souls of the dead must be in some place
+out of which they come again. And this, as I think, has been satisfactorily
+proved. 
+
+Yes, Socrates, he said; all this seems to flow necessarily out of
+our previous admissions. 
+
+And that these admissions are not unfair, Cebes, he said, may be shown,
+as I think, in this way: If generation were in a straight line only,
+and there were no compensation or circle in nature, no turn or return
+into one another, then you know that all things would at last have
+the same form and pass into the same state, and there would be no
+more generation of them. 
+
+What do you mean? he said. 
+A simple thing enough, which I will illustrate by the case of sleep,
+he replied. You know that if there were no compensation of sleeping
+and waking, the story of the sleeping Endymion would in the end have
+no meaning, because all other things would be asleep, too, and he
+would not be thought of. Or if there were composition only, and no
+division of substances, then the chaos of Anaxagoras would come again.
+And in like manner, my dear Cebes, if all things which partook of
+life were to die, and after they were dead remained in the form of
+death, and did not come to life again, all would at last die, and
+nothing would be alive-how could this be otherwise? For if the living
+spring from any others who are not the dead, and they die, must not
+all things at last be swallowed up in death? 
+
+There is no escape from that, Socrates, said Cebes; and I think that
+what you say is entirely true. 
+
+Yes, he said, Cebes, I entirely think so, too; and we are not walking
+in a vain imagination; but I am confident in the belief that there
+truly is such a thing as living again, and that the living spring
+from the dead, and that the souls of the dead are in existence, and
+that the good souls have a better portion than the evil.
+
+Cebes added: Your favorite doctrine, Socrates, that knowledge is simply
+recollection, if true, also necessarily implies a previous time in
+which we learned that which we now recollect. But this would be impossible
+unless our soul was in some place before existing in the human form;
+here, then, is another argument of the soul's immortality.
+
+But tell me, Cebes, said Simmias, interposing, what proofs are given
+of this doctrine of recollection? I am not very sure at this moment
+that I remember them. 
+
+One excellent proof, said Cebes, is afforded by questions. If you
+put a question to a person in a right way, he will give a true answer
+of himself; but how could he do this unless there were knowledge and
+right reason already in him? And this is most clearly shown when he
+is taken to a diagram or to anything of that sort. 
+
+But if, said Socrates, you are still incredulous, Simmias, I would
+ask you whether you may not agree with me when you look at the matter
+in another way; I mean, if you are still incredulous as to whether
+knowledge is recollection. 
+
+Incredulous, I am not, said Simmias; but I want to have this doctrine
+of recollection brought to my own recollection, and, from what Cebes
+has said, I am beginning to recollect and be convinced; but I should
+still like to hear what more you have to say. 
+
+This is what I would say, he replied: We should agree, if I am not
+mistaken, that what a man recollects he must have known at some previous
+time. 
+
+Very true. 
+And what is the nature of this recollection? And, in asking this,
+I mean to ask whether, when a person has already seen or heard or
+in any way perceived anything, and he knows not only that, but something
+else of which he has not the same, but another knowledge, we may not
+fairly say that he recollects that which comes into his mind. Are
+we agreed about that? 
+
+What do you mean? 
+I mean what I may illustrate by the following instance: The knowledge
+of a lyre is not the same as the knowledge of a man? 
+
+True. 
+And yet what is the feeling of lovers when they recognize a lyre,
+or a garment, or anything else which the beloved has been in the habit
+of using? Do not they, from knowing the lyre, form in the mind's eye
+an image of the youth to whom the lyre belongs? And this is recollection:
+and in the same way anyone who sees Simmias may remember Cebes; and
+there are endless other things of the same nature. 
+
+Yes, indeed, there are-endless, replied Simmias. 
+And this sort of thing, he said, is recollection, and is most commonly
+a process of recovering that which has been forgotten through time
+and inattention. 
+
+Very true, he said. 
+Well; and may you not also from seeing the picture of a horse or a
+lyre remember a man? and from the picture of Simmias, you may be led
+to remember Cebes? 
+
+True. 
+Or you may also be led to the recollection of Simmias himself?
+
+True, he said. 
+And in all these cases, the recollection may be derived from things
+either like or unlike? 
+
+That is true. 
+And when the recollection is derived from like things, then there
+is sure to be another question, which is, whether the likeness of
+that which is recollected is in any way defective or not.
+
+Very true, he said. 
+And shall we proceed a step further, and affirm that there is such
+a thing as equality, not of wood with wood, or of stone with stone,
+but that, over and above this, there is equality in the abstract?
+Shall we affirm this? 
+
+Affirm, yes, and swear to it, replied Simmias, with all the confidence
+in life. 
+
+And do we know the nature of this abstract essence? 
+To be sure, he said. 
+And whence did we obtain this knowledge? Did we not see equalities
+of material things, such as pieces of wood and stones, and gather
+from them the idea of an equality which is different from them?-you
+will admit that? Or look at the matter again in this way: Do not the
+same pieces of wood or stone appear at one time equal, and at another
+time unequal? 
+
+That is certain. 
+But are real equals ever unequal? or is the idea of equality ever
+inequality? 
+
+That surely was never yet known, Socrates. 
+Then these (so-called) equals are not the same with the idea of equality?
+
+I should say, clearly not, Socrates. 
+And yet from these equals, although differing from the idea of equality,
+you conceived and attained that idea? 
+
+Very true, he said. 
+Which might be like, or might be unlike them? 
+Yes. 
+But that makes no difference; whenever from seeing one thing you conceived
+another, whether like or unlike, there must surely have been an act
+of recollection? 
+
+Very true. 
+But what would you say of equal portions of wood and stone, or other
+material equals? and what is the impression produced by them? Are
+they equals in the same sense as absolute equality? or do they fall
+short of this in a measure? 
+
+Yes, he said, in a very great measure, too. 
+And must we not allow that when I or anyone look at any object, and
+perceive that the object aims at being some other thing, but falls
+short of, and cannot attain to it-he who makes this observation must
+have had previous knowledge of that to which, as he says, the other,
+although similar, was inferior? 
+
+Certainly. 
+And has not this been our case in the matter of equals and of absolute
+equality? 
+
+Precisely. 
+Then we must have known absolute equality previously to the time when
+we first saw the material equals, and reflected that all these apparent
+equals aim at this absolute equality, but fall short of it?
+
+That is true. 
+And we recognize also that this absolute equality has only been known,
+and can only be known, through the medium of sight or touch, or of
+some other sense. And this I would affirm of all such conceptions.
+
+Yes, Socrates, as far as the argument is concerned, one of them is
+the same as the other. 
+
+And from the senses, then, is derived the knowledge that all sensible
+things aim at an idea of equality of which they fall short-is not
+that true? 
+
+Yes. 
+Then before we began to see or hear or perceive in any way, we must
+have had a knowledge of absolute equality, or we could not have referred
+to that the equals which are derived from the senses-for to that they
+all aspire, and of that they fall short? 
+
+That, Socrates, is certainly to be inferred from the previous statements.
+
+And did we not see and hear and acquire our other senses as soon as
+we were born? 
+
+Certainly. 
+Then we must have acquired the knowledge of the ideal equal at some
+time previous to this? 
+
+Yes. 
+That is to say, before we were born, I suppose? 
+True. 
+And if we acquired this knowledge before we were born, and were born
+having it, then we also knew before we were born and at the instant
+of birth not only equal or the greater or the less, but all other
+ideas; for we are not speaking only of equality absolute, but of beauty,
+goodness, justice, holiness, and all which we stamp with the name
+of essence in the dialectical process, when we ask and answer questions.
+Of all this we may certainly affirm that we acquired the knowledge
+before birth? 
+
+That is true. 
+But if, after having acquired, we have not forgotten that which we
+acquired, then we must always have been born with knowledge, and shall
+always continue to know as long as life lasts-for knowing is the acquiring
+and retaining knowledge and not forgetting. Is not forgetting, Simmias,
+just the losing of knowledge? 
+
+Quite true, Socrates. 
+But if the knowledge which we acquired before birth was lost by us
+at birth, and afterwards by the use of the senses we recovered that
+which we previously knew, will not that which we call learning be
+a process of recovering our knowledge, and may not this be rightly
+termed recollection by us? 
+
+Very true. 
+For this is clear, that when we perceived something, either by the
+help of sight or hearing, or some other sense, there was no difficulty
+in receiving from this a conception of some other thing like or unlike
+which had been forgotten and which was associated with this; and therefore,
+as I was saying, one of two alternatives follows: either we had this
+knowledge at birth, and continued to know through life; or, after
+birth, those who are said to learn only remember, and learning is
+recollection only. 
+
+Yes, that is quite true, Socrates. 
+And which alternative, Simmias, do you prefer? Had we the knowledge
+at our birth, or did we remember afterwards the things which we knew
+previously to our birth? 
+
+I cannot decide at the moment. 
+At any rate you can decide whether he who has knowledge ought or ought
+not to be able to give a reason for what he knows. 
+
+Certainly, he ought. 
+But do you think that every man is able to give a reason about these
+very matters of which we are speaking? 
+
+I wish that they could, Socrates, but I greatly fear that to-morrow
+at this time there will be no one able to give a reason worth having.
+
+Then you are not of opinion, Simmias, that all men know these things?
+
+Certainly not. 
+Then they are in process of recollecting that which they learned before.
+
+Certainly. 
+But when did our souls acquire this knowledge?-not since we were born
+as men? 
+
+Certainly not. 
+And therefore previously? 
+Yes. 
+Then, Simmias, our souls must have existed before they were in the
+form of man-without bodies, and must have had intelligence.
+
+Unless indeed you suppose, Socrates, that these notions were given
+us at the moment of birth; for this is the only time that remains.
+
+Yes, my friend, but when did we lose them? for they are not in us
+when we are born-that is admitted. Did we lose them at the moment
+of receiving them, or at some other time? 
+
+No, Socrates, I perceive that I was unconsciously talking nonsense.
+
+Then may we not say, Simmias, that if, as we are always repeating,
+there is an absolute beauty, and goodness, and essence in general,
+and to this, which is now discovered to be a previous condition of
+our being, we refer all our sensations, and with this compare them-assuming
+this to have a prior existence, then our souls must have had a prior
+existence, but if not, there would be no force in the argument? There
+can be no doubt that if these absolute ideas existed before we were
+born, then our souls must have existed before we were born, and if
+not the ideas, then not the souls. 
+
+Yes, Socrates; I am convinced that there is precisely the same necessity
+for the existence of the soul before birth, and of the essence of
+which you are speaking: and the argument arrives at a result which
+happily agrees with my own notion. For there is nothing which to my
+mind is so evident as that beauty, goodness, and other notions of
+which you were just now speaking have a most real and absolute existence;
+and I am satisfied with the proof. 
+
+Well, but is Cebes equally satisfied? for I must convince him too.
+
+I think, said Simmias, that Cebes is satisfied: although he is the
+most incredulous of mortals, yet I believe that he is convinced of
+the existence of the soul before birth. But that after death the soul
+will continue to exist is not yet proven even to my own satisfaction.
+I cannot get rid of the feeling of the many to which Cebes was referring-the
+feeling that when the man dies the soul may be scattered, and that
+this may be the end of her. For admitting that she may be generated
+and created in some other place, and may have existed before entering
+the human body, why after having entered in and gone out again may
+she not herself be destroyed and come to an end? 
+
+Very true, Simmias, said Cebes; that our soul existed before we were
+born was the first half of the argument, and this appears to have
+been proven; that the soul will exist after death as well as before
+birth is the other half of which the proof is still wanting, and has
+to be supplied. 
+
+But that proof, Simmias and Cebes, has been already given, said Socrates,
+if you put the two arguments together-I mean this and the former one,
+in which we admitted that everything living is born of the dead. For
+if the soul existed before birth, and in coming to life and being
+born can be born only from death and dying, must she not after death
+continue to exist, since she has to be born again? surely the proof
+which you desire has been already furnished. Still I suspect that
+you and Simmias would be glad to probe the argument further; like
+children, you are haunted with a fear that when the soul leaves the
+body, the wind may really blow her away and scatter her; especially
+if a man should happen to die in stormy weather and not when the sky
+is calm. 
+
+Cebes answered with a smile: Then, Socrates, you must argue us out
+of our fears-and yet, strictly speaking, they are not our fears, but
+there is a child within us to whom death is a sort of hobgoblin; him
+too we must persuade not to be afraid when he is alone with him in
+the dark. 
+
+Socrates said: Let the voice of the charmer be applied daily until
+you have charmed him away. 
+
+And where shall we find a good charmer of our fears, Socrates, when
+you are gone? 
+
+Hellas, he replied, is a large place, Cebes, and has many good men,
+and there are barbarous races not a few: seek for him among them all,
+far and wide, sparing neither pains nor money; for there is no better
+way of using your money. And you must not forget to seek for him among
+yourselves too; for he is nowhere more likely to be found.
+
+The search, replied Cebes, shall certainly be made. And now, if you
+please, let us return to the point of the argument at which we digressed.
+
+By all means, replied Socrates; what else should I please?
+
+Very good, he said. 
+Must we not, said Socrates, ask ourselves some question of this sort?-What
+is that which, as we imagine, is liable to be scattered away, and
+about which we fear? and what again is that about which we have no
+fear? And then we may proceed to inquire whether that which suffers
+dispersion is or is not of the nature of soul-our hopes and fears
+as to our own souls will turn upon that. 
+
+That is true, he said. 
+Now the compound or composite may be supposed to be naturally capable
+of being dissolved in like manner as of being compounded; but that
+which is uncompounded, and that only, must be, if anything is, indissoluble.
+
+Yes; that is what I should imagine, said Cebes. 
+And the uncompounded may be assumed to be the same and unchanging,
+where the compound is always changing and never the same?
+
+That I also think, he said. 
+Then now let us return to the previous discussion. Is that idea or
+essence, which in the dialectical process we define as essence of
+true existence-whether essence of equality, beauty, or anything else:
+are these essences, I say, liable at times to some degree of change?
+or are they each of them always what they are, having the same simple,
+self-existent and unchanging forms, and not admitting of variation
+at all, or in any way, or at any time? 
+
+They must be always the same, Socrates, replied Cebes. 
+And what would you say of the many beautiful-whether men or horses
+or garments or any other things which may be called equal or beautiful-are
+they all unchanging and the same always, or quite the reverse? May
+they not rather be described as almost always changing and hardly
+ever the same either with themselves or with one another?
+
+The latter, replied Cebes; they are always in a state of change.
+
+And these you can touch and see and perceive with the senses, but
+the unchanging things you can only perceive with the mind-they are
+invisible and are not seen? 
+
+That is very true, he said. 
+Well, then, he added, let us suppose that there are two sorts of existences,
+one seen, the other unseen. 
+
+Let us suppose them. 
+The seen is the changing, and the unseen is the unchanging.
+
+That may be also supposed. 
+And, further, is not one part of us body, and the rest of us soul?
+
+To be sure. 
+And to which class may we say that the body is more alike and akin?
+
+Clearly to the seen: no one can doubt that. 
+And is the soul seen or not seen? 
+Not by man, Socrates. 
+And by "seen" and "not seen" is meant by us that which is or is not
+visible to the eye of man? 
+
+Yes, to the eye of man. 
+And what do we say of the soul? is that seen or not seen?
+
+Not seen. 
+Unseen then? 
+Yes. 
+Then the soul is more like to the unseen, and the body to the seen?
+
+That is most certain, Socrates. 
+And were we not saying long ago that the soul when using the body
+as an instrument of perception, that is to say, when using the sense
+of sight or hearing or some other sense (for the meaning of perceiving
+through the body is perceiving through the senses)-were we not saying
+that the soul too is then dragged by the body into the region of the
+changeable, and wanders and is confused; the world spins round her,
+and she is like a drunkard when under their influence? 
+
+Very true. 
+But when returning into herself she reflects; then she passes into
+the realm of purity, and eternity, and immortality, and unchangeableness,
+which are her kindred, and with them she ever lives, when she is by
+herself and is not let or hindered; then she ceases from her erring
+ways, and being in communion with the unchanging is unchanging. And
+this state of the soul is called wisdom? 
+
+That is well and truly said, Socrates, he replied. 
+And to which class is the soul more nearly alike and akin, as far
+as may be inferred from this argument, as well as from the preceding
+one? 
+
+I think, Socrates, that, in the opinion of everyone who follows the
+argument, the soul will be infinitely more like the unchangeable even
+the most stupid person will not deny that. 
+
+And the body is more like the changing? 
+Yes. 
+Yet once more consider the matter in this light: When the soul and
+the body are united, then nature orders the soul to rule and govern,
+and the body to obey and serve. 
+
+Now which of these two functions is akin to the divine? and which
+to the mortal? Does not the divine appear to you to be that which
+naturally orders and rules, and the mortal that which is subject and
+servant? 
+
+True. 
+And which does the soul resemble? 
+The soul resembles the divine and the body the mortal-there can be
+no doubt of that, Socrates. 
+
+Then reflect, Cebes: is not the conclusion of the whole matter this?-that
+the soul is in the very likeness of the divine, and immortal, and
+intelligible, and uniform, and indissoluble, and unchangeable; and
+the body is in the very likeness of the human, and mortal, and unintelligible,
+and multiform, and dissoluble, and changeable. Can this, my dear Cebes,
+be denied? 
+
+No, indeed. 
+But if this is true, then is not the body liable to speedy dissolution?
+
+and is not the soul almost or altogether indissoluble? 
+Certainly. 
+And do you further observe, that after a man is dead, the body, which
+is the visible part of man, and has a visible framework, which is
+called a corpse, and which would naturally be dissolved and decomposed
+and dissipated, is not dissolved or decomposed at once, but may remain
+for a good while, if the constitution be sound at the time of death,
+and the season of the year favorable? For the body when shrunk and
+embalmed, as is the custom in Egypt, may remain almost entire through
+infinite ages; and even in decay, still there are some portions, such
+as the bones and ligaments, which are practically indestructible.
+You allow that? 
+
+Yes. 
+And are we to suppose that the soul, which is invisible, in passing
+to the true Hades, which like her is invisible, and pure, and noble,
+and on her way to the good and wise God, whither, if God will, my
+soul is also soon to go-that the soul, I repeat, if this be her nature
+and origin, is blown away and perishes immediately on quitting the
+body as the many say? That can never be, dear Simmias and Cebes. The
+truth rather is that the soul which is pure at departing draws after
+her no bodily taint, having never voluntarily had connection with
+the body, which she is ever avoiding, herself gathered into herself
+(for such abstraction has been the study of her life). And what does
+this mean but that she has been a true disciple of philosophy and
+has practised how to die easily? And is not philosophy the practice
+of death? 
+
+Certainly. 
+That soul, I say, herself invisible, departs to the invisible worldto
+the divine and immortal and rational: thither arriving, she lives
+in bliss and is released from the error and folly of men, their fears
+and wild passions and all other human ills, and forever dwells, as
+they say of the initiated, in company with the gods. Is not this true,
+Cebes? 
+
+Yes, said Cebes, beyond a doubt. 
+But the soul which has been polluted, and is impure at the time of
+her departure, and is the companion and servant of the body always,
+and is in love with and fascinated by the body and by the desires
+and pleasures of the body, until she is led to believe that the truth
+only exists in a bodily form, which a man may touch and see and taste
+and use for the purposes of his lusts-the soul, I mean, accustomed
+to hate and fear and avoid the intellectual principle, which to the
+bodily eye is dark and invisible, and can be attained only by philosophy-do
+you suppose that such a soul as this will depart pure and unalloyed?
+
+That is impossible, he replied. 
+She is engrossed by the corporeal, which the continual association
+and constant care of the body have made natural to her. 
+
+Very true. 
+And this, my friend, may be conceived to be that heavy, weighty, earthy
+element of sight by which such a soul is depressed and dragged down
+again into the visible world, because she is afraid of the invisible
+and of the world below-prowling about tombs and sepulchres, in the
+neighborhood of which, as they tell us, are seen certain ghostly apparitions
+of souls which have not departed pure, but are cloyed with sight and
+therefore visible. 
+
+That is very likely, Socrates. 
+Yes, that is very likely, Cebes; and these must be the souls, not
+of the good, but of the evil, who are compelled to wander about such
+places in payment of the penalty of their former evil way of life;
+and they continue to wander until the desire which haunts them is
+satisfied and they are imprisoned in another body. And they may be
+supposed to be fixed in the same natures which they had in their former
+life. 
+
+What natures do you mean, Socrates? 
+I mean to say that men who have followed after gluttony, and wantonness,
+and drunkenness, and have had no thought of avoiding them, would pass
+into asses and animals of that sort. What do you think? 
+
+I think that exceedingly probable. 
+And those who have chosen the portion of injustice, and tyranny, and
+violence, will pass into wolves, or into hawks and kites; whither
+else can we suppose them to go? 
+
+Yes, said Cebes; that is doubtless the place of natures such as theirs.
+And there is no difficulty, he said, in assigning to all of them places
+answering to their several natures and propensities? 
+
+There is not, he said. 
+Even among them some are happier than others; and the happiest both
+in themselves and their place of abode are those who have practised
+the civil and social virtues which are called temperance and justice,
+and are acquired by habit and attention without philosophy and mind.
+
+Why are they the happiest? 
+Because they may be expected to pass into some gentle, social nature
+which is like their own, such as that of bees or ants, or even back
+again into the form of man, and just and moderate men spring from
+them. 
+
+That is not impossible. 
+But he who is a philosopher or lover of learning, and is entirely
+pure at departing, is alone permitted to reach the gods. And this
+is the reason, Simmias and Cebes, why the true votaries of philosophy
+abstain from all fleshly lusts, and endure and refuse to give themselves
+up to them-not because they fear poverty or the ruin of their families,
+like the lovers of money, and the world in general; nor like the lovers
+of power and honor, because they dread the dishonor or disgrace of
+evil deeds. 
+
+No, Socrates, that would not become them, said Cebes. 
+No, indeed, he replied; and therefore they who have a care of their
+souls, and do not merely live in the fashions of the body, say farewell
+to all this; they will not walk in the ways of the blind: and when
+philosophy offers them purification and release from evil, they feel
+that they ought not to resist her influence, and to her they incline,
+and whither she leads they follow her. 
+
+What do you mean, Socrates? 
+I will tell you, he said. The lovers of knowledge are conscious that
+their souls, when philosophy receives them, are simply fastened and
+glued to their bodies: the soul is only able to view existence through
+the bars of a prison, and not in her own nature; she is wallowing
+in the mire of all ignorance; and philosophy, seeing the terrible
+nature of her confinement, and that the captive through desire is
+led to conspire in her own captivity (for the lovers of knowledge
+are aware that this was the original state of the soul, and that when
+she was in this state philosophy received and gently counseled her,
+and wanted to release her, pointing out to her that the eye is full
+of deceit, and also the ear and other senses, and persuading her to
+retire from them in all but the necessary use of them and to be gathered
+up and collected into herself, and to trust only to herself and her
+own intuitions of absolute existence, and mistrust that which comes
+to her through others and is subject to vicissitude)-philosophy shows
+her that this is visible and tangible, but that what she sees in her
+own nature is intellectual and invisible. And the soul of the true
+philosopher thinks that she ought not to resist this deliverance,
+and therefore abstains from pleasures and desires and pains and fears,
+as far as she is able; reflecting that when a man has great joys or
+sorrows or fears or desires he suffers from them, not the sort of
+evil which might be anticipated-as, for example, the loss of his health
+or property, which he has sacrificed to his lusts-but he has suffered
+an evil greater far, which is the greatest and worst of all evils,
+and one of which he never thinks. 
+
+And what is that, Socrates? said Cebes. 
+Why, this: When the feeling of pleasure or pain in the soul is most
+intense, all of us naturally suppose that the object of this intense
+feeling is then plainest and truest: but this is not the case.
+
+Very true. 
+And this is the state in which the soul is most enthralled by the
+body. 
+
+How is that? 
+Why, because each pleasure and pain is a sort of nail which nails
+and rivets the soul to the body, and engrosses her and makes her believe
+that to be true which the body affirms to be true; and from agreeing
+with the body and having the same delights she is obliged to have
+the same habits and ways, and is not likely ever to be pure at her
+departure to the world below, but is always saturated with the body;
+so that she soon sinks into another body and there germinates and
+grows, and has therefore no part in the communion of the divine and
+pure and simple. 
+
+That is most true, Socrates, answered Cebes. 
+And this, Cebes, is the reason why the true lovers of knowledge are
+temperate and brave; and not for the reason which the world gives.
+
+Certainly not. 
+Certainly not! For not in that way does the soul of a philosopher
+reason; she will not ask philosophy to release her in order that when
+released she may deliver herself up again to the thraldom of pleasures
+and pains, doing a work only to be undone again, weaving instead of
+unweaving her Penelope's web. But she will make herself a calm of
+passion and follow Reason, and dwell in her, beholding the true and
+divine (which is not matter of opinion), and thence derive nourishment.
+Thus she seeks to live while she lives, and after death she hopes
+to go to her own kindred and to be freed from human ills. Never fear,
+Simmias and Cebes, that a soul which has been thus nurtured and has
+had these pursuits, will at her departure from the body be scattered
+and blown away by the winds and be nowhere and nothing. 
+
+When Socrates had done speaking, for a considerable time there was
+silence; he himself and most of us appeared to be meditating on what
+had been said; only Cebes and Simmias spoke a few words to one another.
+And Socrates observing this asked them what they thought of the argument,
+and whether there was anything wanting? For, said he, much is still
+open to suspicion and attack, if anyone were disposed to sift the
+matter thoroughly. If you are talking of something else I would rather
+not interrupt you, but if you are still doubtful about the argument
+do not hesitate to say exactly what you think, and let us have anything
+better which you can suggest; and if I am likely to be of any use,
+allow me to help you. 
+
+Simmias said: I must confess, Socrates, that doubts did arise in our
+minds, and each of us was urging and inciting the other to put the
+question which he wanted to have answered and which neither of us
+liked to ask, fearing that our importunity might be troublesome under
+present circumstances. 
+
+Socrates smiled and said: O Simmias, how strange that is; I am not
+very likely to persuade other men that I do not regard my present
+situation as a misfortune, if I am unable to persuade you, and you
+will keep fancying that I am at all more troubled now than at any
+other time. Will you not allow that I have as much of the spirit of
+prophecy in me as the swans? For they, when they perceive that they
+must die, having sung all their life long, do then sing more than
+ever, rejoicing in the thought that they are about to go away to the
+god whose ministers they are. But men, because they are themselves
+afraid of death, slanderously affirm of the swans that they sing a
+lament at the last, not considering that no bird sings when cold,
+or hungry, or in pain, not even the nightingale, nor the swallow,
+nor yet the hoopoe; which are said indeed to tune a lay of sorrow,
+although I do not believe this to be true of them any more than of
+the swans. But because they are sacred to Apollo and have the gift
+of prophecy and anticipate the good things of another world, therefore
+they sing and rejoice in that day more than they ever did before.
+And I, too, believing myself to be the consecrated servant of the
+same God, and the fellow servant of the swans, and thinking that I
+have received from my master gifts of prophecy which are not inferior
+to theirs, would not go out of life less merrily than the swans. Cease
+to mind then about this, but speak and ask anything which you like,
+while the eleven magistrates of Athens allow. 
+
+Well, Socrates, said Simmias, then I will tell you my difficulty,
+and Cebes will tell you his. For I dare say that you, Socrates, feel,
+as I do, how very hard or almost impossible is the attainment of any
+certainty about questions such as these in the present life. And yet
+I should deem him a coward who did not prove what is said about them
+to the uttermost, or whose heart failed him before he had examined
+them on every side. For he should persevere until he has attained
+one of two things: either he should discover or learn the truth about
+them; or, if this is impossible, I would have him take the best and
+most irrefragable of human notions, and let this be the raft upon
+which he sails through life-not without risk, as I admit, if he cannot
+find some word of God which will more surely and safely carry him.
+And now, as you bid me, I will venture to question you, as I should
+not like to reproach myself hereafter with not having said at the
+time what I think. For when I consider the matter either alone or
+with Cebes, the argument does certainly appear to me, Socrates, to
+be not sufficient. 
+
+Socrates answered: I dare say, my friend, that you may be right, but
+I should like to know in what respect the argument is not sufficient.
+
+In this respect, replied Simmias: Might not a person use the same
+argument about harmony and the lyre-might he not say that harmony
+is a thing invisible, incorporeal, fair, divine, abiding in the lyre
+which is harmonized, but that the lyre and the strings are matter
+and material, composite, earthy, and akin to mortality? And when someone
+breaks the lyre, or cuts and rends the strings, then he who takes
+this view would argue as you do, and on the same analogy, that the
+harmony survives and has not perished; for you cannot imagine, as
+we would say, that the lyre without the strings, and the broken strings
+themselves, remain, and yet that the harmony, which is of heavenly
+and immortal nature and kindred, has perished-and perished too before
+the mortal. The harmony, he would say, certainly exists somewhere,
+and the wood and strings will decay before that decays. For I suspect,
+Socrates, that the notion of the soul which we are all of us inclined
+to entertain, would also be yours, and that you too would conceive
+the body to be strung up, and held together, by the elements of hot
+and cold, wet and dry, and the like, and that the soul is the harmony
+or due proportionate admixture of them. And, if this is true, the
+inference clearly is that when the strings of the body are unduly
+loosened or overstrained through disorder or other injury, then the
+soul, though most divine, like other harmonies of music or of the
+works of art, of course perishes at once, although the material remains
+of the body may last for a considerable time, until they are either
+decayed or burnt. Now if anyone maintained that the soul, being the
+harmony of the elements of the body, first perishes in that which
+is called death, how shall we answer him? 
+
+Socrates looked round at us as his manner was, and said, with a smile:
+Simmias has reason on his side; and why does not some one of you who
+is abler than myself answer him? for there is force in his attack
+upon me. But perhaps, before we answer him, we had better also hear
+what Cebes has to say against the argument-this will give us time
+for reflection, and when both of them have spoken, we may either assent
+to them if their words appear to be in consonance with the truth,
+or if not, we may take up the other side, and argue with them. Please
+to tell me then, Cebes, he said, what was the difficulty which troubled
+you? 
+
+Cebes said: I will tell you. My feeling is that the argument is still
+in the same position, and open to the same objections which were urged
+before; for I am ready to admit that the existence of the soul before
+entering into the bodily form has been very ingeniously, and, as I
+may be allowed to say, quite sufficiently proven; but the existence
+of the soul after death is still, in my judgment, unproven. Now my
+objection is not the same as that of Simmias; for I am not disposed
+to deny that the soul is stronger and more lasting than the body,
+being of opinion that in all such respects the soul very far excels
+the body. Well, then, says the argument to me, why do you remain unconvinced?
+When you see that the weaker is still in existence after the man is
+dead, will you not admit that the more lasting must also survive during
+the same period of time? Now I, like Simmias, must employ a figure;
+and I shall ask you to consider whether the figure is to the point.
+The parallel which I will suppose is that of an old weaver, who dies,
+and after his death somebody says: He is not dead, he must be alive;
+and he appeals to the coat which he himself wove and wore, and which
+is still whole and undecayed. And then he proceeds to ask of someone
+who is incredulous, whether a man lasts longer, or the coat which
+is in use and wear; and when he is answered that a man lasts far longer,
+thinks that he has thus certainly demonstrated the survival of the
+man, who is the more lasting, because the less lasting remains. But
+that, Simmias, as I would beg you to observe, is not the truth; everyone
+sees that he who talks thus is talking nonsense. For the truth is
+that this weaver, having worn and woven many such coats, though he
+outlived several of them, was himself outlived by the last; but this
+is surely very far from proving that a man is slighter and weaker
+than a coat. Now the relation of the body to the soul may be expressed
+in a similar figure; for you may say with reason that the soul is
+lasting, and the body weak and short-lived in comparison. And every
+soul may be said to wear out many bodies, especially in the course
+of a long life. For if while the man is alive the body deliquesces
+and decays, and yet the soul always weaves her garment anew and repairs
+the waste, then of course, when the soul perishes, she must have on
+her last garment, and this only will survive her; but then again when
+the soul is dead the body will at last show its native weakness, and
+soon pass into decay. And therefore this is an argument on which I
+would rather not rely as proving that the soul exists after death.
+For suppose that we grant even more than you affirm as within the
+range of possibility, and besides acknowledging that the soul existed
+before birth admit also that after death the souls of some are existing
+still, and will exist, and will be born and die again and again, and
+that there is a natural strength in the soul which will hold out and
+be born many times-for all this, we may be still inclined to think
+that she will weary in the labors of successive births, and may at
+last succumb in one of her deaths and utterly perish; and this death
+and dissolution of the body which brings destruction to the soul may
+be unknown to any of us, for no one of us can have had any experience
+of it: and if this be true, then I say that he who is confident in
+death has but a foolish confidence, unless he is able to prove that
+the soul is altogether immortal and imperishable. But if he is not
+able to prove this, he who is about to die will always have reason
+to fear that when the body is disunited, the soul also may utterly
+perish. 
+
+All of us, as we afterwards remarked to one another, had an unpleasant
+feeling at hearing them say this. When we had been so firmly convinced
+before, now to have our faith shaken seemed to introduce a confusion
+and uncertainty, not only into the previous argument, but into any
+future one; either we were not good judges, or there were no real
+grounds of belief. 
+
+Ech. There I feel with you-indeed I do, Phaedo, and when you were
+speaking, I was beginning to ask myself the same question: What argument
+can I ever trust again? For what could be more convincing than the
+argument of Socrates, which has now fallen into discredit? That the
+soul is a harmony is a doctrine which has always had a wonderful attraction
+for me, and, when mentioned, came back to me at once, as my own original
+conviction. And now I must begin again and find another argument which
+will assure me that when the man is dead the soul dies not with him.
+Tell me, I beg, how did Socrates proceed? Did he appear to share the
+unpleasant feeling which you mention? or did he receive the interruption
+calmly and give a sufficient answer? Tell us, as exactly as you can,
+what passed. 
+
+Phaed. Often, Echecrates, as I have admired Socrates, I never admired
+him more than at that moment. That he should be able to answer was
+nothing, but what astonished me was, first, the gentle and pleasant
+and approving manner in which he regarded the words of the young men,
+and then his quick sense of the wound which had been inflicted by
+the argument, and his ready application of the healing art. He might
+be compared to a general rallying his defeated and broken army, urging
+them to follow him and return to the field of argument. 
+
+Ech. How was that? 
+
+Phaed. You shall hear, for I was close to him on his right hand, seated
+on a sort of stool, and he on a couch which was a good deal higher.
+Now he had a way of playing with my hair, and then he smoothed my
+head, and pressed the hair upon my neck, and said: To-morrow, Phaedo,
+I suppose that these fair locks of yours will be severed.
+
+Yes, Socrates, I suppose that they will, I replied. 
+Not so if you will take my advice. 
+What shall I do with them? I said. 
+To-day, he replied, and not to-morrow, if this argument dies and cannot
+be brought to life again by us, you and I will both shave our locks;
+and if I were you, and could not maintain my ground against Simmias
+and Cebes, I would myself take an oath, like the Argives, not to wear
+hair any more until I had renewed the conflict and defeated them.
+
+Yes, I said, but Heracles himself is said not to be a match for two.
+
+Summon me then, he said, and I will be your Iolaus until the sun goes
+down. 
+
+I summon you rather, I said, not as Heracles summoning Iolaus, but
+as Iolaus might summon Heracles. 
+
+That will be all the same, he said. But first let us take care that
+we avoid a danger. 
+
+And what is that? I said. 
+The danger of becoming misologists, he replied, which is one of the
+very worst things that can happen to us. For as there are misanthropists
+or haters of men, there are also misologists or haters of ideas, and
+both spring from the same cause, which is ignorance of the world.
+Misanthropy arises from the too great confidence of inexperience;
+you trust a man and think him altogether true and good and faithful,
+and then in a little while he turns out to be false and knavish; and
+then another and another, and when this has happened several times
+to a man, especially within the circle of his most trusted friends,
+as he deems them, and he has often quarreled with them, he at last
+hates all men, and believes that no one has any good in him at all.
+I dare say that you must have observed this. 
+
+Yes, I said. 
+And is not this discreditable? The reason is that a man, having to
+deal with other men, has no knowledge of them; for if he had knowledge
+he would have known the true state of the case, that few are the good
+and few the evil, and that the great majority are in the interval
+between them. 
+
+How do you mean? I said. 
+I mean, he replied, as you might say of the very large and very small,
+that nothing is more uncommon than a very large or a very small man;
+and this applies generally to all extremes, whether of great and small,
+or swift and slow, or fair and foul, or black and white: and whether
+the instances you select be men or dogs or anything else, few are
+the extremes, but many are in the mean between them. Did you never
+observe this? 
+
+Yes, I said, I have. 
+And do you not imagine, he said, that if there were a competition
+of evil, the first in evil would be found to be very few?
+
+Yes, that is very likely, I said. 
+Yes, that is very likely, he replied; not that in this respect arguments
+are like men-there I was led on by you to say more than I had intended;
+but the point of comparison was that when a simple man who has no
+skill in dialectics believes an argument to be true which he afterwards
+imagines to be false, whether really false or not, and then another
+and another, he has no longer any faith left, and great disputers,
+as you know, come to think, at last that they have grown to be the
+wisest of mankind; for they alone perceive the utter unsoundness and
+instability of all arguments, or, indeed, of all things, which, like
+the currents in the Euripus, are going up and down in never-ceasing
+ebb and flow. 
+
+That is quite true, I said. 
+Yes, Phaedo, he replied, and very melancholy too, if there be such
+a thing as truth or certainty or power of knowing at all, that a man
+should have lighted upon some argument or other which at first seemed
+true and then turned out to be false, and instead of blaming himself
+and his own want of wit, because he is annoyed, should at last be
+too glad to transfer the blame from himself to arguments in general;
+and forever afterwards should hate and revile them, and lose the truth
+and knowledge of existence. 
+
+Yes, indeed, I said; that is very melancholy. 
+Let us, then, in the first place, he said, be careful of admitting
+into our souls the notion that there is no truth or health or soundness
+in any arguments at all; but let us rather say that there is as yet
+no health in us, and that we must quit ourselves like men and do our
+best to gain health-you and all other men with a view to the whole
+of your future life, and I myself with a view to death. For at this
+moment I am sensible that I have not the temper of a philosopher;
+like the vulgar, I am only a partisan. For the partisan, when he is
+engaged in a dispute, cares nothing about the rights of the question,
+but is anxious only to convince his hearers of his own assertions.
+And the difference between him and me at the present moment is only
+this-that whereas he seeks to convince his hearers that what he says
+is true, I am rather seeking to convince myself; to convince my hearers
+is a secondary matter with me. And do but see how much I gain by this.
+For if what I say is true, then I do well to be persuaded of the truth,
+but if there be nothing after death, still, during the short time
+that remains, I shall save my friends from lamentations, and my ignorance
+will not last, and therefore no harm will be done. This is the state
+of mind, Simmias and Cebes, in which I approach the argument. And
+I would ask you to be thinking of the truth and not of Socrates: agree
+with me, if I seem to you to be speaking the truth; or if not, withstand
+me might and main, that I may not deceive you as well as myself in
+my enthusiasm, and, like the bee, leave my sting in you before I die.
+
+And now let us proceed, he said. And first of all let me be sure that
+I have in my mind what you were saying. Simmias, if I remember rightly,
+has fears and misgivings whether the soul, being in the form of harmony,
+although a fairer and diviner thing than the body, may not perish
+first. On the other hand, Cebes appeared to grant that the soul was
+more lasting than the body, but he said that no one could know whether
+the soul, after having worn out many bodies, might not perish herself
+and leave her last body behind her; and that this is death, which
+is the destruction not of the body but of the soul, for in the body
+the work of destruction is ever going on. Are not these, Simmias and
+Cebes, the points which we have to consider? 
+
+They both agreed to this statement of them. 
+He proceeded: And did you deny the force of the whole preceding argument,
+or of a part only? 
+
+Of a part only, they replied. 
+And what did you think, he said, of that part of the argument in which
+we said that knowledge was recollection only, and inferred from this
+that the soul must have previously existed somewhere else before she
+was enclosed in the body? Cebes said that he had been wonderfully
+impressed by that part of the argument, and that his conviction remained
+unshaken. Simmias agreed, and added that he himself could hardly imagine
+the possibility of his ever thinking differently about that.
+
+But, rejoined Socrates, you will have to think differently, my Theban
+friend, if you still maintain that harmony is a compound, and that
+the soul is a harmony which is made out of strings set in the frame
+of the body; for you will surely never allow yourself to say that
+a harmony is prior to the elements which compose the harmony.
+
+No, Socrates, that is impossible. 
+But do you not see that you are saying this when you say that the
+soul existed before she took the form and body of man, and was made
+up of elements which as yet had no existence? For harmony is not a
+sort of thing like the soul, as you suppose; but first the lyre, and
+the strings, and the sounds exist in a state of discord, and then
+harmony is made last of all, and perishes first. And how can such
+a notion of the soul as this agree with the other? 
+
+Not at all, replied Simmias. 
+And yet, he said, there surely ought to be harmony when harmony is
+the theme of discourse. 
+
+There ought, replied Simmias. 
+But there is no harmony, he said, in the two propositions that knowledge
+is recollection, and that the soul is a harmony. Which of them, then,
+will you retain? 
+
+I think, he replied, that I have a much stronger faith, Socrates,
+in the first of the two, which has been fully demonstrated to me,
+than in the latter, which has not been demonstrated at all, but rests
+only on probable and plausible grounds; and I know too well that these
+arguments from probabilities are impostors, and unless great caution
+is observed in the use of them they are apt to be deceptive-in geometry,
+and in other things too. But the doctrine of knowledge and recollection
+has been proven to me on trustworthy grounds; and the proof was that
+the soul must have existed before she came into the body, because
+to her belongs the essence of which the very name implies existence.
+Having, as I am convinced, rightly accepted this conclusion, and on
+sufficient grounds, I must, as I suppose, cease to argue or allow
+others to argue that the soul is a harmony. 
+
+Let me put the matter, Simmias, he said, in another point of view:
+Do you imagine that a harmony or any other composition can be in a
+state other than that of the elements out of which it is compounded?
+
+Certainly not. 
+Or do or suffer anything other than they do or suffer? 
+He agreed. 
+Then a harmony does not lead the parts or elements which make up the
+harmony, but only follows them. 
+
+He assented. 
+For harmony cannot possibly have any motion, or sound, or other quality
+which is opposed to the parts. 
+
+That would be impossible, he replied. 
+And does not every harmony depend upon the manner in which the elements
+are harmonized? 
+
+I do not understand you, he said. 
+I mean to say that a harmony admits of degrees, and is more of a harmony,
+and more completely a harmony, when more completely harmonized, if
+that be possible; and less of a harmony, and less completely a harmony,
+when less harmonized. 
+
+True. 
+But does the soul admit of degrees? or is one soul in the very least
+degree more or less, or more or less completely, a soul than another?
+
+Not in the least. 
+Yet surely one soul is said to have intelligence and virtue, and to
+be good, and another soul is said to have folly and vice, and to be
+an evil soul: and this is said truly? 
+
+Yes, truly. 
+But what will those who maintain the soul to be a harmony say of this
+presence of virtue and vice in the soul?-Will they say that there
+is another harmony, and another discord, and that the virtuous soul
+is harmonized, and herself being a harmony has another harmony within
+her, and that the vicious soul is inharmonical and has no harmony
+within her? 
+
+I cannot say, replied Simmias; but I suppose that something of that
+kind would be asserted by those who take this view. 
+
+And the admission is already made that no soul is more a soul than
+another; and this is equivalent to admitting that harmony is not more
+or less harmony, or more or less completely a harmony? 
+
+Quite true. 
+And that which is not more or less a harmony is not more or less harmonized?
+
+True. 
+And that which is not more or less harmonized cannot have more or
+less of harmony, but only an equal harmony? 
+
+Yes, an equal harmony. 
+Then one soul not being more or less absolutely a soul than another,
+is not more or less harmonized? 
+
+Exactly. 
+And therefore has neither more nor less of harmony or of discord?
+
+She has not. 
+And having neither more nor less of harmony or of discord, one soul
+has no more vice or virtue than another, if vice be discord and virtue
+harmony? 
+
+Not at all more. 
+Or speaking more correctly, Simmias, the soul, if she is a harmony,
+will never have any vice; because a harmony, being absolutely a harmony,
+has no part in the inharmonical? 
+
+No. 
+And therefore a soul which is absolutely a soul has no vice?
+
+How can she have, consistently with the preceding argument?
+
+Then, according to this, if the souls of all animals are equally and
+absolutely souls, they will be equally good? 
+
+I agree with you, Socrates, he said. 
+And can all this be true, think you? he said; and are all these consequences
+admissible-which nevertheless seem to follow from the assumption that
+the soul is a harmony? 
+
+Certainly not, he said. 
+Once more, he said, what ruling principle is there of human things
+other than the soul, and especially the wise soul? Do you know of
+any? 
+
+Indeed, I do not. 
+And is the soul in agreement with the affections of the body? or is
+she at variance with them? For example, when the body is hot and thirsty,
+does not the soul incline us against drinking? and when the body is
+hungry, against eating? And this is only one instance out of ten thousand
+of the opposition of the soul to the things of the body.
+
+Very true. 
+But we have already acknowledged that the soul, being a harmony, can
+never utter a note at variance with the tensions and relaxations and
+vibrations and other affections of the strings out of which she is
+composed; she can only follow, she cannot lead them? 
+
+Yes, he said, we acknowledged that, certainly. 
+And yet do we not now discover the soul to be doing the exact opposite-leading
+the elements of which she is believed to be composed; almost always
+opposing and coercing them in all sorts of ways throughout life, sometimes
+more violently with the pains of medicine and gymnastic; then again
+more gently; threatening and also reprimanding the desires, passions,
+fears, as if talking to a thing which is not herself, as Homer in
+the "Odyssey" represents Odysseus doing in the words, 
+
+"He beat his breast, and thus reproached his heart: 
+Endure, my heart; far worse hast thou endured!" Do you think that
+Homer could have written this under the idea that the soul is a harmony
+capable of being led by the affections of the body, and not rather
+of a nature which leads and masters them; and herself a far diviner
+thing than any harmony? 
+
+Yes, Socrates, I quite agree to that. 
+Then, my friend, we can never be right in saying that the soul is
+a harmony, for that would clearly contradict the divine Homer as well
+as ourselves. 
+
+True, he said. 
+Thus much, said Socrates, of Harmonia, your Theban goddess, Cebes,
+who has not been ungracious to us, I think; but what shall I say to
+the Theban Cadmus, and how shall I propitiate him? 
+
+I think that you will discover a way of propitiating him, said Cebes;
+I am sure that you have answered the argument about harmony in a manner
+that I could never have expected. For when Simmias mentioned his objection,
+I quite imagined that no answer could be given to him, and therefore
+I was surprised at finding that his argument could not sustain the
+first onset of yours; and not impossibly the other, whom you call
+Cadmus, may share a similar fate. 
+
+Nay, my good friend, said Socrates, let us not boast, lest some evil
+eye should put to flight the word which I am about to speak. That,
+however, may be left in the hands of those above, while I draw near
+in Homeric fashion, and try the mettle of your words. Briefly, the
+sum of your objection is as follows: You want to have proven to you
+that the soul is imperishable and immortal, and you think that the
+philosopher who is confident in death has but a vain and foolish confidence,
+if he thinks that he will fare better than one who has led another
+sort of life, in the world below, unless he can prove this; and you
+say that the demonstration of the strength and divinity of the soul,
+and of her existence prior to our becoming men, does not necessarily
+imply her immortality. Granting that the soul is longlived, and has
+known and done much in a former state, still she is not on that account
+immortal; and her entrance into the human form may be a sort of disease
+which is the beginning of dissolution, and may at last, after the
+toils of life are over, end in that which is called death. And whether
+the soul enters into the body once only or many times, that, as you
+would say, makes no difference in the fears of individuals. For any
+man, who is not devoid of natural feeling, has reason to fear, if
+he has no knowledge or proof of the soul's immortality. That is what
+I suppose you to say, Cebes, which I designedly repeat, in order that
+nothing may escape us, and that you may, if you wish, add or subtract
+anything. 
+
+But, said Cebes, as far as I can see at present, I have nothing to
+add or subtract; you have expressed my meaning. 
+
+Socrates paused awhile, and seemed to be absorbed in reflection. At
+length he said: This is a very serious inquiry which you are raising,
+Cebes, involving the whole question of generation and corruption,
+about which I will, if you like, give you my own experience; and you
+can apply this, if you think that anything which I say will avail
+towards the solution of your difficulty. 
+
+I should very much like, said Cebes, to hear what you have to say.
+
+Then I will tell you, said Socrates. When I was young, Cebes, I had
+a prodigious desire to know that department of philosophy which is
+called Natural Science; this appeared to me to have lofty aims, as
+being the science which has to do with the causes of things, and which
+teaches why a thing is, and is created and destroyed; and I was always
+agitating myself with the consideration of such questions as these:
+Is the growth of animals the result of some decay which the hot and
+cold principle contracts, as some have said? Is the blood the element
+with which we think, or the air, or the fire? or perhaps nothing of
+this sort-but the brain may be the originating power of the perceptions
+of hearing and sight and smell, and memory and opinion may come from
+them, and science may be based on memory and opinion when no longer
+in motion, but at rest. And then I went on to examine the decay of
+them, and then to the things of heaven and earth, and at last I concluded
+that I was wholly incapable of these inquiries, as I will satisfactorily
+prove to you. For I was fascinated by them to such a degree that my
+eyes grew blind to things that I had seemed to myself, and also to
+others, to know quite well; and I forgot what I had before thought
+to be self-evident, that the growth of man is the result of eating
+and drinking; for when by the digestion of food flesh is added to
+flesh and bone to bone, and whenever there is an aggregation of congenial
+elements, the lesser bulk becomes larger and the small man greater.
+Was not that a reasonable notion? 
+
+Yes, said Cebes, I think so. 
+Well; but let me tell you something more. There was a time when I
+thought that I understood the meaning of greater and less pretty well;
+and when I saw a great man standing by a little one I fancied that
+one was taller than the other by a head; or one horse would appear
+to be greater than another horse: and still more clearly did I seem
+to perceive that ten is two more than eight, and that two cubits are
+more than one, because two is twice one. 
+
+And what is now your notion of such matters? said Cebes.
+
+I should be far enough from imagining, he replied, that I knew the
+cause of any of them, indeed I should, for I cannot satisfy myself
+that when one is added to one, the one to which the addition is made
+becomes two, or that the two units added together make two by reason
+of the addition. For I cannot understand how, when separated from
+the other, each of them was one and not two, and now, when they are
+brought together, the mere juxtaposition of them can be the cause
+of their becoming two: nor can I understand how the division of one
+is the way to make two; for then a different cause would produce the
+same effect-as in the former instance the addition and juxtaposition
+of one to one was the cause of two, in this the separation and subtraction
+of one from the other would be the cause. Nor am I any longer satisfied
+that I understand the reason why one or anything else either is generated
+or destroyed or is at all, but I have in my mind some confused notion
+of another method, and can never admit this. 
+
+Then I heard someone who had a book of Anaxagoras, as he said, out
+of which he read that mind was the disposer and cause of all, and
+I was quite delighted at the notion of this, which appeared admirable,
+and I said to myself: If mind is the disposer, mind will dispose all
+for the best, and put each particular in the best place; and I argued
+that if anyone desired to find out the cause of the generation or
+destruction or existence of anything, he must find out what state
+of being or suffering or doing was best for that thing, and therefore
+a man had only to consider the best for himself and others, and then
+he would also know the worse, for that the same science comprised
+both. And I rejoiced to think that I had found in Anaxagoras a teacher
+of the causes of existence such as I desired, and I imagined that
+he would tell me first whether the earth is flat or round; and then
+he would further explain the cause and the necessity of this, and
+would teach me the nature of the best and show that this was best;
+and if he said that the earth was in the centre, he would explain
+that this position was the best, and I should be satisfied if this
+were shown to me, and not want any other sort of cause. And I thought
+that I would then go and ask him about the sun and moon and stars,
+and that he would explain to me their comparative swiftness, and their
+returnings and various states, and how their several affections, active
+and passive, were all for the best. For I could not imagine that when
+he spoke of mind as the disposer of them, he would give any other
+account of their being as they are, except that this was best; and
+I thought when he had explained to me in detail the cause of each
+and the cause of all, he would go on to explain to me what was best
+for each and what was best for all. I had hopes which I would not
+have sold for much, and I seized the books and read them as fast as
+I could in my eagerness to know the better and the worse.
+
+What hopes I had formed, and how grievously was I disappointed! As
+I proceeded, I found my philosopher altogether forsaking mind or any
+other principle of order, but having recourse to air, and ether, and
+water, and other eccentricities. I might compare him to a person who
+began by maintaining generally that mind is the cause of the actions
+of Socrates, but who, when he endeavored to explain the causes of
+my several actions in detail, went on to show that I sit here because
+my body is made up of bones and muscles; and the bones, as he would
+say, are hard and have ligaments which divide them, and the muscles
+are elastic, and they cover the bones, which have also a covering
+or environment of flesh and skin which contains them; and as the bones
+are lifted at their joints by the contraction or relaxation of the
+muscles, I am able to bend my limbs, and this is why I am sitting
+here in a curved posture: that is what he would say, and he would
+have a similar explanation of my talking to you, which he would attribute
+to sound, and air, and hearing, and he would assign ten thousand other
+causes of the same sort, forgetting to mention the true cause, which
+is that the Athenians have thought fit to condemn me, and accordingly
+I have thought it better and more right to remain here and undergo
+my sentence; for I am inclined to think that these muscles and bones
+of mine would have gone off to Megara or Boeotia-by the dog of Egypt
+they would, if they had been guided only by their own idea of what
+was best, and if I had not chosen as the better and nobler part, instead
+of playing truant and running away, to undergo any punishment which
+the State inflicts. There is surely a strange confusion of causes
+and conditions in all this. It may be said, indeed, that without bones
+and muscles and the other parts of the body I cannot execute my purposes.
+But to say that I do as I do because of them, and that this is the
+way in which mind acts, and not from the choice of the best, is a
+very careless and idle mode of speaking. I wonder that they cannot
+distinguish the cause from the condition, which the many, feeling
+about in the dark, are always mistaking and misnaming. And thus one
+man makes a vortex all round and steadies the earth by the heaven;
+another gives the air as a support to the earth, which is a sort of
+broad trough. Any power which in disposing them as they are disposes
+them for the best never enters into their minds, nor do they imagine
+that there is any superhuman strength in that; they rather expect
+to find another Atlas of the world who is stronger and more everlasting
+and more containing than the good is, and are clearly of opinion that
+the obligatory and containing power of the good is as nothing; and
+yet this is the principle which I would fain learn if anyone would
+teach me. But as I have failed either to discover myself or to learn
+of anyone else, the nature of the best, I will exhibit to you, if
+you like, what I have found to be the second best mode of inquiring
+into the cause. 
+
+I should very much like to hear that, he replied. 
+Socrates proceeded: I thought that as I had failed in the contemplation
+of true existence, I ought to be careful that I did not lose the eye
+of my soul; as people may injure their bodily eye by observing and
+gazing on the sun during an eclipse, unless they take the precaution
+of only looking at the image reflected in the water, or in some similar
+medium. That occurred to me, and I was afraid that my soul might be
+blinded altogether if I looked at things with my eyes or tried by
+the help of the senses to apprehend them. And I thought that I had
+better have recourse to ideas, and seek in them the truth of existence.
+I dare say that the simile is not perfect-for I am very far from admitting
+that he who contemplates existence through the medium of ideas, sees
+them only "through a glass darkly," any more than he who sees them
+in their working and effects. However, this was the method which I
+adopted: I first assumed some principle which I judged to be the strongest,
+and then I affirmed as true whatever seemed to agree with this, whether
+relating to the cause or to anything else; and that which disagreed
+I regarded as untrue. But I should like to explain my meaning clearly,
+as I do not think that you understand me. 
+
+No, indeed, replied Cebes, not very well. 
+There is nothing new, he said, in what I am about to tell you; but
+only what I have been always and everywhere repeating in the previous
+discussion and on ot</pre></body></html>

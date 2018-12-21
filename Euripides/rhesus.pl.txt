@@ -1,0 +1,1056 @@
+
+<BASE HREF="http://classics.mit.edu/Euripides/rhesus.pl.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Euripides/rhesus.pl.txt"><font color=blue>classics.mit.edu/Euripides/rhesus.pl.txt</font></a>.<br>
+<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Euripides/rhesus.pl.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
+<html><body><pre>
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Euripides/rhesus.html
+
+Rhesus
+By Euripides
+
+
+
+----------------------------------------------------------------------
+
+Dramatis Personae
+
+CHORUS OF TROJAN SENTINELS ODYSSEUS
+HECTOR DIOMEDES
+AENEAS PARIS
+DOLON ATHENA
+MESSENGER, a shepherd THE MUSE
+RHESUS
+
+----------------------------------------------------------------------
+
+Before Hector's tent at the gates of Troy. Enter CHORUS
+
+----------------------------------------------------------------------
+
+CHORUS To Hector's couch away, one of you wakeful squires that tend
+the prince, to see if he have any fresh tidings from the warriors
+who were set to guard the assembled host during the fourth watch of
+the night.  (Calls to HECTOR in the tent)  Lift up thy head! Prop
+thine arm beneath it! Unseal that louring eye from its repose; thy
+lowly couch of scattered leaves, O Hector, quit! 'Tis time to hearken.
+(Enter HECTOR.)  
+
+HECTOR Who goes there? Is it a friend who calls? Who art thou? Thy
+watchword? Speak! Who in the dark hours comes nigh my couch, must
+tell me who he is. 
+
+CHORUS Sentinels we of the army. 
+
+HECTOR Why this tumultuous haste? 
+
+CHORUS Be of good courage. 
+
+HECTOR Is there some midnight ambuscade? 
+
+CHORUS Nay. 
+
+HECTOR Then why dost thou desert thy post and rouse the army, save
+thou have some tidings of the night? Art not aware how near the Argive
+host we take our night's repose in all our harness clad?
+
+CHORUS To arms! O Hector, seek thine allies' sleeping camp! Bid them
+wield the spear! Awake them! thine own company despatch a friend.
+Saddle and bridle the steeds. Who will to the son of Panthus? who
+to Europa's son, captain of the Lycian band? Where are they who should
+inspect the victims? Where be the leaders of the light-armed troops?
+Ye Phrygian archers, string your horn-tipped bows. 
+
+HECTOR Now fear, now confidence thy tidings inspire; nothing is plainly
+set forth. Can it be that thou art smitten with wild affright by Pan,
+the son of Cronion, and leaving thy watch therefore dost rouse the
+host? What means thy noisy summons? What tidings can I say thou bringest?
+Thy words are many, but no plain statement hast thou made.
+
+CHORUS The long night through, O Hector, the Argive host hath kindled
+fires, and bright with torches shines the anchored fleet. To Agamemnon's
+tent the whole army moves clamorously by night, eager for fresh orders
+maybe, for never before have I seen such commotion among yon sea-faring
+folk. Wherefore I was suspicious of what might happen and came to
+tell thee, that thou mayest have no cause to blame me hereafter.
+
+HECTOR In good season com'st thou, albeit thy tidings are fraught
+with terror; for those cowards are bent on giving me the slip and
+stealing away from this land in their ships by night; their midnight
+signalling convinces me of this. Ah! Fortune, to rob me in my hour
+of triumph, a lion of his prey, or ever this spear of mine with one
+fell swoop had made an end for aye of yonder Argive host! Yea, had
+not the sun's bright lamp withheld his light, I had not stayed my
+victor's spear, ere I had fired their ships and made my way from tent
+to tent, drenching this hand in Achaean gore. Right eager was I to
+make a night attack and take advantage of the stroke of luck by heaven
+sent, but those wise seers of mine, who have heaven's will so pat,
+persuaded me to wait the dawn, and then leave not one Achaean in the
+land. But those others await not the counsels of my soothsayers; darkness
+turns runaways to heroes. Needs must we now without delay pass this
+word along the line "Arm, arm! from slumber cease!" for many a man
+of them, e'en as he leaps aboard his ship, shall be smitten through
+the back and sprinkle the ladders with blood, and others shall be
+fast bound with cords and learn to till our Phrygian glebe.
+
+CHORUS Thou hastest, Hector, before thou knowest clearly what is
+happening; for we do not know for certain whether our foes are flying.
+
+HECTOR What reason else had the Argive host to kindle fires?
+
+CHORUS I cannot say; my soul doth much misgive me. 
+
+HECTOR If this thou fearest, be sure there's nought thou wouldst
+not fear. 
+
+CHORUS Never aforetime did the enemy kindle such a blaze.
+
+HECTOR No, nor ever before did they suffer such shameful defeat and
+rout. 
+
+CHORUS This thou didst achieve; look now to what remains to do.
+
+HECTOR I have but one word to say, "Arm, arm against the foe!"
+
+CHORUS Lo! where Aeneas comes, in hot haste too, as though he hath
+news to tell his friends.  (Enter ENEAS.)  
+
+AENEAS Why, Hector, have the sentinels in terror made their way through
+the host to thy couch to hold a midnight conclave and disturb the
+army? 
+
+HECTOR Case thee in thy coat of mail, Aeneas. 
+
+AENEAS How now? are tidings come of some secret stratagem set on
+foot during the night by the foe? 
+
+HECTOR They are flying, these foes of ours, and going aboard their
+ships. 
+
+AENEAS What sure proof canst thou give of this? 
+
+HECTOR The livelong night they are kindling blazing torches; methinks
+they will not wait for the morrow, but after lighting brands upon
+their ships' decks will leave this and to their homes. 
+
+AENEAS And thou, wherefore dost thou gird thee with thy sword?
+
+HECTOR With my spear will I stop them even as they fly and leap aboard
+their ships, and my hand shail be heavy upon them; for shameful it
+were in us, aye, and cowardly as well as shameful, when God gives
+them into our hands, to let our foes escape without a blow after all
+the injuries they have done us. 
+
+AENEAS Would thou wert as sage as thou art bold But lo! among mortals
+the same man is not dowered by nature with universal knowledge; each
+hath his special gift appointed him, thine is arms, another's is sage
+counsel. Thou hearest their torches are blazing, and art fired with
+the hope that the Achaeans are flying, and wouldst lead on our troops
+across the trenches in the calm still night. Now after crossing the
+deep yawning trench, supposing thou shouldst find the enemy are not
+flying from the land, but are awaiting thy onset, beware lest thou
+suffer defeat and so never reach this city again; for how wilt thou
+pass the palisades in a rout? And how shall thy charioteers cross
+the bridges without dashing the axles of their cars to pieces? And,
+if victorious, thou hast next the son of Peleus to engage; he will
+ne'er suffer thee to cast the firebrand on the fleet, no, nor to harry
+the Achaeans as thou dost fondly fancy. Nay, for yon man is fierce
+as fire, a very tower of valiancy. Let us rather then leave our men
+to sleep calmly under arms after the weariness of battle, while we
+send, as I advise, whoe'er will volunteer, to spy upon the enemy;
+and if they really are preparing to fly, let us arise and fall upon
+the Argive host, but if this signalling is a trap to catch us, we
+shall discover from the spy the enemy's designs and take our measures;
+such is my advice, O King. 
+
+CHORUS It likes me well; so change thy mind and adopt this counsel.
+I love not hazardous commands in generals. What better scheme could
+be than for a fleet spy to approach the ships and learn why our foes
+are lighting fires in front of their naval station? 
+
+HECTOR Since this finds favour with you all, prevail.  (To AENEAS)
+Go thou and marshal our allies; mayhap the host hearing of our midnight
+council is disturbed. Mine shall it be to send one forth to spy upon
+the foe. And if I discover any plot amongst them, thou shalt fully
+hear thereof, and at the council-board shalt learn our will; but in
+case they be starting off in flight, with cager ear await the trumpet's
+call, for then I will not stay, but will this very night engage the
+Argive host there where their ships are hauled up. 
+
+AENEAS Send out the spy forthwith; there's safety in thy counsels
+now. And thou shalt find me steadfast at thy side, whene'er occasion
+call.  (Exit AENEAS.)  
+
+HECTOR What Trojan now af all our company doth volunteer to go and
+spy the Argive fleet? Who will be that patriot? Who saith "I will"?
+Myself cannot at every point serve my country and my friends in arms.
+
+DOLON (Comes from the rear) I for my country will gladly run this
+risk and go to spy the Argive fleet, and when I have learnt fully
+all that the Acheans plot I will return. Hear the conditions on which
+I undertake this toil. 
+
+HECTOR True to his name in sooth, his country's friend is Dolon.
+Thy father's house was famed of yore, but thou hast made it doubly
+so. 
+
+DOLON So must I toil, but for my pains a meet reward should I receive.
+For set a price on any deed, and then and there it gives to it a double
+grace. 
+
+HECTOR Yea, that is but fair; I cannot gainsay it. Name any prize
+for thyself save the sway I bear. 
+
+DOLON I covet not thy toilsome sovereignty. 
+
+HECTOR Well then, marry a daughter of Priam and become my good brother.
+
+DOLON Nay, I care not to wed amongst those beyond my station.
+
+HECTOR There's gold, if this thou'lt claim as thy guerdon.
+
+DOLON Gold have I in my home; no sustenance lack I. 
+
+HECTOR What then is thy desire of all that Ilium stores within her?
+
+DOLON Promise me my gift when thou dost conquer the Achaeans.
+
+HECTOR I will give it thee; do thou ask anything except the captains
+of the fleet. 
+
+DOLON Slay them; I do not ask thee to keep thy hand off Menelaus.
+
+HECTOR Is it the son of Oileus thou wouldst ask me for?
+
+DOLON Ill hands to dig and delve are those mid luxury nursed.
+
+HECTOR Whom then of the Acheans wilt thou have alive to hold to ransom?
+
+DOLON I told thee before, my house is stored with gold.
+
+HECTOR Why then, thou shalt come and with thine own hands choose
+out some spoil. 
+
+DOLON Nail up the spoils for the gods on their temple walls.
+
+HECTOR Prithee, what higher prize than these wilt ask me for?
+
+DOLON Achilles' coursers. Needs must the prize be worth the toil
+when one stakes one's life on Fortune's die. 
+
+HECTOR Ah! but thy wishes clash with mine anent those steeds; for
+of immortal stock, they and their sires before them, are those horses
+that bear the son of Peleus on his headlong course. Them did king
+Poseidon, ocean's god, break and give to Peleus, so runs the legend-yet,
+for I did urge thee on, I will not break my word; to thee will I give
+Achilles' team, to add a splendour to thy house. 
+
+DOLON I thank thee; in receiving them I avow I am taking a fairer
+gift than any other Phrygian for my bravery. Yet thee it needs not
+to be envious; countless joys besides this will glad thy heart in
+thy kingship o'er this land.  (Exit HECTOR.)  
+
+CHORUS Great the enterprise, and great the boon thou designest to
+receive. Happy, ay, happy wilt thou be, if thou succeed; fair the
+fame thy toil shall win. Yet to wed with a prince's sister were a
+distinction high. On Heaven's decrees let Justice keep her eye! what
+man can give thou hast, it seems, in full. 
+
+DOLON Now will I set forth, and going within my house will don such
+garb as suits, and then will hasten to the Argive fleet.
+
+CHORUS Why, what dress in place of this wilt thou assume?
+
+DOLON Such as suits my task and furtive steps. 
+
+CHORUS One should ever learn wisdom from the wise; tell me wherewith
+thou wilt drape thy body. 
+
+DOLON I will fasten a wolf skin about my back, and o'er my head put
+the brute's gaping jaws; then fitting its fore-feet to my hands and
+its hind-feet to my legs I will go on all-fours in imitation of its
+gait to puzzle the enemy when I approach their trenches and barriers
+round the ships. But whenever I come to a deserted spot, on two feet
+will I walk; such is the ruse I have decided on. 
+
+CHORUS May Hermes, Maia's child, escort thee safely there and back,
+prince of tricksters as he is! Thou knowest what thou hast to do;
+good luck is all thou needest now. 
+
+DOLON I shall return in safety, and bring to thee the head of Odysseus
+when I have slain him, or maybe the son of Tydeus, and with this clear
+proof before thee thou shalt avow that Dolon went unto the Argive
+fleet; for, ere the dawn appear, I will win back home with bloodstained
+hand.  (Exit DOLON.)  
+
+CHORUS O Apollo, blest godhead, lord of Thymbra and of Delos, who
+hauntest thy fane in Lycia, come with all thy archery, appear this
+night, and by thy guidance save our friend now setting forth, and
+aid the Dardans' scheme, almighty god whose hands in days of yore
+upreared Troy's walls! Good luck attend his mission to the ships!
+may he reach the host of Hellas and spy it out, then turn again and
+reach the altars of his father's home in Ilium! Grant him to mount
+the chariot drawn by Phthia's steeds, when Hector, our master, hath
+sacked Achae's camp, those steeds that the sea-god gave to Peleus,
+son of Aeacus; for he and he alone had heart enough for home and country
+to go and spy the naval station; his spirit I admire; how few stout
+hearts there be, when on the sea the sunlight dies and the city labours
+in the surge; Phrygia yet hath left a valiant few, and bold hearts
+in the battle's press; 'tis only Mysia's sons who scorn us as allies.
+
+Which of the Achaeans will their four-footed murderous foe slay in
+their beds, as he crosses the ground, feigning to be a beast? May
+he lay Menelaus low or slay Agamemnon and bring his head to Helen's
+hands, causing her to lament her evil kinsman, who hath come against
+my city, against the land of Troy with his countless host of ships.
+
+DOLON reappears disguised and departs for the Greek camp.  (Enter
+MESSENGER.)  
+
+MESSENGER  (a Shepherd) . 
+Great king, ever in days to come be it mine to bring my masters such
+news as I am bearing now unto thine ears.  (Enter HECTOR.)
+
+HECTOR Full oft the rustic mind is afflicted with dulness; so thou,
+as like as not, art come to this ill-suited place to tell thy master
+that his flocks are bearing well. Knowest thou not my palace or my
+father's throne? Thither thou shouldst carry thy tale when thou hast
+prospered with thy flocks. 
+
+MESSENGER Dull herdsmen are; I do not gainsay thee. 
+But none the less I bring thee joyful news. 
+
+HECTOR A truce to thy tale of how the sheep-fold fares; I have battles
+to fight and spears to wield. 
+
+MESSENGER The very things of which I, too, came to tell thee; for
+a chieftain of a countless host is on his way to join thee as thy
+friend and to champion this land. 
+
+HECTOR His country? and the home that he hath left? 
+
+MESSENGER His country, Thrace: men call his father Strymon.
+
+HECTOR Didst say that Rhesus was setting foot in 
+
+MESSENGER Thou hast it; and savest me half my speech. 
+
+HECTOR How is it that he comes to Ida's meadows, wandering from the
+broad waggon track across the plain? 
+
+MESSENGER I cannot say for certain, though I might guess. To make
+his entry by night is no idle scheme, when he hears that the plains
+are packed with foemen's troops. But he frightened us rustic hinds
+who dwell alog the slopes of Ida, the earliest settlement in the land,
+as he came by night through yon wood where wild beasts couch. On surged
+the tide of Thracian warriors with loud shouts; whereat in wild amaze
+we drove our flocks unto the heights, for fear that some Argives were
+coming to plunder and harry thy steading, till that we caught the
+sound of voices other than Greek and ceased from our alarm. Then went
+I and questioned in the Thracian tongue those who were reconnoitring
+the road, who it was that lead them, and whose he avowed him to be,
+that came to the city to help the sons of Priam. And when I had heard
+all I wished to learn, I stood still awhile; and lo! I see Rhesus
+mounted like a god upon his Thracian chariot. Of gold was the yoke
+that linked the necks of his steeds whiter than the snow; and on his
+shoulders flashed his targe with figures welded in gold; while a gorgon
+of bronze like that which gleams from the aegis of the goddess was
+bound upon the frontlet of his horses, ringing out its note of fear
+with many a bell. The number of his host thou couldst not reckon to
+a sum exact, for it was beyond one's comprehension; many a knight
+was there, and serried ranks of targeteers, and archers not a few,
+with countless swarms of light-armed troops, in Thracian garb arrayed,
+to bear them company. Such the ally who comes to Troy's assistance;
+him the son of Peleus will ne'er escape or if he fly or meet him spear
+to spear. 
+
+CHORUS Whenso the gods stand by the burghers staunch and true, the
+tide of fortune glides with easy flow to a successful goal.
+
+HECTOR I shall find a host of friends now that fortune smiles upon
+my warring and Zeus is on my side. But no need have we of those who
+shared not our toils of erst, what time the War-god, driving all before
+him, was rending the sails of our ship of state with his tempestuous
+blast. Rhesus hath shewn the friendship he then bore to Troy; for
+he cometh to the feast, albeit he was not with the hunters when they
+took the prey, nor joined his spear with theirs. 
+
+CHORUS Thou art right to scorn and blame such friends; yet welcome
+those who fain would help the state. 
+
+HECTOR Sufficient we who long have kept Ilium safe. 
+
+CHORUS Art so sure thou hast already caught the foe? 
+
+HECTOR Quite sure I am; to-morrow's light will make that plain.
+
+CHORUS Beware of what may chance; full oft doth fortune veer.
+
+HECTOR I loathe the friend who brings his help too late.
+
+MESSENGER O prince, to turn away allies earns hatred. His mere appearing
+would cause a panic amongst the foe. 
+
+CHORUS Let him, at least, since he is come, approach thy genial board
+as guest, if not ally, for the gratitude of Priam's sons is forfeit
+in his case. 
+
+HECTOR Thou counsellest aright; thou too dost take the proper view.
+Let Rhesus in his gilded mail join the allies of this land, thanks
+to the messenger's report.  (Exeunt the MESSENGER and HECTOR.)
+
+CHORUS May Nemesis, daughter of Zeus, check the word that may offend;
+for lo! I will utter all that my soul fain would say. Thou art come,
+O son of the river god, art come, thrice welcome in thy advent, to
+the halls of Phrygia; late in time thy Pierian mother and Strymon
+thy sire, that stream with bridges fair, are sending thee to us-Strymon
+who begat thee his strong young son, that day his swirling waters
+found a refuge in the tuneful Muse's virgin bosom. Thou art my Zeus,
+my god of light, as thou comest driving thy dappled steeds. Now, O
+Phrygia, O my country, now mayst thou by God's grace address thy saviour
+Zeus! Shall old Troy once more at last spend the live-long day in
+drinking toasts and singing love's praise, while the wildering wine-cup
+sends a friendly challenge round, as o'er the sea for Sparta bound,
+the sons of Atreus quit the Ilian strand? Ah! best of friends, with
+thy strong arm and spear mayst thou this service do me, then safe
+return. Come, appear, brandish that shield of gold full in Achilles'
+face; raise it aslant along the chariot's branching rail, urging on
+thy steeds the while, and shaking thy lance with double point. For
+none after facing thee will ever join the dance on the lawns of Argive
+Hera; no, but he shall die by Thracians slain, and this land shall
+bear the burden of his corpse and be glad.  (Enter RHESUS.)  Hail,
+all bail O mighty prince! fair the scion thou hast bred, O Thrace,
+a ruler in his every look. Mark his stalwart frame cased in golden
+corslet! Hark to the ringing bells that peal so proudly from his targehandle
+hung. A god, O Troy, a god, a very Ares, a scion of Strymon's stream
+and of the tuneful Muse, breathes courage into thee.  (Re-enter HECTOR.)
+
+RHESUS Brave son of sire as brave, Hector, prince of this land, all
+haill After many a long day I greet thee. Right glad am I of thy success,
+to see thee camped hard on the foemen's towers; I come to help thee
+raze their walls and fire their fleet of ships. 
+
+HECTOR Son of that tuneful mother, one of the Muses nine, and of
+Thracian Strymon's stream, I ever love to speak plain truth; nature
+gave me not a double tongue. Long, long ago shouldst thou have come
+and shared the labours this land nor suffered Troy for any help of
+thine to fall o'er thrown by hostile Argive spears. Thou canst not
+say 'twas any want of invitation that kept thee from coming with thy
+help to visit us. How oft came heralds and embassies from Phrygia
+urgently requiring thine aid for our city? What sumptuous presents
+did we not send to thee? But thou, brother barbarian though thou wert,
+didst pledge away to Hellenes us thy barbarian brethren, for ill the
+help thou gavest. Yet 'twas I with this strong arm that raised thee
+from thy paltry princedom to high lordship over Thrace, that day I
+fell upon the Thracian chieftains face to face around Pangaeus in
+Paeonia's land and broke their serried ranks, and gave their people
+up to thee with the yoke upon their necks; but thou hast trampled
+on this great favour done thee, and comest with laggard step to give
+thine aid when friends are in distress. While they, whom no natural
+tic of kin constrains, have long been here, and some are dead and
+in their graves beneath the heaped-up cairn, no mean proof of loyalty
+to the city, and others in harness clad and mounted on their cars,
+with steadfast soul endure the icy blast and parching heat of the
+sun, not pledging one another, as thou art wont, in long deep draughts
+on couches soft. This is the charge I bring against thee and utter
+to thy face, that thou mayst know how frank is Hector's tongue.
+
+RHESUS I too am such another as thyself; straight to the point I
+cut my way; no shuffling nature mine. My heart was wrung with sorer
+anguish than ever thine was at my absence from this land; I fumed
+and chafed, but Scythian folk, whose borders march with mine, made
+war on me on the very eve of my departure for Ilium; already had I
+reached the strand of the Euxine sea, there to transport my Thracian
+army. Then did my spear pour out o'er Scythia's soil great drops of
+bloody rain, and Thrace too shared in the mingled slaughter. This
+then was what did chance to keep me from coming to the land of Troy
+and joining thy standard. But soon as I had conquered these and taken
+their children as hostages and appointed the yearly tribute they should
+pay my house, I crossed the firth, and lo! am here; on foot I traversed
+all thy borders that remained to pass, not as thou in thy jeers at
+those carousals of my countrymen hintest, nor sleeping soft in gilded
+palaces, but amid the frozen hurricanes that vex the Thracian main
+and the Paeonian shores, learning as I lay awake what suffering is,
+this soldier's cloak-my only wrap. True my coming hath tarried, but
+yet am I in time; ten long years already hast thou been at the fray,
+and naught accomplished yet; day in, day out, thou riskest all in
+this game of war with Argives. While I will be content once to see
+the sungod rise, and sack yon towers and fall upon their anchored
+fleet and slay the Achaeans; and on the morrow home from Ilium will
+I go, at one stroke ending all thy toil. Let none of you lay hand
+to spear to lift it, for I, for all my late arrival, will with my
+lance make utter havoc of those vaunting Achaeans. 
+
+CHORUS Joy, joy! sweet champion sent by Zeus! Only may Zeus, throned
+on high, keep jealousy, resistless foe, from thee for thy presumptuous
+words! Yon fleet of ships from Argos sent, never brought, nor formerly
+nor now, among all its warriors a braver than thee; how I wonder will
+Achilles, how will Aias stand the onset of thy spear? Oh! to live
+to see that happy day, my prince, that thou mayest wreak vengeance
+on them, gripping thy lance in thy deathdealing hand! 
+
+RHESUS Such exploits am I ready to achieve to atone for my long absence;
+(with due submission to Nemesis I say this;) then when we have cleared
+this city of its foes and thou hast chosen out firstfruits for the
+gods, I fain would march with thee against the Argives' country and
+coming thither, lay Hellas waste with war, that they in turn may know
+the taste of ill. 
+
+HECTOR If thou couldst rid the city of this present curse and restore
+it to its old security, sure I should feel deep gratitude towards
+heaven. But as for sacking Argos and the pasture-lands of Hellas,
+as thou sayest, 'tis no easy task. 
+
+RHESUS Avow they not that hither came the choicest chiefs of Hellas?
+
+HECTOR Aye, and I scorn them not; enough have I to do in driving
+them away. 
+
+RHESUS Well, if we slay these, our task is fully done. 
+
+HECTOR Leave not the present need, nor look to distant schemes.
+
+RHESUS Thou art, it seems, content to suffer tamely and make no return.
+
+HECTOR I rule an empire wide enough, e'en though I here abide. But
+on the left wing or the right or in the centre of the allies thou
+mayst plant thy shield and marshal thy troops. 
+
+RHESUS Alone will I face the foe, Hector. But if thou art ashamed,
+after all thy previous toil, to have no share in firing their ships'
+prows, place me face to face at least with Achilles and his host.
+
+HECTOR 'Gainst him thou canst not range thy eager spear.
+
+RHESUS Why, 'twas surely said he sailed to Ilium. 
+
+HECTOR He sailed and is come hither; but he is wroth and takes no
+part with the other chieftains in the fray. 
+
+RHESUS Who next to him hath won a name in their host? 
+
+HECTOR Aias and the son of Tydeus are, I take it, no whit his inferiors;
+there is Odysseus too, a noisy knave to talk, but bold enough withal,
+of all men he country. For he her image he made his a vagrant in a
+beggar's garb, and loudly did he curse the Argives, sent as a spy
+to Ilium; and then sneaked out again, when he had slain the sentinels
+and warders at the gate. He is ever to be found lurking in ambush
+about the altar of Thymbraean Apollo nigh the city. In him we have
+a troublous pest to wrestle with. 
+
+RHESUS No brave man deigns to his foe in secret, but to meet him
+face to face. If I can catch this knave alive, who, as thou sayest,
+skulks in stealthy ambuscade and plots his mischief, I will impale
+him at the outlet of the gates and set him up for vultures of the
+air to make their meal upon. This is the death he ought to die, pirate
+and temple-robber that he is. 
+
+HECTOR To your quarters now, for night draws on. For thee I will
+myself point out a spot where thy host can watch this night apart
+from our array. Our watchword is Phorbus, if haply there be need thereof;
+hear and mark it well and tell it to the Thracian army. Ye must advance
+in front of our ranks and keep a watchful guard, and so receive Dolon
+who went to spy the ships, for he, if safe he is, is even now approaching
+the camp of Troy.  (Exeunt HECTOR and RHESUS.)  
+
+CHORUS Whose watch is it? who relieves me? night's earlier stars
+are on the wane, and the seven Pleiads mount the sky; athwart the
+firmament the eagle floats. Rouse ye, why delay? Up from your beds
+to the watch! See ye not the moon's pale beam? Dawn is near, day is
+coming, and lo! a star that heralds it. 
+
+SEMI-CHORUS Who was told off to the first watch? 
+The son of Mygdon, whom men call Coroebus. 
+Who after him? 
+The Paconian contingent roused the Cilicians; 
+And the Mysians us. 
+Is it not then high time we went and roused the Lycians for the fifth
+watch, as the lot decided? 
+
+CHORUS Hark! hark! a sound; 'tis the nightingale, that slew her child,
+singing where she sits upon her bloodstained nest by Simois her piteous
+plaint, sweet singer of the many trills; already along Ida's slopes
+they are pasturing the flocks, and o'er the night I catch the shrill
+pipe's note; sleep on my closing eyelids softly steals, the sweetest
+sleep that comes at dawn to tired eyes. 
+
+SEMI-CHORUS Why doth not our scout draw near, whom Hector sent to
+spy the fleet? 
+
+He is so long away, I have my fears. 
+Is it possible he hath plunged into a hidden ambush and been slain?
+
+Soon must we know. 
+My counsel is we go and rouse the Lycians to the fifth watch, as the
+lot ordained.  (Exit SEMI-CHORUS., Enter DIOMEDES and ODYSSEUS
+cautiously with drawn swords.)  
+
+ODYSSEUS Didst not hear, O Diomedes, the clash of arms? or is it
+an idle noise that rings in my ears? 
+
+DIOMEDES Nay, 'tis the rattle of steel harness on the chariot-rails;
+me, too, did fear assail, till I perceived 'twas but the clang of
+horses' chains. 
+
+ODYSSEUS Beware thou stumble not upon the guard in the darkness.
+
+DIOMEDES I will take good care how I advance even in this gloom.
+
+ODYSSEUS If however thou shouldst rouse them, dost know their watchword?
+
+DIOMEDES Yea, 'tis "Phorbus"; I heard Dolon use it.  (They enter
+the tent, then return.)  
+
+ODYSSEUS Ha! the foe I see have left this bivouac. 
+
+DIOMEDES Yet Dolon surely said that here was Hector's couch, against
+whom this sword of mine is drawn. 
+
+ODYSSEUS What can it mean? Is his company withdrawn elsewhere?
+
+DIOMEDES Perhaps to form some stratagem against us. 
+
+ODYSSEUS Like enough, for Hector now is grown quite bold by reason
+of his victory. 
+
+DIOMEDES What then are we to do, Odysseus? we have not found our
+man asleep; our hopes are dashed. 
+
+ODYSSEUS Let us to the fleet with what speed we may. Some god, whiche'er
+it be that gives him his good luck, is preserving him; 'gainst fate
+we must not strive. 
+
+DIOMEDES Well, we twain must go against Eneas or Paris, most hateful
+of Phrygians, and withour swords cut off their heads. 
+
+ODYSSEUS How, pray, in the darkness canst thou find them amid a hostile
+army, and slay them without risk? 
+
+DIOMEDES Yet 'twere base to go unto the Agrive ships if we have worked
+the enemy no harm. 
+
+ODYSSEUS What! no harm! Have we not slain Dolon who spied upon the
+anchored fleet, and have we not his spoils safe here? Dost thou expect
+to sack the entire camp? Be led by me, let us return; and good luck
+go with us!  (ATHENA appears.)  
+
+ATHENA Whither away from the Trojan ranks, with sorrow gnawing at
+your hearts, because fortune granteth not you twain to slay Hector
+or Paris? Have ye not heard that Rhesus is come to succour Troy in
+no mean sort? If he survive this night until to-morrow's dawn, neither
+Achilles nor Aias, stout spearman, can stay him from utterly destroying
+the Argive fleet, razing its palisades and carrying the onslaught
+of his lance far and wide within the gates; slay him, and all is thine;
+let Hector's sleep alone, nor hope to leave him a weltering trunk,
+for he shall find death at another hand. 
+
+ODYSSEUS Queen Athena, 'tis the well-known accent of thy voice I
+hear; for thou art ever at my side to help me in my toil. Tell us
+where the warrior lies asleep, in what part of the barbarian army
+he is stationed. 
+
+ATHENA Here lies he close at hand, not marshalled with the other
+troops, but outside the ranks hath Hector given him quarters, till
+night gives place to day. And nigh him are tethered his white steeds
+to his Thracian chariot, easy to see in the darkness; glossy white
+are they like to the plumage of a river swan. Slay their master and
+bear them off, a glorious prize to any home, for nowhere else in all
+the world is such a splendid team to be found. 
+
+ODYSSEUS Diomedes, either do thou slay the Thracian folk, or leave
+that to me, while thy care must be the horses. 
+
+DIOMEDES I will do the killing, and do thou look to the steeds. For
+thou art well versed in clever tricks, and hast a ready wit. And 'tis
+right to allot a man to the work he can best perform. 
+
+ATHENA Lo! yonder I see Paris coming towards us; he hath heard maybe
+from the guard a rumour vague that foes are near. 
+
+DIOMEDES Are others with him or cometh he alone? 
+
+ATHENA Alone; to Hector's couch he seems to wend his way, to announce
+to him that spies are in the camp. 
+
+DIOMEDES Ought not he to head the list of slain? 
+
+ATHENA Thou canst not o'erreach Destiny. And it is not decreed that
+he should fall by thy hand; but hasten on thy mission of slaughter
+fore-ordained,  (exeunt ODYSSEUS and DIOMEDES)  while I feigning to
+be Cypris, his ally, and to aid him in his efforts will answer thy
+foe with cheating words. Thus much I have told you, but the fated
+victim knoweth not, nor hath he heard one word, for all he is so near.
+(Enter PARIS.)  
+
+PARIS To thee I call, general and brother, Hector! Sleep'st thou?
+shouldst not thou awake? Some foeman draws anigh our host, or thieves
+maybe, or spies. 
+
+ATHENA Courage! lo! Cypris watches o'er thee in gracious mood. Thy
+warfare is my care, for I do not for the honour thou once didst me,
+and I thank thee for thy good service. And now, when the host of Troy
+is triumphant, am I come bringing to thee a powerful friend, the Thracian
+child of the Muse, the heavenly songstress, whose father's name is
+Strymon. 
+
+PARIS Ever unto this city and to me a kind friend art thou, and I
+am sure that decision I then made conferred upon this city the highest
+treasure life affords in thy person. I heard a vague report, and so
+I came, for there prevailed amongst the guard a rumour that Achaean
+spies are here. One man, that saw them not, saith so, while another,
+that saw them come, cannot describe them, and so I am on my way to
+Hector's tent. 
+
+ATHENA Fear naught; all is quiet in the host, and Hector is gone
+to assign a sleeping-place to the Thracian army. 
+
+PARIS Thou dost persuade me, and I believe thy words, and will go
+to guard my post, free of fear. 
+
+ATHENA Go, for 'tis my pleasure ever to watch thy interests, that
+so I may see my allies prosperous. Yea, and thou too shalt recognize
+my zeal.  (Exit PARIS., Enter ODYSSEUS and DIOMEDES.)  O son of
+Laertes, I bid you sheathe your whetted swords, ye warriors all too
+keen; for dead before you lies the Thracian chief, his steeds are
+captured, but the foe have wind thereof, and are coming forth against
+you; fly with all speed to the ships' station. Why delay to save your
+lives when the foemen's storm is just bursting on you? 
+
+CHORUS On, on! strike, strike, lay on, lay on! deal death in every
+blow! 
+
+SEMI-CHORUS Who goes there? 
+Look you, that man I mean. There are the thieves who in the gloom
+disturbed this host. Hither, come hither, every man of you! I have
+them-I have clutched them fast. 
+
+What is the watchword? Whence cam'st thou? Thy country? 
+
+ODYSSEUS 'Tis not for thee to know. 
+
+SEMI-CHORUS Speak, or thou diest as a vile traitor this day.
+
+Wilt not the watchword declare, ere my sword finds its way to thy
+heart? 
+
+ODYSSEUS What! hast thou slain Rhesus? 
+
+SEMI-CHORUS Nay, I am asking thee about him who came to slay us.
+
+ODYSSEUS Be of good heart, approach. 
+
+SEMI-CHORUS Strike every man of you, strike, strike home!
+
+ODYSSEUS Stay every man of you! 
+
+SEMI-CHORUS No, no, lay on! 
+
+ODYSSEUS Ah! slay not a friend. 
+
+SEMI-CHORUS What is the watchword, then? 
+
+ODYSSEUS Phoebus. 
+
+SEMI-CHORUS Right! stay every man his spear! Dost know whither those
+men are gone? 
+
+ODYSSEUS Somewhere here I caught a sight of them. 
+
+SEMI-CHORUS Close on their track each man of you, or else must we
+shout for aid. 
+
+ODYSSEUS Nay, 'twere conduct strange to disturb our friends with
+wild alarms by night.  (Exeunt ODYSSEUS and DIOMEDES.)  
+
+CHORUS Who was that man who slipped away? Who was he that will loudly
+boast his daring in escaping me? How shall I catch him now? to whom
+liken him? the man who came by night with fearless step passing through
+our ranks and the guard we set. Is he a Thessalian or a dweller in
+some seacoast town of Locris, or hath he his home amid the scattered
+islands of the main? Who was he, and whence came he? What is his fatherland?
+What god doth he avow as lord of the rest? 
+
+SEMI-CHORUS Whose work is this? is it the deed of Odysseus?
+
+If one may conjecture from his former acts, of course it is.
+
+Dost think so really? Why, of course. 
+He is a bold foe for us. 
+Who is? whom art thou praising for valiancy? 
+Odysseus. 
+Praise not the crafty weapons that a robber uses. 
+
+CHORUS Once before he came into this city, with swimming bleary eyes,
+in rags and tatters clad, his sword hidden in his cloak. And like
+some vagrant menial he slunk about begging his board, his hair all
+tousled and matted with filth, and many a bitter curse he uttered
+against the royal house of the Atreidae, as though forsooth he were
+to those chiefs opposed. Would, oh! Would, oh! would he had perished,
+as was his due, or ever he set foot on Phrygia's soil! 
+
+SEMI-CHORUS Whether it were really Odysseus or not, I am afeard.
+
+Aye surely, for Hector will blame us sentinels. 
+What can he allege? 
+He will suspect. 
+What have we done? why art afeard? 
+By us did pass- 
+Well, who? 
+They who this night came to the Phrygian host.  (Enter CHARIOTEER.)
+
+CHARIOTEER O crue! stroke of fate. Woe, woe! 
+
+CHORUS Hush! be silent all! Crouch low, for maybe there cometh someone
+into the snare. 
+
+CHARIOTEER Oh, oh! dire mishap to the Thracian allies. 
+
+CHORUS Who is he that groans? 
+
+CHARIOTEER Alack, alack! Woe is me and woe is thee, O king of thrace!
+How curst the sight of Troy to thee! how sad the blow that closed
+thy life! 
+
+CHORUS Who art thou? an ally? which? night's gloom hath dulled these
+eyes, I cannot clearly recognize thee. 
+
+CHARIOTEER Where can I find some Trojan chief? Where doth Hector
+take his rest under arms? Alack and well-a-day! To which of the captains
+of the host am I to tell my tale? What sufferings ours! What dark
+deeds someone hath wrought on us and gone his way, when he had wound
+up a clew of sorrow manifest to every Thracian! 
+
+CHORUS From what I gather of this man's words, some calamity, it
+seems, is befalling the Thracian host. 
+
+CHARIOTEER Lost is all our host, our prince is dead, slain by a treacherous
+blow. Woe worth the hour! woe worth the day! O the cruel anguish of
+this bloody wound that inly racks my frame! Would I were dead! Was
+it to die this inglorious death that Rhesus and I did come to Troy?
+
+CHORUS This is plain language; in no riddles he declares the disaster;
+all too clearly he asserts our friends' destruction. 
+
+CHARIOTEER A sorry deed it was, and more than that a deed most foul;
+yea, 'tis an evil doubly bad; to die with glory, if die one must,
+is bitterness enough I trow to him who dies; assuredly it is; though
+to the living it add dignity and honour for their house. But we, like
+fools, have died a death of shame. No sooner had great Hector given
+us our quarters and told us the watchword than we laid us down to
+sleep upon the ground, o'ercome by weariness. No guard our army set
+to watch by night. Our arms we set not in array, nor were the whips
+hung ready on the horses' yokes, for our prince was told that you
+were masters now, and had encamped hard on their ships; so carelessly
+we threw us down to sleep. Now I with thoughtful mind awoke from my
+slumber, and with ungrudging hand did measure out the horses' feed,
+expecting to harness them at dawn unto the fray; when lo! through
+the thick gloom two men I see roaming around our army. But when I
+roused myself they fled away, and were gone once more; and I called
+out to them to keep away from our army, for I thought they might be
+thieves from our allies. No answer made they, so I too said no more,
+but came back to my couch and slept again. And lo! as I slept came
+a strange fancy o'er me: I saw, methought as in a dream, those steeds
+that I had groomed and used to drive, stationed at Rhesus' side, with
+wolves mounted on their backs; and these with their tails did lash
+the horses' flanks and urge them on, while they did snort and breathe
+fury from their nostrils, striving in terror to unseat their riders.
+Up I sprang to defend the horses from the brutes, for the horror of
+the night scared me. Then as I raised my head I heard the groans of
+dying men, and a warm stream of new-shed blood bespattered me where
+I lay close to my murdered master as he gave up the ghost. To my feet
+I start, but all unarmed; and as I peer about and grope to find my
+sword, a stalwart hand from somewhere nigh dealt me a sword-thrust
+beneath the ribs. I know the sword that dealt that blow from the deep
+gaping wound it gave me. Down on my face I fell, while they fled clean
+away with steeds and chariot. Alack, alack! Tortured with pain, too
+weak to stand, a piteous object I know what happened, for I saw it;
+but how the victims met their death I cannot say, nor whose the hand
+that smote them; but I can well surmise we have our friends to thank
+for this mischance. 
+
+CHORUS O charioteer of Thrace's hapless king, never suspect that
+any but foes have had a hand in this. Lo! Hector himself is here,
+apprized of thy mischance; he sympathizes as he should with thy hard
+fate.  (Enter HECTOR.)  
+
+HECTOR Ye villains who have caused this mischief dire, how came the
+foemen's spies without your knowledge, to your shame, and spread destruction
+through the host, and you drove them not away as they passed in or
+out? Who but you shall pay the penalty for this? You, I say, were
+stationed here to the host. But they are gone without a wound, with
+many a scoff at Phrygian cowardice, and at me their leader. Now mark
+ye this-by father Zeus I swear at least the scourge, if not the headsman's
+axe, awaits such conduct; else count Hector a thing of naught, a mere
+coward. 
+
+CHORUS Woe, woe is me! A grievous, grievous woe came on me, I can
+see, great lord of my city, in the hour that I brought my news to
+thee that the Argive host was kindling fires about the ships; for
+by the springs of Simois I vow my eye kept sleepless watch by night,
+nor did I slumber or sleep. O be not angered with me, my lord; I am
+guiltless of all; yet if hereafter thou find that I in word or deed
+have done amiss, bury me alive beneath the earth; I ask no mercy.
+
+CHARIOTEER Why threaten these? Why try to undermine my poor barbarian
+wit by crafty words, barbarian thou thyself? Thou didst this deed;
+nor they who have suffered ail, nor we by wounds disabled will believe
+it was any other. A long and subtle speech thou'lt need to prove to
+me thou didst not slay thy friends because thou didst covet the horses,
+and to gain them didst murder thine own allies, after bidding them
+come so straitly. They came, and they are dead. Why, Paris found more
+decent means to shame the rights of hospitality than thou, with thy
+slaughter of thy allies. Never tell me some Argive came and slaughtered
+us. Who could have passed the Trojan lines and come against us without
+detection? Thou and thy Phrygian troops were camped in front of us.
+Who was wounded, who was slain amongst thy friends, when that foe
+thou speak'st of came? 'Twas we were wounded, while some have met
+a sterner fate and said farewell to heaven's light. Briefly, then,
+no Achaean do I blame. For what enemy could have come and found the
+lowly bed of Rhesus in the dark, unless some deity were guiding the
+murderers' steps? They did not so much as know of his arrival. No,
+'tis thy plot this! 
+
+HECTOR 'Tis many a long year now since I have had to do with allies,
+aye, ever since Achoea's host settled in this land, and never an ill
+word have I known them say of me; but with thee I am to make a beginning.
+Never may such longing for horses seize me that I should slay my friends!
+This is the work of Odysseus. Who of all the Argives but he would
+have devised or carried out such a deed? I fear him much; and somewhat
+my mind misgives me lest he have met and slain Dolon as well; for
+'tis long since he set out, nor yet appears. 
+
+CHARIOTEER I know not this Odysseus of whom thou speakest. 'Twas
+no foe's hand that smote me. 
+
+HECTOR Well, keep that opinion for thyself, if it please thee.
+
+CHARIOTEER O land of my fathers, would I might die in thee!
+
+HECTOR Die! No! Enough are those already dead. 
+
+CHARIOTEER Where am I to turn, I ask thee, reft of my master now?
+
+HECTOR My house shall shelter thee and cure thee of thy hurt.
+
+CHARIOTEER How shall murderers' hands care for me? 
+
+HECTOR This fellow will never have done repeating the same story.
+
+CHARIOTEER Curses on the doer of this deed! On thee my tongue doth
+fix no charge, as thou complainest; but justice is over all.
+
+HECTOR Ho! him hence! Carry him to my palace and tend him carefully,
+that he may have no fault to find. And you must go to those upon the
+walls, to Priam and his aged councillors, and tell them to give orders
+for the burial of the dead at the place where folk turn from the road
+to rest.  (CHARIOTEER is carried off.)  
+
+CHORUS Why, with what intent doth fortune change and bring Troy once
+again to mourning after her famous victory? See, see! O look! What
+goddess, O king, is hovering o'er our heads, bearing in her hands
+as on a bier the warrior slain but now? I shudder at this sight of
+woe.  (THE MUSE appears.)  
+
+THE MUSE Behold me, sons of Troy! Lo! I the Muse, one of the sisters
+nine, that have honour among the wise, am here, having seen the piteous
+death his foes have dealt my darling son. Yet shall the crafty Odysseus,
+that slew him, one day hereafter pay a fitting penalty. O my son,
+thy mother's grief, I mourn for thee in self-taught strains of woe!
+What a journey thou didst make to Troy, a very path of woe and sorrow!
+starting, spite of all my warnings and thy father's earnest prayers,
+in defiance of us. Woe is me for thee, my dear, dear son! Ah, woe!
+my son, my son! 
+
+CHORUS I, too, bewail and mourn thy son, as far as one can who hath
+no common tie of kin. 
+
+THE MUSE Curses on the son of Oeneus! Curses on Laertes' child! who
+hath reft me of my fair son and made me childless! and on that woman,
+too, that left her home in Hellas, and sailed hither with her Phrygian
+paramour, bringing death to thee, my dearest son, 'neath Ilium's walls,
+and stripping countless cities of their heroes brave. Deep, deep the
+wounds, son of Philammon, hast thou inflicted on my heart, in life,
+nor less in Hades' halls. Yea, for 'twas thy pride, thy own undoing,
+and thy rivalry with us Muses that made me mother of this poor son
+of mine. For as I crossed the river's streams I came too nigh to Strymon's
+fruitful couch, that day we Muses came unto the brow of Mount Pangaeus
+with its soil of gold, with all our music furnished forth for one
+great trial of minstrel skill with that clever Thracian bard, and
+him we reft of sight, even Thamyris, the man who oft reviled our craft.
+Anon, when I gave birth to thee, because I felt shame of my sisters
+and my maiden years, I sent thee to the swirling stream of thy sire,
+the water-god; and Strymon did not entrust thy nurture to mortal hands,
+but to the fountain nymphs. There wert thou reared most fairly by
+the maiden nymphs, and didst rule o'er Thrace, a leader amongst men,
+my child. So long as thou didst range thy native land in quest of
+bloody deeds of prowess I feared not for thy death, but I bade thee
+ne'er set out for Troy-town, for well I knew thy doom; but Hector's
+messages and those countless embassies urged thee to go and help thy
+friends. This was thy doing, Athena; thou alone art to blame for his
+death (neither Odysseus nor the son of Tydeus had aught to do with
+it); think not it hath escaped mine eye. And yet we sister Muses do
+special honour to thy city, thy land we chiefly haunt; yea, and Orpheus,
+own cousin of the dead whom thou hast slain, did for thee unfold those
+dark mysteries with their torch processions. Musaeus, too, thy holy
+citizen, of all men most advanced in lore, him did Phoebus with us
+sisters train. And here is my reward for this; dead in my arms I hold
+my child and mourn for him. Henceforth no other learned man I'll bring
+to thee. 
+
+CHORUS Vainly it seems the Thracian charioteer reviled us with plotting
+this man's murder, Hector. 
+
+HECTOR I knew it; it needed no seer to say that he had perished by
+the arts of Odysseus. Now I, when I saw the Hellene host camped in
+my land, of course would not hesitate to send heralds to my friends,
+bidding them come and help my country; and so I sent, and he as in
+duty bound came my toils to share. It grieves me sorely to see him
+dead; and now am I ready to raise a tomb for him and burn at his pyre
+great store of fine raiment; for he came as a friend and in sorrow
+is he going hence. 
+
+THE MUSE He shall not descend into earth's darksome soil; so earnest
+a prayer will I address to the bride of the nether world, the daughter
+of the goddess Demeter, giver of increase, to release his soul, and
+debtor, as she is to me, show that she honours the friends of Orpheus.
+Yet from henceforth will he be to me as one dead that seeth not the
+light; for never again will he meet me or see his mother's face, but
+will lurk hidden in a cavern of the land with veins of silver, restored
+to life, no longer man but god, even as the prophet of Bacchus did
+dwell in a grotto 'neath Pangaeus, a god whom his votaries honoured.
+Lightly now shall I feel the grief of the sea-goddess, for her son
+too must die. First then for thee we sisters must chaunt our dirge,
+and then for Achilles when Thetis mourns some day. Him shall not Pallas,
+thy slayer, save; so true the shaft Loxias keeps in his quiver for
+him. Ah me! the sorrows that a mother feels! the troubles of mortals!
+whoso fairly reckons you up will live and die a childless man and
+will have no children to bury.  (THE MUSE disappears.)  
+
+CHORUS His mother now must see to this her son's burial; but for
+thee, Hector, if thou wilt carry out any scheme, now is the time,
+for day is dawning. 
+
+HECTOR Go, bid our comrades arm at once; yoke the horses; torch in
+hand ye must await the blast of the Etrurian trumpet; for I hope with
+this day's mounting sun to pass beyond their lines and walls and fire
+ships of the Acheans, restoring freedom's light once more to Troy.
+
+CHORUS Obedience to our prince! let us array ourselves in mail, and
+go forth and these orders tell to our allies, and haply the god who
+is on our side will grant us victory. 
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.
+</pre></body></html>

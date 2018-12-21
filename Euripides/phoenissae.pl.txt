@@ -1,0 +1,1948 @@
+
+<BASE HREF="http://classics.mit.edu/Euripides/phoenissae.pl.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Euripides/phoenissae.pl.txt"><font color=blue>classics.mit.edu/Euripides/phoenissae.pl.txt</font></a>.<br>
+<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Euripides/phoenissae.pl.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
+<html><body><pre>
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Euripides/phoenissae.html
+
+The Phoenissae
+By Euripides
+
+
+Translated by E. P. Coleridge
+
+----------------------------------------------------------------------
+
+Dramatis Personae
+
+JOCASTA, wife of OEDIPUS
+OLD SERVANT, an attendant of ANTIGONE
+ANTIGONE, daughter Of OEDIPUS
+CHORUS OF PHOENICIAN MAIDENS
+POLYNEICES, exiled son of OEDIPUS
+ETEOCLES, now King of Thebes; son of OEDIPUS
+CREON, brother of JOCASTA
+TEIRESIAS, a blind prophet
+MENOECEUS, son of CREON
+FIRST MESSENGER
+SECOND MESSENGER
+OEDIPUS, formerly King of Thebes
+
+----------------------------------------------------------------------
+
+Before the royal palace of Thebes. JOCASTA enters from the palace
+alone.
+
+----------------------------------------------------------------------
+
+JOCASTA O sun-god, who cleavest thy way along the starry sky, mounted
+on golden-studded car, rolling on thy path of flame behind fleet coursers,
+how curst the beam thou didst shed on Thebes, the day that Cadmus
+left Phoenicia's realm beside the sea and reached this land! He it
+was that in days long gone wedded Harmonia, the daughter of Cypris,
+and begat Polydorus from whom they say sprung Labdacus, and Laius
+from him. I am known as the daughter of Menoeceus, and Creon is my
+brother by the same mother. Men called me Jocasta, for so my father
+named me, and I am married to Laius. Now when he was still childless
+after being wedded to me a long time, he went and questioned Phoebus,
+craving moreover that our love might be crowned with sons born to
+his house. But the god said, "King of Thebes for horses famed! seek
+not to beget children against the will of heaven; for if thou beget
+a son, that child shall slay thee, and all thy house shall wade through
+blood." But he, yielding to his lust in a drunken fit, begat a son
+of me, and when his babe was born, conscious of his sin and of the
+god's warning, he gave the child to shepherds to expose in Hera's
+meadow on mount Cithaeron, after piercing his ankles with iron spikes;
+whence it was that Hellas named him Oedipus. But the keepers of the
+horses of Polybus finding him took him home and laid him in the arms
+of their mistress. So she suckled the child that I had borne and persuaded
+her husband she was its mother. Soon as my son was grown to man's
+estate, the tawny beard upon his cheek, either because he had guessed
+the fraud or learnt it from another, he set out for the shrine of
+Phoebus, eager to know for certain who his parents were; and likewise
+Laius, my husband, was on his way thither, anxious to find out if
+the child he had exposed was dead. And they twain met where the branching
+roads to Phocis unite; and the charioteer of Laius called to him,
+"Out of the way, stranger, room for my lord!" But he, with never a
+word, strode on in his pride; and the horses with their hoofs drew
+blood from the tendons of his feet. Then-but why need I tell aught
+beyond the sad issue?-son slew father, and taking his chariot gave
+it to Polybus his foster-father. Now when the Sphinx was grievously
+harrying our city after my husband's death, my brother Creon proclaimed
+that he would wed me to any who should guess the riddle of that crafty
+maiden. By some strange chance, my own son, Oedipus, guessed the Sphinx's
+riddle, and so he became king of this land and received its sceptre
+as his prize, and married his mother, all unwitting, luckless wretch!
+nor did I his mother know that I was wedded to my son; and I bore
+him two sons, Eteocles and the hero Polyneices, and two daughters
+as well; the one her father called Ismene, the other, which was the
+elder, I named Antigone. Now when Oedipus, that awful sufferer, learnt
+that I his wedded wife was his mother too, he inflicted a ghastly
+outrage upon his eyes, tearing the bleeding orbs with a golden brooch.
+But since my sons have grown to bearded men, they have confined their
+father closely, that his misfortune, needing as it did full many a
+shift to hide it, might be forgotten. He is still living in the palace,
+but his misfortunes have so unhinged him that he imprecates the most
+unholy curses on his sons, praying that they may have to draw the
+sword before they share this house between them. So they, fearful
+that heaven may accomplish his prayer if they dwell together, have
+made an agreement, arranging that Polyneices, the younger, should
+first leave the land in voluntary exile, while Eteocles should stay
+and hold the sceptre for a year and then change places. But as soon
+as Eteocles was seated high in power, he refused to give up the throne,
+and drove Polyneices into exile from the kingdom; so Polyneices went
+to Argos and married into the family of Adrastus, and having collected
+a numerous force of Argives is leading them hither; and he is come
+up against our seven-gated walls, demanding the sceptre of his father
+and his share in the kingdom. Wherefore I, to end their strife, have
+prevailed on one son to meet the other under truce, before appealing
+to arms; and the messenger I sent tells me that he will come. O Zeus,
+whose home is heaven's radiant vault, save us, and grant that my sons
+may be reconciled! For thou, if thou art really wise, must not suffer
+the same poor mortal to be for ever wretched.  (JOCASTA re-enters
+the palace, as the OLD SERVANT appears on the roof.)  
+
+OLD SERVANT Antigone, choice blossom in a father's house, although
+thy mother allowed thee at thy earnest treaty to leave thy maiden
+chamber for the topmost story of the house, thence to behold the Argive
+host, yet a stay moment that I may first reconnoitre the path, whether
+there be any of the citizens visible on the road, lest reproach, little
+as it matters to a slave like me, fasten on thee, my royal mistress;
+and when I am quite sure will tell thee everything that I saw and
+heard from the Argives, when carried the terms of the truce to and
+fro between this city and Polyneices.  (After a slight pause)  No,
+there is no citizen approaching the palace; so mount the ancient cedar
+steps, and view the plains that skirt Ismenus and the fount of Dirce
+to see the mighty host of foemen.  (ANTIGONE appears beside him. She
+chants her replies to him.)  
+
+ANTIGONE Stretch out thy hand to me from the stairs, the hand of
+age to youth, helping me to mount. 
+
+OLD SERVANT There! clasp it, my young mistress; thou art come at
+a lucky moment; for Pelasgia's host is just upon the move, and their
+several contingents are separating. 
+
+ANTIGONE O Hecate, dread child of Latona! the plain is one blaze
+of bronze. 
+
+OLD SERVANT Ah! this is no ordinary home-coming of Polyneices; with
+many a knight and clash of countless arms he comes. 
+
+ANTIGONE Are the gates fast barred, and the brazen bolts shot home
+into Amphion's walls of stone? 
+
+OLD SERVANT Never fear! all is safe within the town. But mark him
+who cometh first, if thou wouldst learn his name. 
+
+ANTIGONE Who is that with the white crest, who marches in the van,
+lightly bearing on his arm a buckler all of bronze? 
+
+OLD SERVANT A chieftain, lady- 
+
+ANTIGONE Who is he? whose son? his name? tell me, old man.
+
+OLD SERVANT Mycenae claims him for her son; in Lerna's glens he dwells,
+the prince Hippomedon. 
+
+ANTIGONE Ah! how proud and terrible his mien! like to an earth-born
+giant he moves, with stars engraved upon his targe, resembling not
+a child of earth. 
+
+OLD SERVANT Dost see yon chieftain crossing Dirce's stream?
+
+ANTIGONE His harness is quite different. Who is that? 
+
+OLD SERVANT Tydeus, the son of Oeneus; true Aetolian spirit fires
+his breast. 
+
+ANTIGONE Is this he, old man, who wedded a sister of the wife of
+Polyneices? What a foreign look his armour has! a half-barbarian he!
+
+OLD SERVANT Yes, my child; all Aetolians carry shields, and are most
+unerring marksmen with their darts. 
+
+ANTIGONE How art thou so sure of these descriptions, old man?
+
+OLD SERVANT I carefully noted the blazons on their shields before
+when I went with the terms of the truce to thy brother; so when I
+see them now I know who carry them. 
+
+ANTIGONE Who is that youth passing close to the tomb of Zethus, with
+long flowing hair, but a look of fury in his eye? is he a captain?
+for crowds of warriors follow at his heels. 
+
+OLD SERVANT That is Parthenopaeus, Atalanta's son. 
+
+ANTIGONE May Artemis, who hies o'er the hills with his mother, lay
+him low with an arrow, for coming against my city to sack it!
+
+OLD SERVANT May it be so, my daughter; but with justice are they
+come hither, and my fear is that the gods will take the rightful view,
+
+ANTIGONE Where is he who was born of the same mother as I was by
+a cruel destiny? Oh! tell me, old friend, where Polyneices is.
+
+OLD SERVANT He is yonder, ranged next to Adrastus near the tomb of
+Niobe's seven unwed daughters. Dost see him? 
+
+ANTIGONE I see him, yes! but not distinctly; 'tis but the outline
+of his form the semblance of his stalwart limbs I see. Would I could
+speed through the sky, swift as a cloud before the wind, towards my
+own dear brother, and throw my arms about my darling's neck, so long,
+poor boy! an exile. How bright his golden weapons flash like the sun-god's
+morning rays! 
+
+OLD SERVANT He will soon be here, to fill thy heart with joy, according
+to the truce. 
+
+ANTIGONE Who is that, old man, on yonder car driving snow-white steeds?
+
+OLD SERVANT That, lady, is the prophet Amphiaraus; with him are the
+victims, whose streaming blood the thirsty earth will drink.
+
+ANTIGONE Daughter of Latona with the dazzling zone, O moon, thou
+orb of golden light! how quietly, with what restraint he drives, goading
+first one horse, then the other! But where is Capaneus who utters
+those dreadful threats against this city? 
+
+OLD SERVANT Yonder he is, calculating how he may scale the towers,
+taking the measure of our walls from base to summit. 
+
+ANTIGONE O Nemesis, with booming thunder-peals of Zeus and blazing
+levin-light, thine it is to silence such presumptuous boasting. Is
+this the man, who says he will give the maids of Thebes as captives
+of his spear to Mycenae's dames, to Lerna's Trident, and the waters
+of Amymone, dear to Poseidon, when he has thrown the toils of slavery
+round them? Never, never, Artemis, my queen revered, child of Zeus
+with locks of gold, may I endure the yoke of slavery! 
+
+OLD SERVANT My daughter, go within, and abide beneath the shelter
+of thy maiden chamber, now that thou hast had thy wish and seen all
+that thy heart desired; for I see a crowd of women moving toward the
+royal palace, confusion reigning in the city. Now the race of women
+by nature loves to find fault; and if they get some slight handle
+for their talk they exaggerate it, for they seem to take a pleasure
+in saying everything bad of one another.  (ANTIGONE and the OLD SERVANT
+descend into the palace, as the CHORUS of PHOENICIAN MAIDENS enters.)
+
+CHORUS  (singing, strophe 1)
+
+From the Tyrian main I come, an offering choice for Loxias from Phoenician
+isle, to minister to Phoebus in his halls, where his fane lies nestling
+'neath the snow-swept peaks of Parnassus; over the Ionian sea I rowed
+my course, for above the plains unharvested, that fringe the coast
+of Sicily, the boisterous west-wind coursed, piping sweetest music
+in the sky. 
+
+(antistrophe 1)
+
+Chosen from my city as beauty's gift for Loxias, to the land of Cadmus
+I came, sent thither to the towers of Laius, the home of my kin, the
+famous sons of Agenor; and there I became the handmaid of Phoebus,
+dedicated like his offerings of wrought gold. But as yet the water
+of Castaly is waiting for me to bedew the maiden glory of my tresses
+for the service of Phoebus. 
+
+(epode)
+
+Hail! thou rock that kindlest bright fire above the twin-peaked heights
+of Dionysus. Hail! thou vine, that, day by day, makest the lush bunches
+of thy grapes to drip. Hail! awful cavern of the serpent, and the
+god's outlook on the hills, and sacred mount by snow-storms lashed!
+would I were now circling in the dance of the deathless god, free
+from wild alarms, having left Dirce ere this for the vales of Phoebus
+at the centre of the world! 
+
+(strophe 2)
+
+But now I find the impetuous god of war is come to battle before
+these walls, and hath kindled murder's torch in this city. God grant
+he fail! for a friend's sorrows are also mine; and if this land with
+its seven towers suffer any mischance, Phoenicia's realm must share
+it. Ah me! our stock is one; all children we of Io, that horned maid,
+whose sorrows I partake. 
+
+(antistrophe 2)
+
+Around the city a dense array of serried shields is rousing the spectre
+of bloody strife, whose issue Ares shall soon learn to his cost, if
+he brings upon the sons of Oedipus the horrors of the curse. O Argos,
+city of Pelasgia! I dread thy prowess and the vengeance Heaven sends;
+for he who cometh against our home in full panoply is entering the
+lists with justice on his side.  (POLYNEICES enters alone.)
+
+POLYNEICES Those who kept watch and ward at the gate admitted me
+so readily within the walls that my only fear is, that now they have
+caught me in their toils, they will not let me out unscathed; so I
+must turn my eye in every direction, hither and thither, to guard
+against all treachery. Armed with this sword, I shall inspire myself
+with the trust that is born of boldness.  (Starting)  What ho! who
+goes there? or is it an idle sound I fear? Everything seems a danger
+to venturous spirits, when their feet begin to tread an enemy's country.
+Still I trust my mother, and at the same time mistrust her for persuading
+me to come hither under truce. Well, there is help at hand, for the
+altar's hearth is close and there are people in the palace. Come,
+let me sheath my sword in its dark scabbard and ask these maidens
+standing near the house, who they are. 
+
+Ladies of another land, tell me from what country ye come to the halls
+of Hellas. 
+
+LEADER OF THE CHORUS Phoenicia is my native land where I was born
+and bred; and Agenor's children's children sent me hither as a first-fruits
+of the spoils of war foy Phoebus; but when the noble son of Oedipus
+was about to escort me to the hallowed oracle and the altars of Loxias,
+came Argives meantime against his city. Now tell me in return who
+thou art that comes to this fortress of the Theban realm with its
+seven gates. 
+
+POLYNEICES My father was Oedipus, the son of Laius; my mother Jocasta,
+daughter of Menoeceus; and I am called Polyneices by the folk of Thebes.
+
+CHORUS  (chanting) O kinsman of Agenor's race, my royal masters who
+sent me hither at thy feet, prince, I throw myself, according to the
+custom of my home. At last art thou come to thy native land; at last!
+Hail to thee! all hail! Come forth, my honoured mistress, open wide
+the doors. Dost hear, O mother of this chief? Why art thou delaying
+to leave the sheltering roof to fold thy son in thy embrace?  (JOCASTA
+enters from the palace.)  
+
+JOCASTA  (chanting) Maidens, I hear you call in your Phoenician tongue,
+and my old feet drag their tottering steps to meet my son. O my son,
+my son, at last after many a long day I see thee face to face; throw
+thy arms about thy mother's bosom; reach hither thy cheek to me and
+thy dark locks of clustering hair, o'ershadowing my neck therewith.
+Hail to thee! all hail! scarce now restored to thy mother's arms,
+when hope and expectation both were dead. What can I say to thee?
+how recall in every way, by word, by deed, the bliss of days long
+past, expressing my joy in the mazy measures of the dance? Ah! my
+son, thou didst leave thy father's halls desolate, when thy brother's
+despite drove thee thence in exile. Truly thou wert missed alike by
+thy friends and Thebes. This was why I cut off my silvered locks and
+let them fall for grief with many a tear, not clad in robes of white,
+my son, but instead thereof taking for my wear these sorry sable tatters;
+while within the palace that aged one with sightless orbs, ever nursing
+the sorrow of a double regret for the pair of brethren estranged from
+their home, rushed to lay hands upon himself with the sword or by
+the noose suspended o'er his chamber-roof, moaning his curses on his
+sons; and now he buries himself in darkness, weeping ever and lamenting.
+And thou, my child,-I hear thou hast taken an alien to wife and art
+begetting children to thy joy in thy home; they tell me thou art courting
+a foreign alliance, a ceaseless woe to me thy mother and to Laius
+thy ancestor, to have this woeful marriage foisted on us. 'Twas no
+hand of mine that lit for thee the marriage-torch, as custom ordains
+and as a happy mother ought; no part had Ismenus at thy wedding in
+supplying the luxurious bath; and there was silence through the streets
+of Thebes, what time thy young bride entered her home. Curses on them!
+whether it be the sword or strife or thy sire that is to blame, or
+heaven's visitation that hath burst so riotously upon the house of
+Oedipus; for on me is come all the anguish of these troubles.
+
+LEADER OF THE CHORUS Wondrous dear to woman is the child of her travail,
+and all her race hath some affection for its babes. 
+
+POLYNEICES Mother, I have come amongst enemies wisely or foolishly;
+but all men needs must love their native land; whoso saith otherwise
+is pleased to say so but his thoughts are turned elsewhere. So fearful
+was I and in such terror, lest my brother might slay me by treachery
+that I made my way through the city sword in hand, casting my eyes
+all round me. My only hope is the truce and thy plighted word which
+induced me to enter my paternal walls; and many a tear I shed by the
+way, seeing after a weary while my home and the altars of the gods,
+the training ground, scene of my childhood, and Dirce's founts from
+which I was unjustly driven to sojourn in a strange city, with tears
+ever gushing from mine eyes. Yea, and to add to my grief I see thee
+with hair cut short and clad in sable robe; woe is me for my sorrows!
+
+How terrible, dear mother, is hatred 'twixt those once near and dear;
+how hard it makes all reconciliation! What doth my aged sire within
+the house, his light all darkness now? what of my sisters twain? Ah!
+they, I know, bewail my bitter exile. 
+
+JOCASTA Some god with fell intent is plaguing the race of Oedipus.
+Thus it all began; I broke God's law and bore a son, and in an evil
+hour married thy father and thou wert born. But why repeat these horrors?
+what Heaven sends we have to bear. I am afraid to ask thee what I
+fain would, for fear of wounding thy feelings; yet I long to.
+
+POLYNEICES Nay, question me, leave naught unsaid; for thy will, mother,
+is my pleasure too. 
+
+JOCASTA Well then, first I ask thee what I long to have answered.
+What means exile from one's country? is it a great evil?
+
+POLYNEICES The greatest; harder to bear than tell. 
+
+JOCASTA What is it like? what is it galls the exile? 
+
+POLYNEICES One thing most of all; he cannot speak his mind.
+
+JOCASTA This is a slave's lot thou describest, to refrain from uttering
+what one thinks. 
+
+POLYNEICES The follies of his rulers must be bear. 
+
+JOCASTA That too is bitter, to join in the folly of fools.
+
+POLYNEICES Yet to gain our ends we must submit against our nature.
+
+JOCASTA Hope, they say, is the exile's food. 
+
+POLYNEICES Aye, hope that looks so fair; but she is ever in the future.
+
+JOCASTA But doth not time expose her futility? 
+
+POLYNEICES She hath a certain winsome charm in misfortune.
+
+JOCASTA Whence hadst thou means to live, ere thy marriage found it
+for thee? 
+
+POLYNEICES One while I had enough for the day, and then maybe I had
+it not. 
+
+JOCASTA Did not thy father's friends and whilom guests assist thee?
+
+POLYNEICES Seek to be prosperous; once let fortune lour, and the
+aid supplied by friends is naught. 
+
+JOCASTA Did not thy noble breeding exalt thy horn for thee?
+
+POLYNEICES Poverty is a curse; breeding would not find me food.
+
+JOCASTA Man's dearest treasure then, it seems, is his country.
+
+POLYNEICES No words of thine could tell how dear. 
+
+JOCASTA How was it thou didst go to Argos? what was thy scheme?
+
+POLYNEICES I know not; the deity summoned me thither in accordance
+with my destiny. 
+
+JOCASTA He doubtless had some wise design; but how didst thou win
+thy wife? 
+
+POLYNEICES Loxias had given Adrastus an oracle. 
+
+JOCASTA What was it? what meanest thou? I cannot guess.
+
+POLYNEICES That he should wed his daughters to a boar and a lion.
+
+JOCASTA What hadst thou, my son, to do with the name of beasts?
+
+POLYNEICES It was night when I reached the porch of Adrastus.
+
+JOCASTA In search of a resting-place, or wandering thither in thy
+exile? 
+
+POLYNEICES Yes, I wandered thither; and so did another like me.
+
+JOCASTA Who was he? he too it seems was in evil plight.
+
+POLYNEICES Tydeus, son of Oeneus, was his name. 
+
+JOCASTA But why did Adrastus liken you to wild beasts? 
+
+POLYNEICES Because we came to blows about our bed. 
+
+JOCASTA Was it then that the son of Talaus understood the oracle?
+
+POLYNEICES Yes, and he gave to us his daughters twain. 
+
+JOCASTA Art thou blest or curst in thy marriage? 
+
+POLYNEICES As yet I have no fault to find with it. 
+
+JOCASTA How didst thou persuade an army to follow thee hither?
+
+POLYNEICES To me and to Tydeus who is my kinsman by marriage, Adrastus
+sware an oath, even to the husbands of his daughters twain, that he
+would restore us both to our country, but me the first. So many a
+chief from Argos and Mycenae has joined me, doing me a bitter though
+needful service, for 'tis against my own city I am marching. Now I
+call heaven to witness, that it is not willingly I have raised my
+arm against parents whom I love full well. But to thee, mother, it
+belongs to dissolve this unhappy feud, and, by reconciling brothers
+in love, to end my troubles and thine and this whole city's. 'Tis
+an old-world maxim, but I will cite it for all that: "Men set most
+store by wealth, and of all things in this world it hath the greatest
+power." This am I come to secure at the head of my countless host;
+for good birth is naught if poverty go with it. 
+
+LEADER Lo! Eteocles comes hither to discuss the truce. Thine the
+task, mother Jocasta, to speak such words as may reconcile thy sons.
+(ETEOCLES and his retinue enter.)  
+
+ETEOCLES Mother, I am here; but it was only to pleasure thee I came.
+What am to do? Let some one begin the conference; for I stopped marshalling
+the citizens in double lines around the walls, that I might hear thy
+arbitration. between us; for it is under this truce that thou hast
+persuaded me to admit this fellow within the walls. 
+
+JOCASTA Stay a moment; haste never carries justice with it; but slow
+deliberation oft attains a wise result. Restrain the fierceness of
+thy look, that panting rage; for this is not the Gorgon's severed
+head but thy own brother whom thou seest here. Thou too, Polyneices,
+turn and face thy brother; for if thou and he stand face to face,
+thou wilt adopt a kindlier tone and lend a readier ear to him. I fain
+would give you both one piece of wholesome counsel; when a man that
+is angered with his friend confronts him face to face, he ought only
+to keep in view the object of his coming, forgetting all previous
+quarrels. Polyneices my son, speak first, for thou art come at the
+head of a Danaid host, alleging wrongful treatment; and may some god
+judge betwixt us and reconcile the trouble. 
+
+POLYNEICES The words of truth are simple, and justice needs no subtle
+interpretations, for it hath a fitness in itself; but the words of
+injustice, being rotten in themselves, require clever treatment. I
+provided for his interests and mine in our father's palace, being
+anxious to avoid the curse which Oedipus once uttered against us;
+of my own free-will I left the land, allowing him to rule our country
+for one full year, on condition that I should then take the sceptre
+in turn, instead of plunging into deadly enmity and thereby doing
+others hurt or suffering it myself, as is now the case. But he, after
+consenting to this and calling the gods to witness his oath, has performed
+none of his promises, but is still keeping the sovereignty in his
+own hands together with my share of our heritage. Even now am I ready
+to take my own and dismiss my army from this land, receiving my house
+in turn to dwell therein, and once more restore it to him for a like
+period instead of ravaging our country and planting scaling-ladders
+against the towers, as I shall attempt to do if I do not get my rights.
+Wherefore I call the gods to witness that spite of my just dealing
+in everything I am being unjustly robbed of my country by most godless
+fraud. Here, mother, have I stated the several points on their own
+merits, without collecting words to fence them in, but urging a fair
+case, I think, alike in the judgment of skilled or simple folk.
+
+LEADER To me at least, albeit I was not born and bred in Hellas,
+thy words seem full of sense. 
+
+ETEOCLES If all were at one in their ideas of honour and wisdom,
+there would have been no strife to make men disagree; but, as it is,
+fairness and equality have no existence in this world beyond the name;
+there is really no such thing. For instance, mother, I will tell thee
+this without any concealment; I would ascend to the rising of the
+stars and the sun or dive beneath the earth, were I able so to do,
+to win a monarch's power, the chief of things divine. Therefore, mother,
+I will never yield this blessing to another, but keep it for myself;
+for it were a coward's act to lose the greater and to win the less.
+Besides, I blush to think that he should gain his object by coming
+with arms in his hand and ravaging the land; for this were foul disgrace
+to glorious Thebes, if I should yield my sceptre up to him for fear
+of Argive might. He ought not, mother, to have attempted reconcilement
+by armed force, for words compass everything that even the sword of
+an enemy might effect. Still, if on any other terms he cares to dwell
+here, he may; but the sceptre will I never willingly let go. Shall
+I become his slave, when I can be his master? Never! Wherefore come
+fire, come sword! harness your steeds, fill the plains with chariots,
+for I will not forego my throne for him. For if we must do wrong,
+to do so for a kingdom were the fairest cause, but in all else virtue
+should be our aim. 
+
+LEADER Fair words are only called for when the deeds they crown are
+fair; otherwise they lose their charm and offend justice.
+
+JOCASTA Eteocles, my child, it is not all evil that attends old age;
+sometimes its experience can offer sager counsel than can youth. Oh
+why, my son, art thou so set upon Ambition, that worst of deities?
+Forbear; that goddess knows not justice; many are the homes and cities
+once prosperous that she hath entered and left after the ruin of her
+votaries; she it is thou madly followest. Better far, my son, prize
+Equality that ever linketh friend to friend, city to city, and allies
+to each other; for Equality is man's natural law; but the less is
+always in opposition to the greater, ushering in the dayspring of
+dislike. For it is Equality that hath set up for man measures and
+divisions of weights and hath distinguished numbers; night's sightless
+orb, and radiant sun proceed upon their yearly course on equal terms,
+and neither of them is envious when it has to yield. Though sun and
+gloom then both are servants in man's interests, wilt not thou be
+content with thy fair share of thy heritage and give the same to him?
+if not, why where is justice? Why prize beyond its worth the monarch's
+power, injustice in prosperity? why think so much of the admiring
+glances turned on rank? Nay, 'tis vanity. Or wouldst thou by heaping
+riches in thy halls, heap up toil therewith? what advantage is it?
+'tis but a name; for the wise find that enough which suffices for
+their wants. Man indeed hath no possessions of his own; we do but
+hold a stewardship of the gods' property; and when they will, they
+take it back again. Riches make no settled home, but are as transient
+as the day. Come, suppose I put before thee two alternatives, whether
+thou wilt rule or save thy city? Wilt thou say "Rule"? 
+
+Again, if Polyneices win the day and his Argive warriors rout the
+ranks of Thebes, thou wilt see this city conquered and many a captive
+maid brutally dishonoured by the foe; so will that wealth thou art
+so bent on getting become a grievous bane to Thebes; but still ambition
+fills thee. This I say to thee; and this to thee, Polyneices; Adrastus
+hath conferred a foolish favour on thee; and thou too hast shown little
+sense in coming to lay thy city waste. Suppose thou conquer this land
+(which Heaven forefend!) tell me, I conjure thee, how wilt thou rear
+a trophy to Zeus? how wilt thou begin the sacrifice after thy country's
+conquest or inscribe the spoils at the streams of Inachus with "Polyneices
+gave Thebes to the flames and dedicated these shields to the gods"?
+Oh! never, my son, be it thine to win such fame from Hellas! If, on
+the other hand, thou art worsted and thy brother's cause prevail,
+how shalt thou return to Argos, leaving countless dead behind? Some
+one will be sure to say, "Out on thee! Adrastus, for the evil bridegroom
+thou hast brought unto thy house; thanks to one maid's marriage, ruin
+is come on us." 
+
+Towards two evils, my son, art thou hasting,-loss of influence there
+and ruin in the midst of thy efforts here. Oh! my children, lay aside
+your violence; two men's follies, once they meet, result in very deadly
+evil. 
+
+LEADER O heaven, avert these troubles and reconcile the sons of Oedipus
+in some way! 
+
+ETEOCLES Mother, the season for parley is past; the time we still
+delay is idle waste; thy good wishes are of no avail, for we shall
+never be reconciled except upon the terms already named, namely, that
+I should keep the sceptre and be king of this land: wherefore cease
+these tedious warnings and let me be.  (Turning to POLYNEICES)  And
+as for thee, outside the walls, or die! 
+
+POLYNEICES Who will slay me? who is so invulnerable as to plunge
+his sword in my body without reaping the self-same fate?
+
+ETEOCLES Thou art near him, aye, very near; dost see my arm?
+
+POLYNEICES I see it; but wealth is cowardly, a craven too fond of
+life. 
+
+ETEOCLES Was it then to meet a dastard thou camest with all that
+host to war? 
+
+POLYNEICES In a general caution is better than foolhardiness.
+
+ETEOCLES Relying on the truce, which saves thy life, thou turnest
+boaster. 
+
+POLYNEICES Once more I ask thee to restore my sceptre and share in
+the kingdom. 
+
+ETEOCLES I have naught to restore; 'tis my own house, and I will
+dwell therein. 
+
+POLYNEICES What! and keep more than thy share? 
+
+ETEOCLES Yes, I will. Begone! 
+
+POLYNEICES O altars of my fathers' gods!- 
+
+ETEOCLES Which thou art here to raze. 
+
+POLYNEICES Hear me. 
+
+ETEOCLES Who would hear thee after thou hast marched against thy
+fatherland? 
+
+POLYNEICES O temples of those gods that ride on snow-white steeds!
+
+ETEOCLES They hate thee. 
+
+POLYNEICES I am being driven from my country. 
+
+ETEOCLES Because thou camest to drive others thence. 
+
+POLYNEICES Unjustly, O ye gods! 
+
+ETEOCLES Call on the gods at Mycenae, not here. 
+
+POLYNEICES Thou hast outraged right- 
+
+ETEOCLES But I have not like thee become my country's foe.
+
+POLYNEICES By driving me forth without my portion. 
+
+ETEOCLES And further I will slay thee. 
+
+POLYNEICES O father, dost thou hear what I am suffering?
+
+ETEOCLES Yea, and he hears what thou art doing. 
+
+POLYNEICES Thou too, mother mine? 
+
+ETEOCLES Thou hast no right to mention thy mother. 
+
+POLYNEICES O my city! 
+
+ETEOCLES Get thee to Argos, and invoke the waters of Lerna.
+
+POLYNEICES I will; trouble not thyself; all thanks to thee though,
+mother mine- 
+
+ETEOCLES Forth from the land! 
+
+POLYNEICES I go, yet grant me to behold my father. 
+
+ETEOCLES Thou shalt not have thy wish. 
+
+POLYNEICES At least then my tender sisters. 
+
+ETEOCLES No! them too thou shalt never see. 
+
+POLYNEICES Ah, sisters mine! 
+
+ETEOCLES Why dost thou, their bitterest foe, call on them?
+
+POLYNEICES Mother dear, to thee at least farewell! 
+
+JOCASTA A joyous faring mine in sooth, my son! 
+
+POLYNEICES Thy son no more! 
+
+JOCASTA Born to sorrow, endless sorrow, I! 
+
+POLYNEICES 'Tis because my brother treats me despitefully.
+
+ETEOCLES I am treated just the same. 
+
+POLYNEICES Where wilt thou be stationed before the towers?
+
+ETEOCLES Why ask me this? 
+
+POLYNEICES I will array myself against thee for thy death.
+
+ETEOCLES I too have the same desire. 
+
+JOCASTA Woe is me! what will ye do, my sons? 
+
+POLYNEICES The event will show. 
+
+JOCASTA Oh, fly your father's curse!  (JOCASTA enters the palace.)
+
+ETEOCLES Destruction seize our whole house! 
+
+POLYNEICES Soon shall my sword be busy, plunged in gore. But I call
+my native land and heaven too to witness, with what contumely and
+bitter treatment I am being driven forth, as though I were a slave,
+not a son of Oedipus as much as he. If aught happen to thee, my city,
+blame him, not me; for I came not willingly, and all unwillingly am
+I driven hence. Farewell, king Phoebus, lord of highways; farewell
+palace and comrades; farewell ye statues of the gods, at which men
+offer sheep; for I know not if shall ever again address you, though
+hope is still awake, which makes me confident that with heaven's help
+I shall slay this fellow and rule my native Thebes.  (POLYNEICES departs.)
+
+ETEOCLES Forth from the land! 'twas a true name our father gave thee,
+when, prompted by some god, he called thee Polyneices, a name denoting
+strife. 
+
+CHORUS  (singing, strophe)
+
+To this land came Cadmus of Tyre, at whose feet an unyoked heifer
+threw itself down, giving effect to an oracle on the spot where the
+god's response bade him take up his abode in Aonia's rich cornlands,
+where gushing Dirce's fair rivers of water pour o'er verdant fruitful
+fields; here was born the Bromian god by her whom Zeus made a mother,
+round whom the ivy twined its wreaths while he was yet a babe, swathing
+him amid the covert of its green foliage as child of happy destiny,
+to be a theme for Bacchic revelry among the maids and wives inspired
+in Thebes. 
+
+(antistrophe)
+
+There lay Ares' murderous dragon, a savage warder, watching with
+roving eye the watered glens and quickening streams; him did Cadmus
+slay with a jagged stone, when he came thither to draw him lustral
+water, smiting that fell head with a blow of his death-dealing arm;
+but by the counsel of Pallas, motherless goddess, he cast the teeth
+upon the earth into deep furrows, whence sprang to sight mail-clad
+host above the surface of the soil; but grim slaughter once again
+united them to the earth they loved, bedewing with blood the ground
+that had disclosed them to the sunlit breath of heaven. 
+
+(epode)
+
+Thee too, Epaphus, child of Zeus, sprung from Io our ancestress,
+call on in my foreign tongue; all hail to thee! hear my prayer uttered
+in accents strange, and visit this land; 'twas in thy honour thy descendants
+settled here, and those goddesses of twofold name, Persephone and
+kindly Demeter or Earth the queen of all, that feedeth every mouth,
+won it for themselves; send to the help of this land those torch-bearing
+queens; for to gods all things are easy. 
+
+ETEOCLES  (to an attendant) Go, fetch Creon son of Menoeceus, the
+brother of jocasta my mother; tell him I fain would confer with him
+on matters affecting our public and private weal, before we set out
+to battle and the arraying of our host. But lo! he comes and saves
+thee the trouble of going; I see him on his way to my palace.  (CREON
+enters.)  
+
+CREON To and fro have I been, king Eteocles, in my desire to see
+thee, and have gone all round the gates and sentinels of Thebes in
+quest of thee. 
+
+ETEOCLES Why, and I was anxious to see thee, Creon; for I found the
+terms of peace far from satisfactory, when I came to confer with Polyneices.
+
+CREON I hear that he has wider aims than Thebes, relying on his alliance
+with the daughter of Adrastus and his army. Well, we must leave this
+dependent on the gods; meantime I am come to tell thee our chief obstacle.
+
+ETEOCLES What is that? I do not understand what thou sayest.
+
+CREON There is come one that was captured by the Argives.
+
+ETEOCLES What news does he bring from their camp? 
+
+CREON He says the Argive army intend at once to draw a ring of troops
+round the city of Thebes, about its towers. 
+
+ETEOCLES In that case the city of Cadmus must lead out its troops.
+
+CREON Whither? art thou so young that thine eyes see not what they
+should? 
+
+ETEOCLES Across yon trenches for immediate action. 
+
+CREON Our Theban forces are small, while theirs are numberless.
+
+ETEOCLES I well know they are reputed brave. 
+
+CREON No mean repute have those Argives among Hellenes.
+
+ETEOCLES Never fear! I will soon fill the plain with their dead.
+
+CREON I could wish it so; but I see great difficulties in this.
+
+ETEOCLES Trust me, I will not keep my host within the walls.
+
+CREON Still victory is entirely a matter of good counsel.
+
+ETEOCLES Art anxious then that I should have recourse to any other
+scheme? 
+
+CREON Aye to every scheme, before running the risk once for all.
+
+ETEOCLES Suppose we fall on them by night from ambuscade?
+
+CREON Good! provided in the event of defeat thou canst secure thy
+return hither. 
+
+ETEOCLES Night equalizes risks, though it rather favours daring.
+
+CREON The darkness of night is a terrible time to suffer disaster.
+
+ETEOCLES Well, shall I fall upon them as they sit at meat?
+
+CREON That might cause them fright, but victory is what we want.
+
+ETEOCLES Dirce's ford is deep enough to prevent their retreat.
+
+CREON No plan so good as to keep well guarded. 
+
+ETEOCLES What if our cavalry make a sortie against the host of Argos?
+
+CREON Their troops too are fenced all round with chariots.
+
+ETEOCLES What then can I do? am I to surrender the city to the foe?
+
+CREON Nay, nay! but of thy wisdom form some plan. 
+
+ETEOCLES Pray, what scheme is wiser than mine? 
+
+CREON They have seven chiefs, I hear. 
+
+ETEOCLES What is their appointed task? their might can be but feeble.
+
+CREON To lead the several companies and storm our seven gates.
+
+ETEOCLES What are we to do? I will not wait till every chance is
+gone. 
+
+CREON Choose seven chiefs thyself to set against them at the gates.
+
+ETEOCLES To lead our companies, or to fight single-handed?
+
+CREON Choose our very bravest men to lead the troops. 
+
+ETEOCLES I understand; to repel attempts at scaling our walls.
+
+CREON With others to share the command, for one man sees not everything.
+
+ETEOCLES Selecting them for courage or thoughtful prudence?
+
+CREON For both; for one is naught without the other. 
+
+ETEOCLES It shall be done; I will away to our seven towers and post
+captains at the gates, as thou advisest, pitting them man for man
+against the foe. To tell thee each one's name were grievous waste
+of time, when the foe is camped beneath our very walls. But I will
+go, that my hands may no longer hang idle. May I meet my brother face
+to face, and encounter him hand to hand, e'en to the death, for coming
+to waste my country! But if I suffer any mischance, thou must see
+to the marriage 'twixt Antigone my sister and Haemon, thy son; and
+now, as I go forth to battle, I ratify their previous espousal. Thou
+art my mother's brother, so why need I say more? take care of her,
+as she deserves, both for thy own sake and mine. As for my sire he
+hath been guilty of folly against himself in putting out his eyes;
+small praise have I for him; by his curses maybe he will slay us too.
+One thing only have we still to do, to ask Teiresias, the seer, if
+he has aught to tell of heaven's will. Thy son Menoeceus, who bears
+thy father's name, will I send to fetch Teiresias hither, Creon; for
+with the he will readily converse, though I have ere now so scorned
+his art prophetic to his face, that he has reasons to reproach me.
+This commandment, Creon, I lay upon the city and thee; should my cause
+prevail, never give Polyneices' corpse a grave in Theban soil, and
+if so be some friend should bury him, let death reward the man. Thus
+far to thee; and to my servants thus, bring forth my arms and coat
+of mail, that I may start at once for the appointed combat, with right
+to lead to victory. To save our city we will pray to Caution, the
+best goddess to serve our end.  (ETEOCLES and his retinue go out.)
+
+CHORUS  (singing, strophe)
+
+O Ares, god of toil and trouble! why, why art thou possessed by love
+of blood and death, out of harmony with the festivals of Bromius?
+'Tis for no crowns of dancers fair that thou dost toss thy youthful
+curls to the breeze, singing the while to the lute's soft breath a
+strain to charm the dancers' feet; but with warriors clad in mail
+thou dost lead thy sombre revelry, breathing into Argive breasts lust
+for Theban blood; with no wild waving of the thyrsus, clad in fawnskin
+thou dancest, but with chariots and bitted steeds wheelest thy charger
+strong of hoof. O'er the waters of Ismenus in wild career thou art
+urging thy horses, inspiring Argive breasts with hate of the earth-born
+race, arraying in brazen harness against these stone-built walls a
+host of warriors armed with shields. Truly Strife is a goddess to
+fear, who devised these troubles for the princes of this land, for
+the much-enduring sons of Labdacus. 
+
+(antistrophe)
+
+O Cithaeron, apple of the eye of Artemis, holy vale of leaves, amid
+whose snows full many a beast lies couched, would thou hadst never
+reared the child exposed to die, Oedipus the fruit of Jocasta's womb,
+when as a babe he was cast forth from his home, marked with golden
+brooch; and would the Sphinx, that winged maid, fell monster from
+the hills, had never come to curse our land with inharmonious strains;
+she that erst drew nigh our walls and snatched the sons of Cadmus
+away in her taloned feet to the pathless fields of light, a fiend
+sent by Hades from hell to plague the men of Thebes; once more unhappy
+strife is bursting out between the sons of Oedipus in city and home.
+For never can wrong be right, nor children of unnatural parentage
+come as a glory to the mother that bears them, but as a stain on the
+marriage of him who is father and brother at once. 
+
+(epode)
+
+O earth, thou once didst bear,-so long ago I heard the story told
+by foreigners in my own home,-a race which sprang of the teeth of
+a snake with blood-red crest, that fed on beasts, to be the glory
+and reproach of Thebes. In days gone by the sons of heaven came to
+the wedding of Harmonia, and the walls of Thebes arose to the sound
+of the lyre and her towers stood up as Amphion played, in the midst
+between the double streams of Dirce, that watereth the green meadows
+fronting the Ismenus; and Io, our horned ancestress was mother of
+the kings of Thebes; thus our city through an endless succession of
+divers blessings has set herself upon the highest pinnacle of martial
+glory.  (TEIRESIAS enters, led by his daughter. They are accompanied
+by MENOECEUS.)  
+
+TEIRESIAS Lead on, my daughter; for thou art as an eye to my blind
+feet, as certain as a star to mariners; lead my steps on to level
+ground; then go before, that we stumble not, for thy father has no
+strength; keep safe for me in thy maiden hand the auguries I took
+in the days I observed the flight and cries of birds seated in my
+holy prophet's chair. Tell me, young Menoeceus, son of Creon, how
+much further toward the city is it ere reach thy father? for my knees
+grow weary, and I can scarce keep up this hurried pace. 
+
+CREON Take heart, Teiresias, for thou hast reached thy moorings and
+art near thy friends; take him by the hand, my child; for just as
+every carriage has to wait for outside help to steady it, so too hath
+the step of age. 
+
+TEIRESIAS Enough; I have arrived; why, Creon, dost thou summon me
+so urgently? 
+
+CREON I have not forgotten that; but first collect thyself and regain
+breath, shaking off the fatigue of thy journey. 
+
+TEIRESIAS I am indeed worn out, having arrived here only yesterday
+from the court of the Erechtheidae; for they too were at war, fighting
+with Eumolpus, in which contest I insured the victory of Cecrops'
+sons; and I received the golden crown, which thou seest me wearing,
+as first-fruits of the enemy's spoil. 
+
+CREON I take thy crown of victory as an omen. We, as thou knowest,
+are exposed to the billows of an Argive war, and great is the struggle
+for Thebes. Eteocles, our king, is already gone in full harness to
+meet Mycenae's champions, and hath bidden me inquire of thee our best
+course to save the city. 
+
+TEIRESIAS For Eteocles I would have closed my lips and refrained
+from all response, but to thee I will speak, since 'tis thy wish to
+learn. This country, Creon, has been long afflicted, ever since Laius
+became a father in heaven's despite, begetting hapless Oedipus to
+be his own mother's husband. That bloody outrage on his eyes was planned
+by heaven as an ensample to Hellas; and the sons of Oedipus made a
+gross mistake in wishing to throw over it the veil of time, as if
+forsooth they could outrun the gods' decree; for by robbing their
+father of his due honour and allowing him no freedom, they enraged
+their luckless sire; so he, stung by suffering and disgrace as well,
+vented awful curses against them; and I, because I left nothing undone
+or unsaid to prevent this, incurred the hatred of the sons of Oedipus.
+But death inflicted by each other's hands awaits them, Creon; and
+the many heaps of slain, some from Argive, some from Theban missiles,
+shall cause bitter lamentation in the land of Thebes. Alas! for thee,
+poor city, thou art being involved in their ruin, unless I can persuade
+one man. The best course was to prevent any child of Oedipus becoming
+either citizen or king in this land, since they were under a ban and
+would overthrow the city. But as evil has the mastery of good, there
+is still one other way of safety; but this it were unsafe for me to
+tell, and painful too for those whose high fortune it is to supply
+their city witb the saving cure. Farewell! I will away; amongst the
+rest must I endure my doom, if need be; for what will become of me?
+
+CREON Stay here, old man. 
+
+TEIRESIAS Hold me not. 
+
+CREON Abide, why dost thou seek to fly? 
+
+TEIRESIAS 'Tis thy fortune that flies thee, not I. 
+
+CREON Tell me what can save Thebes and her citizens. 
+
+TEIRESIAS Though this be now thy wish, it will soon cease to be.
+
+CREON Not wish to save my country? how can that be? 
+
+TEIRESIAS Art thou still eager to be told? 
+
+CREON Yea; for wherein should I show greater zeal? 
+
+TEIRESIAS Then straightway shalt thou hear my words prophetic. But
+first would fain know for certain where Menoeceus is, who led me hither.
+
+CREON Here, not far away, but at thy side. 
+
+TEIRESIAS Let him retire far from my prophetic voice. 
+
+CREON He is my own son and will preserve due silence. 
+
+TEIRESIAS Wilt thou then that I tell thee in his presence?
+
+CREON Yea, for he will rejoice to hear the means of safety.
+
+TEIRESIAS Then hear the purport of my oracle, the which if ye observe
+ye shall save the city of Cadmus. Thou must sacrifice Menoeceus thy
+son here for thy country, since thine own lips demand the voice of
+fate. 
+
+CREON What mean'st thou? what is this thou hast said, old man?
+
+TEIRESIAS To that which is to be thou also must conform.
+
+CREON O the eternity of woe thy minute's tale proclaims!
+
+TEIRESIAS Yes to thee, but to thy country great salvation.
+
+CREON I shut my ears; I never listened; to city now farewell!
+
+TEIRESIAS Ha! the man is changed; he is drawing back. 
+
+CREON Go in peace; it is not thy prophecy I need. 
+
+TEIRESIAS Is truth dead, because thou art curst with woe?
+
+CREON By thy knees and honoured locks I implore thee! 
+
+TEIRESIAS Why implore me? thou art craving a calamity hard to guard
+against. 
+
+CREON Keep silence; tell not the city thy news. 
+
+TEIRESIAS Thou biddest me act unjustly; I will not hold my peace.
+
+CREON What wilt thou then do to me? slay my child? 
+
+TEIRESIAS That is for others to decide; I have but to speak.
+
+CREON Whence came this curse on me and my son? 
+
+TEIRESIAS Thou dost right to ask me and to test what I have said.
+In yonder lair, where the earth-born dragon kept watch and ward o'er
+Dirce's springs, must this youth be offered and shed his life-blood
+on the ground by reason of Ares' ancient grudge against Cadmus, who
+thus avenges the slaughter of his earth-born snake. If ye do this,
+ye shall win Ares as an ally; and if the earth receive crop for crop
+and human blood for blood, ye shall find her kind again, that erst
+to your sorrow reared from that dragon's seed a crop of warriors with
+golden casques; for needs must one sprung from the dragon's teeth
+be slain. Now thou art our only survivor of the seed of that sown
+race, whose lineage is pure alike on mother's and on father's side,
+thou and these thy sons. Haemon's marriage debars him from being the
+victim, for he is no longer single; for even if he have not consummated
+his marriage, yet is he betrothed; but this tender youth, consecrated
+to the city's service, might by dying rescue his country; and bitter
+will he make the return of Adrastus and his Argives, flinging o'er
+their eyes death's dark pall, and will glorify Thebes. Choose thee
+one of these alternatives; either save the city or thy son.
+
+Now hast thou all I have to say. Daughter, lead me home. A fool, the
+man who practises the diviner's art; for if he should announce an
+adverse answer, he makes himself disliked by those who seek to him;
+while, if from pity he deceives those who are consulting him, he sins
+against Heaven. Phoebus should have been man's only prophet, for he
+fears no man.  (His daughter leads TEIRESIAS out.)  
+
+LEADER OF THE CHORUS Why so silent, Creon, why are thy lips hushed
+and dumb? I too am no less stricken with dismay. 
+
+CREON Why, what could one say? 'Tis clear what my words must be.
+For will never plunge myself so deeply into misfortune as to devote
+my son to death for the city; for love of children binds all men to
+life, and none would resign his own son to die. Let no man praise
+me into slaying my children. I am ready to die myself-for I am ripe
+in years-to set my country free. But thou, my son, ere the whole city
+learn this, up and fly with all haste away from this land, regardless
+of these prophets' unbridled utterances; for he will go to the seven
+gates and the captains there and tell all this to our governors and
+leaders; now if we can forestall him, thou mayst be saved, but if
+thou art too late, we are undone and thou wilt die. 
+
+MENOECEUS Whither can I fly? to what city? to which of our guest-friends?
+
+CREON Fly where thou wilt be furthest removed from this land.
+
+MENOECEUS 'Tis for thee to name a place, for me to carry out thy
+bidding. 
+
+CREON After passing Delphi- 
+
+MENOECEUS Whither must I go, father? 
+
+CREON To Aetolia. 
+
+MENOECEUS Whither thence? 
+
+CREON To the land of Thesprotia. 
+
+MENOECEUS To Dodona's hallowed threshold? 
+
+CREON Thou followest me. 
+
+MENOECEUS What protection shall I find me there? 
+
+CREON The god will send thee on thy way. 
+
+MENOECEUS How shall I find the means? 
+
+CREON I will supply thee with money. 
+
+MENOECEUS A good plan of thine, father. So go; for I will to thy
+sister, Jocasta, at whose breast I was suckled as a babe when reft
+of my mother and left a lonely orphan, to give her kindly greeting
+and then will I seek my safety. Come, come! be going, that there be
+no hindrance on thy part.  (CREON departs.)  How cleverly, ladies,
+I banished my father's fears by crafty words to gain my end; for he
+is trying to convey me hence, depriving the city of its chance and
+surrendering me to cowardice. Though an old man may be pardoned, yet
+in my case there is no excuse for betraying the country that gave
+me birth. So I will go and save the city, be assured thereof, and
+give my life up for this land. For this were shame, that they whom
+no oracles bind and who have not come under Fate's iron law, should
+stand there, shoulder to shoulder, with never a fear of death, and
+fight for their country before her towers, while I escape the kingdom
+like a coward, a traitor to my father and brother and city; and wheresoe'er
+I live, I shall appear a dastard. Nay, by Zeus and all his stars,
+by Ares, god of blood, who 'stablished the warrior-crop that sprung
+one day from earth as princes of this land, that shall not be! but
+go I will, and standing on the topmost battlements, will deal my own
+death-blow over the dragon's deep dark den, the spot the seer described,
+and will set my country free. I have spoken. Now I go to make the
+city a present of my life, no mean offering, to rid this kingdom of
+its affliction. For if each were to take and expend all the good within
+his power, contributing it to his country's weal, our states would
+experience fewer troubles and would for the future prosper.  (MENOECEUS
+goes out.)  
+
+CHORUS  (singing, strophe)
+
+Thou cam'st, O winged fiend, spawn of earth and hellish viper-brood,
+to prey upon the sons of Cadmus, rife with death and fraught with
+sorrow, half a monster, half a maid, a murderous prodigy, with roving
+wings and ravening claws, that in days gone by didst catch up youthful
+victims from the haunts of Dirce, with discordant note, bringing a
+deadly curse, a woe of bloodshed to our native land. A murderous god
+he was who brought all this to pass. In every house was heard a cry
+of mothers wailing and of wailing maids, lamentation and the voice
+of weeping, as each took up the chant of death from street to street
+in turn. Loud rang the mourners' wail, and one great cry went up,
+whene'er that winged maiden bore some victim out of sight from the
+city. 
+
+(antistrophe)
+
+At last came Oedipus, the man of sorrow, on his mission from Delphi
+to this land of Thebes, a joy to them then but afterwards cause of
+grief; for, when he had read the riddle triumphantly, he formed with
+his mother an unhallowed union, woe to him! polluting the city; and
+by his curses, luckless wight, he plunged his sons into a guilty strife,
+causing them to wade through seas of blood. All reverence do we feel
+for him, who is gone to his death in his country's cause, bequeathing
+to Creon a legacy of tears, but destined to crown with victory our
+seven fenced towers. May our motherhood be blessed with such noble
+sons, O Pallas, kindly queen, who with well-aimed stone didst spill
+the serpent's blood, rousing Cadmus as thou didst to brood upon the
+task, whereof the issue was a demon's curse that swooped upon this
+land and harried it.  (The FIRST MESSENGER enters.)  
+
+MESSENGER Ho there! who is at the palace-gates? Open the door, summon
+Jocasta forth. Ho there! once again I call; spite of this long delay
+come forth; hearken, noble wife of Oedipus; cease thy lamentation
+and thy tears of woe.  (JOCASTA enters from the palace in answer to
+his call.)  
+
+JOCASTA Surely thou art not come, my friend, with the sad news of
+Eteocles' death, beside whose shield thou hast ever marched, warding
+from him the foeman's darts? What tidings art thou here to bring me?
+Is my son alive or dead? Declare that to me. 
+
+MESSENGER To rid thee of thy fear at once, he lives; that terror
+banish. 
+
+JOCASTA Next, how is it with the seven towers that wall us in?
+
+MESSENGER They stand unshattered still; the city is not yet a prey.
+
+JOCASTA Have they been in jeopardy of the Argive spear?
+
+MESSENGER Aye, on the very brink; but our Theban warriors proved
+too strong for Mycenae's might. 
+
+JOCASTA One thing tell me, I implore; knowest thou aught of Polyneices,
+is he yet alive? for this too I long to learn. 
+
+MESSENGER As yet thy sons are living, the pair of them.
+
+JOCASTA God bless thee! How did you succeed in beating off from our
+gates the Argive hosts, when thus beleaguered? Tell me, that I may
+go within and cheer the old blind man, since our city is still safe.
+
+MESSENGER After Creon's son, who gave up life for country, had taken
+his stand on the turret's top and plunged a sword dark-hilted through
+his throat to save this land, thy son told off seven companies with
+their captains to the seven gates to keep watch on the Argive warriors,
+and stationed cavalry to cover cavalry, and infantry to support infantry,
+that assistance might be close at hand for any weak point in the walls.
+Then from our lofty towers we saw the Argive host with their white
+shields leaving Teumessus, and, when near the trench, they charged
+up to our Theban city at the double. In one loud burst from their
+ranks and from our battlements rang out the battle-cry and trumpet-call.
+First to the Neistian gate, Parthenopaeus, son of the huntress maid,
+led a company bristling with serried shields, himself with his own
+peculiar badge in the centre of his targe, Atalanta slaying the Aetolian
+boar with an arrow shot from far. To the gates of Proetus came the
+prophet Amphiaraus, bringing the victims on a chariot; no vaunting
+blazon he carried, but weapons chastely plain. Next, prince Hippomedon
+came marching to the Ogygian port with this device upon his boss,
+Argus the all-seeing with his spangled eyes upon the watch whereof
+some open with the rising stars, while others he closes when they
+set, as one could see after he was slain. At the Homoloian gates Tydeus
+was posting himself, a lion's skin with shaggy mane upon his buckler,
+while in his right hand he bore a torch, like Titan Prometheus, to
+fire the town. Thy own son Polyneices led the battle 'gainst the Fountain
+gate; upon his shield for blazon were the steeds of Potniae galloping
+at frantic speed, revolving by some clever contrivance on pivots inside
+the buckler close to the handle, so as to appear distraught. At Electra's
+gate famed Capaneus brought up his company, bold as Ares for the fray;
+this device his buckler bore upon its iron back, an earth-born giant
+carrying on his shoulders a whole city which he had wrenched from
+its base, hint to us of the fate in store for Thebes. Adrastus was
+stationed at the seventh gate; a hundred vipers filled his shield
+with graven work, as he bore on his left arm that proud Argive badge,
+the hydra, and serpents were carrying off in their jaws the sons of
+Thebes from within their very walls. Now I was enabled to see each
+of them, as I carried the watch-word along the line to the leaders
+of our companies. To begin with, we fought with bows and thonged javelins,
+with slings that shoot from far and showers of crashing stones; and
+as we were conquering, Tydeus and thy son on sudden cried aloud, "Ye
+sons of Argos, before being riddled by their fire, why delay to fall
+upon the gates with might and main, the whole of you, light-armed
+and horse and charioteers?" No loitering then, soon as they heard
+that call; and many a warrior fell with bloody crown, and not a few
+of us thou couldst have seen thrown to the earth like tumblers before
+the walls, after they had given up the ghost, bedewing the thirsty
+ground with streams of gore. Then Atalanta's son, who was not an Argive
+but an Arcadian, hurling himself like a hurricane at the gates, called
+for fire and picks to raze the town; but Periclymenus, son of the
+ocean-god, stayed his wild career, heaving on his head a waggon-load
+of stone, even the coping torn from the battlements; and it shattered
+his head with the hair and crashed through the sutures of the skull,
+dabbling with blood his cheek just showing manhood's flush; and never
+shall he go back alive to his fair archer-mother, the maid of Maenalus.
+
+Thy son then, seeing these gates secure, went on to the next, and
+I with him. There I saw Tydeus and his serried ranks of targeteers
+hurling their Aetolian spears into the opening at the top of the turrets,
+with such good aim that our men fled and left the beetling battlements:
+but thy son rallied them once more, as a huntsman cheers his hounds,
+and made them man the towers again. And then away we hastened to other
+gates, after stopping the panic there. As for the madness of Capaneus,
+how am I to describe it? There was he, carrying with him a long scaling-ladder
+and loudly boasting that even the awful lightning of Zeus would not
+stay him from giving the city to utter destruction; and even as he
+spoke, he crept up beneath the hail of stones, gathered under the
+shelter of his shield, mounting from rung to rung on the smooth ladder;
+but, just as he was scaling the parapet of the wall, Zeus smote him
+with a thunderbolt; loud the earth re-echoed, and fear seized every
+heart; for his limbs were hurled from the ladder far apart as from
+a sling, his head toward the sky, his blood toward earth, while his
+legs and arms went spinning round like Ixion's wheel, till his charred
+corpse fell to the ground. But when Adrastus saw that Zeus was leagued
+against his army, he drew the Argive troops outside the trench and
+halted them. Meantime our horse, marking the lucky omen of Zeus, began
+driving forth their chariots, and our men-at-arms charged into the
+thick of the Argives, and everything combined to their discomfiture;
+men were falling and hurled headlong from chariots, wheels flew off,
+axles crashed together, while ever higher grew the heaps of slain;
+so for to-day at least have we prevented the destruction of our country's
+bulwarks; but whether fortune will hereafter smile upon this land,
+that rests with Heaven; for, even as it is, it owes its safety to
+some deity. 
+
+Victory is fair; and if the gods are growing kinder, it would be well
+with me. 
+
+JOCASTA Heaven and fortune smile; for my sons are yet alive and my
+country hath escaped ruin. But Creon seems to have reaped the bitter
+fruit of my marriage with Oedipus, by losing his son to his sorrow,
+a piece of luck-for Thebes, but bitter grief to him. Prithee to thy
+tale again and say what my two sons next intend. 
+
+MESSENGER Forbear to question further; all is well with thee so far.
+
+JOCASTA Thy words but rouse my suspicions; I cannot leave it thus.
+
+MESSENGER Hast thou any further wish than thy sons' safety?
+
+JOCASTA Yea, I would learn whether in the sequel I am also blest.
+
+MESSENGER Let me go; thy son is left without his squire.
+
+JOCASTA There is some evil thou art hiding, veiling it in darkness.
+
+MESSENGER Maybe; I would not add ill news to the good thou hast heard.
+
+JOCASTA Thou must, unless thou take wings and fly away.
+
+MESSENGER Ah! why didst thou not let me go after announcing my good
+news, instead of forcing me to disclose evil? Those two sons of thine
+are resolved on deeds of shameful recklessness, a single combat apart
+from the host, addressing to Argives and Thebans alike words I would
+they had never uttered. Eteocles, taking his stand on a lofty tower,
+after ordering silence to be proclaimed to the army, began on this
+wise, "Ye captains of Hellas, chieftains of Argos here assembled,
+and ye folk of Cadmus, barter not your lives for Polyneices or for
+me! For I myself excuse you from this risk, and will engage my brother
+in single combat; and if I slay him, will possess my palace without
+rival, but if I am worsted I will bequeath the city to him. Ye men
+of Argos, give up the struggle and return to your land, nor lose your
+lives here; of the earth-sown folk as well there are dead enough in
+those already slain." 
+
+So he; then thy son Polyneices rushed from the array and assented
+to his proposal; and all the Argives and the people of Cadmus shouted
+their approval, as though they deemed it just. On these terms the
+armies made a truce, and in the space betwixt them took an oath of
+each other for their leaders to abide by. Forthwith in brazen mail
+those two sons of aged Oedipus were casing themselves; and lords of
+Thebes with friendly care equipped the captain of this land, while
+Argive chieftains armed the other. There they stood in dazzling sheen,
+neither blenching, all eagerness to hurl their lances each at the
+other. Then came their friends to their side, first one, then another,
+with words of encouragement, to wit: 
+
+"Polyneices, it rests with thee to set up an image of Zeus as a trophy,
+and crown Argos with fair renown." 
+
+Others hailed Eteocles: "Now art thou fighting for thy city; now,
+if victorious, thou hast the sceptre in thy power." 
+
+So spake they, cheering them to the fray. 
+Meantime the seers were sacrificing sheep and noting the tongues and
+forks of fire, the damp reek which is a bad omen, and the tapering
+flame, which gives decisions on two points, being both a sign of victory
+and defeat. But, if thou hast any power or subtle speech or charmed
+spell, go, stay thy children from this fell affray, for great is the
+risk they run. The issue thereof will be grievous sorrow for thee,
+if to-day thou art reft of both thy sons.  (The MESSENGER departs
+in haste as ANTIGONE comes out of the palace.)  
+
+JOCASTA Antigone, my daughter, come forth before the palace; this
+heaven-sent crisis is no time for thee to be dancing or amusing thyself
+with girlish pursuits. But thou and thy mother must prevent two gallant
+youths, thy own brothers, from plunging into death and falling by
+each other's hand. 
+
+ANTIGONE Mother mine, what new terror art thou proclaiming to thy
+dear ones before the palace? 
+
+JOCASTA Daughter, thy brothers are in danger of their life.
+
+ANTIGONE What mean'st thou? 
+
+JOCASTA They have resolved on single combat. 
+
+ANTIGONE O horror! what hast thou to tell, mother? 
+
+JOCASTA No welcome news; follow me. 
+
+ANTIGONE Whither away from my maiden-bower? 
+
+JOCASTA To the army. 
+
+ANTIGONE I cannot face the crowd. 
+
+JOCASTA Modesty is not for thee now. 
+
+ANTIGONE But what can I do? 
+
+JOCASTA Thou shalt end thy brothers' strife. 
+
+ANTIGONE By what means, mother mine? 
+
+JOCASTA By falling at their knees with me. 
+
+ANTIGONE Lead on till we are 'twixt the armies; no time for lingering
+now. 
+
+JOCASTA Haste, my daughter, haste! For, if I can forestall the onset
+of my sons, may yet live; but if they be dead, I will lay me down
+and die with them.  (JOCASTA and ANTIGONE hurriedly depart.)
+
+CHORUS  (singing, strophe)
+
+Ah me! my bosom thrills with terror; and through my flesh there passes
+a throb of pity for the hapless mother. Which of her two sons will
+send the other to a bloody grave? ah, woe is me! O Zeus, O earth,
+alas! brother severing brother's throat and robbing him of life, cleaving
+through his shield to spill his blood? Ah me! ah me! which of them
+will claim my dirge of death? 
+
+(antistrophe)
+
+Woe unto thee, thou land of Thebes! two savage beasts, two murderous
+souls, with brandished spears will soon be draining each his fallen
+foeman's gore. Woe is them, that they ever thought of single combat!
+in foreign accent will I chant a dirge of tears and wailing in mourning
+for the dead. Close to murder stands their fortune; the coming day
+will decide it. Fatal, ah! fatal will this slaughter be, because of
+the avenging fiends. 
+
+But I see Creon on his way hither to the palace with brow o'ercast;
+I will check my present lamentations.  (CREON enters. He is followed
+by attendants carrying the body of MENOECEUS.)  
+
+CREON Ah me! what shall I do? Am I to mourn with bitter tears myself
+or my city, round which is settling a swarm thick enough to send us
+to Acheron? My own son hath died for his country, bringing glory to
+his name but grievous woe to me. His body I rescued but now from the
+dragon's rocky lair and sadly carried the self-slain victim hither
+in my arms; and my house is fallen with weeping: but now I come to
+fetch my sister Jocasta, the living must reverence the nether god
+by paying honour to the dead. 
+
+LEADER OF THE CHORUS Thy sister, Creon, hath gone forth and her daughter
+Antigone went with her. 
+
+CREON Whither went she? and wherefore? tell me. 
+
+LEADER She heard that her sons were about to engage in single combat
+for the royal house. 
+
+CREON What is this? I was paying the last honours to my dead son,
+and so am late in learning this fresh sorrow. 
+
+LEADER 'Tis some time, Creon, since thy sister's departure, and I
+expect the struggle for life and death is already decided by the sons
+of Oedipus. 
+
+CREON Alas! I see an omen there, the gloomy look and clouded brow
+of yonder messenger coming to tell us the whole matter.  (The SECOND
+MESSENGER enters.)  
+
+MESSENGER Ah, woe is me! what language can I find to tell my tale?
+
+CREON Our fate is sealed; thy opening words do naught to reassure
+us. 
+
+MESSENGER Ah, woe is me! I do repeat; for beside the scenes of woe
+already enacted I bring tidings of new horror. 
+
+CREON What is thy tale? 
+
+MESSENGER Thy sister's sons are now no more, Creon. 
+
+CREON Alas! thou hast a heavy tale of woe for me and Thebes
+
+LEADER O house of Oedipus, hast thou heard these tidings?
+
+CREON Of sons slain by the self-same fate. 
+
+LEADER A tale to make it weep, were it endowed with sense.
+
+CREON Oh! most grievous stroke of fate! woe is me for my sorrows!
+woe! 
+
+MESSENGER Woe indeed! didst thou but know the sorrows still to tell.
+
+CREON How can they be more hard to bear than these? 
+
+MESSENGER With her two sons thy sister has sought her death.
+
+CHORUS  (chanting) Loudly, loudly raise the wail, and with white
+hands smite upon your heads! 
+
+CREON Ah! woe is thee, Jocasta! what an end to life and marriage
+hast thou found the riddling of the Sphinx! But tell me how her two
+sons wrought the bloody deed, the struggle caused by the curse of
+Oedipus. 
+
+MESSENGER Of our successes before the towers thou knowest, for the
+walls are not so far away as to prevent thy learning each event as
+it occurred. Now when they, the sons of aged Oedipus, had donned their
+brazen mail, they went and took their stand betwixt the hosts, chieftains
+both and generals too, to decide the day by single combat. Then Polyneices,
+turning his eyes towards Argos, lifted up a prayer; "O Hera, awful
+queens-for thy servant I am, since I have wedded the daughter of Adrastus
+and dwell in his land,-grant that I may slay my brother, and stain
+my lifted hand with the blood of my conquered foe. A shameful prize
+it is I ask, my own brother's blood." And to many an eye the tear
+would rise at their sad fate, and men looked at one another, casting
+their glances round. 
+
+But Eteocles, looking towards the temple of Pallas with the golden
+shield, prayed thus, "Daughter of Zeus, grant that this right arm
+may launch the spear of victory against my brother's breast and slay
+him who hath come to sack my country." Soon as the Tuscan trumpet
+blew, the signal for the bloody fray, like the torch that falls,'
+they darted wildly at one another and, like boars whetting their savage
+tusks, began the fray, their beards wet with foam; and they kept shooting
+out their spears, but each crouched beneath his shield to let the
+steel glance idly off; but if either saw the other's face above the
+rim, he would aim his lance thereat, eager to outwit him.
+
+But both kept such careful outlook through the spy-holes in their
+shields, that their weapons found naught to do; while from the on-lookers
+far more than the combatants trickled the sweat caused by terror for
+their friends. Suddenly Eteocles, in kicking aside a stone that rolled
+beneath his tread, exposed a limb outside his shield, and Polyneices
+seeing a chance of dealing him a blow, aimed a dart at it, and the
+Argive shaft went through his leg; whereat the Danai, one and all,
+cried out for joy. But the wounded man, seeing a shoulder unguarded
+in this effort, plunged his spear with all his might into the breast
+of Polyneices, restoring gladness to the citizens of Thebes, though
+he brake off the spear-head; and so, at a loss for a weapon, he retreated
+foot by foot, till catching up splintered rock he let it fly and shivered
+the other's spear; and now was the combat equal, for each had lost
+his lance. Then clutching their sword-hilts they closed, and round
+and round, with shields close-locked, they waged their wild warfare.
+Anon Eteocles introduced that crafty Thessalian trick, having some
+knowledge thereof from his intercourse with that country; disengaging
+himself from the immediate contest, he drew back his left foot but
+kept his eye closely on the pit of the other's stomach from a distance;
+then advancing his right foot he plunged his weapon through his navel
+and fixed it in his spine. Down falls Polyneices, blood-bespattered,
+ribs and belly contracting in his agony. But that other, thinking
+his victory now complete, threw down his sword and set to spoiling
+him, wholly intent thereon, without a thought for himself. And this
+indeed was his ruin; for Polyneices, who had fallen first, was still
+faintly breathing, and having in his grievous fall retained his sword,
+he made last effort and drove it through the heart of Eteocles. There
+they lie, fallen side by side, biting the dust with their teeth, without
+having decided the mastery. 
+
+LEADER OF THE CHORUS Ah, woe is thee! Oedipus, for thy sorrows! how
+I pity thee! Heaven, it seems, has fulfilled those curses of thine.
+
+MESSENGER Now hear what further woes succeeded. Just as her two sons
+had fallen and lay dying, comes their wretched mother on the scene,
+her daughter with her, in hot haste; and when she saw their mortal
+wounds, "Too late," she moaned, "my sons, the help I bring"; and throwing
+herself on each in turn she wept and wailed, sorrowing o'er all her
+toil in suckling them; and so too their sister, who was with her,
+"Supporters of your mother's age I dear brothers, leaving me forlorn,
+unwed!" Then prince Eteocles with one deep dying gasp, hearing his
+mother's cry, laid on her his moist hand, and though he could not
+say a word, his tear-filled eyes were eloquent to prove his love.
+But Polyneices was still alive, and seeing his sister and his aged
+mother he said, "Mother mine, our end is come; I pity thee and my
+sister Antigone and my dead brother. For I loved him though he turned
+my foe, I loved him, yes! in spite of all. Bury me, mother mine, and
+thou, my sister dear, in my native soil; pacify the city's wrath that
+may get at least that much of my own fatherland, although I lost my
+home. With thy hand, mother, close mine eyes  (therewith he himself
+places her fingers on the lids)  ; and fare ye well; for already the
+darkness wraps me round." 
+
+So both at once breathed out their life of sorrow. But when their
+mother saw this sad mischance, in her o'ermastering grief she snatched
+from a corpse its sword and wrought an awful deed, driving the steel
+right through her throat; and there she lies, dead with the dead she
+loved so well, her arms thrown round them both. 
+
+Thereon the host sprang to their feet and fell to wrangling, we maintaining
+that victory rested with my master, they with theirs; and amid our
+leaders the contention raged, some holding that Polyneices gave the
+first wound with his spear, others that, as both were dead, victory
+rested with neither. Meantime Antigone crept away from the host; and
+those others rushed to their weapons, but by some lucky forethought
+the folk of Cadmus had sat down under arms; and by a sudden attack
+we surprised the Argive host before it was fully equipped. Not one
+withstood our onset, and they filled the plain with fugitives, while
+blood was streaming from the countless dead our spears had slain.
+Soon as victory crowned our warfare, some began to rear an image to
+Zeus for the foe's defeat, others were stripping the Argive dead of
+their shields and sending their spoils inside the battlements; and
+others with Antigone are bringing her dead brothers hither for their
+friends to mourn. So the result of this struggle to our city hovers
+between the two extremes of good and evil fortune.  (The MESSENGER
+goes out.)  
+
+CHORUS  (chanting) No longer do the misfortunes of this house extend
+to hearsay only; three corpses of the slain lie here at the palace
+for all to see, who by one common death have passed to their life
+of gloom.  (During the lament, ANTIGONE enters, followed by servants
+who hear the bodies Of JOCASTA, ETEOCLES, and POLYNEICES.)
+
+ANTIGONE  (chanting) No veil I draw o'er my tender cheek shaded with
+its clustering curls; no shame I feel from maiden modesty at the hot
+blood mantling 'neath my eyes, the blush upon my face, as I hurry
+wildly on in death's train, casting from my hair its tire and letting
+my delicate robe of saffron hue fly loose, a tearful escort to the
+dead. Ah me! 
+
+Woe to thee, Polyneices! rightly named, I trow; woe to thee, Thebes!
+no mere strife to end in strife was thine; but murder completed by
+murder hath brought the house of Oedipus to ruin with bloodshed dire
+and grim. O my home, my home! what minstrel can I summon from the
+dead to chant a fitting dirge o'er my tearful fate, as I bear these
+three corpses of my kin, my mother and her sons, welcome sight to
+the avenging fiend that destroyed the house of Oedipus, root and branch,
+in the hour that his shrewdness solved the Sphinx's riddling rhyme
+and slew that savage songstress. Woe is me! my father! what other
+Hellene or barbarian, what noble soul among the bygone tribes of man's
+poor mortal race ever endured the anguish of such visible afflictions?
+
+Ah! poor maid, how piteous is thy plaint! What bird from its covert
+'mid the leafy oak or soaring pine-tree's branch will come to mourn
+with me, the maid left motherless, with cries of woe, lamenting, ere
+it comes, the piteous lonely life, that henceforth must be always
+mine with tears that ever stream? On which of these corpses shall
+I throw my offerings first, plucking the hair from my head? on the
+breast of the mother that suckled me, or beside the ghastly death-wounds
+of my brothers' corpses? Woe to thee, Oedipus, my aged sire with sightless
+orbs, leave thy roof, disclose the misery of thy life, thou that draggest
+out a weary existence within the house, having cast a mist of darkness
+o'er thine eyes. Dost hear, thou whose aged step now gropes its way
+across the court, now seeks repose on wretched pallet couch?  (OEDIPUS
+enters from the palace. He chants the following lines responsively
+with ANTIGONE.)  
+
+OEDIPUS Why, daughter, hast thou dragged me to the light, supporting
+my blind footsteps from the gloom of my chamber, where I lie upon
+my bed and make piteous moan, a hoary sufferer, invisible as a phantom
+of the air, or as a spirit from the pit, or as a dream that flies?
+
+ANTIGONE Father, there are tidings of sorrow for thee to bear; no
+more thy sons behold the light, or thy wife who ever would toil to
+tend thy blind footsteps as with a staff. Alas for thee, my sire!
+
+OEDIPUS Ah me, the sorrows I endure! I may well say that. Tell me,
+child, what fate o'ertook those three, and how they left the light.
+
+ANTIGONE Not to reproach or mock thee say I this, but in all sadness;
+'tis thy own avenging curse, with all its load of slaughter, fire,
+and ruthless war, that is fallen on thy sons. Alas for thee, my sire!
+
+OEDIPUS Ah me! 
+
+ANTIGONE Why dost thou groan? 
+
+OEDIPUS 'Tis for my sons. 
+
+ANTIGONE Couldst thou have looked towards yon sun-god's four-horsed
+car and turned the light of thine eyes on these corpses, it would
+have been agony to thee. 
+
+OEDIPUS 'Tis clear enough how their evil fate o'ertook my sons; but
+she, my poor wife tell me, daughter, how she came to die.
+
+ANTIGONE All saw her weep and heard her moan, as she rushed forth
+to carry to her sons her last appeal, a mother's breast. But the mother
+found her sons at the Electran gate, in a meadow where the lotus blooms,
+fighting out their duel like lions in their lair, eager to wound each
+other with spears, their blood already congealed, a murderous libation
+to the Death-god poured out by Ares. Then, snatching from corpse a
+sword of hammered bronze, she plunged it in her flesh, and in sorrow
+for her sons fell with her arms around them. So to-day, father, the
+god, whose'er this issue is, has gathered to a head the sum of suffering
+for our house. 
+
+LEADER OF THE CHORUS To-day is the beginning of many troubles to
+the house of Oedipus; may he live to be more fortunate! 
+
+CREON Cease now your lamentations; 'tis time we bethought us of their
+burial. Hear what I have to say, Oedipus. Eteocles, thy son, left
+me to rule this land, by assigning it as a marriage portion to Haemon
+with the hand of thy daughter Antigone. Wherefore I will no longer
+permit thee to dwell therein, for Teiresias plainly declared that
+the city would never prosper so long as thou wert in the land. So
+begone! And this I say not to flout thee, nor because I bear thee
+any grudge, but from fear that some calamity will come upon the realm
+by reason of those fiends that dog thy steps. 
+
+OEDIPUS O destiny! to what a life of pain and sorrow didst thou bear
+me beyond all men that ever were, e'en from the very first; yea for
+when I was yet unborn, or ever I had left my mother's womb and seen
+the light, Apollo foretold to Laius that I should become my father's
+murderer; woe is me! So, as soon as I was born, my father tried to
+end again the hapless life he had given, deeming me his foe, for it
+was fated he should die at my hand; so he sent me still unweaned to
+make a pitiful meal for beasts, but I escaped from that. Ah! would
+that Cithaeron had sunk into hell's yawning abyss, in that it slew
+me not! Instead thereof Fate made me a slave in the service of Polybus;
+and I, poor wretch, after slaying my own father came to wed my mother
+to her sorrow, and begat sons that were my brothers, whom also I have
+destroyed, by bequeathing unto them the legacy of curses I received
+from Laius. For nature did not make me so void of understanding, that
+I should have devised these horrors against my own eyes and my children's
+life without the intervention of some god. Let that pass. What am
+I, poor wretch, to do? Who now will be my guide and tend the blind
+man's step? Shall she, that is dead? Were she alive, I know right
+well she would. My pair of gallant sons, then? But they are gone from
+me. Am I still so young myself that I can find a livelihood? Whence
+could I? O Creon, why seek thus to slay me utterly? For so thou wilt,
+if thou banish me from the land. Yet will I never twine my arms about
+thy knees and betray cowardice, for I will not belie my former gallant
+soul, no! not for all my evil case. 
+
+CREON Thy words are brave in refusing to touch my knees, and I am
+equally resolved not to let thee abide in the land. For these dead,
+bear one forth-with to the palace; but the other, who came with stranger
+folk to sack his native town, the dead Polyneices, cast forth unburied
+beyond our frontiers. To all the race of Cadmus shall this be proclaimed,
+that whosoe'er is caught decking his corpse with wreaths or giving
+it burial, shall be requited with death; unwept, unburied let him
+lie, a prey to birds. As for thee, Antigone, leave thy mourning for
+these lifeless three and betake thyself indoors to abide there in
+maiden state until to-morrow, when Haemon waits to wed thee.
+
+ANTIGONE O father, in what cruel misery are we plunged! For thee
+I mourn more than for the dead; for in thy woes there is no opposite
+to trouble, but universal sorrow is thy lot. As for thee, thou new-made
+king, why, I ask, dost thou mock my father thus with banishment? Why
+start making laws over a helpless corpse? 
+
+CREON This was what Eteocles, not I, resolved. 
+
+ANTIGONE A foolish thought, and foolish art thou for entertaining
+it! 
+
+CREON What! ought I not to carry out his behests? 
+
+ANTIGONE No; not if they are wrong and ill-advised. 
+
+CREON Why, is it not just for that other to be given to the dogs?
+
+ANTIGONE Nay, the vengeance ye are exacting is no lawful one.
+
+CREON It is; for he was his country's foe, though not a foeman born.
+
+ANTIGONE Well, to fate he rendered up his destinies. 
+
+CREON Let him now pay forfeit in his burial too. 
+
+ANTIGONE What crime did he commit in coming to claim his heritage?
+
+CREON Be very sure of this, yon man shall have no burial.
+
+ANTIGONE I will bury him, although the state forbids. 
+
+CREON Do so, and thou wilt be making thy own grave by his.
+
+ANTIGONE A noble end, for two so near and dear to be laid side by
+side! 
+
+CREON  (to his servants) Ho! seize and bear her within the palace.
+
+ANTIGONE Never! for I will not loose my hold upon this corpse.
+
+CREON Heaven's decrees, girl, fit not thy fancies. 
+
+ANTIGONE Decrees! here is another, "No insult to the dead."
+
+CREON Be sure that none shall sprinkle over the corpse the moistened
+dust. 
+
+ANTIGONE O Creon, by my mother's corpse, by Jocasta, I implore thee!
+
+CREON 'Tis but lost labour; thou wilt not gain thy prayer.
+
+ANTIGONE Let me but bathe the dead body- 
+
+CREON Nay, that would be part of what the city is forbidden.
+
+ANTIGONE At least let me bandage the gaping wounds. 
+
+CREON No; thou shalt never pay honour to this corpse. 
+
+ANTIGONE O my darling! one kiss at least will I print upon thy lips.
+
+CREON Do not let this mourning bring disaster on thy marriage.
+
+ANTIGONE Marriage! dost think I will live to wed thy son?
+
+CREON Most certainly thou must; how wilt thou escape his bed?
+
+ANTIGONE Then if I must, our wedding-night will find another Danaid
+bride in me. 
+
+CREON  (turning to OEDIPUS) Dost witness how boldly she reproached
+me? 
+
+ANTIGONE Witness this steel, the sword by which I swear!
+
+CREON Why art so bent on being released from this marriage?
+
+ANTIGONE I mean to share my hapless father's exile. 
+
+CREON A noble spirit thine but somewhat touched with folly.
+
+ANTIGONE Likewise will I share his death, I tell thee further.
+
+CREON Go, leave the land; thou shalt not murder son of mine.  (CREON
+goes out, followed by his attendants who carry with them the body
+Of MENOECEUS.)  
+
+OEDIPUS Daughter, for this loyal spirit I thank thee. 
+
+ANTIGONE Were I to wed, then thou, my father, wouldst be alone in
+thy exile. 
+
+OEDIPUS Abide here and be happy; I will bear my own load of sorrow.
+
+ANTIGONE And who shall tend thee in thy blindness, father?
+
+OEDIPUS Where fate appoints, there will I lay me down upon the ground.
+
+ANTIGONE Where is now the famous Oedipus, where that famous riddle?
+
+OEDIPUS Lost for ever! one day made, and one day marred my fortune.
+
+ANTIGONE May not I too share thy sorrows? 
+
+OEDIPUS To wander with her blinded sire were shame unto his child.
+
+ANTIGONE Not so, father, but glory rather, if she be a maid discreet.
+
+OEDIPUS Lead me nigh that I may touch thy mother's corpse.
+
+ANTIGONE So! embrace the aged form so dear to thee. 
+
+OEDIPUS Woe is thee, thy motherhood, thy marriage most unblest!
+
+ANTIGONE A piteous corpse, a prey to every ill at once!
+
+OEDIPUS Where lies the corpse of Eteocles, and of Polyneices, where?
+
+ANTIGONE Both lie stretched before thee, side by side. 
+
+OEDIPUS Lay the blind man's hand upon his poor sons' brows.
+
+ANTIGONE There then! touch the dead, thy children. 
+
+OEDIPUS Woe for you! dear fallen sons, sad offspring of a sire as
+sad! 
+
+ANTIGONE O my brother Polyneices, name most dear to me!
+
+OEDIPUS Now is the oracle of Loxias being fulfilled, my child.
+
+ANTIGONE What oracle was that? canst thou have further woes to tell?
+
+OEDIPUS That I should die in glorious Athens after a life of wandering.
+
+ANTIGONE Where? what fenced town in Attica will take thee in?
+
+OEDIPUS Hallowed Colonus, home of the god of steeds. Come then, attend
+on thy blind father, since thou art minded to share his exile.  (OEDIPUS
+and ANTIGONE chant their remaining lines as they slowly depart.)
+
+ANTIGONE To wretched exile go thy way; stretch forth thy hand, my
+aged sire, taking me to guide thee, like a breeze that speedeth barques.
+
+OEDIPUS See, daughter, I am advancing; be thou my guide, poor child.
+
+ANTIGONE Ah, poor indeed! the saddest maid of all in Thebes.
+
+OEDIPUS Where am I planting my aged step? Bring my staff, child.
+
+ANTIGONE This way, this way, father mine! plant thy footsteps here,
+like dream for all the strength thou hast. 
+
+OEDIPUS Woe unto thee that art driving my aged limbs in grievous
+exile from their land! Ah me! the sorrows I endure! 
+
+ANTIGONE "Endure"! why speak of enduring? Justice regardeth not the
+sinner and requiteth not men's follies. 
+
+OEDIPUS I am he whose name passed into high songs of victory because
+I guessed the maiden's baffling riddle. 
+
+ANTIGONE Thou art bringing up again the reproach of the Sphinx. Talk
+no more of past success. This misery was in store for thee all the
+while, to become an exile from thy country and die thou knowest not
+where; while I, bequeathing to my girlish friends tears of sad regret,
+must go forth from my native land, roaming as no maiden ought.
+
+Ah! this dutiful resolve will crown me with glory in respect of my
+father's sufferings. Woe is me for the insults heaped on thee and
+on my brother whose dead body is cast forth from the palace unburied;
+poor boy! I will yet bury him secretly, though I have to die for it,
+father. 
+
+OEDIPUS To thy companions show thyself. 
+
+ANTIGONE My own laments suffice. 
+
+OEDIPUS Go pray then at the altars. 
+
+ANTIGONE They are weary of my piteous tale. 
+
+OEDIPUS At least go seek the Bromian god in his hallowed haunt amongst
+the Maenads' hills. 
+
+ANTIGONE Offering homage that is no homage in Heaven's eyes to him
+in whose honour I once fringed my dress with the Theban fawn-skin
+and led the dance upon the hills for the holy choir of Semele?
+
+OEDIPUS My noble fellow-countrymen, behold me; I am Oedipus, who
+solved the famous riddle, and once was first of men, I who alone cut
+short the murderous Sphinx's tyranny am now myself expelled the land
+in shame and misery. Go to; why make this moan and bootless lamentation?
+Weak mortal as I am, I must endure the fate that God decrees.
+
+CHORUS  (chanting) Hail majestic Victory! keep thou my life nor ever
+cease to crown my song! 
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.
+</pre></body></html>

@@ -1,0 +1,3044 @@
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Aristotle/soul.html
+
+On the Soul
+By Aristotle
+
+
+Translated by J. A. Smith
+
+----------------------------------------------------------------------
+
+BOOK I
+
+Part 1 
+
+Holding as we do that, while knowledge of any kind is a thing to
+be honoured and prized, one kind of it may, either by reason of its
+greater exactness or of a higher dignity and greater wonderfulness
+in its objects, be more honourable and precious than another, on both
+accounts we should naturally be led to place in the front rank the
+study of the soul. The knowledge of the soul admittedly contributes
+greatly to the advance of truth in general, and, above all, to our
+understanding of Nature, for the soul is in some sense the principle
+of animal life. Our aim is to grasp and understand, first its essential
+nature, and secondly its properties; of these some are taught to be
+affections proper to the soul itself, while others are considered
+to attach to the animal owing to the presence within it of soul.
+
+To attain any assured knowledge about the soul is one of the most
+difficult things in the world. As the form of question which here
+presents itself, viz. the question 'What is it?', recurs in other
+fields, it might be supposed that there was some single method of
+inquiry applicable to all objects whose essential nature (as we are
+endeavouring to ascertain there is for derived properties the single
+method of demonstration); in that case what we should have to seek
+for would be this unique method. But if there is no such single and
+general method for solving the question of essence, our task becomes
+still more difficult; in the case of each different subject we shall
+have to determine the appropriate process of investigation. If to
+this there be a clear answer, e.g. that the process is demonstration
+or division, or some known method, difficulties and hesitations still
+beset us-with what facts shall we begin the inquiry? For the facts
+which form the starting-points in different subjects must be different,
+as e.g. in the case of numbers and surfaces. 
+
+First, no doubt, it is necessary to determine in which of the summa
+genera soul lies, what it is; is it 'a this-somewhat, 'a substance,
+or is it a quale or a quantum, or some other of the remaining kinds
+of predicates which we have distinguished? Further, does soul belong
+to the class of potential existents, or is it not rather an actuality?
+Our answer to this question is of the greatest importance.
+
+We must consider also whether soul is divisible or is without parts,
+and whether it is everywhere homogeneous or not; and if not homogeneous,
+whether its various forms are different specifically or generically:
+up to the present time those who have discussed and investigated soul
+seem to have confined themselves to the human soul. We must be careful
+not to ignore the question whether soul can be defined in a single
+unambiguous formula, as is the case with animal, or whether we must
+not give a separate formula for each of it, as we do for horse, dog,
+man, god (in the latter case the 'universal' animal-and so too every
+other 'common predicate'-being treated either as nothing at all or
+as a later product). Further, if what exists is not a plurality of
+souls, but a plurality of parts of one soul, which ought we to investigate
+first, the whole soul or its parts? (It is also a difficult problem
+to decide which of these parts are in nature distinct from one another.)
+Again, which ought we to investigate first, these parts or their functions,
+mind or thinking, the faculty or the act of sensation, and so on?
+If the investigation of the functions precedes that of the parts,
+the further question suggests itself: ought we not before either to
+consider the correlative objects, e.g. of sense or thought? It seems
+not only useful for the discovery of the causes of the derived properties
+of substances to be acquainted with the essential nature of those
+substances (as in mathematics it is useful for the understanding of
+the property of the equality of the interior angles of a triangle
+to two right angles to know the essential nature of the straight and
+the curved or of the line and the plane) but also conversely, for
+the knowledge of the essential nature of a substance is largely promoted
+by an acquaintance with its properties: for, when we are able to give
+an account conformable to experience of all or most of the properties
+of a substance, we shall be in the most favourable position to say
+something worth saying about the essential nature of that subject;
+in all demonstration a definition of the essence is required as a
+starting-point, so that definitions which do not enable us to discover
+the derived properties, or which fail to facilitate even a conjecture
+about them, must obviously, one and all, be dialectical and futile.
+
+A further problem presented by the affections of soul is this: are
+they all affections of the complex of body and soul, or is there any
+one among them peculiar to the soul by itself? To determine this is
+indispensable but difficult. If we consider the majority of them,
+there seems to be no case in which the soul can act or be acted upon
+without involving the body; e.g. anger, courage, appetite, and sensation
+generally. Thinking seems the most probable exception; but if this
+too proves to be a form of imagination or to be impossible without
+imagination, it too requires a body as a condition of its existence.
+If there is any way of acting or being acted upon proper to soul,
+soul will be capable of separate existence; if there is none, its
+separate existence is impossible. In the latter case, it will be like
+what is straight, which has many properties arising from the straightness
+in it, e.g. that of touching a bronze sphere at a point, though straightness
+divorced from the other constituents of the straight thing cannot
+touch it in this way; it cannot be so divorced at all, since it is
+always found in a body. It therefore seems that all the affections
+of soul involve a body-passion, gentleness, fear, pity, courage, joy,
+loving, and hating; in all these there is a concurrent affection of
+the body. In support of this we may point to the fact that, while
+sometimes on the occasion of violent and striking occurrences there
+is no excitement or fear felt, on others faint and feeble stimulations
+produce these emotions, viz. when the body is already in a state of
+tension resembling its condition when we are angry. Here is a still
+clearer case: in the absence of any external cause of terror we find
+ourselves experiencing the feelings of a man in terror. From all this
+it is obvious that the affections of soul are enmattered formulable
+essences. 
+
+Consequently their definitions ought to correspond, e.g. anger should
+be defined as a certain mode of movement of such and such a body (or
+part or faculty of a body) by this or that cause and for this or that
+end. That is precisely why the study of the soul must fall within
+the science of Nature, at least so far as in its affections it manifests
+this double character. Hence a physicist would define an affection
+of soul differently from a dialectician; the latter would define e.g.
+anger as the appetite for returning pain for pain, or something like
+that, while the former would define it as a boiling of the blood or
+warm substance surround the heart. The latter assigns the material
+conditions, the former the form or formulable essence; for what he
+states is the formulable essence of the fact, though for its actual
+existence there must be embodiment of it in a material such as is
+described by the other. Thus the essence of a house is assigned in
+such a formula as 'a shelter against destruction by wind, rain, and
+heat'; the physicist would describe it as 'stones, bricks, and timbers';
+but there is a third possible description which would say that it
+was that form in that material with that purpose or end. Which, then,
+among these is entitled to be regarded as the genuine physicist? The
+one who confines himself to the material, or the one who restricts
+himself to the formulable essence alone? Is it not rather the one
+who combines both in a single formula? If this is so, how are we to
+characterize the other two? Must we not say that there is no type
+of thinker who concerns himself with those qualities or attributes
+of the material which are in fact inseparable from the material, and
+without attempting even in thought to separate them? The physicist
+is he who concerns himself with all the properties active and passive
+of bodies or materials thus or thus defined; attributes not considered
+as being of this character he leaves to others, in certain cases it
+may be to a specialist, e.g. a carpenter or a physician, in others
+(a) where they are inseparable in fact, but are separable from any
+particular kind of body by an effort of abstraction, to the mathematician,
+(b) where they are separate both in fact and in thought from body
+altogether, to the First Philosopher or metaphysician. But we must
+return from this digression, and repeat that the affections of soul
+are inseparable from the material substratum of animal life, to which
+we have seen that such affections, e.g. passion and fear, attach,
+and have not the same mode of being as a line or a plane.
+
+Part 2
+
+For our study of soul it is necessary, while formulating the problems
+of which in our further advance we are to find the solutions, to call
+into council the views of those of our predecessors who have declared
+any opinion on this subject, in order that we may profit by whatever
+is sound in their suggestions and avoid their errors. 
+
+The starting-point of our inquiry is an exposition of those characteristics
+which have chiefly been held to belong to soul in its very nature.
+Two characteristic marks have above all others been recognized as
+distinguishing that which has soul in it from that which has not-movement
+and sensation. It may be said that these two are what our predecessors
+have fixed upon as characteristic of soul. 
+
+Some say that what originates movement is both pre-eminently and primarily
+soul; believing that what is not itself moved cannot originate movement
+in another, they arrived at the view that soul belongs to the class
+of things in movement. This is what led Democritus to say that soul
+is a sort of fire or hot substance; his 'forms' or atoms are infinite
+in number; those which are spherical he calls fire and soul, and compares
+them to the motes in the air which we see in shafts of light coming
+through windows; the mixture of seeds of all sorts he calls the elements
+of the whole of Nature (Leucippus gives a similar account); the spherical
+atoms are identified with soul because atoms of that shape are most
+adapted to permeate everywhere, and to set all the others moving by
+being themselves in movement. This implies the view that soul is identical
+with what produces movement in animals. That is why, further, they
+regard respiration as the characteristic mark of life; as the environment
+compresses the bodies of animals, and tends to extrude those atoms
+which impart movement to them, because they themselves are never at
+rest, there must be a reinforcement of these by similar atoms coming
+in from without in the act of respiration; for they prevent the extrusion
+of those which are already within by counteracting the compressing
+and consolidating force of the environment; and animals continue to
+live only so long as they are able to maintain this resistance.
+
+The doctrine of the Pythagoreans seems to rest upon the same ideas;
+some of them declared the motes in air, others what moved them, to
+be soul. These motes were referred to because they are seen always
+in movement, even in a complete calm. 
+
+The same tendency is shown by those who define soul as that which
+moves itself; all seem to hold the view that movement is what is closest
+to the nature of soul, and that while all else is moved by soul, it
+alone moves itself. This belief arises from their never seeing anything
+originating movement which is not first itself moved. 
+
+Similarly also Anaxagoras (and whoever agrees with him in saying that
+mind set the whole in movement) declares the moving cause of things
+to be soul. His position must, however, be distinguished from that
+of Democritus. Democritus roundly identifies soul and mind, for he
+identifies what appears with what is true-that is why he commends
+Homer for the phrase 'Hector lay with thought distraught'; he does
+not employ mind as a special faculty dealing with truth, but identifies
+soul and mind. What Anaxagoras says about them is more obscure; in
+many places he tells us that the cause of beauty and order is mind,
+elsewhere that it is soul; it is found, he says, in all animals, great
+and small, high and low, but mind (in the sense of intelligence) appears
+not to belong alike to all animals, and indeed not even to all human
+beings. 
+
+All those, then, who had special regard to the fact that what has
+soul in it is moved, adopted the view that soul is to be identified
+with what is eminently originative of movement. All, on the other
+hand, who looked to the fact that what has soul in it knows or perceives
+what is, identify soul with the principle or principles of Nature,
+according as they admit several such principles or one only. Thus
+Empedocles declares that it is formed out of all his elements, each
+of them also being soul; his words are: 
+
+For 'tis by Earth we see Earth, by Water Water, 
+By Ether Ether divine, by Fire destructive Fire, 
+By Love Love, and Hate by cruel Hate. 
+
+In the same way Plato in the Timaeus fashions soul out of his elements;
+for like, he holds, is known by like, and things are formed out of
+the principles or elements, so that soul must be so too. Similarly
+also in his lectures 'On Philosophy' it was set forth that the Animal-itself
+is compounded of the Idea itself of the One together with the primary
+length, breadth, and depth, everything else, the objects of its perception,
+being similarly constituted. Again he puts his view in yet other terms:
+Mind is the monad, science or knowledge the dyad (because it goes
+undeviatingly from one point to another), opinion the number of the
+plane, sensation the number of the solid; the numbers are by him expressly
+identified with the Forms themselves or principles, and are formed
+out of the elements; now things are apprehended either by mind or
+science or opinion or sensation, and these same numbers are the Forms
+of things. 
+
+Some thinkers, accepting both premisses, viz. that the soul is both
+originative of movement and cognitive, have compounded it of both
+and declared the soul to be a self-moving number. 
+
+As to the nature and number of the first principles opinions differ.
+The difference is greatest between those who regard them as corporeal
+and those who regard them as incorporeal, and from both dissent those
+who make a blend and draw their principles from both sources. The
+number of principles is also in dispute; some admit one only, others
+assert several. There is a consequent diversity in their several accounts
+of soul; they assume, naturally enough, that what is in its own nature
+originative of movement must be among what is primordial. That has
+led some to regard it as fire, for fire is the subtlest of the elements
+and nearest to incorporeality; further, in the most primary sense,
+fire both is moved and originates movement in all the others.
+
+Democritus has expressed himself more ingeniously than the rest on
+the grounds for ascribing each of these two characters to soul; soul
+and mind are, he says, one and the same thing, and this thing must
+be one of the primary and indivisible bodies, and its power of originating
+movement must be due to its fineness of grain and the shape of its
+atoms; he says that of all the shapes the spherical is the most mobile,
+and that this is the shape of the particles of fire and mind.
+
+Anaxagoras, as we said above, seems to distinguish between soul and
+mind, but in practice he treats them as a single substance, except
+that it is mind that he specially posits as the principle of all things;
+at any rate what he says is that mind alone of all that is simple,
+unmixed, and pure. He assigns both characteristics, knowing and origination
+of movement, to the same principle, when he says that it was mind
+that set the whole in movement. 
+
+Thales, too, to judge from what is recorded about him, seems to have
+held soul to be a motive force, since he said that the magnet has
+a soul in it because it moves the iron. 
+
+Diogenes (and others) held the soul to be air because he believed
+air to be finest in grain and a first principle; therein lay the grounds
+of the soul's powers of knowing and originating movement. As the primordial
+principle from which all other things are derived, it is cognitive;
+as finest in grain, it has the power to originate movement.
+
+Heraclitus too says that the first principle-the 'warm exhalation'
+of which, according to him, everything else is composed-is soul; further,
+that this exhalation is most incorporeal and in ceaseless flux; that
+what is in movement requires that what knows it should be in movement;
+and that all that is has its being essentially in movement (herein
+agreeing with the majority). 
+
+Alcmaeon also seems to have held a similar view about soul; he says
+that it is immortal because it resembles 'the immortals,' and that
+this immortality belongs to it in virtue of its ceaseless movement;
+for all the 'things divine,' moon, sun, the planets, and the whole
+heavens, are in perpetual movement. 
+
+of More superficial writers, some, e.g. Hippo, have pronounced it
+to be water; they seem to have argued from the fact that the seed
+of all animals is fluid, for Hippo tries to refute those who say that
+the soul is blood, on the ground that the seed, which is the primordial
+soul, is not blood. 
+
+Another group (Critias, for example) did hold it to be blood; they
+take perception to be the most characteristic attribute of soul, and
+hold that perceptiveness is due to the nature of blood. 
+
+Each of the elements has thus found its partisan, except earth-earth
+has found no supporter unless we count as such those who have declared
+soul to be, or to be compounded of, all the elements. All, then, it
+may be said, characterize the soul by three marks, Movement, Sensation,
+Incorporeality, and each of these is traced back to the first principles.
+That is why (with one exception) all those who define the soul by
+its power of knowing make it either an element or constructed out
+of the elements. The language they all use is similar; like, they
+say, is known by like; as the soul knows everything, they construct
+it out of all the principles. Hence all those who admit but one cause
+or element, make the soul also one (e.g. fire or air), while those
+who admit a multiplicity of principles make the soul also multiple.
+The exception is Anaxagoras; he alone says that mind is impassible
+and has nothing in common with anything else. But, if this is so,
+how or in virtue of what cause can it know? That Anaxagoras has not
+explained, nor can any answer be inferred from his words. All who
+acknowledge pairs of opposites among their principles, construct the
+soul also out of these contraries, while those who admit as principles
+only one contrary of each pair, e.g. either hot or cold, likewise
+make the soul some one of these. That is why, also, they allow themselves
+to be guided by the names; those who identify soul with the hot argue
+that sen (to live) is derived from sein (to boil), while those who
+identify it with the cold say that soul (psuche) is so called from
+the process of respiration and (katapsuxis). Such are the traditional
+opinions concerning soul, together with the grounds on which they
+are maintained. 
+
+Part 3
+
+We must begin our examination with movement; for doubtless, not only
+is it false that the essence of soul is correctly described by those
+who say that it is what moves (or is capable of moving) itself, but
+it is an impossibility that movement should be even an attribute of
+it. 
+
+We have already pointed out that there is no necessity that what originates
+movement should itself be moved. There are two senses in which anything
+may be moved-either (a) indirectly, owing to something other than
+itself, or (b) directly, owing to itself. Things are 'indirectly moved'
+which are moved as being contained in something which is moved, e.g.
+sailors in a ship, for they are moved in a different sense from that
+in which the ship is moved; the ship is 'directly moved', they are
+'indirectly moved', because they are in a moving vessel. This is clear
+if we consider their limbs; the movement proper to the legs (and so
+to man) is walking, and in this case the sailors tare not walking.
+Recognizing the double sense of 'being moved', what we have to consider
+now is whether the soul is 'directly moved' and participates in such
+direct movement. 
+
+There are four species of movement-locomotion, alteration, diminution,
+growth; consequently if the soul is moved, it must be moved with one
+or several or all of these species of movement. Now if its movement
+is not incidental, there must be a movement natural to it, and, if
+so, as all the species enumerated involve place, place must be natural
+to it. But if the essence of soul be to move itself, its being moved
+cannot be incidental to-as it is to what is white or three cubits
+long; they too can be moved, but only incidentally-what is moved is
+that of which 'white' and 'three cubits long' are the attributes,
+the body in which they inhere; hence they have no place: but if the
+soul naturally partakes in movement, it follows that it must have
+a place. 
+
+Further, if there be a movement natural to the soul, there must be
+a counter-movement unnatural to it, and conversely. The same applies
+to rest as well as to movement; for the terminus ad quem of a thing's
+natural movement is the place of its natural rest, and similarly the
+terminus ad quem of its enforced movement is the place of its enforced
+rest. But what meaning can be attached to enforced movements or rests
+of the soul, it is difficult even to imagine. 
+
+Further, if the natural movement of the soul be upward, the soul must
+be fire; if downward, it must be earth; for upward and downward movements
+are the definitory characteristics of these bodies. The same reasoning
+applies to the intermediate movements, termini, and bodies. Further,
+since the soul is observed to originate movement in the body, it is
+reasonable to suppose that it transmits to the body the movements
+by which it itself is moved, and so, reversing the order, we may infer
+from the movements of the body back to similar movements of the soul.
+Now the body is moved from place to place with movements of locomotion.
+Hence it would follow that the soul too must in accordance with the
+body change either its place as a whole or the relative places of
+its parts. This carries with it the possibility that the soul might
+even quit its body and re-enter it, and with this would be involved
+the possibility of a resurrection of animals from the dead. But, it
+may be contended, the soul can be moved indirectly by something else;
+for an animal can be pushed out of its course. Yes, but that to whose
+essence belongs the power of being moved by itself, cannot be moved
+by something else except incidentally, just as what is good by or
+in itself cannot owe its goodness to something external to it or to
+some end to which it is a means. 
+
+If the soul is moved, the most probable view is that what moves it
+is sensible things. 
+
+We must note also that, if the soul moves itself, it must be the mover
+itself that is moved, so that it follows that if movement is in every
+case a displacement of that which is in movement, in that respect
+in which it is said to be moved, the movement of the soul must be
+a departure from its essential nature, at least if its self-movement
+is essential to it, not incidental. 
+
+Some go so far as to hold that the movements which the soul imparts
+to the body in which it is are the same in kind as those with which
+it itself is moved. An example of this is Democritus, who uses language
+like that of the comic dramatist Philippus, who accounts for the movements
+that Daedalus imparted to his wooden Aphrodite by saying that he poured
+quicksilver into it; similarly Democritus says that the spherical
+atoms which according to him constitute soul, owing to their own ceaseless
+movements draw the whole body after them and so produce its movements.
+We must urge the question whether it is these very same atoms which
+produce rest also-how they could do so, it is difficult and even impossible
+to say. And, in general, we may object that it is not in this way
+that the soul appears to originate movement in animals-it is through
+intention or process of thinking. 
+
+It is in the same fashion that the Timaeus also tries to give a physical
+account of how the soul moves its body; the soul, it is there said,
+is in movement, and so owing to their mutual implication moves the
+body also. After compounding the soul-substance out of the elements
+and dividing it in accordance with the harmonic numbers, in order
+that it may possess a connate sensibility for 'harmony' and that the
+whole may move in movements well attuned, the Demiurge bent the straight
+line into a circle; this single circle he divided into two circles
+united at two common points; one of these he subdivided into seven
+circles. All this implies that the movements of the soul are identified
+with the local movements of the heavens. 
+
+Now, in the first place, it is a mistake to say that the soul is a
+spatial magnitude. It is evident that Plato means the soul of the
+whole to be like the sort of soul which is called mind not like the
+sensitive or the desiderative soul, for the movements of neither of
+these are circular. Now mind is one and continuous in the sense in
+which the process of thinking is so, and thinking is identical with
+the thoughts which are its parts; these have a serial unity like that
+of number, not a unity like that of a spatial magnitude. Hence mind
+cannot have that kind of unity either; mind is either without parts
+or is continuous in some other way than that which characterizes a
+spatial magnitude. How, indeed, if it were a spatial magnitude, could
+mind possibly think? Will it think with any one indifferently of its
+parts? In this case, the 'part' must be understood either in the sense
+of a spatial magnitude or in the sense of a point (if a point can
+be called a part of a spatial magnitude). If we accept the latter
+alternative, the points being infinite in number, obviously the mind
+can never exhaustively traverse them; if the former, the mind must
+think the same thing over and over again, indeed an infinite number
+of times (whereas it is manifestly possible to think a thing once
+only). If contact of any part whatsoever of itself with the object
+is all that is required, why need mind move in a circle, or indeed
+possess magnitude at all? On the other hand, if contact with the whole
+circle is necessary, what meaning can be given to the contact of the
+parts? Further, how could what has no parts think what has parts,
+or what has parts think what has none? We must identify the circle
+referred to with mind; for it is mind whose movement is thinking,
+and it is the circle whose movement is revolution, so that if thinking
+is a movement of revolution, the circle which has this characteristic
+movement must be mind. 
+
+If the circular movement is eternal, there must be something which
+mind is always thinking-what can this be? For all practical processes
+of thinking have limits-they all go on for the sake of something outside
+the process, and all theoretical processes come to a close in the
+same way as the phrases in speech which express processes and results
+of thinking. Every such linguistic phrase is either definitory or
+demonstrative. Demonstration has both a starting-point and may be
+said to end in a conclusion or inferred result; even if the process
+never reaches final completion, at any rate it never returns upon
+itself again to its starting-point, it goes on assuming a fresh middle
+term or a fresh extreme, and moves straight forward, but circular
+movement returns to its starting-point. Definitions, too, are closed
+groups of terms. 
+
+Further, if the same revolution is repeated, mind must repeatedly
+think the same object. 
+
+Further, thinking has more resemblance to a coming to rest or arrest
+than to a movement; the same may be said of inferring. 
+
+It might also be urged that what is difficult and enforced is incompatible
+with blessedness; if the movement of the soul is not of its essence,
+movement of the soul must be contrary to its nature. It must also
+be painful for the soul to be inextricably bound up with the body;
+nay more, if, as is frequently said and widely accepted, it is better
+for mind not to be embodied, the union must be for it undesirable.
+
+Further, the cause of the revolution of the heavens is left obscure.
+It is not the essence of soul which is the cause of this circular
+movement-that movement is only incidental to soul-nor is, a fortiori,
+the body its cause. Again, it is not even asserted that it is better
+that soul should be so moved; and yet the reason for which God caused
+the soul to move in a circle can only have been that movement was
+better for it than rest, and movement of this kind better than any
+other. But since this sort of consideration is more appropriate to
+another field of speculation, let us dismiss it for the present.
+
+The view we have just been examining, in company with most theories
+about the soul, involves the following absurdity: they all join the
+soul to a body, or place it in a body, without adding any specification
+of the reason of their union, or of the bodily conditions required
+for it. Yet such explanation can scarcely be omitted; for some community
+of nature is presupposed by the fact that the one acts and the other
+is acted upon, the one moves and the other is moved; interaction always
+implies a special nature in the two interagents. All, however, that
+these thinkers do is to describe the specific characteristics of the
+soul; they do not try to determine anything about the body which is
+to contain it, as if it were possible, as in the Pythagorean myths,
+that any soul could be clothed upon with any body-an absurd view,
+for each body seems to have a form and shape of its own. It is as
+absurd as to say that the art of carpentry could embody itself in
+flutes; each art must use its tools, each soul its body.
+
+Part 4
+
+There is yet another theory about soul, which has commended itself
+to many as no less probable than any of those we have hitherto mentioned,
+and has rendered public account of itself in the court of popular
+discussion. Its supporters say that the soul is a kind of harmony,
+for (a) harmony is a blend or composition of contraries, and (b) the
+body is compounded out of contraries. Harmony, however, is a certain
+proportion or composition of the constituents blended, and soul can
+be neither the one nor the other of these. Further, the power of originating
+movement cannot belong to a harmony, while almost all concur in regarding
+this as a principal attribute of soul. It is more appropriate to call
+health (or generally one of the good states of the body) a harmony
+than to predicate it of the soul. The absurdity becomes most apparent
+when we try to attribute the active and passive affections of the
+soul to a harmony; the necessary readjustment of their conceptions
+is difficult. Further, in using the word 'harmony' we have one or
+other of two cases in our mind; the most proper sense is in relation
+to spatial magnitudes which have motion and position, where harmony
+means the disposition and cohesion of their parts in such a manner
+as to prevent the introduction into the whole of anything homogeneous
+with it, and the secondary sense, derived from the former, is that
+in which it means the ratio between the constituents so blended; in
+neither of these senses is it plausible to predicate it of soul. That
+soul is a harmony in the sense of the mode of composition of the parts
+of the body is a view easily refutable; for there are many composite
+parts and those variously compounded; of what bodily part is mind
+or the sensitive or the appetitive faculty the mode of composition?
+And what is the mode of composition which constitutes each of them?
+It is equally absurd to identify the soul with the ratio of the mixture;
+for the mixture which makes flesh has a different ratio between the
+elements from that which makes bone. The consequence of this view
+will therefore be that distributed throughout the whole body there
+will be many souls, since every one of the bodily parts is a different
+mixture of the elements, and the ratio of mixture is in each case
+a harmony, i.e. a soul. 
+
+From Empedocles at any rate we might demand an answer to the following
+question for he says that each of the parts of the body is what it
+is in virtue of a ratio between the elements: is the soul identical
+with this ratio, or is it not rather something over and above this
+which is formed in the parts? Is love the cause of any and every mixture,
+or only of those that are in the right ratio? Is love this ratio itself,
+or is love something over and above this? Such are the problems raised
+by this account. But, on the other hand, if the soul is different
+from the mixture, why does it disappear at one and the same moment
+with that relation between the elements which constitutes flesh or
+the other parts of the animal body? Further, if the soul is not identical
+with the ratio of mixture, and it is consequently not the case that
+each of the parts has a soul, what is that which perishes when the
+soul quits the body? 
+
+That the soul cannot either be a harmony, or be moved in a circle,
+is clear from what we have said. Yet that it can be moved incidentally
+is, as we said above, possible, and even that in a sense it can move
+itself, i.e. in the sense that the vehicle in which it is can be moved,
+and moved by it; in no other sense can the soul be moved in space.
+
+More legitimate doubts might remain as to its movement in view of
+the following facts. We speak of the soul as being pained or pleased,
+being bold or fearful, being angry, perceiving, thinking. All these
+are regarded as modes of movement, and hence it might be inferred
+that the soul is moved. This, however, does not necessarily follow.
+We may admit to the full that being pained or pleased, or thinking,
+are movements (each of them a 'being moved'), and that the movement
+is originated by the soul. For example we may regard anger or fear
+as such and such movements of the heart, and thinking as such and
+such another movement of that organ, or of some other; these modifications
+may arise either from changes of place in certain parts or from qualitative
+alterations (the special nature of the parts and the special modes
+of their changes being for our present purpose irrelevant). Yet to
+say that it is the soul which is angry is as inexact as it would be
+to say that it is the soul that weaves webs or builds houses. It is
+doubtless better to avoid saying that the soul pities or learns or
+thinks and rather to say that it is the man who does this with his
+soul. What we mean is not that the movement is in the soul, but that
+sometimes it terminates in the soul and sometimes starts from it,
+sensation e.g. coming from without inwards, and reminiscence starting
+from the soul and terminating with the movements, actual or residual,
+in the sense organs. 
+
+The case of mind is different; it seems to be an independent substance
+implanted within the soul and to be incapable of being destroyed.
+If it could be destroyed at all, it would be under the blunting influence
+of old age. What really happens in respect of mind in old age is,
+however, exactly parallel to what happens in the case of the sense
+organs; if the old man could recover the proper kind of eye, he would
+see just as well as the young man. The incapacity of old age is due
+to an affection not of the soul but of its vehicle, as occurs in drunkenness
+or disease. Thus it is that in old age the activity of mind or intellectual
+apprehension declines only through the decay of some other inward
+part; mind itself is impassible. Thinking, loving, and hating are
+affections not of mind, but of that which has mind, so far as it has
+it. That is why, when this vehicle decays, memory and love cease;
+they were activities not of mind, but of the composite which has perished;
+mind is, no doubt, something more divine and impassible. That the
+soul cannot be moved is therefore clear from what we have said, and
+if it cannot be moved at all, manifestly it cannot be moved by itself.
+
+Of all the opinions we have enumerated, by far the most unreasonable
+is that which declares the soul to be a self-moving number; it involves
+in the first place all the impossibilities which follow from regarding
+the soul as moved, and in the second special absurdities which follow
+from calling it a number. How we to imagine a unit being moved? By
+what agency? What sort of movement can be attributed to what is without
+parts or internal differences? If the unit is both originative of
+movement and itself capable of being moved, it must contain difference.
+
+Further, since they say a moving line generates a surface and a moving
+point a line, the movements of the psychic units must be lines (for
+a point is a unit having position, and the number of the soul is,
+of course, somewhere and has position). 
+
+Again, if from a number a number or a unit is subtracted, the remainder
+is another number; but plants and many animals when divided continue
+to live, and each segment is thought to retain the same kind of soul.
+
+It must be all the same whether we speak of units or corpuscles; for
+if the spherical atoms of Democritus became points, nothing being
+retained but their being a quantum, there must remain in each a moving
+and a moved part, just as there is in what is continuous; what happens
+has nothing to do with the size of the atoms, it depends solely upon
+their being a quantum. That is why there must be something to originate
+movement in the units. If in the animal what originates movement is
+the soul, so also must it be in the case of the number, so that not
+the mover and the moved together, but the mover only, will be the
+soul. But how is it possible for one of the units to fulfil this function
+of originating movement? There must be some difference between such
+a unit and all the other units, and what difference can there be between
+one placed unit and another except a difference of position? If then,
+on the other hand, these psychic units within the body are different
+from the points of the body, there will be two sets of units both
+occupying the same place; for each unit will occupy a point. And yet,
+if there can be two, why cannot there be an infinite number? For if
+things can occupy an indivisible lace, they must themselves be indivisible.
+If, on the other hand, the points of the body are identical with the
+units whose number is the soul, or if the number of the points in
+the body is the soul, why have not all bodies souls? For all bodies
+contain points or an infinity of points. 
+
+Further, how is it possible for these points to be isolated or separated
+from their bodies, seeing that lines cannot be resolved into points?
+
+Part 5
+
+The result is, as we have said, that this view, while on the one side
+identical with that of those who maintain that soul is a subtle kind
+of body, is on the other entangled in the absurdity peculiar to Democritus'
+way of describing the manner in which movement is originated by soul.
+For if the soul is present throughout the whole percipient body, there
+must, if the soul be a kind of body, be two bodies in the same place;
+and for those who call it a number, there must be many points at one
+point, or every body must have a soul, unless the soul be a different
+sort of number-other, that is, than the sum of the points existing
+in a body. Another consequence that follows is that the animal must
+be moved by its number precisely in the way that Democritus explained
+its being moved by his spherical psychic atoms. What difference does
+it make whether we speak of small spheres or of large units, or, quite
+simply, of units in movement? One way or another, the movements of
+the animal must be due to their movements. Hence those who combine
+movement and number in the same subject lay themselves open to these
+and many other similar absurdities. It is impossible not only that
+these characters should give the definition of soul-it is impossible
+that they should even be attributes of it. The point is clear if the
+attempt be made to start from this as the account of soul and explain
+from it the affections and actions of the soul, e.g. reasoning, sensation,
+pleasure, pain, &c. For, to repeat what we have said earlier, movement
+and number do not facilitate even conjecture about the derivative
+properties of soul. 
+
+Such are the three ways in which soul has traditionally been defined;
+one group of thinkers declared it to be that which is most originative
+of movement because it moves itself, another group to be the subtlest
+and most nearly incorporeal of all kinds of body. We have now sufficiently
+set forth the difficulties and inconsistencies to which these theories
+are exposed. It remains now to examine the doctrine that soul is composed
+of the elements. 
+
+The reason assigned for this doctrine is that thus the soul may perceive
+or come to know everything that is, but the theory necessarily involves
+itself in many impossibilities. Its upholders assume that like is
+known only by like, and imagine that by declaring the soul to be composed
+of the elements they succeed in identifying the soul with all the
+things it is capable of apprehending. But the elements are not the
+only things it knows; there are many others, or, more exactly, an
+infinite number of others, formed out of the elements. Let us admit
+that the soul knows or perceives the elements out of which each of
+these composites is made up; but by what means will it know or perceive
+the composite whole, e.g. what God, man, flesh, bone (or any other
+compound) is? For each is, not merely the elements of which it is
+composed, but those elements combined in a determinate mode or ratio,
+as Empedocles himself says of bone, 
+
+The kindly Earth in its broad-bosomed moulds 
+
+Won of clear Water two parts out of eight, And four of Fire; and so
+white bones were formed. 
+
+Nothing, therefore, will be gained by the presence of the elements
+in the soul, unless there be also present there the various formulae
+of proportion and the various compositions in accordance with them.
+Each element will indeed know its fellow outside, but there will be
+no knowledge of bone or man, unless they too are present in the constitution
+of the soul. The impossibility of this needs no pointing out; for
+who would suggest that stone or man could enter into the constitution
+of the soul? The same applies to 'the good' and 'the not-good', and
+so on. 
+
+Further, the word 'is' has many meanings: it may be used of a 'this'
+or substance, or of a quantum, or of a quale, or of any other of the
+kinds of predicates we have distinguished. Does the soul consist of
+all of these or not? It does not appear that all have common elements.
+Is the soul formed out of those elements alone which enter into substances?
+so how will it be able to know each of the other kinds of thing? Will
+it be said that each kind of thing has elements or principles of its
+own, and that the soul is formed out of the whole of these? In that
+case, the soul must be a quantum and a quale and a substance. But
+all that can be made out of the elements of a quantum is a quantum,
+not a substance. These (and others like them) are the consequences
+of the view that the soul is composed of all the elements.
+
+It is absurd, also, to say both (a) that like is not capable of being
+affected by like, and (b) that like is perceived or known by like,
+for perceiving, and also both thinking and knowing, are, on their
+own assumption, ways of being affected or moved. 
+
+There are many puzzles and difficulties raised by saying, as Empedocles
+does, that each set of things is known by means of its corporeal elements
+and by reference to something in soul which is like them, and additional
+testimony is furnished by this new consideration; for all the parts
+of the animal body which consist wholly of earth such as bones, sinews,
+and hair seem to be wholly insensitive and consequently not perceptive
+even of objects earthy like themselves, as they ought to have been.
+
+Further, each of the principles will have far more ignorance than
+knowledge, for though each of them will know one thing, there will
+be many of which it will be ignorant. Empedocles at any rate must
+conclude that his God is the least intelligent of all beings, for
+of him alone is it true that there is one thing, Strife, which he
+does not know, while there is nothing which mortal beings do not know,
+for ere is nothing which does not enter into their composition.
+
+In general, we may ask, Why has not everything a soul, since everything
+either is an element, or is formed out of one or several or all of
+the elements? Each must certainly know one or several or all.
+
+The problem might also be raised, What is that which unifies the elements
+into a soul? The elements correspond, it would appear, to the matter;
+what unites them, whatever it is, is the supremely important factor.
+But it is impossible that there should be something superior to, and
+dominant over, the soul (and a fortiori over the mind); it is reasonable
+to hold that mind is by nature most primordial and dominant, while
+their statement that it is the elements which are first of all that
+is. 
+
+All, both those who assert that the soul, because of its knowledge
+or perception of what is compounded out of the elements, and is those
+who assert that it is of all things the most originative of movement,
+fail to take into consideration all kinds of soul. In fact (1) not
+all beings that perceive can originate movement; there appear to be
+certain animals which stationary, and yet local movement is the only
+one, so it seems, which the soul originates in animals. And (2) the
+same object-on holds against all those who construct mind and the
+perceptive faculty out of the elements; for it appears that plants
+live, and yet are not endowed with locomotion or perception, while
+a large number of animals are without discourse of reason. Even if
+these points were waived and mind admitted to be a part of the soul
+(and so too the perceptive faculty), still, even so, there would be
+kinds and parts of soul of which they had failed to give any account.
+
+The same objection lies against the view expressed in the 'Orphic'
+poems: there it is said that the soul comes in from the whole when
+breathing takes place, being borne in upon the winds. Now this cannot
+take place in the case of plants, nor indeed in the case of certain
+classes of animal, for not all classes of animal breathe. This fact
+has escaped the notice of the holders of this view. 
+
+If we must construct the soul out of the elements, there is no necessity
+to suppose that all the elements enter into its construction; one
+element in each pair of contraries will suffice to enable it to know
+both that element itself and its contrary. By means of the straight
+line we know both itself and the curved-the carpenter's rule enables
+us to test both-but what is curved does not enable us to distinguish
+either itself or the straight. Certain thinkers say that soul is intermingled
+in the whole universe, and it is perhaps for that reason that Thales
+came to the opinion that all things are full of gods. This presents
+some difficulties: Why does the soul when it resides in air or fire
+not form an animal, while it does so when it resides in mixtures of
+the elements, and that although it is held to be of higher quality
+when contained in the former? (One might add the question, why the
+soul in air is maintained to be higher and more immortal than that
+in animals.) Both possible ways of replying to the former question
+lead to absurdity or paradox; for it is beyond paradox to say that
+fire or air is an animal, and it is absurd to refuse the name of animal
+to what has soul in it. The opinion that the elements have soul in
+them seems to have arisen from the doctrine that a whole must be homogeneous
+with its parts. If it is true that animals become animate by drawing
+into themselves a portion of what surrounds them, the partisans of
+this view are bound to say that the soul of the Whole too is homogeneous
+with all its parts. If the air sucked in is homogeneous, but soul
+heterogeneous, clearly while some part of soul will exist in the inbreathed
+air, some other part will not. The soul must either be homogeneous,
+or such that there are some parts of the Whole in which it is not
+to be found. 
+
+From what has been said it is now clear that knowing as an attribute
+of soul cannot be explained by soul's being composed of the elements,
+and that it is neither sound nor true to speak of soul as moved. But
+since (a) knowing, perceiving, opining, and further (b) desiring,
+wishing, and generally all other modes of appetition, belong to soul,
+and (c) the local movements of animals, and (d) growth, maturity,
+and decay are produced by the soul, we must ask whether each of these
+is an attribute of the soul as a whole, i.e. whether it is with the
+whole soul we think, perceive, move ourselves, act or are acted upon,
+or whether each of them requires a different part of the soul? So
+too with regard to life. Does it depend on one of the parts of soul?
+Or is it dependent on more than one? Or on all? Or has it some quite
+other cause? 
+
+Some hold that the soul is divisible, and that one part thinks, another
+desires. If, then, its nature admits of its being divided, what can
+it be that holds the parts together? Surely not the body; on the contrary
+it seems rather to be the soul that holds the body together; at any
+rate when the soul departs the body disintegrates and decays. If,
+then, there is something else which makes the soul one, this unifying
+agency would have the best right to the name of soul, and we shall
+have to repeat for it the question: Is it one or multipartite? If
+it is one, why not at once admit that 'the soul' is one? If it has
+parts, once more the question must be put: What holds its parts together,
+and so ad infinitum? 
+
+The question might also be raised about the parts of the soul: What
+is the separate role of each in relation to the body? For, if the
+whole soul holds together the whole body, we should expect each part
+of the soul to hold together a part of the body. But this seems an
+impossibility; it is difficult even to imagine what sort of bodily
+part mind will hold together, or how it will do this. 
+
+It is a fact of observation that plants and certain insects go on
+living when divided into segments; this means that each of the segments
+has a soul in it identical in species, though not numerically identical
+in the different segments, for both of the segments for a time possess
+the power of sensation and local movement. That this does not last
+is not surprising, for they no longer possess the organs necessary
+for self-maintenance. But, all the same, in each of the bodily parts
+there are present all the parts of soul, and the souls so present
+are homogeneous with one another and with the whole; this means that
+the several parts of the soul are indisseverable from one another,
+although the whole soul is divisible. It seems also that the principle
+found in plants is also a kind of soul; for this is the only principle
+which is common to both animals and plants; and this exists in isolation
+from the principle of sensation, though there nothing which has the
+latter without the former. 
+
+----------------------------------------------------------------------
+
+BOOK II
+
+Part 1 
+
+Let the foregoing suffice as our account of the views concerning
+the soul which have been handed on by our predecessors; let us now
+dismiss them and make as it were a completely fresh start, endeavouring
+to give a precise answer to the question, What is soul? i.e. to formulate
+the most general possible definition of it. 
+
+We are in the habit of recognizing, as one determinate kind of what
+is, substance, and that in several senses, (a) in the sense of matter
+or that which in itself is not 'a this', and (b) in the sense of form
+or essence, which is that precisely in virtue of which a thing is
+called 'a this', and thirdly (c) in the sense of that which is compounded
+of both (a) and (b). Now matter is potentiality, form actuality; of
+the latter there are two grades related to one another as e.g. knowledge
+to the exercise of knowledge. 
+
+Among substances are by general consent reckoned bodies and especially
+natural bodies; for they are the principles of all other bodies. Of
+natural bodies some have life in them, others not; by life we mean
+self-nutrition and growth (with its correlative decay). It follows
+that every natural body which has life in it is a substance in the
+sense of a composite. 
+
+But since it is also a body of such and such a kind, viz. having life,
+the body cannot be soul; the body is the subject or matter, not what
+is attributed to it. Hence the soul must be a substance in the sense
+of the form of a natural body having life potentially within it. But
+substance is actuality, and thus soul is the actuality of a body as
+above characterized. Now the word actuality has two senses corresponding
+respectively to the possession of knowledge and the actual exercise
+of knowledge. It is obvious that the soul is actuality in the first
+sense, viz. that of knowledge as possessed, for both sleeping and
+waking presuppose the existence of soul, and of these waking corresponds
+to actual knowing, sleeping to knowledge possessed but not employed,
+and, in the history of the individual, knowledge comes before its
+employment or exercise. 
+
+That is why the soul is the first grade of actuality of a natural
+body having life potentially in it. The body so described is a body
+which is organized. The parts of plants in spite of their extreme
+simplicity are 'organs'; e.g. the leaf serves to shelter the pericarp,
+the pericarp to shelter the fruit, while the roots of plants are analogous
+to the mouth of animals, both serving for the absorption of food.
+If, then, we have to give a general formula applicable to all kinds
+of soul, we must describe it as the first grade of actuality of a
+natural organized body. That is why we can wholly dismiss as unnecessary
+the question whether the soul and the body are one: it is as meaningless
+as to ask whether the wax and the shape given to it by the stamp are
+one, or generally the matter of a thing and that of which it is the
+matter. Unity has many senses (as many as 'is' has), but the most
+proper and fundamental sense of both is the relation of an actuality
+to that of which it is the actuality. We have now given an answer
+to the question, What is soul?-an answer which applies to it in its
+full extent. It is substance in the sense which corresponds to the
+definitive formula of a thing's essence. That means that it is 'the
+essential whatness' of a body of the character just assigned. Suppose
+that what is literally an 'organ', like an axe, were a natural body,
+its 'essential whatness', would have been its essence, and so its
+soul; if this disappeared from it, it would have ceased to be an axe,
+except in name. As it is, it is just an axe; it wants the character
+which is required to make its whatness or formulable essence a soul;
+for that, it would have had to be a natural body of a particular kind,
+viz. one having in itself the power of setting itself in movement
+and arresting itself. Next, apply this doctrine in the case of the
+'parts' of the living body. Suppose that the eye were an animal-sight
+would have been its soul, for sight is the substance or essence of
+the eye which corresponds to the formula, the eye being merely the
+matter of seeing; when seeing is removed the eye is no longer an eye,
+except in name-it is no more a real eye than the eye of a statue or
+of a painted figure. We must now extend our consideration from the
+'parts' to the whole living body; for what the departmental sense
+is to the bodily part which is its organ, that the whole faculty of
+sense is to the whole sensitive body as such. 
+
+We must not understand by that which is 'potentially capable of living'
+what has lost the soul it had, but only what still retains it; but
+seeds and fruits are bodies which possess the qualification. Consequently,
+while waking is actuality in a sense corresponding to the cutting
+and the seeing, the soul is actuality in the sense corresponding to
+the power of sight and the power in the tool; the body corresponds
+to what exists in potentiality; as the pupil plus the power of sight
+constitutes the eye, so the soul plus the body constitutes the animal.
+
+From this it indubitably follows that the soul is inseparable from
+its body, or at any rate that certain parts of it are (if it has parts)
+for the actuality of some of them is nothing but the actualities of
+their bodily parts. Yet some may be separable because they are not
+the actualities of any body at all. Further, we have no light on the
+problem whether the soul may not be the actuality of its body in the
+sense in which the sailor is the actuality of the ship. 
+
+This must suffice as our sketch or outline determination of the nature
+of soul. 
+
+Part 2
+
+Since what is clear or logically more evident emerges from what in
+itself is confused but more observable by us, we must reconsider our
+results from this point of view. For it is not enough for a definitive
+formula to express as most now do the mere fact; it must include and
+exhibit the ground also. At present definitions are given in a form
+analogous to the conclusion of a syllogism; e.g. What is squaring?
+The construction of an equilateral rectangle equal to a given oblong
+rectangle. Such a definition is in form equivalent to a conclusion.
+One that tells us that squaring is the discovery of a line which is
+a mean proportional between the two unequal sides of the given rectangle
+discloses the ground of what is defined. 
+
+We resume our inquiry from a fresh starting-point by calling attention
+to the fact that what has soul in it differs from what has not, in
+that the former displays life. Now this word has more than one sense,
+and provided any one alone of these is found in a thing we say that
+thing is living. Living, that is, may mean thinking or perception
+or local movement and rest, or movement in the sense of nutrition,
+decay and growth. Hence we think of plants also as living, for they
+are observed to possess in themselves an originative power through
+which they increase or decrease in all spatial directions; they grow
+up and down, and everything that grows increases its bulk alike in
+both directions or indeed in all, and continues to live so long as
+it can absorb nutriment. 
+
+This power of self-nutrition can be isolated from the other powers
+mentioned, but not they from it-in mortal beings at least. The fact
+is obvious in plants; for it is the only psychic power they possess.
+
+This is the originative power the possession of which leads us to
+speak of things as living at all, but it is the possession of sensation
+that leads us for the first time to speak of living things as animals;
+for even those beings which possess no power of local movement but
+do possess the power of sensation we call animals and not merely living
+things. 
+
+The primary form of sense is touch, which belongs to all animals.
+just as the power of self-nutrition can be isolated from touch and
+sensation generally, so touch can be isolated from all other forms
+of sense. (By the power of self-nutrition we mean that departmental
+power of the soul which is common to plants and animals: all animals
+whatsoever are observed to have the sense of touch.) What the explanation
+of these two facts is, we must discuss later. At present we must confine
+ourselves to saying that soul is the source of these phenomena and
+is characterized by them, viz. by the powers of self-nutrition, sensation,
+thinking, and motivity. 
+
+Is each of these a soul or a part of a soul? And if a part, a part
+in what sense? A part merely distinguishable by definition or a part
+distinct in local situation as well? In the case of certain of these
+powers, the answers to these questions are easy, in the case of others
+we are puzzled what to say. just as in the case of plants which when
+divided are observed to continue to live though removed to a distance
+from one another (thus showing that in their case the soul of each
+individual plant before division was actually one, potentially many),
+so we notice a similar result in other varieties of soul, i.e. in
+insects which have been cut in two; each of the segments possesses
+both sensation and local movement; and if sensation, necessarily also
+imagination and appetition; for, where there is sensation, there is
+also pleasure and pain, and, where these, necessarily also desire.
+
+We have no evidence as yet about mind or the power to think; it seems
+to be a widely different kind of soul, differing as what is eternal
+from what is perishable; it alone is capable of existence in isolation
+from all other psychic powers. All the other parts of soul, it is
+evident from what we have said, are, in spite of certain statements
+to the contrary, incapable of separate existence though, of course,
+distinguishable by definition. If opining is distinct from perceiving,
+to be capable of opining and to be capable of perceiving must be distinct,
+and so with all the other forms of living above enumerated. Further,
+some animals possess all these parts of soul, some certain of them
+only, others one only (this is what enables us to classify animals);
+the cause must be considered later.' A similar arrangement is found
+also within the field of the senses; some classes of animals have
+all the senses, some only certain of them, others only one, the most
+indispensable, touch. 
+
+Since the expression 'that whereby we live and perceive' has two meanings,
+just like the expression 'that whereby we know'-that may mean either
+(a) knowledge or (b) the soul, for we can speak of knowing by or with
+either, and similarly that whereby we are in health may be either
+(a) health or (b) the body or some part of the body; and since of
+the two terms thus contrasted knowledge or health is the name of a
+form, essence, or ratio, or if we so express it an actuality of a
+recipient matter-knowledge of what is capable of knowing, health of
+what is capable of being made healthy (for the operation of that which
+is capable of originating change terminates and has its seat in what
+is changed or altered); further, since it is the soul by or with which
+primarily we live, perceive, and think:-it follows that the soul must
+be a ratio or formulable essence, not a matter or subject. For, as
+we said, word substance has three meanings form, matter, and the complex
+of both and of these three what is called matter is potentiality,
+what is called form actuality. Since then the complex here is the
+living thing, the body cannot be the actuality of the soul; it is
+the soul which is the actuality of a certain kind of body. Hence the
+rightness of the view that the soul cannot be without a body, while
+it csnnot he a body; it is not a body but something relative to a
+body. That is why it is in a body, and a body of a definite kind.
+It was a mistake, therefore, to do as former thinkers did, merely
+to fit it into a body without adding a definite specification of the
+kind or character of that body. Reflection confirms the observed fact;
+the actuality of any given thing can only be realized in what is already
+potentially that thing, i.e. in a matter of its own appropriate to
+it. From all this it follows that soul is an actuality or formulable
+essence of something that possesses a potentiality of being besouled.
+
+Part 3
+
+Of the psychic powers above enumerated some kinds of living things,
+as we have said, possess all, some less than all, others one only.
+Those we have mentioned are the nutritive, the appetitive, the sensory,
+the locomotive, and the power of thinking. Plants have none but the
+first, the nutritive, while another order of living things has this
+plus the sensory. If any order of living things has the sensory, it
+must also have the appetitive; for appetite is the genus of which
+desire, passion, and wish are the species; now all animals have one
+sense at least, viz. touch, and whatever has a sense has the capacity
+for pleasure and pain and therefore has pleasant and painful objects
+present to it, and wherever these are present, there is desire, for
+desire is just appetition of what is pleasant. Further, all animals
+have the sense for food (for touch is the sense for food); the food
+of all living things consists of what is dry, moist, hot, cold, and
+these are the qualities apprehended by touch; all other sensible qualities
+are apprehended by touch only indirectly. Sounds, colours, and odours
+contribute nothing to nutriment; flavours fall within the field of
+tangible qualities. Hunger and thirst are forms of desire, hunger
+a desire for what is dry and hot, thirst a desire for what is cold
+and moist; flavour is a sort of seasoning added to both. We must later
+clear up these points, but at present it may be enough to say that
+all animals that possess the sense of touch have also appetition.
+The case of imagination is obscure; we must examine it later. Certain
+kinds of animals possess in addition the power of locomotion, and
+still another order of animate beings, i.e. man and possibly another
+order like man or superior to him, the power of thinking, i.e. mind.
+It is now evident that a single definition can be given of soul only
+in the same sense as one can be given of figure. For, as in that case
+there is no figure distinguishable and apart from triangle, &c., so
+here there is no soul apart from the forms of soul just enumerated.
+It is true that a highly general definition can be given for figure
+which will fit all figures without expressing the peculiar nature
+of any figure. So here in the case of soul and its specific forms.
+Hence it is absurd in this and similar cases to demand an absolutely
+general definition which will fail to express the peculiar nature
+of anything that is, or again, omitting this, to look for separate
+definitions corresponding to each infima species. The cases of figure
+and soul are exactly parallel; for the particulars subsumed under
+the common name in both cases-figures and living beings-constitute
+a series, each successive term of which potentially contains its predecessor,
+e.g. the square the triangle, the sensory power the self-nutritive.
+Hence we must ask in the case of each order of living things, What
+is its soul, i.e. What is the soul of plant, animal, man? Why the
+terms are related in this serial way must form the subject of later
+examination. But the facts are that the power of perception is never
+found apart from the power of self-nutrition, while-in plants-the
+latter is found isolated from the former. Again, no sense is found
+apart from that of touch, while touch is found by itself; many animals
+have neither sight, hearing, nor smell. Again, among living things
+that possess sense some have the power of locomotion, some not. Lastly,
+certain living beings-a small minority-possess calculation and thought,
+for (among mortal beings) those which possess calculation have all
+the other powers above mentioned, while the converse does not hold-indeed
+some live by imagination alone, while others have not even imagination.
+The mind that knows with immediate intuition presents a different
+problem. 
+
+It is evident that the way to give the most adequate definition of
+soul is to seek in the case of each of its forms for the most appropriate
+definition. 
+
+Part 4
+
+It is necessary for the student of these forms of soul first to find
+a definition of each, expressive of what it is, and then to investigate
+its derivative properties, &c. But if we are to express what each
+is, viz. what the thinking power is, or the perceptive, or the nutritive,
+we must go farther back and first give an account of thinking or perceiving,
+for in the order of investigation the question of what an agent does
+precedes the question, what enables it to do what it does. If this
+is correct, we must on the same ground go yet another step farther
+back and have some clear view of the objects of each; thus we must
+start with these objects, e.g. with food, with what is perceptible,
+or with what is intelligible. 
+
+It follows that first of all we must treat of nutrition and reproduction,
+for the nutritive soul is found along with all the others and is the
+most primitive and widely distributed power of soul, being indeed
+that one in virtue of which all are said to have life. The acts in
+which it manifests itself are reproduction and the use of food-reproduction,
+I say, because for any living thing that has reached its normal development
+and which is unmutilated, and whose mode of generation is not spontaneous,
+the most natural act is the production of another like itself, an
+animal producing an animal, a plant a plant, in order that, as far
+as its nature allows, it may partake in the eternal and divine. That
+is the goal towards which all things strive, that for the sake of
+which they do whatsoever their nature renders possible. The phrase
+'for the sake of which' is ambiguous; it may mean either (a) the end
+to achieve which, or (b) the being in whose interest, the act is done.
+Since then no living thing is able to partake in what is eternal and
+divine by uninterrupted continuance (for nothing perishable can for
+ever remain one and the same), it tries to achieve that end in the
+only way possible to it, and success is possible in varying degrees;
+so it remains not indeed as the self-same individual but continues
+its existence in something like itself-not numerically but specifically
+one. 
+
+The soul is the cause or source of the living body. The terms cause
+and source have many senses. But the soul is the cause of its body
+alike in all three senses which we explicitly recognize. It is (a)
+the source or origin of movement, it is (b) the end, it is (c) the
+essence of the whole living body. 
+
+That it is the last, is clear; for in everything the essence is identical
+with the ground of its being, and here, in the case of living things,
+their being is to live, and of their being and their living the soul
+in them is the cause or source. Further, the actuality of whatever
+is potential is identical with its formulable essence. 
+
+It is manifest that the soul is also the final cause of its body.
+For Nature, like mind, always does whatever it does for the sake of
+something, which something is its end. To that something corresponds
+in the case of animals the soul and in this it follows the order of
+nature; all natural bodies are organs of the soul. This is true of
+those that enter into the constitution of plants as well as of those
+which enter into that of animals. This shows that that the sake of
+which they are is soul. We must here recall the two senses of 'that
+for the sake of which', viz. (a) the end to achieve which, and (b)
+the being in whose interest, anything is or is done. 
+
+We must maintain, further, that the soul is also the cause of the
+living body as the original source of local movement. The power of
+locomotion is not found, however, in all living things. But change
+of quality and change of quantity are also due to the soul. Sensation
+is held to be a qualitative alteration, and nothing except what has
+soul in it is capable of sensation. The same holds of the quantitative
+changes which constitute growth and decay; nothing grows or decays
+naturally except what feeds itself, and nothing feeds itself except
+what has a share of soul in it. 
+
+Empedocles is wrong in adding that growth in plants is to be explained,
+the downward rooting by the natural tendency of earth to travel downwards,
+and the upward branching by the similar natural tendency of fire to
+travel upwards. For he misinterprets up and down; up and down are
+not for all things what they are for the whole Cosmos: if we are to
+distinguish and identify organs according to their functions, the
+roots of plants are analogous to the head in animals. Further, we
+must ask what is the force that holds together the earth and the fire
+which tend to travel in contrary directions; if there is no counteracting
+force, they will be torn asunder; if there is, this must be the soul
+and the cause of nutrition and growth. By some the element of fire
+is held to be the cause of nutrition and growth, for it alone of the
+primary bodies or elements is observed to feed and increase itself.
+Hence the suggestion that in both plants and animals it is it which
+is the operative force. A concurrent cause in a sense it certainly
+is, but not the principal cause, that is rather the soul; for while
+the growth of fire goes on without limit so long as there is a supply
+of fuel, in the case of all complex wholes formed in the course of
+nature there is a limit or ratio which determines their size and increase,
+and limit and ratio are marks of soul but not of fire, and belong
+to the side of formulable essence rather than that of matter.
+
+Nutrition and reproduction are due to one and the same psychic power.
+It is necessary first to give precision to our account of food, for
+it is by this function of absorbing food that this psychic power is
+distinguished from all the others. The current view is that what serves
+as food to a living thing is what is contrary to it-not that in every
+pair of contraries each is food to the other: to be food a contrary
+must not only be transformable into the other and vice versa, it must
+also in so doing increase the bulk of the other. Many a contrary is
+transformed into its other and vice versa, where neither is even a
+quantum and so cannot increase in bulk, e.g. an invalid into a healthy
+subject. It is clear that not even those contraries which satisfy
+both the conditions mentioned above are food to one another in precisely
+the same sense; water may be said to feed fire, but not fire water.
+Where the members of the pair are elementary bodies only one of the
+contraries, it would appear, can be said to feed the other. But there
+is a difficulty here. One set of thinkers assert that like fed, as
+well as increased in amount, by like. Another set, as we have said,
+maintain the very reverse, viz. that what feeds and what is fed are
+contrary to one another; like, they argue, is incapable of being affected
+by like; but food is changed in the process of digestion, and change
+is always to what is opposite or to what is intermediate. Further,
+food is acted upon by what is nourished by it, not the other way round,
+as timber is worked by a carpenter and not conversely; there is a
+change in the carpenter but it is merely a change from not-working
+to working. In answering this problem it makes all the difference
+whether we mean by 'the food' the 'finished' or the 'raw' product.
+If we use the word food of both, viz. of the completely undigested
+and the completely digested matter, we can justify both the rival
+accounts of it; taking food in the sense of undigested matter, it
+is the contrary of what is fed by it, taking it as digested it is
+like what is fed by it. Consequently it is clear that in a certain
+sense we may say that both parties are right, both wrong.
+
+Since nothing except what is alive can be fed, what is fed is the
+besouled body and just because it has soul in it. Hence food is essentially
+related to what has soul in it. Food has a power which is other than
+the power to increase the bulk of what is fed by it; so far forth
+as what has soul in it is a quantum, food may increase its quantity,
+but it is only so far as what has soul in it is a 'this-somewhat'
+or substance that food acts as food; in that case it maintains the
+being of what is fed, and that continues to be what it is so long
+as the process of nutrition continues. Further, it is the agent in
+generation, i.e. not the generation of the individual fed but the
+reproduction of another like it; the substance of the individual fed
+is already in existence; the existence of no substance is a self-generation
+but only a self-maintenance. 
+
+Hence the psychic power which we are now studying may be described
+as that which tends to maintain whatever has this power in it of continuing
+such as it was, and food helps it to do its work. That is why, if
+deprived of food, it must cease to be. 
+
+The process of nutrition involves three factors, (a) what is fed,
+(b) that wherewith it is fed, (c) what does the feeding; of these
+(c) is the first soul, (a) the body which has that soul in it, (b)
+the food. But since it is right to call things after the ends they
+realize, and the end of this soul is to generate another being like
+that in which it is, the first soul ought to be named the reproductive
+soul. The expression (b) 'wherewith it is fed' is ambiguous just as
+is the expression 'wherewith the ship is steered'; that may mean either
+(i) the hand or (ii) the rudder, i.e. either (i) what is moved and
+sets in movement, or (ii) what is merely moved. We can apply this
+analogy here if we recall that all food must be capable of being digested,
+and that what produces digestion is warmth; that is why everything
+that has soul in it possesses warmth. 
+
+We have now given an outline account of the nature of food; further
+details must be given in the appropriate place. 
+
+Part 5
+
+Having made these distinctions let us now speak of sensation in the
+widest sense. Sensation depends, as we have said, on a process of
+movement or affection from without, for it is held to be some sort
+of change of quality. Now some thinkers assert that like is affected
+only by like; in what sense this is possible and in what sense impossible,
+we have explained in our general discussion of acting and being acted
+upon. 
+
+Here arises a problem: why do we not perceive the senses themselves
+as well as the external objects of sense, or why without the stimulation
+of external objects do they not produce sensation, seeing that they
+contain in themselves fire, earth, and all the other elements, which
+are the direct or indirect objects is so of sense? It is clear that
+what is sensitive is only potentially, not actually. The power of
+sense is parallel to what is combustible, for that never ignites itself
+spontaneously, but requires an agent which has the power of starting
+ignition; otherwise it could have set itself on fire, and would not
+have needed actual fire to set it ablaze. 
+
+In reply we must recall that we use the word 'perceive' in two ways,
+for we say (a) that what has the power to hear or see, 'sees' or 'hears',
+even though it is at the moment asleep, and also (b) that what is
+actually seeing or hearing, 'sees' or 'hears'. Hence 'sense' too must
+have two meanings, sense potential, and sense actual. Similarly 'to
+be a sentient' means either (a) to have a certain power or (b) to
+manifest a certain activity. To begin with, for a time, let us speak
+as if there were no difference between (i) being moved or affected,
+and (ii) being active, for movement is a kind of activity-an imperfect
+kind, as has elsewhere been explained. Everything that is acted upon
+or moved is acted upon by an agent which is actually at work. Hence
+it is that in one sense, as has already been stated, what acts and
+what is acted upon are like, in another unlike, i.e. prior to and
+during the change the two factors are unlike, after it like.
+
+But we must now distinguish not only between what is potential and
+what is actual but also different senses in which things can be said
+to be potential or actual; up to now we have been speaking as if each
+of these phrases had only one sense. We can speak of something as
+'a knower' either (a) as when we say that man is a knower, meaning
+that man falls within the class of beings that know or have knowledge,
+or (b) as when we are speaking of a man who possesses a knowledge
+of grammar; each of these is so called as having in him a certain
+potentiality, but there is a difference between their respective potentialities,
+the one (a) being a potential knower, because his kind or matter is
+such and such, the other (b), because he can in the absence of any
+external counteracting cause realize his knowledge in actual knowing
+at will. This implies a third meaning of 'a knower' (c), one who is
+already realizing his knowledge-he is a knower in actuality and in
+the most proper sense is knowing, e.g. this A. Both the former are
+potential knowers, who realize their respective potentialities, the
+one (a) by change of quality, i.e. repeated transitions from one state
+to its opposite under instruction, the other (b) by the transition
+from the inactive possession of sense or grammar to their active exercise.
+The two kinds of transition are distinct. 
+
+Also the expression 'to be acted upon' has more than one meaning;
+it may mean either (a) the extinction of one of two contraries by
+the other, or (b) the maintenance of what is potential by the agency
+of what is actual and already like what is acted upon, with such likeness
+as is compatible with one's being actual and the other potential.
+For what possesses knowledge becomes an actual knower by a transition
+which is either not an alteration of it at all (being in reality a
+development into its true self or actuality) or at least an alteration
+in a quite different sense from the usual meaning. 
+
+Hence it is wrong to speak of a wise man as being 'altered' when he
+uses his wisdom, just as it would be absurd to speak of a builder
+as being altered when he is using his skill in building a house.
+
+What in the case of knowing or understanding leads from potentiality
+to actuality ought not to be called teaching but something else. That
+which starting with the power to know learns or acquires knowledge
+through the agency of one who actually knows and has the power of
+teaching either (a) ought not to be said 'to be acted upon' at all
+or (b) we must recognize two senses of alteration, viz. (i) the substitution
+of one quality for another, the first being the contrary of the second,
+or (ii) the development of an existent quality from potentiality in
+the direction of fixity or nature. 
+
+In the case of what is to possess sense, the first transition is due
+to the action of the male parent and takes place before birth so that
+at birth the living thing is, in respect of sensation, at the stage
+which corresponds to the possession of knowledge. Actual sensation
+corresponds to the stage of the exercise of knowledge. But between
+the two cases compared there is a difference; the objects that excite
+the sensory powers to activity, the seen, the heard, &c., are outside.
+The ground of this difference is that what actual sensation apprehends
+is individuals, while what knowledge apprehends is universals, and
+these are in a sense within the soul. That is why a man can exercise
+his knowledge when he wishes, but his sensation does not depend upon
+himself a sensible object must be there. A similar statement must
+be made about our knowledge of what is sensible-on the same ground,
+viz. that the sensible objects are individual and external.
+
+A later more appropriate occasion may be found thoroughly to clear
+up all this. At present it must be enough to recognize the distinctions
+already drawn; a thing may be said to be potential in either of two
+senses, (a) in the sense in which we might say of a boy that he may
+become a general or (b) in the sense in which we might say the same
+of an adult, and there are two corresponding senses of the term 'a
+potential sentient'. There are no separate names for the two stages
+of potentiality; we have pointed out that they are different and how
+they are different. We cannot help using the incorrect terms 'being
+acted upon or altered' of the two transitions involved. As we have
+said, has the power of sensation is potentially like what the perceived
+object is actually; that is, while at the beginning of the process
+of its being acted upon the two interacting factors are dissimilar,
+at the end the one acted upon is assimilated to the other and is identical
+in quality with it. 
+
+Part 6
+
+In dealing with each of the senses we shall have first to speak of
+the objects which are perceptible by each. The term 'object of sense'
+covers three kinds of objects, two kinds of which are, in our language,
+directly perceptible, while the remaining one is only incidentally
+perceptible. Of the first two kinds one (a) consists of what is perceptible
+by a single sense, the other (b) of what is perceptible by any and
+all of the senses. I call by the name of special object of this or
+that sense that which cannot be perceived by any other sense than
+that one and in respect of which no error is possible; in this sense
+colour is the special object of sight, sound of hearing, flavour of
+taste. Touch, indeed, discriminates more than one set of different
+qualities. Each sense has one kind of object which it discerns, and
+never errs in reporting that what is before it is colour or sound
+(though it may err as to what it is that is coloured or where that
+is, or what it is that is sounding or where that is.) Such objects
+are what we propose to call the special objects of this or that sense.
+
+'Common sensibles' are movement, rest, number, figure, magnitude;
+these are not peculiar to any one sense, but are common to all. There
+are at any rate certain kinds of movement which are perceptible both
+by touch and by sight. 
+
+We speak of an incidental object of sense where e.g. the white object
+which we see is the son of Diares; here because 'being the son of
+Diares' is incidental to the directly visible white patch we speak
+of the son of Diares as being (incidentally) perceived or seen by
+us. Because this is only incidentally an object of sense, it in no
+way as such affects the senses. Of the two former kinds, both of which
+are in their own nature perceptible by sense, the first kind-that
+of special objects of the several senses-constitute the objects of
+sense in the strictest sense of the term and it is to them that in
+the nature of things the structure of each several sense is adapted.
+
+Part 7
+
+The object of sight is the visible, and what is visible is (a) colour
+and (b) a certain kind of object which can be described in words but
+which has no single name; what we mean by (b) will be abundantly clear
+as we proceed. Whatever is visible is colour and colour is what lies
+upon what is in its own nature visible; 'in its own nature' here means
+not that visibility is involved in the definition of what thus underlies
+colour, but that that substratum contains in itself the cause of visibility.
+Every colour has in it the power to set in movement what is actually
+transparent; that power constitutes its very nature. That is why it
+is not visible except with the help of light; it is only in light
+that the colour of a thing is seen. Hence our first task is to explain
+what light is. 
+
+Now there clearly is something which is transparent, and by 'transparent'
+I mean what is visible, and yet not visible in itself, but rather
+owing its visibility to the colour of something else; of this character
+are air, water, and many solid bodies. Neither air nor water is transparent
+because it is air or water; they are transparent because each of them
+has contained in it a certain substance which is the same in both
+and is also found in the eternal body which constitutes the uppermost
+shell of the physical Cosmos. Of this substance light is the activity-the
+activity of what is transparent so far forth as it has in it the determinate
+power of becoming transparent; where this power is present, there
+is also the potentiality of the contrary, viz. darkness. Light is
+as it were the proper colour of what is transparent, and exists whenever
+the potentially transparent is excited to actuality by the influence
+of fire or something resembling 'the uppermost body'; for fire too
+contains something which is one and the same with the substance in
+question. 
+
+We have now explained what the transparent is and what light is; light
+is neither fire nor any kind whatsoever of body nor an efflux from
+any kind of body (if it were, it would again itself be a kind of body)-it
+is the presence of fire or something resembling fire in what is transparent.
+It is certainly not a body, for two bodies cannot be present in the
+same place. The opposite of light is darkness; darkness is the absence
+from what is transparent of the corresponding positive state above
+characterized; clearly therefore, light is just the presence of that.
+
+Empedocles (and with him all others who used the same forms of expression)
+was wrong in speaking of light as 'travelling' or being at a given
+moment between the earth and its envelope, its movement being unobservable
+by us; that view is contrary both to the clear evidence of argument
+and to the observed facts; if the distance traversed were short, the
+movement might have been unobservable, but where the distance is from
+extreme East to extreme West, the draught upon our powers of belief
+is too great. 
+
+What is capable of taking on colour is what in itself is colourless,
+as what can take on sound is what is soundless; what is colourless
+includes (a) what is transparent and (b) what is invisible or scarcely
+visible, i.e. what is 'dark'. The latter (b) is the same as what is
+transparent, when it is potentially, not of course when it is actually
+transparent; it is the same substance which is now darkness, now light.
+
+Not everything that is visible depends upon light for its visibility.
+This is only true of the 'proper' colour of things. Some objects of
+sight which in light are invisible, in darkness stimulate the sense;
+that is, things that appear fiery or shining. This class of objects
+has no simple common name, but instances of it are fungi, flesh, heads,
+scales, and eyes of fish. In none of these is what is seen their own
+proper' colour. Why we see these at all is another question. At present
+what is obvious is that what is seen in light is always colour. That
+is why without the help of light colour remains invisible. Its being
+colour at all means precisely its having in it the power to set in
+movement what is already actually transparent, and, as we have seen,
+the actuality of what is transparent is just light. 
+
+The following experiment makes the necessity of a medium clear. If
+what has colour is placed in immediate contact with the eye, it cannot
+be seen. Colour sets in movement not the sense organ but what is transparent,
+e.g. the air, and that, extending continuously from the object to
+the organ, sets the latter in movement. Democritus misrepresents the
+facts when he expresses the opinion that if the interspace were empty
+one could distinctly see an ant on the vault of the sky; that is an
+impossibility. Seeing is due to an affection or change of what has
+the perceptive faculty, and it cannot be affected by the seen colour
+itself; it remains that it must be affected by what comes between.
+Hence it is indispensable that there be something in between-if there
+were nothing, so far from seeing with greater distinctness, we should
+see nothing at all. 
+
+We have now explained the cause why colour cannot be seen otherwise
+than in light. Fire on the other hand is seen both in darkness and
+in light; this double possibility follows necessarily from our theory,
+for it is just fire that makes what is potentially transparent actually
+transparent. 
+
+The same account holds also of sound and smell; if the object of either
+of these senses is in immediate contact with the organ no sensation
+is produced. In both cases the object sets in movement only what lies
+between, and this in turn sets the organ in movement: if what sounds
+or smells is brought into immediate contact with the organ, no sensation
+will be produced. The same, in spite of all appearances, applies also
+to touch and taste; why there is this apparent difference will be
+clear later. What comes between in the case of sounds is air; the
+corresponding medium in the case of smell has no name. But, corresponding
+to what is transparent in the case of colour, there is a quality found
+both in air and water, which serves as a medium for what has smell-I
+say 'in water' because animals that live in water as well as those
+that live on land seem to possess the sense of smell, and 'in air'
+because man and all other land animals that breathe, perceive smells
+only when they breathe air in. The explanation of this too will be
+given later. 
+
+Part 8
+
+Now let us, to begin with, make certain distinctions about sound and
+hearing. 
+
+Sound may mean either of two things (a) actual, and (b) potential,
+sound. There are certain things which, as we say, 'have no sound',
+e.g. sponges or wool, others which have, e.g. bronze and in general
+all things which are smooth and solid-the latter are said to have
+a sound because they can make a sound, i.e. can generate actual sound
+between themselves and the organ of hearing. 
+
+Actual sound requires for its occurrence (i, ii) two such bodies and
+(iii) a space between them; for it is generated by an impact. Hence
+it is impossible for one body only to generate a sound-there must
+be a body impinging and a body impinged upon; what sounds does so
+by striking against something else, and this is impossible without
+a movement from place to place. 
+
+As we have said, not all bodies can by impact on one another produce
+sound; impact on wool makes no sound, while the impact on bronze or
+any body which is smooth and hollow does. Bronze gives out a sound
+when struck because it is smooth; bodies which are hollow owing to
+reflection repeat the original impact over and over again, the body
+originally set in movement being unable to escape from the concavity.
+
+Further, we must remark that sound is heard both in air and in water,
+though less distinctly in the latter. Yet neither air nor water is
+the principal cause of sound. What is required for the production
+of sound is an impact of two solids against one another and against
+the air. The latter condition is satisfied when the air impinged upon
+does not retreat before the blow, i.e. is not dissipated by it.
+
+That is why it must be struck with a sudden sharp blow, if it is to
+sound-the movement of the whip must outrun the dispersion of the air,
+just as one might get in a stroke at a heap or whirl of sand as it
+was traveling rapidly past. 
+
+An echo occurs, when, a mass of air having been unified, bounded,
+and prevented from dissipation by the containing walls of a vessel,
+the air originally struck by the impinging body and set in movement
+by it rebounds from this mass of air like a ball from a wall. It is
+probable that in all generation of sound echo takes place, though
+it is frequently only indistinctly heard. What happens here must be
+analogous to what happens in the case of light; light is always reflected-otherwise
+it would not be diffused and outside what was directly illuminated
+by the sun there would be blank darkness; but this reflected light
+is not always strong enough, as it is when it is reflected from water,
+bronze, and other smooth bodies, to cast a shadow, which is the distinguishing
+mark by which we recognize light. 
+
+It is rightly said that an empty space plays the chief part in the
+production of hearing, for what people mean by 'the vacuum' is the
+air, which is what causes hearing, when that air is set in movement
+as one continuous mass; but owing to its friability it emits no sound,
+being dissipated by impinging upon any surface which is not smooth.
+When the surface on which it impinges is quite smooth, what is produced
+by the original impact is a united mass, a result due to the smoothness
+of the surface with which the air is in contact at the other end.
+
+What has the power of producing sound is what has the power of setting
+in movement a single mass of air which is continuous from the impinging
+body up to the organ of hearing. The organ of hearing is physically
+united with air, and because it is in air, the air inside is moved
+concurrently with the air outside. Hence animals do not hear with
+all parts of their bodies, nor do all parts admit of the entrance
+of air; for even the part which can be moved and can sound has not
+air everywhere in it. Air in itself is, owing to its friability, quite
+soundless; only when its dissipation is prevented is its movement
+sound. The air in the ear is built into a chamber just to prevent
+this dissipating movement, in order that the animal may accurately
+apprehend all varieties of the movements of the air outside. That
+is why we hear also in water, viz. because the water cannot get into
+the air chamber or even, owing to the spirals, into the outer ear.
+If this does happen, hearing ceases, as it also does if the tympanic
+membrane is damaged, just as sight ceases if the membrane covering
+the pupil is damaged. It is also a test of deafness whether the ear
+does or does not reverberate like a horn; the air inside the ear has
+always a movement of its own, but the sound we hear is always the
+sounding of something else, not of the organ itself. That is why we
+say that we hear with what is empty and echoes, viz. because what
+we hear with is a chamber which contains a bounded mass of air.
+
+Which is it that 'sounds', the striking body or the struck? Is not
+the answer 'it is both, but each in a different way'? Sound is a movement
+of what can rebound from a smooth surface when struck against it.
+As we have explained' not everything sounds when it strikes or is
+struck, e.g. if one needle is struck against another, neither emits
+any sound. In order, therefore, that sound may be generated, what
+is struck must be smooth, to enable the air to rebound and be shaken
+off from it in one piece. 
+
+The distinctions between different sounding bodies show themselves
+only in actual sound; as without the help of light colours remain
+invisible, so without the help of actual sound the distinctions between
+acute and grave sounds remain inaudible. Acute and grave are here
+metaphors, transferred from their proper sphere, viz. that of touch,
+where they mean respectively (a) what moves the sense much in a short
+time, (b) what moves the sense little in a long time. Not that what
+is sharp really moves fast, and what is grave, slowly, but that the
+difference in the qualities of the one and the other movement is due
+to their respective speeds. There seems to be a sort of parallelism
+between what is acute or grave to hearing and what is sharp or blunt
+to touch; what is sharp as it were stabs, while what is blunt pushes,
+the one producing its effect in a short, the other in a long time,
+so that the one is quick, the other slow. 
+
+Let the foregoing suffice as an analysis of sound. Voice is a kind
+of sound characteristic of what has soul in it; nothing that is without
+soul utters voice, it being only by a metaphor that we speak of the
+voice of the flute or the lyre or generally of what (being without
+soul) possesses the power of producing a succession of notes which
+differ in length and pitch and timbre. The metaphor is based on the
+fact that all these differences are found also in voice. Many animals
+are voiceless, e.g. all non-sanuineous animals and among sanguineous
+animals fish. This is just what we should expect, since voice is a
+certain movement of air. The fish, like those in the Achelous, which
+are said to have voice, really make the sounds with their gills or
+some similar organ. Voice is the sound made by an animal, and that
+with a special organ. As we saw, everything that makes a sound does
+so by the impact of something (a) against something else, (b) across
+a space, (c) filled with air; hence it is only to be expected that
+no animals utter voice except those which take in air. Once air is
+inbreathed, Nature uses it for two different purposes, as the tongue
+is used both for tasting and for articulating; in that case of the
+two functions tasting is necessary for the animal's existence (hence
+it is found more widely distributed), while articulate speech is a
+luxury subserving its possessor's well-being; similarly in the former
+case Nature employs the breath both as an indispensable means to the
+regulation of the inner temperature of the living body and also as
+the matter of articulate voice, in the interests of its possessor's
+well-being. Why its former use is indispensable must be discussed
+elsewhere. 
+
+The organ of respiration is the windpipe, and the organ to which this
+is related as means to end is the lungs. The latter is the part of
+the body by which the temperature of land animals is raised above
+that of all others. But what primarily requires the air drawn in by
+respiration is not only this but the region surrounding the heart.
+That is why when animals breathe the air must penetrate inwards.
+
+Voice then is the impact of the inbreathed air against the 'windpipe',
+and the agent that produces the impact is the soul resident in these
+parts of the body. Not every sound, as we said, made by an animal
+is voice (even with the tongue we may merely make a sound which is
+not voice, or without the tongue as in coughing); what produces the
+impact must have soul in it and must be accompanied by an act of imagination,
+for voice is a sound with a meaning, and is not merely the result
+of any impact of the breath as in coughing; in voice the breath in
+the windpipe is used as an instrument to knock with against the walls
+of the windpipe. This is confirmed by our inability to speak when
+we are breathing either out or in-we can only do so by holding our
+breath; we make the movements with the breath so checked. It is clear
+also why fish are voiceless; they have no windpipe. And they have
+no windpipe because they do not breathe or take in air. Why they do
+not is a question belonging to another inquiry. 
+
+Part 9
+
+Smell and its object are much less easy to determine than what we
+have hitherto discussed; the distinguishing characteristic of the
+object of smell is less obvious than those of sound or colour. The
+ground of this is that our power of smell is less discriminating and
+in general inferior to that of many species of animals; men have a
+poor sense of smell and our apprehension of its proper objects is
+inseparably bound up with and so confused by pleasure and pain, which
+shows that in us the organ is inaccurate. It is probable that there
+is a parallel failure in the perception of colour by animals that
+have hard eyes: probably they discriminate differences of colour only
+by the presence or absence of what excites fear, and that it is thus
+that human beings distinguish smells. It seems that there is an analogy
+between smell and taste, and that the species of tastes run parallel
+to those of smells-the only difference being that our sense of taste
+is more discriminating than our sense of smell, because the former
+is a modification of touch, which reaches in man the maximum of discriminative
+accuracy. While in respect of all the other senses we fall below many
+species of animals, in respect of touch we far excel all other species
+in exactness of discrimination. That is why man is the most intelligent
+of all animals. This is confirmed by the fact that it is to differences
+in the organ of touch and to nothing else that the differences between
+man and man in respect of natural endowment are due; men whose flesh
+is hard are ill-endowed by nature, men whose flesh is soft, wellendowed.
+
+As flavours may be divided into (a) sweet, (b) bitter, so with smells.
+In some things the flavour and the smell have the same quality, i.e.
+both are sweet or both bitter, in others they diverge. Similarly a
+smell, like a flavour, may be pungent, astringent, acid, or succulent.
+But, as we said, because smells are much less easy to discriminate
+than flavours, the names of these varieties are applied to smells
+only metaphorically; for example 'sweet' is extended from the taste
+to the smell of saffron or honey, 'pungent' to that of thyme, and
+so on. 
+
+In the same sense in which hearing has for its object both the audible
+and the inaudible, sight both the visible and the invisible, smell
+has for its object both the odorous and the inodorous. 'Inodorous'
+may be either (a) what has no smell at all, or (b) what has a small
+or feeble smell. The same ambiguity lurks in the word 'tasteless'.
+
+Smelling, like the operation of the senses previously examined, takes
+place through a medium, i.e. through air or water-I add water, because
+water-animals too (both sanguineous and non-sanguineous) seem to smell
+just as much as land-animals; at any rate some of them make directly
+for their food from a distance if it has any scent. That is why the
+following facts constitute a problem for us. All animals smell in
+the same way, but man smells only when he inhales; if he exhales or
+holds his breath, he ceases to smell, no difference being made whether
+the odorous object is distant or near, or even placed inside the nose
+and actually on the wall of the nostril; it is a disability common
+to all the senses not to perceive what is in immediate contact with
+the organ of sense, but our failure to apprehend what is odorous without
+the help of inhalation is peculiar (the fact is obvious on making
+the experiment). Now since bloodless animals do not breathe, they
+must, it might be argued, have some novel sense not reckoned among
+the usual five. Our reply must be that this is impossible, since it
+is scent that is perceived; a sense that apprehends what is odorous
+and what has a good or bad odour cannot be anything but smell. Further,
+they are observed to be deleteriously effected by the same strong
+odours as man is, e.g. bitumen, sulphur, and the like. These animals
+must be able to smell without being able to breathe. The probable
+explanation is that in man the organ of smell has a certain superiority
+over that in all other animals just as his eyes have over those of
+hard-eyed animals. Man's eyes have in the eyelids a kind of shelter
+or envelope, which must be shifted or drawn back in order that we
+may see, while hardeyed animals have nothing of the kind, but at once
+see whatever presents itself in the transparent medium. Similarly
+in certain species of animals the organ of smell is like the eye of
+hard-eyed animals, uncurtained, while in others which take in air
+it probably has a curtain over it, which is drawn back in inhalation,
+owing to the dilating of the veins or pores. That explains also why
+such animals cannot smell under water; to smell they must first inhale,
+and that they cannot do under water. 
+
+Smells come from what is dry as flavours from what is moist. Consequently
+the organ of smell is potentially dry. 
+
+Part 10
+
+What can be tasted is always something that can be touched, and just
+for that reason it cannot be perceived through an interposed foreign
+body, for touch means the absence of any intervening body. Further,
+the flavoured and tasteable body is suspended in a liquid matter,
+and this is tangible. Hence, if we lived in water, we should perceive
+a sweet object introduced into the water, but the water would not
+be the medium through which we perceived; our perception would be
+due to the solution of the sweet substance in what we imbibed, just
+as if it were mixed with some drink. There is no parallel here to
+the perception of colour, which is due neither to any blending of
+anything with anything, nor to any efflux of anything from anything.
+In the case of taste, there is nothing corresponding to the medium
+in the case of the senses previously discussed; but as the object
+of sight is colour, so the object of taste is flavour. But nothing
+excites a perception of flavour without the help of liquid; what acts
+upon the sense of taste must be either actually or potentially liquid
+like what is saline; it must be both (a) itself easily dissolved,
+and (b) capable of dissolving along with itself the tongue. Taste
+apprehends both (a) what has taste and (b) what has no taste, if we
+mean by (b) what has only a slight or feeble flavour or what tends
+to destroy the sense of taste. In this it is exactly parallel to sight,
+which apprehends both what is visible and what is invisible (for darkness
+is invisible and yet is discriminated by sight; so is, in a different
+way, what is over brilliant), and to hearing, which apprehends both
+sound and silence, of which the one is audible and the other inaudible,
+and also over-loud sound. This corresponds in the case of hearing
+to over-bright light in the case of sight. As a faint sound is 'inaudible',
+so in a sense is a loud or violent sound. The word 'invisible' and
+similar privative terms cover not only (a) what is simply without
+some power, but also (b) what is adapted by nature to have it but
+has not it or has it only in a very low degree, as when we say that
+a species of swallow is 'footless' or that a variety of fruit is 'stoneless'.
+So too taste has as its object both what can be tasted and the tasteless-the
+latter in the sense of what has little flavour or a bad flavour or
+one destructive of taste. The difference between what is tasteless
+and what is not seems to rest ultimately on that between what is drinkable
+and what is undrinkable both are tasteable, but the latter is bad
+and tends to destroy taste, while the former is the normal stimulus
+of taste. What is drinkable is the common object of both touch and
+taste. 
+
+Since what can be tasted is liquid, the organ for its perception cannot
+be either (a) actually liquid or (b) incapable of becoming liquid.
+Tasting means a being affected by what can be tasted as such; hence
+the organ of taste must be liquefied, and so to start with must be
+non-liquid but capable of liquefaction without loss of its distinctive
+nature. This is confirmed by the fact that the tongue cannot taste
+either when it is too dry or when it is too moist; in the latter case
+what occurs is due to a contact with the pre-existent moisture in
+the tongue itself, when after a foretaste of some strong flavour we
+try to taste another flavour; it is in this way that sick persons
+find everything they taste bitter, viz. because, when they taste,
+their tongues are overflowing with bitter moisture. 
+
+The species of flavour are, as in the case of colour, (a) simple,
+i.e. the two contraries, the sweet and the bitter, (b) secondary,
+viz. (i) on the side of the sweet, the succulent, (ii) on the side
+of the bitter, the saline, (iii) between these come the pungent, the
+harsh, the astringent, and the acid; these pretty well exhaust the
+varieties of flavour. It follows that what has the power of tasting
+is what is potentially of that kind, and that what is tasteable is
+what has the power of making it actually what it itself already is.
+
+Part 11
+
+Whatever can be said of what is tangible, can be said of touch, and
+vice versa; if touch is not a single sense but a group of senses,
+there must be several kinds of what is tangible. It is a problem whether
+touch is a single sense or a group of senses. It is also a problem,
+what is the organ of touch; is it or is it not the flesh (including
+what in certain animals is homologous with flesh)? On the second view,
+flesh is 'the medium' of touch, the real organ being situated farther
+inward. The problem arises because the field of each sense is according
+to the accepted view determined as the range between a single pair
+of contraries, white and black for sight, acute and grave for hearing,
+bitter and sweet for taste; but in the field of what is tangible we
+find several such pairs, hot cold, dry moist, hard soft, &c. This
+problem finds a partial solution, when it is recalled that in the
+case of the other senses more than one pair of contraries are to be
+met with, e.g. in sound not only acute and grave but loud and soft,
+smooth and rough, &c.; there are similar contrasts in the field of
+colour. Nevertheless we are unable clearly to detect in the case of
+touch what the single subject is which underlies the contrasted qualities
+and corresponds to sound in the case of hearing. 
+
+To the question whether the organ of touch lies inward or not (i.e.
+whether we need look any farther than the flesh), no indication in
+favour of the second answer can be drawn from the fact that if the
+object comes into contact with the flesh it is at once perceived.
+For even under present conditions if the experiment is made of making
+a web and stretching it tight over the flesh, as soon as this web
+is touched the sensation is reported in the same manner as before,
+yet it is clear that the or is gan is not in this membrane. If the
+membrane could be grown on to the flesh, the report would travel still
+quicker. The flesh plays in touch very much the same part as would
+be played in the other senses by an air-envelope growing round our
+body; had we such an envelope attached to us we should have supposed
+that it was by a single organ that we perceived sounds, colours, and
+smells, and we should have taken sight, hearing, and smell to be a
+single sense. But as it is, because that through which the different
+movements are transmitted is not naturally attached to our bodies,
+the difference of the various sense-organs is too plain to miss. But
+in the case of touch the obscurity remains. 
+
+There must be such a naturally attached 'medium' as flesh, for no
+living body could be constructed of air or water; it must be something
+solid. Consequently it must be composed of earth along with these,
+which is just what flesh and its analogue in animals which have no
+true flesh tend to be. Hence of necessity the medium through which
+are transmitted the manifoldly contrasted tactual qualities must be
+a body naturally attached to the organism. That they are manifold
+is clear when we consider touching with the tongue; we apprehend at
+the tongue all tangible qualities as well as flavour. Suppose all
+the rest of our flesh was, like the tongue, sensitive to flavour,
+we should have identified the sense of taste and the sense of touch;
+what saves us from this identification is the fact that touch and
+taste are not always found together in the same part of the body.
+The following problem might be raised. Let us assume that every body
+has depth, i.e. has three dimensions, and that if two bodies have
+a third body between them they cannot be in contact with one another;
+let us remember that what is liquid is a body and must be or contain
+water, and that if two bodies touch one another under water, their
+touching surfaces cannot be dry, but must have water between, viz.
+the water which wets their bounding surfaces; from all this it follows
+that in water two bodies cannot be in contact with one another. The
+same holds of two bodies in air-air being to bodies in air precisely
+what water is to bodies in water-but the facts are not so evident
+to our observation, because we live in air, just as animals that live
+in water would not notice that the things which touch one another
+in water have wet surfaces. The problem, then, is: does the perception
+of all objects of sense take place in the same way, or does it not,
+e.g. taste and touch requiring contact (as they are commonly thought
+to do), while all other senses perceive over a distance? The distinction
+is unsound; we perceive what is hard or soft, as well as the objects
+of hearing, sight, and smell, through a 'medium', only that the latter
+are perceived over a greater distance than the former; that is why
+the facts escape our notice. For we do perceive everything through
+a medium; but in these cases the fact escapes us. Yet, to repeat what
+we said before, if the medium for touch were a membrane separating
+us from the object without our observing its existence, we should
+be relatively to it in the same condition as we are now to air or
+water in which we are immersed; in their case we fancy we can touch
+objects, nothing coming in between us and them. But there remains
+this difference between what can be touched and what can be seen or
+can sound; in the latter two cases we perceive because the medium
+produces a certain effect upon us, whereas in the perception of objects
+of touch we are affected not by but along with the medium; it is as
+if a man were struck through his shield, where the shock is not first
+given to the shield and passed on to the man, but the concussion of
+both is simultaneous. 
+
+In general, flesh and the tongue are related to the real organs of
+touch and taste, as air and water are to those of sight, hearing,
+and smell. Hence in neither the one case nor the other can there be
+any perception of an object if it is placed immediately upon the organ,
+e.g. if a white object is placed on the surface of the eye. This again
+shows that what has the power of perceiving the tangible is seated
+inside. Only so would there be a complete analogy with all the other
+senses. In their case if you place the object on the organ it is not
+perceived, here if you place it on the flesh it is perceived; therefore
+flesh is not the organ but the medium of touch. 
+
+What can be touched are distinctive qualities of body as body; by
+such differences I mean those which characterize the elements, viz,
+hot cold, dry moist, of which we have spoken earlier in our treatise
+on the elements. The organ for the perception of these is that of
+touch-that part of the body in which primarily the sense of touch
+resides. This is that part which is potentially such as its object
+is actually: for all sense-perception is a process of being so affected;
+so that that which makes something such as it itself actually is makes
+the other such because the other is already potentially such. That
+is why when an object of touch is equally hot and cold or hard and
+soft we cannot perceive; what we perceive must have a degree of the
+sensible quality lying beyond the neutral point. This implies that
+the sense itself is a 'mean' between any two opposite qualities which
+determine the field of that sense. It is to this that it owes its
+power of discerning the objects in that field. What is 'in the middle'
+is fitted to discern; relatively to either extreme it can put itself
+in the place of the other. As what is to perceive both white and black
+must, to begin with, be actually neither but potentially either (and
+so with all the other sense-organs), so the organ of touch must be
+neither hot nor cold. 
+
+Further, as in a sense sight had for its object both what was visible
+and what was invisible (and there was a parallel truth about all the
+other senses discussed), so touch has for its object both what is
+tangible and what is intangible. Here by 'intangible' is meant (a)
+what like air possesses some quality of tangible things in a very
+slight degree and (b) what possesses it in an excessive degree, as
+destructive things do. 
+
+We have now given an outline account of each of the several senses.
+
+Part 12
+
+The following results applying to any and every sense may now be formulated.
+
+(A) By a 'sense' is meant what has the power of receiving into itself
+the sensible forms of things without the matter. This must be conceived
+of as taking place in the way in which a piece of wax takes on the
+impress of a signet-ring without the iron or gold; we say that what
+produces the impression is a signet of bronze or gold, but its particular
+metallic constitution makes no difference: in a similar way the sense
+is affected by what is coloured or flavoured or sounding, but it is
+indifferent what in each case the substance is; what alone matters
+is what quality it has, i.e. in what ratio its constituents are combined.
+
+(B) By 'an organ of sense' is meant that in which ultimately such
+a power is seated. 
+
+The sense and its organ are the same in fact, but their essence is
+not the same. What perceives is, of course, a spatial magnitude, but
+we must not admit that either the having the power to perceive or
+the sense itself is a magnitude; what they are is a certain ratio
+or power in a magnitude. This enables us to explain why objects of
+sense which possess one of two opposite sensible qualities in a degree
+largely in excess of the other opposite destroy the organs of sense;
+if the movement set up by an object is too strong for the organ, the
+equipoise of contrary qualities in the organ, which just is its sensory
+power, is disturbed; it is precisely as concord and tone are destroyed
+by too violently twanging the strings of a lyre. This explains also
+why plants cannot perceive. in spite of their having a portion of
+soul in them and obviously being affected by tangible objects themselves;
+for undoubtedly their temperature can be lowered or raised. The explanation
+is that they have no mean of contrary qualities, and so no principle
+in them capable of taking on the forms of sensible objects without
+their matter; in the case of plants the affection is an affection
+by form-and-matter together. The problem might be raised: Can what
+cannot smell be said to be affected by smells or what cannot see by
+colours, and so on? It might be said that a smell is just what can
+be smelt, and if it produces any effect it can only be so as to make
+something smell it, and it might be argued that what cannot smell
+cannot be affected by smells and further that what can smell can be
+affected by it only in so far as it has in it the power to smell (similarly
+with the proper objects of all the other senses). Indeed that this
+is so is made quite evident as follows. Light or darkness, sounds
+and smells leave bodies quite unaffected; what does affect bodies
+is not these but the bodies which are their vehicles, e.g. what splits
+the trunk of a tree is not the sound of the thunder but the air which
+accompanies thunder. Yes, but, it may be objected, bodies are affected
+by what is tangible and by flavours. If not, by what are things that
+are without soul affected, i.e. altered in quality? Must we not, then,
+admit that the objects of the other senses also may affect them? Is
+not the true account this, that all bodies are capable of being affected
+by smells and sounds, but that some on being acted upon, having no
+boundaries of their own, disintegrate, as in the instance of air,
+which does become odorous, showing that some effect is produced on
+it by what is odorous? But smelling is more than such an affection
+by what is odorous-what more? Is not the answer that, while the air
+owing to the momentary duration of the action upon it of what is odorous
+does itself become perceptible to the sense of smell, smelling is
+an observing of the result produced? 
+
+----------------------------------------------------------------------
+
+BOOK III
+
+Part 1 
+
+That there is no sixth sense in addition to the five enumerated-sight,
+hearing, smell, taste, touch-may be established by the following considerations:
+
+If we have actually sensation of everything of which touch can give
+us sensation (for all the qualities of the tangible qua tangible are
+perceived by us through touch); and if absence of a sense necessarily
+involves absence of a sense-organ; and if (1) all objects that we
+perceive by immediate contact with them are perceptible by touch,
+which sense we actually possess, and (2) all objects that we perceive
+through media, i.e. without immediate contact, are perceptible by
+or through the simple elements, e.g. air and water (and this is so
+arranged that (a) if more than one kind of sensible object is perceivable
+through a single medium, the possessor of a sense-organ homogeneous
+with that medium has the power of perceiving both kinds of objects;
+for example, if the sense-organ is made of air, and air is a medium
+both for sound and for colour; and that (b) if more than one medium
+can transmit the same kind of sensible objects, as e.g. water as well
+as air can transmit colour, both being transparent, then the possessor
+of either alone will be able to perceive the kind of objects transmissible
+through both); and if of the simple elements two only, air and water,
+go to form sense-organs (for the pupil is made of water, the organ
+of hearing is made of air, and the organ of smell of one or other
+of these two, while fire is found either in none or in all-warmth
+being an essential condition of all sensibility-and earth either in
+none or, if anywhere, specially mingled with the components of the
+organ of touch; wherefore it would remain that there can be no sense-organ
+formed of anything except water and air); and if these sense-organs
+are actually found in certain animals;-then all the possible senses
+are possessed by those animals that are not imperfect or mutilated
+(for even the mole is observed to have eyes beneath its skin); so
+that, if there is no fifth element and no property other than those
+which belong to the four elements of our world, no sense can be wanting
+to such animals. 
+
+Further, there cannot be a special sense-organ for the common sensibles
+either, i.e. the objects which we perceive incidentally through this
+or that special sense, e.g. movement, rest, figure, magnitude, number,
+unity; for all these we perceive by movement, e.g. magnitude by movement,
+and therefore also figure (for figure is a species of magnitude),
+what is at rest by the absence of movement: number is perceived by
+the negation of continuity, and by the special sensibles; for each
+sense perceives one class of sensible objects. So that it is clearly
+impossible that there should be a special sense for any one of the
+common sensibles, e.g. movement; for, if that were so, our perception
+of it would be exactly parallel to our present perception of what
+is sweet by vision. That is so because we have a sense for each of
+the two qualities, in virtue of which when they happen to meet in
+one sensible object we are aware of both contemporaneously. If it
+were not like this our perception of the common qualities would always
+be incidental, i.e. as is the perception of Cleon's son, where we
+perceive him not as Cleon's son but as white, and the white thing
+which we really perceive happens to be Cleon's son. 
+
+But in the case of the common sensibles there is already in us a general
+sensibility which enables us to perceive them directly; there is therefore
+no special sense required for their perception: if there were, our
+perception of them would have been exactly like what has been above
+described. 
+
+The senses perceive each other's special objects incidentally; not
+because the percipient sense is this or that special sense, but because
+all form a unity: this incidental perception takes place whenever
+sense is directed at one and the same moment to two disparate qualities
+in one and the same object, e.g. to the bitterness and the yellowness
+of bile, the assertion of the identity of both cannot be the act of
+either of the senses; hence the illusion of sense, e.g. the belief
+that if a thing is yellow it is bile. 
+
+It might be asked why we have more senses than one. Is it to prevent
+a failure to apprehend the common sensibles, e.g. movement, magnitude,
+and number, which go along with the special sensibles? Had we no sense
+but sight, and that sense no object but white, they would have tended
+to escape our notice and everything would have merged for us into
+an indistinguishable identity because of the concomitance of colour
+and magnitude. As it is, the fact that the common sensibles are given
+in the objects of more than one sense reveals their distinction from
+each and all of the special sensibles. 
+
+Part 2
+
+Since it is through sense that we are aware that we are seeing or
+hearing, it must be either by sight that we are aware of seeing, or
+by some sense other than sight. But the sense that gives us this new
+sensation must perceive both sight and its object, viz. colour: so
+that either (1) there will be two senses both percipient of the same
+sensible object, or (2) the sense must be percipient of itself. Further,
+even if the sense which perceives sight were different from sight,
+we must either fall into an infinite regress, or we must somewhere
+assume a sense which is aware of itself. If so, we ought to do this
+in the first case. 
+
+This presents a difficulty: if to perceive by sight is just to see,
+and what is seen is colour (or the coloured), then if we are to see
+that which sees, that which sees originally must be coloured. It is
+clear therefore that 'to perceive by sight' has more than one meaning;
+for even when we are not seeing, it is by sight that we discriminate
+darkness from light, though not in the same way as we distinguish
+one colour from another. Further, in a sense even that which sees
+is coloured; for in each case the sense-organ is capable of receiving
+the sensible object without its matter. That is why even when the
+sensible objects are gone the sensings and imaginings continue to
+exist in the sense-organs. 
+
+The activity of the sensible object and that of the percipient sense
+is one and the same activity, and yet the distinction between their
+being remains. Take as illustration actual sound and actual hearing:
+a man may have hearing and yet not be hearing, and that which has
+a sound is not always sounding. But when that which can hear is actively
+hearing and which can sound is sounding, then the actual hearing and
+the actual sound are merged in one (these one might call respectively
+hearkening and sounding). 
+
+If it is true that the movement, both the acting and the being acted
+upon, is to be found in that which is acted upon, both the sound and
+the hearing so far as it is actual must be found in that which has
+the faculty of hearing; for it is in the passive factor that the actuality
+of the active or motive factor is realized; that is why that which
+causes movement may be at rest. Now the actuality of that which can
+sound is just sound or sounding, and the actuality of that which can
+hear is hearing or hearkening; 'sound' and 'hearing' are both ambiguous.
+The same account applies to the other senses and their objects. For
+as the-acting-and-being-acted-upon is to be found in the passive,
+not in the active factor, so also the actuality of the sensible object
+and that of the sensitive subject are both realized in the latter.
+But while in some cases each aspect of the total actuality has a distinct
+name, e.g. sounding and hearkening, in some one or other is nameless,
+e.g. the actuality of sight is called seeing, but the actuality of
+colour has no name: the actuality of the faculty of taste is called
+tasting, but the actuality of flavour has no name. Since the actualities
+of the sensible object and of the sensitive faculty are one actuality
+in spite of the difference between their modes of being, actual hearing
+and actual sounding appear and disappear from existence at one and
+the same moment, and so actual savour and actual tasting, &c., while
+as potentialities one of them may exist without the other. The earlier
+students of nature were mistaken in their view that without sight
+there was no white or black, without taste no savour. This statement
+of theirs is partly true, partly false: 'sense' and 'the sensible
+object' are ambiguous terms, i.e. may denote either potentialities
+or actualities: the statement is true of the latter, false of the
+former. This ambiguity they wholly failed to notice. 
+
+If voice always implies a concord, and if the voice and the hearing
+of it are in one sense one and the same, and if concord always implies
+a ratio, hearing as well as what is heard must be a ratio. That is
+why the excess of either the sharp or the flat destroys the hearing.
+(So also in the case of savours excess destroys the sense of taste,
+and in the case of colours excessive brightness or darkness destroys
+the sight, and in the case of smell excess of strength whether in
+the direction of sweetness or bitterness is destructive.) This shows
+that the sense is a ratio. 
+
+That is also why the objects of sense are (1) pleasant when the sensible
+extremes such as acid or sweet or salt being pure and unmixed are
+brought into the proper ratio; then they are pleasant: and in general
+what is blended is more pleasant than the sharp or the flat alone;
+or, to touch, that which is capable of being either warmed or chilled:
+the sense and the ratio are identical: while (2) in excess the sensible
+extremes are painful or destructive. 
+
+Each sense then is relative to its particular group of sensible qualities:
+it is found in a sense-organ as such and discriminates the differences
+which exist within that group; e.g. sight discriminates white and
+black, taste sweet and bitter, and so in all cases. Since we also
+discriminate white from sweet, and indeed each sensible quality from
+every other, with what do we perceive that they are different? It
+must be by sense; for what is before us is sensible objects. (Hence
+it is also obvious that the flesh cannot be the ultimate sense-organ:
+if it were, the discriminating power could not do its work without
+immediate contact with the object.) 
+
+Therefore (1) discrimination between white and sweet cannot be effected
+by two agencies which remain separate; both the qualities discriminated
+must be present to something that is one and single. On any other
+supposition even if I perceived sweet and you perceived white, the
+difference between them would be apparent. What says that two things
+are different must be one; for sweet is different from white. Therefore
+what asserts this difference must be self-identical, and as what asserts,
+so also what thinks or perceives. That it is not possible by means
+of two agencies which remain separate to discriminate two objects
+which are separate, is therefore obvious; and that (it is not possible
+to do this in separate movements of time may be seen' if we look at
+it as follows. For as what asserts the difference between the good
+and the bad is one and the same, so also the time at which it asserts
+the one to be different and the other to be different is not accidental
+to the assertion (as it is for instance when I now assert a difference
+but do not assert that there is now a difference); it asserts thus-both
+now and that the objects are different now; the objects therefore
+must be present at one and the same moment. Both the discriminating
+power and the time of its exercise must be one and undivided.
+
+But, it may be objected, it is impossible that what is self-identical
+should be moved at me and the same time with contrary movements in
+so far as it is undivided, and in an undivided moment of time. For
+if what is sweet be the quality perceived, it moves the sense or thought
+in this determinate way, while what is bitter moves it in a contrary
+way, and what is white in a different way. Is it the case then that
+what discriminates, though both numerically one and indivisible, is
+at the same time divided in its being? In one sense, it is what is
+divided that perceives two separate objects at once, but in another
+sense it does so qua undivided; for it is divisible in its being but
+spatially and numerically undivided. is not this impossible? For while
+it is true that what is self-identical and undivided may be both contraries
+at once potentially, it cannot be self-identical in its being-it must
+lose its unity by being put into activity. It is not possible to be
+at once white and black, and therefore it must also be impossible
+for a thing to be affected at one and the same moment by the forms
+of both, assuming it to be the case that sensation and thinking are
+properly so described. 
+
+The answer is that just as what is called a 'point' is, as being at
+once one and two, properly said to be divisible, so here, that which
+discriminates is qua undivided one, and active in a single moment
+of time, while so far forth as it is divisible it twice over uses
+the same dot at one and the same time. So far forth then as it takes
+the limit as two' it discriminates two separate objects with what
+in a sense is divided: while so far as it takes it as one, it does
+so with what is one and occupies in its activity a single moment of
+time. 
+
+About the principle in virtue of which we say that animals are percipient,
+let this discussion suffice. 
+
+Part 3
+
+There are two distinctive peculiarities by reference to which we characterize
+the soul (1) local movement and (2) thinking, discriminating, and
+perceiving. Thinking both speculative and practical is regarded as
+akin to a form of perceiving; for in the one as well as the other
+the soul discriminates and is cognizant of something which is. Indeed
+the ancients go so far as to identify thinking and perceiving; e.g.
+Empedocles says 'For 'tis in respect of what is present that man's
+wit is increased', and again 'Whence it befalls them from time to
+time to think diverse thoughts', and Homer's phrase 'For suchlike
+is man's mind' means the same. They all look upon thinking as a bodily
+process like perceiving, and hold that like is known as well as perceived
+by like, as I explained at the beginning of our discussion. Yet they
+ought at the same time to have accounted for error also; for it is
+more intimately connected with animal existence and the soul continues
+longer in the state of error than in that of truth. They cannot escape
+the dilemma: either (1) whatever seems is true (and there are some
+who accept this) or (2) error is contact with the unlike; for that
+is the opposite of the knowing of like by like. 
+
+But it is a received principle that error as well as knowledge in
+respect to contraries is one and the same. 
+
+That perceiving and practical thinking are not identical is therefore
+obvious; for the former is universal in the animal world, the latter
+is found in only a small division of it. Further, speculative thinking
+is also distinct from perceiving-I mean that in which we find rightness
+and wrongness-rightness in prudence, knowledge, true opinion, wrongness
+in their opposites; for perception of the special objects of sense
+is always free from error, and is found in all animals, while it is
+possible to think falsely as well as truly, and thought is found only
+where there is discourse of reason as well as sensibility. For imagination
+is different from either perceiving or discursive thinking, though
+it is not found without sensation, or judgement without it. That this
+activity is not the same kind of thinking as judgement is obvious.
+For imagining lies within our own power whenever we wish (e.g. we
+can call up a picture, as in the practice of mnemonics by the use
+of mental images), but in forming opinions we are not free: we cannot
+escape the alternative of falsehood or truth. Further, when we think
+something to be fearful or threatening, emotion is immediately produced,
+and so too with what is encouraging; but when we merely imagine we
+remain as unaffected as persons who are looking at a painting of some
+dreadful or encouraging scene. Again within the field of judgement
+itself we find varieties, knowledge, opinion, prudence, and their
+opposites; of the differences between these I must speak elsewhere.
+
+Thinking is different from perceiving and is held to be in part imagination,
+in part judgement: we must therefore first mark off the sphere of
+imagination and then speak of judgement. If then imagination is that
+in virtue of which an image arises for us, excluding metaphorical
+uses of the term, is it a single faculty or disposition relative to
+images, in virtue of which we discriminate and are either in error
+or not? The faculties in virtue of which we do this are sense, opinion,
+science, intelligence. 
+
+That imagination is not sense is clear from the following considerations:
+Sense is either a faculty or an activity, e.g. sight or seeing: imagination
+takes place in the absence of both, as e.g. in dreams. (Again, sense
+is always present, imagination not. If actual imagination and actual
+sensation were the same, imagination would be found in all the brutes:
+this is held not to be the case; e.g. it is not found in ants or bees
+or grubs. (Again, sensations are always true, imaginations are for
+the most part false. (Once more, even in ordinary speech, we do not,
+when sense functions precisely with regard to its object, say that
+we imagine it to be a man, but rather when there is some failure of
+accuracy in its exercise. And as we were saying before, visions appear
+to us even when our eyes are shut. Neither is imagination any of the
+things that are never in error: e.g. knowledge or intelligence; for
+imagination may be false. 
+
+It remains therefore to see if it is opinion, for opinion may be either
+true or false. 
+
+But opinion involves belief (for without belief in what we opine we
+cannot have an opinion), and in the brutes though we often find imagination
+we never find belief. Further, every opinion is accompanied by belief,
+belief by conviction, and conviction by discourse of reason: while
+there are some of the brutes in which we find imagination, without
+discourse of reason. It is clear then that imagination cannot, again,
+be (1) opinion plus sensation, or (2) opinion mediated by sensation,
+or (3) a blend of opinion and sensation; this is impossible both for
+these reasons and because the content of the supposed opinion cannot
+be different from that of the sensation (I mean that imagination must
+be the blending of the perception of white with the opinion that it
+is white: it could scarcely be a blend of the opinion that it is good
+with the perception that it is white): to imagine is therefore (on
+this view) identical with the thinking of exactly the same as what
+one in the strictest sense perceives. But what we imagine is sometimes
+false though our contemporaneous judgement about it is true; e.g.
+we imagine the sun to be a foot in diameter though we are convinced
+that it is larger than the inhabited part of the earth, and the following
+dilemma presents itself. Either (a while the fact has not changed
+and the (observer has neither forgotten nor lost belief in the true
+opinion which he had, that opinion has disappeared, or (b) if he retains
+it then his opinion is at once true and false. A true opinion, however,
+becomes false only when the fact alters without being noticed.
+
+Imagination is therefore neither any one of the states enumerated,
+nor compounded out of them. 
+
+But since when one thing has been set in motion another thing may
+be moved by it, and imagination is held to be a movement and to be
+impossible without sensation, i.e. to occur in beings that are percipient
+and to have for its content what can be perceived, and since movement
+may be produced by actual sensation and that movement is necessarily
+similar in character to the sensation itself, this movement must be
+(1) necessarily (a) incapable of existing apart from sensation, (b)
+incapable of existing except when we perceive, (such that in virtue
+of its possession that in which it is found may present various phenomena
+both active and passive, and (such that it may be either true or false.
+
+The reason of the last characteristic is as follows. Perception (1)
+of the special objects of sense is never in error or admits the least
+possible amount of falsehood. (2) That of the concomitance of the
+objects concomitant with the sensible qualities comes next: in this
+case certainly we may be deceived; for while the perception that there
+is white before us cannot be false, the perception that what is white
+is this or that may be false. (3) Third comes the perception of the
+universal attributes which accompany the concomitant objects to which
+the special sensibles attach (I mean e.g. of movement and magnitude);
+it is in respect of these that the greatest amount of sense-illusion
+is possible. 
+
+The motion which is due to the activity of sense in these three modes
+of its exercise will differ from the activity of sense; (1) the first
+kind of derived motion is free from error while the sensation is present;
+(2) and (3) the others may be erroneous whether it is present or absent,
+especially when the object of perception is far off. If then imagination
+presents no other features than those enumerated and is what we have
+described, then imagination must be a movement resulting from an actual
+exercise of a power of sense. 
+
+As sight is the most highly developed sense, the name Phantasia (imagination)
+has been formed from Phaos (light) because it is not possible to see
+without light. 
+
+And because imaginations remain in the organs of sense and resemble
+sensations, animals in their actions are largely guided by them, some
+(i.e. the brutes) because of the non-existence in them of mind, others
+(i.e. men) because of the temporary eclipse in them of mind by feeling
+or disease or sleep. 
+
+About imagination, what it is and why it exists, let so much suffice.
+
+Part 4
+
+Turning now to the part of the soul with which the soul knows and
+thinks (whether this is separable from the others in definition only,
+or spatially as well) we have to inquire (1) what differentiates this
+part, and (2) how thinking can take place. 
+
+If thinking is like perceiving, it must be either a process in which
+the soul is acted upon by what is capable of being thought, or a process
+different from but analogous to that. The thinking part of the soul
+must therefore be, while impassible, capable of receiving the form
+of an object; that is, must be potentially identical in character
+with its object without being the object. Mind must be related to
+what is thinkable, as sense is to what is sensible. 
+
+Therefore, since everything is a possible object of thought, mind
+in order, as Anaxagoras says, to dominate, that is, to know, must
+be pure from all admixture; for the co-presence of what is alien to
+its nature is a hindrance and a block: it follows that it too, like
+the sensitive part, can have no nature of its own, other than that
+of having a certain capacity. Thus that in the soul which is called
+mind (by mind I mean that whereby the soul thinks and judges) is,
+before it thinks, not actually any real thing. For this reason it
+cannot reasonably be regarded as blended with the body: if so, it
+would acquire some quality, e.g. warmth or cold, or even have an organ
+like the sensitive faculty: as it is, it has none. It was a good idea
+to call the soul 'the place of forms', though (1) this description
+holds only of the intellective soul, and (2) even this is the forms
+only potentially, not actually. 
+
+Observation of the sense-organs and their employment reveals a distinction
+between the impassibility of the sensitive and that of the intellective
+faculty. After strong stimulation of a sense we are less able to exercise
+it than before, as e.g. in the case of a loud sound we cannot hear
+easily immediately after, or in the case of a bright colour or a powerful
+odour we cannot see or smell, but in the case of mind thought about
+an object that is highly intelligible renders it more and not less
+able afterwards to think objects that are less intelligible: the reason
+is that while the faculty of sensation is dependent upon the body,
+mind is separable from it. 
+
+Once the mind has become each set of its possible objects, as a man
+of science has, when this phrase is used of one who is actually a
+man of science (this happens when he is now able to exercise the power
+on his own initiative), its condition is still one of potentiality,
+but in a different sense from the potentiality which preceded the
+acquisition of knowledge by learning or discovery: the mind too is
+then able to think itself. 
+
+Since we can distinguish between a spatial magnitude and what it is
+to be such, and between water and what it is to be water, and so in
+many other cases (though not in all; for in certain cases the thing
+and its form are identical), flesh and what it is to be flesh are
+discriminated either by different faculties, or by the same faculty
+in two different states: for flesh necessarily involves matter and
+is like what is snub-nosed, a this in a this. Now it is by means of
+the sensitive faculty that we discriminate the hot and the cold, i.e.
+the factors which combined in a certain ratio constitute flesh: the
+essential character of flesh is apprehended by something different
+either wholly separate from the sensitive faculty or related to it
+as a bent line to the same line when it has been straightened out.
+
+Again in the case of abstract objects what is straight is analogous
+to what is snub-nosed; for it necessarily implies a continuum as its
+matter: its constitutive essence is different, if we may distinguish
+between straightness and what is straight: let us take it to be two-ness.
+It must be apprehended, therefore, by a different power or by the
+same power in a different state. To sum up, in so far as the realities
+it knows are capable of being separated from their matter, so it is
+also with the powers of mind. 
+
+The problem might be suggested: if thinking is a passive affection,
+then if mind is simple and impassible and has nothing in common with
+anything else, as Anaxagoras says, how can it come to think at all?
+For interaction between two factors is held to require a precedent
+community of nature between the factors. Again it might be asked,
+is mind a possible object of thought to itself? For if mind is thinkable
+per se and what is thinkable is in kind one and the same, then either
+(a) mind will belong to everything, or (b) mind will contain some
+element common to it with all other realities which makes them all
+thinkable. 
+
+(1) Have not we already disposed of the difficulty about interaction
+involving a common element, when we said that mind is in a sense potentially
+whatever is thinkable, though actually it is nothing until it has
+thought? What it thinks must be in it just as characters may be said
+to be on a writingtablet on which as yet nothing actually stands written:
+this is exactly what happens with mind. 
+
+(Mind is itself thinkable in exactly the same way as its objects are.
+For (a) in the case of objects which involve no matter, what thinks
+and what is thought are identical; for speculative knowledge and its
+object are identical. (Why mind is not always thinking we must consider
+later., b) In the case of those which contain matter each of the
+objects of thought is only potentially present. It follows that while
+they will not have mind in them (for mind is a potentiality of them
+only in so far as they are capable of being disengaged from matter)
+mind may yet be thinkable. 
+
+Part 5
+
+Since in every class of things, as in nature as a whole, we find two
+factors involved, (1) a matter which is potentially all the particulars
+included in the class, (2) a cause which is productive in the sense
+that it makes them all (the latter standing to the former, as e.g.
+an art to its material), these distinct elements must likewise be
+found within the soul. 
+
+And in fact mind as we have described it is what it is what it is
+by virtue of becoming all things, while there is another which is
+what it is by virtue of making all things: this is a sort of positive
+state like light; for in a sense light makes potential colours into
+actual colours. 
+
+Mind in this sense of it is separable, impassible, unmixed, since
+it is in its essential nature activity (for always the active is superior
+to the passive factor, the originating force to the matter which it
+forms). 
+
+Actual knowledge is identical with its object: in the individual,
+potential knowledge is in time prior to actual knowledge, but in the
+universe as a whole it is not prior even in time. Mind is not at one
+time knowing and at another not. When mind is set free from its present
+conditions it appears as just what it is and nothing more: this alone
+is immortal and eternal (we do not, however, remember its former activity
+because, while mind in this sense is impassible, mind as passive is
+destructible), and without it nothing thinks. 
+
+Part 6
+
+The thinking then of the simple objects of thought is found in those
+cases where falsehood is impossible: where the alternative of true
+or false applies, there we always find a putting together of objects
+of thought in a quasi-unity. As Empedocles said that 'where heads
+of many a creature sprouted without necks' they afterwards by Love's
+power were combined, so here too objects of thought which were given
+separate are combined, e.g. 'incommensurate' and 'diagonal': if the
+combination be of objects past or future the combination of thought
+includes in its content the date. For falsehood always involves a
+synthesis; for even if you assert that what is white is not white
+you have included not white in a synthesis. It is possible also to
+call all these cases division as well as combination. However that
+may be, there is not only the true or false assertion that Cleon is
+white but also the true or false assertion that he was or will he
+white. In each and every case that which unifies is mind.
+
+Since the word 'simple' has two senses, i.e. may mean either (a) 'not
+capable of being divided' or (b) 'not actually divided', there is
+nothing to prevent mind from knowing what is undivided, e.g. when
+it apprehends a length (which is actually undivided) and that in an
+undivided time; for the time is divided or undivided in the same manner
+as the line. It is not possible, then, to tell what part of the line
+it was apprehending in each half of the time: the object has no actual
+parts until it has been divided: if in thought you think each half
+separately, then by the same act you divide the time also, the half-lines
+becoming as it were new wholes of length. But if you think it as a
+whole consisting of these two possible parts, then also you think
+it in a time which corresponds to both parts together. (But what is
+not quantitatively but qualitatively simple is thought in a simple
+time and by a simple act of the soul.) 
+
+But that which mind thinks and the time in which it thinks are in
+this case divisible only incidentally and not as such. For in them
+too there is something indivisible (though, it may be, not isolable)
+which gives unity to the time and the whole of length; and this is
+found equally in every continuum whether temporal or spatial.
+
+Points and similar instances of things that divide, themselves being
+indivisible, are realized in consciousness in the same manner as privations.
+
+A similar account may be given of all other cases, e.g. how evil or
+black is cognized; they are cognized, in a sense, by means of their
+contraries. That which cognizes must have an element of potentiality
+in its being, and one of the contraries must be in it. But if there
+is anything that has no contrary, then it knows itself and is actually
+and possesses independent existence. 
+
+Assertion is the saying of something concerning something, e.g. affirmation,
+and is in every case either true or false: this is not always the
+case with mind: the thinking of the definition in the sense of the
+constitutive essence is never in error nor is it the assertion of
+something concerning something, but, just as while the seeing of the
+special object of sight can never be in error, the belief that the
+white object seen is a man may be mistaken, so too in the case of
+objects which are without matter. 
+
+Part 7
+
+Actual knowledge is identical with its object: potential knowledge
+in the individual is in time prior to actual knowledge but in the
+universe it has no priority even in time; for all things that come
+into being arise from what actually is. In the case of sense clearly
+the sensitive faculty already was potentially what the object makes
+it to be actually; the faculty is not affected or altered. This must
+therefore be a different kind from movement; for movement is, as we
+saw, an activity of what is imperfect, activity in the unqualified
+sense, i.e. that of what has been perfected, is different from movement.
+
+To perceive then is like bare asserting or knowing; but when the object
+is pleasant or painful, the soul makes a quasi-affirmation or negation,
+and pursues or avoids the object. To feel pleasure or pain is to act
+with the sensitive mean towards what is good or bad as such. Both
+avoidance and appetite when actual are identical with this: the faculty
+of appetite and avoidance are not different, either from one another
+or from the faculty of sense-perception; but their being is different.
+
+To the thinking soul images serve as if they were contents of perception
+(and when it asserts or denies them to be good or bad it avoids or
+pursues them). That is why the soul never thinks without an image.
+The process is like that in which the air modifies the pupil in this
+or that way and the pupil transmits the modification to some third
+thing (and similarly in hearing), while the ultimate point of arrival
+is one, a single mean, with different manners of being. 
+
+With what part of itself the soul discriminates sweet from hot I have
+explained before and must now describe again as follows: That with
+which it does so is a sort of unity, but in the way just mentioned,
+i.e. as a connecting term. And the two faculties it connects, being
+one by analogy and numerically, are each to each as the qualities
+discerned are to one another (for what difference does it make whether
+we raise the problem of discrimination between disparates or between
+contraries, e.g. white and black?). Let then C be to D as is to B:
+it follows alternando that C: A:: D: B. If then C and D belong to
+one subject, the case will be the same with them as with and B; and
+B form a single identity with different modes of being; so too will
+the former pair. The same reasoning holds if be sweet and B white.
+
+The faculty of thinking then thinks the forms in the images, and as
+in the former case what is to be pursued or avoided is marked out
+for it, so where there is no sensation and it is engaged upon the
+images it is moved to pursuit or avoidance. E.g.. perceiving by sense
+that the beacon is fire, it recognizes in virtue of the general faculty
+of sense that it signifies an enemy, because it sees it moving; but
+sometimes by means of the images or thoughts which are within the
+soul, just as if it were seeing, it calculates and deliberates what
+is to come by reference to what is present; and when it makes a pronouncement,
+as in the case of sensation it pronounces the object to be pleasant
+or painful, in this case it avoids or persues and so generally in
+cases of action. 
+
+That too which involves no action, i.e. that which is true or false,
+is in the same province with what is good or bad: yet they differ
+in this, that the one set imply and the other do not a reference to
+a particular person. 
+
+The so-called abstract objects the mind thinks just as, if one had
+thought of the snubnosed not as snub-nosed but as hollow, one would
+have thought of an actuality without the flesh in which it is embodied:
+it is thus that the mind when it is thinking the objects of Mathematics
+thinks as separate elements which do not exist separate. In every
+case the mind which is actively thinking is the objects which it thinks.
+Whether it is possible for it while not existing separate from spatial
+conditions to think anything that is separate, or not, we must consider
+later. 
+
+Part 8
+
+Let us now summarize our results about soul, and repeat that the soul
+is in a way all existing things; for existing things are either sensible
+or thinkable, and knowledge is in a way what is knowable, and sensation
+is in a way what is sensible: in what way we must inquire.
+
+Knowledge and sensation are divided to correspond with the realities,
+potential knowledge and sensation answering to potentialities, actual
+knowledge and sensation to actualities. Within the soul the faculties
+of knowledge and sensation are potentially these objects, the one
+what is knowable, the other what is sensible. They must be either
+the things themselves or their forms. The former alternative is of
+course impossible: it is not the stone which is present in the soul
+but its form. 
+
+It follows that the soul is analogous to the hand; for as the hand
+is a tool of tools, so the mind is the form of forms and sense the
+form of sensible things. 
+
+Since according to common agreement there is nothing outside and separate
+in existence from sensible spatial magnitudes, the objects of thought
+are in the sensible forms, viz. both the abstract objects and all
+the states and affections of sensible things. Hence (1) no one can
+learn or understand anything in the absence of sense, and (when the
+mind is actively aware of anything it is necessarily aware of it along
+with an image; for images are like sensuous contents except in that
+they contain no matter. 
+
+Imagination is different from assertion and denial; for what is true
+or false involves a synthesis of concepts. In what will the primary
+concepts differ from images? Must we not say that neither these nor
+even our other concepts are images, though they necessarily involve
+them? 
+
+Part 9
+
+The soul of animals is characterized by two faculties, (a) the faculty
+of discrimination which is the work of thought and sense, and (b)
+the faculty of originating local movement. Sense and mind we have
+now sufficiently examined. Let us next consider what it is in the
+soul which originates movement. Is it a single part of the soul separate
+either spatially or in definition? Or is it the soul as a whole? If
+it is a part, is that part different from those usually distinguished
+or already mentioned by us, or is it one of them? The problem at once
+presents itself, in what sense we are to speak of parts of the soul,
+or how many we should distinguish. For in a sense there is an infinity
+of parts: it is not enough to distinguish, with some thinkers, the
+calculative, the passionate, and the desiderative, or with others
+the rational and the irrational; for if we take the dividing lines
+followed by these thinkers we shall find parts far more distinctly
+separated from one another than these, namely those we have just mentioned:
+(1) the nutritive, which belongs both to plants and to all animals,
+and (2) the sensitive, which cannot easily be classed as either irrational
+or rational; further (3) the imaginative, which is, in its being,
+different from all, while it is very hard to say with which of the
+others it is the same or not the same, supposing we determine to posit
+separate parts in the soul; and lastly (4) the appetitive, which would
+seem to be distinct both in definition and in power from all hitherto
+enumerated. 
+
+It is absurd to break up the last-mentioned faculty: as these thinkers
+do, for wish is found in the calculative part and desire and passion
+in the irrational; and if the soul is tripartite appetite will be
+found in all three parts. Turning our attention to the present object
+of discussion, let us ask what that is which originates local movement
+of the animal. 
+
+The movement of growth and decay, being found in all living things,
+must be attributed to the faculty of reproduction and nutrition, which
+is common to all: inspiration and expiration, sleep and waking, we
+must consider later: these too present much difficulty: at present
+we must consider local movement, asking what it is that originates
+forward movement in the animal. 
+
+That it is not the nutritive faculty is obvious; for this kind of
+movement is always for an end and is accompanied either by imagination
+or by appetite; for no animal moves except by compulsion unless it
+has an impulse towards or away from an object. Further, if it were
+the nutritive faculty, even plants would have been capable of originating
+such movement and would have possessed the organs necessary to carry
+it out. Similarly it cannot be the sensitive faculty either; for there
+are many animals which have sensibility but remain fast and immovable
+throughout their lives. 
+
+If then Nature never makes anything without a purpose and never leaves
+out what is necessary (except in the case of mutilated or imperfect
+growths; and that here we have neither mutilation nor imperfection
+may be argued from the facts that such animals (a) can reproduce their
+species and (b) rise to completeness of nature and decay to an end),
+it follows that, had they been capable of originating forward movement,
+they would have possessed the organs necessary for that purpose. Further,
+neither can the calculative faculty or what is called 'mind' be the
+cause of such movement; for mind as speculative never thinks what
+is practicable, it never says anything about an object to be avoided
+or pursued, while this movement is always in something which is avoiding
+or pursuing an object. No, not even when it is aware of such an object
+does it at once enjoin pursuit or avoidance of it; e.g. the mind often
+thinks of something terrifying or pleasant without enjoining the emotion
+of fear. It is the heart that is moved (or in the case of a pleasant
+object some other part). Further, even when the mind does command
+and thought bids us pursue or avoid something, sometimes no movement
+is produced; we act in accordance with desire, as in the case of moral
+weakness. And, generally, we observe that the possessor of medical
+knowledge is not necessarily healing, which shows that something else
+is required to produce action in accordance with knowledge; the knowledge
+alone is not the cause. Lastly, appetite too is incompetent to account
+fully for movement; for those who successfully resist temptation have
+appetite and desire and yet follow mind and refuse to enact that for
+which they have appetite. 
+
+Part 10
+
+These two at all events appear to be sources of movement: appetite
+and mind (if one may venture to regard imagination as a kind of thinking;
+for many men follow their imaginations contrary to knowledge, and
+in all animals other than man there is no thinking or calculation
+but only imagination). 
+
+Both of these then are capable of originating local movement, mind
+and appetite: (1) mind, that is, which calculates means to an end,
+i.e. mind practical (it differs from mind speculative in the character
+of its end); while (2) appetite is in every form of it relative to
+an end: for that which is the object of appetite is the stimulant
+of mind practical; and that which is last in the process of thinking
+is the beginning of the action. It follows that there is a justification
+for regarding these two as the sources of movement, i.e. appetite
+and practical thought; for the object of appetite starts a movement
+and as a result of that thought gives rise to movement, the object
+of appetite being it a source of stimulation. So too when imagination
+originates movement, it necessarily involves appetite. 
+
+That which moves therefore is a single faculty and the faculty of
+appetite; for if there had been two sources of movement-mind and appetite-they
+would have produced movement in virtue of some common character. As
+it is, mind is never found producing movement without appetite (for
+wish is a form of appetite; and when movement is produced according
+to calculation it is also according to wish), but appetite can originate
+movement contrary to calculation, for desire is a form of appetite.
+Now mind is always right, but appetite and imagination may be either
+right or wrong. That is why, though in any case it is the object of
+appetite which originates movement, this object may be either the
+real or the apparent good. To produce movement the object must be
+more than this: it must be good that can be brought into being by
+action; and only what can be otherwise than as it is can thus be brought
+into being. That then such a power in the soul as has been described,
+i.e. that called appetite, originates movement is clear. Those who
+distinguish parts in the soul, if they distinguish and divide in accordance
+with differences of power, find themselves with a very large number
+of parts, a nutritive, a sensitive, an intellective, a deliberative,
+and now an appetitive part; for these are more different from one
+another than the faculties of desire and passion. 
+
+Since appetites run counter to one another, which happens when a principle
+of reason and a desire are contrary and is possible only in beings
+with a sense of time (for while mind bids us hold back because of
+what is future, desire is influenced by what is just at hand: a pleasant
+object which is just at hand presents itself as both pleasant and
+good, without condition in either case, because of want of foresight
+into what is farther away in time), it follows that while that which
+originates movement must be specifically one, viz. the faculty of
+appetite as such (or rather farthest back of all the object of that
+faculty; for it is it that itself remaining unmoved originates the
+movement by being apprehended in thought or imagination), the things
+that originate movement are numerically many. 
+
+All movement involves three factors, (1) that which originates the
+movement, (2) that by means of which it originates it, and (3) that
+which is moved. The expression 'that which originates the movement'
+is ambiguous: it may mean either (a) something which itself is unmoved
+or (b) that which at once moves and is moved. Here that which moves
+without itself being moved is the realizable good, that which at once
+moves and is moved is the faculty of appetite (for that which is influenced
+by appetite so far as it is actually so influenced is set in movement,
+and appetite in the sense of actual appetite is a kind of movement),
+while that which is in motion is the animal. The instrument which
+appetite employs to produce movement is no longer psychical but bodily:
+hence the examination of it falls within the province of the functions
+common to body and soul. To state the matter summarily at present,
+that which is the instrument in the production of movement is to be
+found where a beginning and an end coincide as e.g. in a ball and
+socket joint; for there the convex and the concave sides are respectively
+an end and a beginning (that is why while the one remains at rest,
+the other is moved): they are separate in definition but not separable
+spatially. For everything is moved by pushing and pulling. Hence just
+as in the case of a wheel, so here there must be a point which remains
+at rest, and from that point the movement must originate.
+
+To sum up, then, and repeat what I have said, inasmuch as an animal
+is capable of appetite it is capable of self-movement; it is not capable
+of appetite without possessing imagination; and all imagination is
+either (1) calculative or (2) sensitive. In the latter an animals,
+and not only man, partake. 
+
+Part 11
+
+We must consider also in the case of imperfect animals, sc. those
+which have no sense but touch, what it is that in them originates
+movement. Can they have imagination or not? or desire? Clearly they
+have feelings of pleasure and pain, and if they have these they must
+have desire. But how can they have imagination? Must not we say that,
+as their movements are indefinite, they have imagination and desire,
+but indefinitely? 
+
+Sensitive imagination, as we have said, is found in all animals, deliberative
+imagination only in those that are calculative: for whether this or
+that shall be enacted is already a task requiring calculation; and
+there must be a single standard to measure by, for that is pursued
+which is greater. It follows that what acts in this way must be able
+to make a unity out of several images. 
+
+This is the reason why imagination is held not to involve opinion,
+in that it does not involve opinion based on inference, though opinion
+involves imagination. Hence appetite contains no deliberative element.
+Sometimes it overpowers wish and sets it in movement: at times wish
+acts thus upon appetite, like one sphere imparting its movement to
+another, or appetite acts thus upon appetite, i.e. in the condition
+of moral weakness (though by nature the higher faculty is always more
+authoritative and gives rise to movement). Thus three modes of movement
+are possible. 
+
+The faculty of knowing is never moved but remains at rest. Since the
+one premiss or judgement is universal and the other deals with the
+particular (for the first tells us that such and such a kind of man
+should do such and such a kind of act, and the second that this is
+an act of the kind meant, and I a person of the type intended), it
+is the latter opinion that really originates movement, not the universal;
+or rather it is both, but the one does so while it remains in a state
+more like rest, while the other partakes in movement. 
+
+Part 12
+
+The nutritive soul then must be possessed by everything that is alive,
+and every such thing is endowed with soul from its birth to its death.
+For what has been born must grow, reach maturity, and decay-all of
+which are impossible without nutrition. Therefore the nutritive faculty
+must be found in everything that grows and decays. 
+
+But sensation need not be found in all things that live. For it is
+impossible for touch to belong either (1) to those whose body is uncompounded
+or (2) to those which are incapable of taking in the forms without
+their matter. 
+
+But animals must be endowed with sensation, since Nature does nothing
+in vain. For all things that exist by Nature are means to an end,
+or will be concomitants of means to an end. Every body capable of
+forward movement would, if unendowed with sensation, perish and fail
+to reach its end, which is the aim of Nature; for how could it obtain
+nutriment? Stationary living things, it is true, have as their nutriment
+that from which they have arisen; but it is not possible that a body
+which is not stationary but produced by generation should have a soul
+and a discerning mind without also having sensation. (Nor yet even
+if it were not produced by generation. Why should it not have sensation?
+Because it were better so either for the body or for the soul? But
+clearly it would not be better for either: the absence of sensation
+will not enable the one to think better or the other to exist better.)
+Therefore no body which is not stationary has soul without sensation.
+
+But if a body has sensation, it must be either simple or compound.
+And simple it cannot be; for then it could not have touch, which is
+indispensable. This is clear from what follows. An animal is a body
+with soul in it: every body is tangible, i.e. perceptible by touch;
+hence necessarily, if an animal is to survive, its body must have
+tactual sensation. All the other senses, e.g. smell, sight, hearing,
+apprehend through media; but where there is immediate contact the
+animal, if it has no sensation, will be unable to avoid some things
+and take others, and so will find it impossible to survive. That is
+why taste also is a sort of touch; it is relative to nutriment, which
+is just tangible body; whereas sound, colour, and odour are innutritious,
+and further neither grow nor decay. Hence it is that taste also must
+be a sort of touch, because it is the sense for what is tangible and
+nutritious. 
+
+Both these senses, then, are indispensable to the animal, and it is
+clear that without touch it is impossible for an animal to be. All
+the other senses subserve well-being and for that very reason belong
+not to any and every kind of animal, but only to some, e.g. those
+capable of forward movement must have them; for, if they are to survive,
+they must perceive not only by immediate contact but also at a distance
+from the object. This will be possible if they can perceive through
+a medium, the medium being affected and moved by the perceptible object,
+and the animal by the medium. just as that which produces local movement
+causes a change extending to a certain point, and that which gave
+an impulse causes another to produce a new impulse so that the movement
+traverses a medium the first mover impelling without being impelled,
+the last moved being impelled without impelling, while the medium
+(or media, for there are many) is both-so is it also in the case of
+alteration, except that the agent produces produces it without the
+patient's changing its place. Thus if an object is dipped into wax,
+the movement goes on until submersion has taken place, and in stone
+it goes no distance at all, while in water the disturbance goes far
+beyond the object dipped: in air the disturbance is propagated farthest
+of all, the air acting and being acted upon, so long as it maintains
+an unbroken unity. That is why in the case of reflection it is better,
+instead of saying that the sight issues from the eye and is reflected,
+to say that the air, so long as it remains one, is affected by the
+shape and colour. On a smooth surface the air possesses unity; hence
+it is that it in turn sets the sight in motion, just as if the impression
+on the wax were transmitted as far as the wax extends. 
+
+Part 13
+
+It is clear that the body of an animal cannot be simple, i.e. consist
+of one element such as fire or air. For without touch it is impossible
+to have any other sense; for every body that has soul in it must,
+as we have said, be capable of touch. All the other elements with
+the exception of earth can constitute organs of sense, but all of
+them bring about perception only through something else, viz. through
+the media. Touch takes place by direct contact with its objects, whence
+also its name. All the other organs of sense, no doubt, perceive by
+contact, only the contact is mediate: touch alone perceives by immediate
+contact. Consequently no animal body can consist of these other elements.
+
+Nor can it consist solely of earth. For touch is as it were a mean
+between all tangible qualities, and its organ is capable of receiving
+not only all the specific qualities which characterize earth, but
+also the hot and the cold and all other tangible qualities whatsoever.
+That is why we have no sensation by means of bones, hair, &c., because
+they consist of earth. So too plants, because they consist of earth,
+have no sensation. Without touch there can be no other sense, and
+the organ of touch cannot consist of earth or of any other single
+element. 
+
+It is evident, therefore, that the loss of this one sense alone must
+bring about the death of an animal. For as on the one hand nothing
+which is not an animal can have this sense, so on the other it is
+the only one which is indispensably necessary to what is an animal.
+This explains, further, the following difference between the other
+senses and touch. In the case of all the others excess of intensity
+in the qualities which they apprehend, i.e. excess of intensity in
+colour, sound, and smell, destroys not the but only the organs of
+the sense (except incidentally, as when the sound is accompanied by
+an impact or shock, or where through the objects of sight or of smell
+certain other things are set in motion, which destroy by contact);
+flavour also destroys only in so far as it is at the same time tangible.
+But excess of intensity in tangible qualities, e.g. heat, cold, or
+hardness, destroys the animal itself. As in the case of every sensible
+quality excess destroys the organ, so here what is tangible destroys
+touch, which is the essential mark of life; for it has been shown
+that without touch it is impossible for an animal to be. That is why
+excess in intensity of tangible qualities destroys not merely the
+organ, but the animal itself, because this is the only sense which
+it must have. 
+
+All the other senses are necessary to animals, as we have said, not
+for their being, but for their well-being. Such, e.g. is sight, which,
+since it lives in air or water, or generally in what is pellucid,
+it must have in order to see, and taste because of what is pleasant
+or painful to it, in order that it may perceive these qualities in
+its nutriment and so may desire to be set in motion, and hearing that
+it may have communication made to it, and a tongue that it may communicate
+with its fellows. 
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.

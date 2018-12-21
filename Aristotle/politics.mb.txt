@@ -1,0 +1,1671 @@
+
+<BASE HREF="http://classics.mit.edu/Aristotle/politics.mb.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Aristotle/politics.mb.txt"><font color=blue>classics.mit.edu/Aristotle/politics.mb.txt</font></a>.<br>
+<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Aristotle/politics.mb.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
+<html><body><pre>
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Aristotle/politics.html
+
+Politics
+By Aristotle
+
+
+Translated by Benjamin Jowett
+
+----------------------------------------------------------------------
+
+BOOK ONE
+
+Part I 
+
+Every tate is a community of some kind, and every community is established
+with a view to some good; for mankind always act in order to obtain
+that which they think good. But, if all communities aim at some good,
+the state or political community, which is the highest of all, and
+which embraces all the rest, aims at good in a greater degree than
+any other, and at the highest good. 
+
+Some people think that the qualifications of a statesman, king, householder,
+and master are the same, and that they differ, not in kind, but only
+in the number of their subjects. For example, the ruler over a few
+is called a master; over more, the manager of a household; over a
+still larger number, a statesman or king, as if there were no difference
+between a great household and a small state. The distinction which
+is made between the king and the statesman is as follows: When the
+government is personal, the ruler is a king; when, according to the
+rules of the political science, the citizens rule and are ruled in
+turn, then he is called a statesman. 
+
+But all this is a mistake; for governments differ in kind, as will
+be evident to any one who considers the matter according to the method
+which has hitherto guided us. As in other departments of science,
+so in politics, the compound should always be resolved into the simple
+elements or least parts of the whole. We must therefore look at the
+elements of which the state is composed, in order that we may see
+in what the different kinds of rule differ from one another, and whether
+any scientific result can be attained about each one of them.
+
+Part II
+
+He who thus considers things in their first growth and origin, whether
+a state or anything else, will obtain the clearest view of them. In
+the first place there must be a union of those who cannot exist without
+each other; namely, of male and female, that the race may continue
+(and this is a union which is formed, not of deliberate purpose, but
+because, in common with other animals and with plants, mankind have
+a natural desire to leave behind them an image of themselves), and
+of natural ruler and subject, that both may be preserved. For that
+which can foresee by the exercise of mind is by nature intended to
+be lord and master, and that which can with its body give effect to
+such foresight is a subject, and by nature a slave; hence master and
+slave have the same interest. Now nature has distinguished between
+the female and the slave. For she is not niggardly, like the smith
+who fashions the Delphian knife for many uses; she makes each thing
+for a single use, and every instrument is best made when intended
+for one and not for many uses. But among barbarians no distinction
+is made between women and slaves, because there is no natural ruler
+among them: they are a community of slaves, male and female. Wherefore
+the poets say, 
+
+"It is meet that Hellenes should rule over barbarians; "
+
+as if they thought that the barbarian and the slave were by nature
+one. 
+
+Out of these two relationships between man and woman, master and slave,
+the first thing to arise is the family, and Hesiod is right when he
+says, 
+
+"First house and wife and an ox for the plough, "
+
+for the ox is the poor man's slave. The family is the association
+established by nature for the supply of men's everyday wants, and
+the members of it are called by Charondas 'companions of the cupboard,'
+and by Epimenides the Cretan, 'companions of the manger.' But when
+several families are united, and the association aims at something
+more than the supply of daily needs, the first society to be formed
+is the village. And the most natural form of the village appears to
+be that of a colony from the family, composed of the children and
+grandchildren, who are said to be suckled 'with the same milk.' And
+this is the reason why Hellenic states were originally governed by
+kings; because the Hellenes were under royal rule before they came
+together, as the barbarians still are. Every family is ruled by the
+eldest, and therefore in the colonies of the family the kingly form
+of government prevailed because they were of the same blood. As Homer
+says: 
+
+"Each one gives law to his children and to his wives. "
+
+For they lived dispersedly, as was the manner in ancient times. Wherefore
+men say that the Gods have a king, because they themselves either
+are or were in ancient times under the rule of a king. For they imagine,
+not only the forms of the Gods, but their ways of life to be like
+their own. 
+
+When several villages are united in a single complete community, large
+enough to be nearly or quite self-sufficing, the state comes into
+existence, originating in the bare needs of life, and continuing in
+existence for the sake of a good life. And therefore, if the earlier
+forms of society are natural, so is the state, for it is the end of
+them, and the nature of a thing is its end. For what each thing is
+when fully developed, we call its nature, whether we are speaking
+of a man, a horse, or a family. Besides, the final cause and end of
+a thing is the best, and to be self-sufficing is the end and the best.
+
+Hence it is evident that the state is a creation of nature, and that
+man is by nature a political animal. And he who by nature and not
+by mere accident is without a state, is either a bad man or above
+humanity; he is like the 
+
+"Tribeless, lawless, hearthless one, "
+
+whom Homer denounces- the natural outcast is forthwith a lover of
+war; he may be compared to an isolated piece at draughts.
+
+Now, that man is more of a political animal than bees or any other
+gregarious animals is evident. Nature, as we often say, makes nothing
+in vain, and man is the only animal whom she has endowed with the
+gift of speech. And whereas mere voice is but an indication of pleasure
+or pain, and is therefore found in other animals (for their nature
+attains to the perception of pleasure and pain and the intimation
+of them to one another, and no further), the power of speech is intended
+to set forth the expedient and inexpedient, and therefore likewise
+the just and the unjust. And it is a characteristic of man that he
+alone has any sense of good and evil, of just and unjust, and the
+like, and the association of living beings who have this sense makes
+a family and a state. 
+
+Further, the state is by nature clearly prior to the family and to
+the individual, since the whole is of necessity prior to the part;
+for example, if the whole body be destroyed, there will be no foot
+or hand, except in an equivocal sense, as we might speak of a stone
+hand; for when destroyed the hand will be no better than that. But
+things are defined by their working and power; and we ought not to
+say that they are the same when they no longer have their proper quality,
+but only that they have the same name. The proof that the state is
+a creation of nature and prior to the individual is that the individual,
+when isolated, is not self-sufficing; and therefore he is like a part
+in relation to the whole. But he who is unable to live in society,
+or who has no need because he is sufficient for himself, must be either
+a beast or a god: he is no part of a state. A social instinct is implanted
+in all men by nature, and yet he who first founded the state was the
+greatest of benefactors. For man, when perfected, is the best of animals,
+but, when separated from law and justice, he is the worst of all;
+since armed injustice is the more dangerous, and he is equipped at
+birth with arms, meant to be used by intelligence and virtue, which
+he may use for the worst ends. Wherefore, if he have not virtue, he
+is the most unholy and the most savage of animals, and the most full
+of lust and gluttony. But justice is the bond of men in states, for
+the administration of justice, which is the determination of what
+is just, is the principle of order in political society.
+
+Part III
+
+Seeing then that the state is made up of households, before speaking
+of the state we must speak of the management of the household. The
+parts of household management correspond to the persons who compose
+the household, and a complete household consists of slaves and freemen.
+Now we should begin by examining everything in its fewest possible
+elements; and the first and fewest possible parts of a family are
+master and slave, husband and wife, father and children. We have therefore
+to consider what each of these three relations is and ought to be:
+I mean the relation of master and servant, the marriage relation (the
+conjunction of man and wife has no name of its own), and thirdly,
+the procreative relation (this also has no proper name). And there
+is another element of a household, the so-called art of getting wealth,
+which, according to some, is identical with household management,
+according to others, a principal part of it; the nature of this art
+will also have to be considered by us. 
+
+Let us first speak of master and slave, looking to the needs of practical
+life and also seeking to attain some better theory of their relation
+than exists at present. For some are of opinion that the rule of a
+master is a science, and that the management of a household, and the
+mastership of slaves, and the political and royal rule, as I was saying
+at the outset, are all the same. Others affirm that the rule of a
+master over slaves is contrary to nature, and that the distinction
+between slave and freeman exists by law only, and not by nature; and
+being an interference with nature is therefore unjust. 
+
+Part IV
+
+Property is a part of the household, and the art of acquiring property
+is a part of the art of managing the household; for no man can live
+well, or indeed live at all, unless he be provided with necessaries.
+And as in the arts which have a definite sphere the workers must have
+their own proper instruments for the accomplishment of their work,
+so it is in the management of a household. Now instruments are of
+various sorts; some are living, others lifeless; in the rudder, the
+pilot of a ship has a lifeless, in the look-out man, a living instrument;
+for in the arts the servant is a kind of instrument. Thus, too, a
+possession is an instrument for maintaining life. And so, in the arrangement
+of the family, a slave is a living possession, and property a number
+of such instruments; and the servant is himself an instrument which
+takes precedence of all other instruments. For if every instrument
+could accomplish its own work, obeying or anticipating the will of
+others, like the statues of Daedalus, or the tripods of Hephaestus,
+which, says the poet, 
+
+"of their own accord entered the assembly of the Gods; "
+
+if, in like manner, the shuttle would weave and the plectrum touch
+the lyre without a hand to guide them, chief workmen would not want
+servants, nor masters slaves. Here, however, another distinction must
+be drawn; the instruments commonly so called are instruments of production,
+whilst a possession is an instrument of action. The shuttle, for example,
+is not only of use; but something else is made by it, whereas of a
+garment or of a bed there is only the use. Further, as production
+and action are different in kind, and both require instruments, the
+instruments which they employ must likewise differ in kind. But life
+is action and not production, and therefore the slave is the minister
+of action. Again, a possession is spoken of as a part is spoken of;
+for the part is not only a part of something else, but wholly belongs
+to it; and this is also true of a possession. The master is only the
+master of the slave; he does not belong to him, whereas the slave
+is not only the slave of his master, but wholly belongs to him. Hence
+we see what is the nature and office of a slave; he who is by nature
+not his own but another's man, is by nature a slave; and he may be
+said to be another's man who, being a human being, is also a possession.
+And a possession may be defined as an instrument of action, separable
+from the possessor. 
+
+Part V
+
+But is there any one thus intended by nature to be a slave, and for
+whom such a condition is expedient and right, or rather is not all
+slavery a violation of nature? 
+
+There is no difficulty in answering this question, on grounds both
+of reason and of fact. For that some should rule and others be ruled
+is a thing not only necessary, but expedient; from the hour of their
+birth, some are marked out for subjection, others for rule.
+
+And there are many kinds both of rulers and subjects (and that rule
+is the better which is exercised over better subjects- for example,
+to rule over men is better than to rule over wild beasts; for the
+work is better which is executed by better workmen, and where one
+man rules and another is ruled, they may be said to have a work);
+for in all things which form a composite whole and which are made
+up of parts, whether continuous or discrete, a distinction between
+the ruling and the subject element comes to fight. Such a duality
+exists in living creatures, but not in them only; it originates in
+the constitution of the universe; even in things which have no life
+there is a ruling principle, as in a musical mode. But we are wandering
+from the subject. We will therefore restrict ourselves to the living
+creature, which, in the first place, consists of soul and body: and
+of these two, the one is by nature the ruler, and the other the subject.
+But then we must look for the intentions of nature in things which
+retain their nature, and not in things which are corrupted. And therefore
+we must study the man who is in the most perfect state both of body
+and soul, for in him we shall see the true relation of the two; although
+in bad or corrupted natures the body will often appear to rule over
+the soul, because they are in an evil and unnatural condition. At
+all events we may firstly observe in living creatures both a despotical
+and a constitutional rule; for the soul rules the body with a despotical
+rule, whereas the intellect rules the appetites with a constitutional
+and royal rule. And it is clear that the rule of the soul over the
+body, and of the mind and the rational element over the passionate,
+is natural and expedient; whereas the equality of the two or the rule
+of the inferior is always hurtful. The same holds good of animals
+in relation to men; for tame animals have a better nature than wild,
+and all tame animals are better off when they are ruled by man; for
+then they are preserved. Again, the male is by nature superior, and
+the female inferior; and the one rules, and the other is ruled; this
+principle, of necessity, extends to all mankind. 
+
+Where then there is such a difference as that between soul and body,
+or between men and animals (as in the case of those whose business
+is to use their body, and who can do nothing better), the lower sort
+are by nature slaves, and it is better for them as for all inferiors
+that they should be under the rule of a master. For he who can be,
+and therefore is, another's and he who participates in rational principle
+enough to apprehend, but not to have, such a principle, is a slave
+by nature. Whereas the lower animals cannot even apprehend a principle;
+they obey their instincts. And indeed the use made of slaves and of
+tame animals is not very different; for both with their bodies minister
+to the needs of life. Nature would like to distinguish between the
+bodies of freemen and slaves, making the one strong for servile labor,
+the other upright, and although useless for such services, useful
+for political life in the arts both of war and peace. But the opposite
+often happens- that some have the souls and others have the bodies
+of freemen. And doubtless if men differed from one another in the
+mere forms of their bodies as much as the statues of the Gods do from
+men, all would acknowledge that the inferior class should be slaves
+of the superior. And if this is true of the body, how much more just
+that a similar distinction should exist in the soul? but the beauty
+of the body is seen, whereas the beauty of the soul is not seen. It
+is clear, then, that some men are by nature free, and others slaves,
+and that for these latter slavery is both expedient and right.
+
+Part VI
+
+But that those who take the opposite view have in a certain way right
+on their side, may be easily seen. For the words slavery and slave
+are used in two senses. There is a slave or slavery by law as well
+as by nature. The law of which I speak is a sort of convention- the
+law by which whatever is taken in war is supposed to belong to the
+victors. But this right many jurists impeach, as they would an orator
+who brought forward an unconstitutional measure: they detest the notion
+that, because one man has the power of doing violence and is superior
+in brute strength, another shall be his slave and subject. Even among
+philosophers there is a difference of opinion. The origin of the dispute,
+and what makes the views invade each other's territory, is as follows:
+in some sense virtue, when furnished with means, has actually the
+greatest power of exercising force; and as superior power is only
+found where there is superior excellence of some kind, power seems
+to imply virtue, and the dispute to be simply one about justice (for
+it is due to one party identifying justice with goodwill while the
+other identifies it with the mere rule of the stronger). If these
+views are thus set out separately, the other views have no force or
+plausibility against the view that the superior in virtue ought to
+rule, or be master. Others, clinging, as they think, simply to a principle
+of justice (for law and custom are a sort of justice), assume that
+slavery in accordance with the custom of war is justified by law,
+but at the same moment they deny this. For what if the cause of the
+war be unjust? And again, no one would ever say he is a slave who
+is unworthy to be a slave. Were this the case, men of the highest
+rank would be slaves and the children of slaves if they or their parents
+chance to have been taken captive and sold. Wherefore Hellenes do
+not like to call Hellenes slaves, but confine the term to barbarians.
+Yet, in using this language, they really mean the natural slave of
+whom we spoke at first; for it must be admitted that some are slaves
+everywhere, others nowhere. The same principle applies to nobility.
+Hellenes regard themselves as noble everywhere, and not only in their
+own country, but they deem the barbarians noble only when at home,
+thereby implying that there are two sorts of nobility and freedom,
+the one absolute, the other relative. The Helen of Theodectes says:
+
+"Who would presume to call me servant who am on both sides sprung
+from the stem of the Gods? "
+
+What does this mean but that they distinguish freedom and slavery,
+noble and humble birth, by the two principles of good and evil? They
+think that as men and animals beget men and animals, so from good
+men a good man springs. But this is what nature, though she may intend
+it, cannot always accomplish. 
+
+We see then that there is some foundation for this difference of opinion,
+and that all are not either slaves by nature or freemen by nature,
+and also that there is in some cases a marked distinction between
+the two classes, rendering it expedient and right for the one to be
+slaves and the others to be masters: the one practicing obedience,
+the others exercising the authority and lordship which nature intended
+them to have. The abuse of this authority is injurious to both; for
+the interests of part and whole, of body and soul, are the same, and
+the slave is a part of the master, a living but separated part of
+his bodily frame. Hence, where the relation of master and slave between
+them is natural they are friends and have a common interest, but where
+it rests merely on law and force the reverse is true. 
+
+Part VII
+
+The previous remarks are quite enough to show that the rule of a master
+is not a constitutional rule, and that all the different kinds of
+rule are not, as some affirm, the same with each other. For there
+is one rule exercised over subjects who are by nature free, another
+over subjects who are by nature slaves. The rule of a household is
+a monarchy, for every house is under one head: whereas constitutional
+rule is a government of freemen and equals. The master is not called
+a master because he has science, but because he is of a certain character,
+and the same remark applies to the slave and the freeman. Still there
+may be a science for the master and science for the slave. The science
+of the slave would be such as the man of Syracuse taught, who made
+money by instructing slaves in their ordinary duties. And such a knowledge
+may be carried further, so as to include cookery and similar menial
+arts. For some duties are of the more necessary, others of the more
+honorable sort; as the proverb says, 'slave before slave, master before
+master.' But all such branches of knowledge are servile. There is
+likewise a science of the master, which teaches the use of slaves;
+for the master as such is concerned, not with the acquisition, but
+with the use of them. Yet this so-called science is not anything great
+or wonderful; for the master need only know how to order that which
+the slave must know how to execute. Hence those who are in a position
+which places them above toil have stewards who attend to their households
+while they occupy themselves with philosophy or with politics. But
+the art of acquiring slaves, I mean of justly acquiring them, differs
+both from the art of the master and the art of the slave, being a
+species of hunting or war. Enough of the distinction between master
+and slave. 
+
+Part VIII
+
+Let us now inquire into property generally, and into the art of getting
+wealth, in accordance with our usual method, for a slave has been
+shown to be a part of property. The first question is whether the
+art of getting wealth is the same with the art of managing a household
+or a part of it, or instrumental to it; and if the last, whether in
+the way that the art of making shuttles is instrumental to the art
+of weaving, or in the way that the casting of bronze is instrumental
+to the art of the statuary, for they are not instrumental in the same
+way, but the one provides tools and the other material; and by material
+I mean the substratum out of which any work is made; thus wool is
+the material of the weaver, bronze of the statuary. Now it is easy
+to see that the art of household management is not identical with
+the art of getting wealth, for the one uses the material which the
+other provides. For the art which uses household stores can be no
+other than the art of household management. There is, however, a doubt
+whether the art of getting wealth is a part of household management
+or a distinct art. If the getter of wealth has to consider whence
+wealth and property can be procured, but there are many sorts of property
+and riches, then are husbandry, and the care and provision of food
+in general, parts of the wealth-getting art or distinct arts? Again,
+there are many sorts of food, and therefore there are many kinds of
+lives both of animals and men; they must all have food, and the differences
+in their food have made differences in their ways of life. For of
+beasts, some are gregarious, others are solitary; they live in the
+way which is best adapted to sustain them, accordingly as they are
+carnivorous or herbivorous or omnivorous: and their habits are determined
+for them by nature in such a manner that they may obtain with greater
+facility the food of their choice. But, as different species have
+different tastes, the same things are not naturally pleasant to all
+of them; and therefore the lives of carnivorous or herbivorous animals
+further differ among themselves. In the lives of men too there is
+a great difference. The laziest are shepherds, who lead an idle life,
+and get their subsistence without trouble from tame animals; their
+flocks having to wander from place to place in search of pasture,
+they are compelled to follow them, cultivating a sort of living farm.
+Others support themselves by hunting, which is of different kinds.
+Some, for example, are brigands, others, who dwell near lakes or marshes
+or rivers or a sea in which there are fish, are fishermen, and others
+live by the pursuit of birds or wild beasts. The greater number obtain
+a living from the cultivated fruits of the soil. Such are the modes
+of subsistence which prevail among those whose industry springs up
+of itself, and whose food is not acquired by exchange and retail trade-
+there is the shepherd, the husbandman, the brigand, the fisherman,
+the hunter. Some gain a comfortable maintenance out of two employments,
+eking out the deficiencies of one of them by another: thus the life
+of a shepherd may be combined with that of a brigand, the life of
+a farmer with that of a hunter. Other modes of life are similarly
+combined in any way which the needs of men may require. Property,
+in the sense of a bare livelihood, seems to be given by nature herself
+to all, both when they are first born, and when they are grown up.
+For some animals bring forth, together with their offspring, so much
+food as will last until they are able to supply themselves; of this
+the vermiparous or oviparous animals are an instance; and the viviparous
+animals have up to a certain time a supply of food for their young
+in themselves, which is called milk. In like manner we may infer that,
+after the birth of animals, plants exist for their sake, and that
+the other animals exist for the sake of man, the tame for use and
+food, the wild, if not all at least the greater part of them, for
+food, and for the provision of clothing and various instruments. Now
+if nature makes nothing incomplete, and nothing in vain, the inference
+must be that she has made all animals for the sake of man. And so,
+in one point of view, the art of war is a natural art of acquisition,
+for the art of acquisition includes hunting, an art which we ought
+to practice against wild beasts, and against men who, though intended
+by nature to be governed, will not submit; for war of such a kind
+is naturally just. 
+
+Of the art of acquisition then there is one kind which by nature is
+a part of the management of a household, in so far as the art of household
+management must either find ready to hand, or itself provide, such
+things necessary to life, and useful for the community of the family
+or state, as can be stored. They are the elements of true riches;
+for the amount of property which is needed for a good life is not
+unlimited, although Solon in one of his poems says that 
+
+"No bound to riches has been fixed for man. "
+
+But there is a boundary fixed, just as there is in the other arts;
+for the instruments of any art are never unlimited, either in number
+or size, and riches may be defined as a number of instruments to be
+used in a household or in a state. And so we see that there is a natural
+art of acquisition which is practiced by managers of households and
+by statesmen, and what is the reason of this. 
+
+Part IX
+
+There is another variety of the art of acquisition which is commonly
+and rightly called an art of wealth-getting, and has in fact suggested
+the notion that riches and property have no limit. Being nearly connected
+with the preceding, it is often identified with it. But though they
+are not very different, neither are they the same. The kind already
+described is given by nature, the other is gained by experience and
+art. 
+
+Let us begin our discussion of the question with the following considerations:
+
+Of everything which we possess there are two uses: both belong to
+the thing as such, but not in the same manner, for one is the proper,
+and the other the improper or secondary use of it. For example, a
+shoe is used for wear, and is used for exchange; both are uses of
+the shoe. He who gives a shoe in exchange for money or food to him
+who wants one, does indeed use the shoe as a shoe, but this is not
+its proper or primary purpose, for a shoe is not made to be an object
+of barter. The same may be said of all possessions, for the art of
+exchange extends to all of them, and it arises at first from what
+is natural, from the circumstance that some have too little, others
+too much. Hence we may infer that retail trade is not a natural part
+of the art of getting wealth; had it been so, men would have ceased
+to exchange when they had enough. In the first community, indeed,
+which is the family, this art is obviously of no use, but it begins
+to be useful when the society increases. For the members of the family
+originally had all things in common; later, when the family divided
+into parts, the parts shared in many things, and different parts in
+different things, which they had to give in exchange for what they
+wanted, a kind of barter which is still practiced among barbarous
+nations who exchange with one another the necessaries of life and
+nothing more; giving and receiving wine, for example, in exchange
+for coin, and the like. This sort of barter is not part of the wealth-getting
+art and is not contrary to nature, but is needed for the satisfaction
+of men's natural wants. The other or more complex form of exchange
+grew, as might have been inferred, out of the simpler. When the inhabitants
+of one country became more dependent on those of another, and they
+imported what they needed, and exported what they had too much of,
+money necessarily came into use. For the various necessaries of life
+are not easily carried about, and hence men agreed to employ in their
+dealings with each other something which was intrinsically useful
+and easily applicable to the purposes of life, for example, iron,
+silver, and the like. Of this the value was at first measured simply
+by size and weight, but in process of time they put a stamp upon it,
+to save the trouble of weighing and to mark the value. 
+
+When the use of coin had once been discovered, out of the barter of
+necessary articles arose the other art of wealth getting, namely,
+retail trade; which was at first probably a simple matter, but became
+more complicated as soon as men learned by experience whence and by
+what exchanges the greatest profit might be made. Originating in the
+use of coin, the art of getting wealth is generally thought to be
+chiefly concerned with it, and to be the art which produces riches
+and wealth; having to consider how they may be accumulated. Indeed,
+riches is assumed by many to be only a quantity of coin, because the
+arts of getting wealth and retail trade are concerned with coin. Others
+maintain that coined money is a mere sham, a thing not natural, but
+conventional only, because, if the users substitute another commodity
+for it, it is worthless, and because it is not useful as a means to
+any of the necessities of life, and, indeed, he who is rich in coin
+may often be in want of necessary food. But how can that be wealth
+of which a man may have a great abundance and yet perish with hunger,
+like Midas in the fable, whose insatiable prayer turned everything
+that was set before him into gold? 
+
+Hence men seek after a better notion of riches and of the art of getting
+wealth than the mere acquisition of coin, and they are right. For
+natural riches and the natural art of wealth-getting are a different
+thing; in their true form they are part of the management of a household;
+whereas retail trade is the art of producing wealth, not in every
+way, but by exchange. And it is thought to be concerned with coin;
+for coin is the unit of exchange and the measure or limit of it. And
+there is no bound to the riches which spring from this art of wealth
+getting. As in the art of medicine there is no limit to the pursuit
+of health, and as in the other arts there is no limit to the pursuit
+of their several ends, for they aim at accomplishing their ends to
+the uttermost (but of the means there is a limit, for the end is always
+the limit), so, too, in this art of wealth-getting there is no limit
+of the end, which is riches of the spurious kind, and the acquisition
+of wealth. But the art of wealth-getting which consists in household
+management, on the other hand, has a limit; the unlimited acquisition
+of wealth is not its business. And, therefore, in one point of view,
+all riches must have a limit; nevertheless, as a matter of fact, we
+find the opposite to be the case; for all getters of wealth increase
+their hoard of coin without limit. The source of the confusion is
+the near connection between the two kinds of wealth-getting; in either,
+the instrument is the same, although the use is different, and so
+they pass into one another; for each is a use of the same property,
+but with a difference: accumulation is the end in the one case, but
+there is a further end in the other. Hence some persons are led to
+believe that getting wealth is the object of household management,
+and the whole idea of their lives is that they ought either to increase
+their money without limit, or at any rate not to lose it. The origin
+of this disposition in men is that they are intent upon living only,
+and not upon living well; and, as their desires are unlimited they
+also desire that the means of gratifying them should be without limit.
+Those who do aim at a good life seek the means of obtaining bodily
+pleasures; and, since the enjoyment of these appears to depend on
+property, they are absorbed in getting wealth: and so there arises
+the second species of wealth-getting. For, as their enjoyment is in
+excess, they seek an art which produces the excess of enjoyment; and,
+if they are not able to supply their pleasures by the art of getting
+wealth, they try other arts, using in turn every faculty in a manner
+contrary to nature. The quality of courage, for example, is not intended
+to make wealth, but to inspire confidence; neither is this the aim
+of the general's or of the physician's art; but the one aims at victory
+and the other at health. Nevertheless, some men turn every quality
+or art into a means of getting wealth; this they conceive to be the
+end, and to the promotion of the end they think all things must contribute.
+
+Thus, then, we have considered the art of wealth-getting which is
+unnecessary, and why men want it; and also the necessary art of wealth-getting,
+which we have seen to be different from the other, and to be a natural
+part of the art of managing a household, concerned with the provision
+of food, not, however, like the former kind, unlimited, but having
+a limit. 
+
+Part X
+
+And we have found the answer to our original question, Whether the
+art of getting wealth is the business of the manager of a household
+and of the statesman or not their business? viz., that wealth is presupposed
+by them. For as political science does not make men, but takes them
+from nature and uses them, so too nature provides them with earth
+or sea or the like as a source of food. At this stage begins the duty
+of the manager of a household, who has to order the things which nature
+supplies; he may be compared to the weaver who has not to make but
+to use wool, and to know, too, what sort of wool is good and serviceable
+or bad and unserviceable. Were this otherwise, it would be difficult
+to see why the art of getting wealth is a part of the management of
+a household and the art of medicine not; for surely the members of
+a household must have health just as they must have life or any other
+necessary. The answer is that as from one point of view the master
+of the house and the ruler of the state have to consider about health,
+from another point of view not they but the physician; so in one way
+the art of household management, in another way the subordinate art,
+has to consider about wealth. But, strictly speaking, as I have already
+said, the means of life must be provided beforehand by nature; for
+the business of nature is to furnish food to that which is born, and
+the food of the offspring is always what remains over of that from
+which it is produced. Wherefore the art of getting wealth out of fruits
+and animals is always natural. 
+
+There are two sorts of wealth-getting, as I have said; one is a part
+of household management, the other is retail trade: the former necessary
+and honorable, while that which consists in exchange is justly censured;
+for it is unnatural, and a mode by which men gain from one another.
+The most hated sort, and with the greatest reason, is usury, which
+makes a gain out of money itself, and not from the natural object
+of it. For money was intended to be used in exchange, but not to increase
+at interest. And this term interest, which means the birth of money
+from money, is applied to the breeding of money because the offspring
+resembles the parent. Wherefore of an modes of getting wealth this
+is the most unnatural. 
+
+Part XI
+
+Enough has been said about the theory of wealth-getting; we will now
+proceed to the practical part. The discussion of such matters is not
+unworthy of philosophy, but to be engaged in them practically is illiberal
+and irksome. The useful parts of wealth-getting are, first, the knowledge
+of livestock- which are most profitable, and where, and how- as, for
+example, what sort of horses or sheep or oxen or any other animals
+are most likely to give a return. A man ought to know which of these
+pay better than others, and which pay best in particular places, for
+some do better in one place and some in another. Secondly, husbandry,
+which may be either tillage or planting, and the keeping of bees and
+of fish, or fowl, or of any animals which may be useful to man. These
+are the divisions of the true or proper art of wealth-getting and
+come first. Of the other, which consists in exchange, the first and
+most important division is commerce (of which there are three kinds-
+the provision of a ship, the conveyance of goods, exposure for sale-
+these again differing as they are safer or more profitable), the second
+is usury, the third, service for hire- of this, one kind is employed
+in the mechanical arts, the other in unskilled and bodily labor. There
+is still a third sort of wealth getting intermediate between this
+and the first or natural mode which is partly natural, but is also
+concerned with exchange, viz., the industries that make their profit
+from the earth, and from things growing from the earth which, although
+they bear no fruit, are nevertheless profitable; for example, the
+cutting of timber and all mining. The art of mining, by which minerals
+are obtained, itself has many branches, for there are various kinds
+of things dug out of the earth. Of the several divisions of wealth-getting
+I now speak generally; a minute consideration of them might be useful
+in practice, but it would be tiresome to dwell upon them at greater
+length now. 
+
+Those occupations are most truly arts in which there is the least
+element of chance; they are the meanest in which the body is most
+deteriorated, the most servile in which there is the greatest use
+of the body, and the most illiberal in which there is the least need
+of excellence. 
+
+Works have been written upon these subjects by various persons; for
+example, by Chares the Parian, and Apollodorus the Lemnian, who have
+treated of Tillage and Planting, while others have treated of other
+branches; any one who cares for such matters may refer to their writings.
+It would be well also to collect the scattered stories of the ways
+in which individuals have succeeded in amassing a fortune; for all
+this is useful to persons who value the art of getting wealth. There
+is the anecdote of Thales the Milesian and his financial device, which
+involves a principle of universal application, but is attributed to
+him on account of his reputation for wisdom. He was reproached for
+his poverty, which was supposed to show that philosophy was of no
+use. According to the story, he knew by his skill in the stars while
+it was yet winter that there would be a great harvest of olives in
+the coming year; so, having a little money, he gave deposits for the
+use of all the olive-presses in Chios and Miletus, which he hired
+at a low price because no one bid against him. When the harvest-time
+came, and many were wanted all at once and of a sudden, he let them
+out at any rate which he pleased, and made a quantity of money. Thus
+he showed the world that philosophers can easily be rich if they like,
+but that their ambition is of another sort. He is supposed to have
+given a striking proof of his wisdom, but, as I was saying, his device
+for getting wealth is of universal application, and is nothing but
+the creation of a monopoly. It is an art often practiced by cities
+when they are want of money; they make a monopoly of provisions.
+
+There was a man of Sicily, who, having money deposited with him, bought
+up an the iron from the iron mines; afterwards, when the merchants
+from their various markets came to buy, he was the only seller, and
+without much increasing the price he gained 200 per cent. Which when
+Dionysius heard, he told him that he might take away his money, but
+that he must not remain at Syracuse, for he thought that the man had
+discovered a way of making money which was injurious to his own interests.
+He made the same discovery as Thales; they both contrived to create
+a monopoly for themselves. And statesmen as well ought to know these
+things; for a state is often as much in want of money and of such
+devices for obtaining it as a household, or even more so; hence some
+public men devote themselves entirely to finance. 
+
+Part XII
+
+Of household management we have seen that there are three parts- one
+is the rule of a master over slaves, which has been discussed already,
+another of a father, and the third of a husband. A husband and father,
+we saw, rules over wife and children, both free, but the rule differs,
+the rule over his children being a royal, over his wife a constitutional
+rule. For although there may be exceptions to the order of nature,
+the male is by nature fitter for command than the female, just as
+the elder and full-grown is superior to the younger and more immature.
+But in most constitutional states the citizens rule and are ruled
+by turns, for the idea of a constitutional state implies that the
+natures of the citizens are equal, and do not differ at all. Nevertheless,
+when one rules and the other is ruled we endeavor to create a difference
+of outward forms and names and titles of respect, which may be illustrated
+by the saying of Amasis about his foot-pan. The relation of the male
+to the female is of this kind, but there the inequality is permanent.
+The rule of a father over his children is royal, for he rules by virtue
+both of love and of the respect due to age, exercising a kind of royal
+power. And therefore Homer has appropriately called Zeus 'father of
+Gods and men,' because he is the king of them all. For a king is the
+natural superior of his subjects, but he should be of the same kin
+or kind with them, and such is the relation of elder and younger,
+of father and son. 
+
+Part XIII
+
+Thus it is clear that household management attends more to men than
+to the acquisition of inanimate things, and to human excellence more
+than to the excellence of property which we call wealth, and to the
+virtue of freemen more than to the virtue of slaves. A question may
+indeed be raised, whether there is any excellence at all in a slave
+beyond and higher than merely instrumental and ministerial qualities-
+whether he can have the virtues of temperance, courage, justice, and
+the like; or whether slaves possess only bodily and ministerial qualities.
+And, whichever way we answer the question, a difficulty arises; for,
+if they have virtue, in what will they differ from freemen? On the
+other hand, since they are men and share in rational principle, it
+seems absurd to say that they have no virtue. A similar question may
+be raised about women and children, whether they too have virtues:
+ought a woman to be temperate and brave and just, and is a child to
+be called temperate, and intemperate, or note So in general we may
+ask about the natural ruler, and the natural subject, whether they
+have the same or different virtues. For if a noble nature is equally
+required in both, why should one of them always rule, and the other
+always be ruled? Nor can we say that this is a question of degree,
+for the difference between ruler and subject is a difference of kind,
+which the difference of more and less never is. Yet how strange is
+the supposition that the one ought, and that the other ought not,
+to have virtue! For if the ruler is intemperate and unjust, how can
+he rule well? If the subject, how can he obey well? If he be licentious
+and cowardly, he will certainly not do his duty. It is evident, therefore,
+that both of them must have a share of virtue, but varying as natural
+subjects also vary among themselves. Here the very constitution of
+the soul has shown us the way; in it one part naturally rules, and
+the other is subject, and the virtue of the ruler we in maintain to
+be different from that of the subject; the one being the virtue of
+the rational, and the other of the irrational part. Now, it is obvious
+that the same principle applies generally, and therefore almost all
+things rule and are ruled according to nature. But the kind of rule
+differs; the freeman rules over the slave after another manner from
+that in which the male rules over the female, or the man over the
+child; although the parts of the soul are present in an of them, they
+are present in different degrees. For the slave has no deliberative
+faculty at all; the woman has, but it is without authority, and the
+child has, but it is immature. So it must necessarily be supposed
+to be with the moral virtues also; all should partake of them, but
+only in such manner and degree as is required by each for the fulfillment
+of his duty. Hence the ruler ought to have moral virtue in perfection,
+for his function, taken absolutely, demands a master artificer, and
+rational principle is such an artificer; the subjects, oil the other
+hand, require only that measure of virtue which is proper to each
+of them. Clearly, then, moral virtue belongs to all of them; but the
+temperance of a man and of a woman, or the courage and justice of
+a man and of a woman, are not, as Socrates maintained, the same; the
+courage of a man is shown in commanding, of a woman in obeying. And
+this holds of all other virtues, as will be more clearly seen if we
+look at them in detail, for those who say generally that virtue consists
+in a good disposition of the soul, or in doing rightly, or the like,
+only deceive themselves. Far better than such definitions is their
+mode of speaking, who, like Gorgias, enumerate the virtues. All classes
+must be deemed to have their special attributes; as the poet says
+of women, 
+
+"Silence is a woman's glory, "
+
+but this is not equally the glory of man. The child is imperfect,
+and therefore obviously his virtue is not relative to himself alone,
+but to the perfect man and to his teacher, and in like manner the
+virtue of the slave is relative to a master. Now we determined that
+a slave is useful for the wants of life, and therefore he will obviously
+require only so much virtue as will prevent him from failing in his
+duty through cowardice or lack of self-control. Some one will ask
+whether, if what we are saying is true, virtue will not be required
+also in the artisans, for they often fail in their work through the
+lack of self control? But is there not a great difference in the two
+cases? For the slave shares in his master's life; the artisan is less
+closely connected with him, and only attains excellence in proportion
+as he becomes a slave. The meaner sort of mechanic has a special and
+separate slavery; and whereas the slave exists by nature, not so the
+shoemaker or other artisan. It is manifest, then, that the master
+ought to be the source of such excellence in the slave, and not a
+mere possessor of the art of mastership which trains the slave in
+his duties. Wherefore they are mistaken who forbid us to converse
+with slaves and say that we should employ command only, for slaves
+stand even more in need of admonition than children. 
+
+So much for this subject; the relations of husband and wife, parent
+and child, their several virtues, what in their intercourse with one
+another is good, and what is evil, and how we may pursue the good
+and good and escape the evil, will have to be discussed when we speak
+of the different forms of government. For, inasmuch as every family
+is a part of a state, and these relationships are the parts of a family,
+and the virtue of the part must have regard to the virtue of the whole,
+women and children must be trained by education with an eye to the
+constitution, if the virtues of either of them are supposed to make
+any difference in the virtues of the state. And they must make a difference:
+for the children grow up to be citizens, and half the free persons
+in a state are women. 
+
+Of these matters, enough has been said; of what remains, let us speak
+at another time. Regarding, then, our present inquiry as complete,
+we will make a new beginning. And, first, let us examine the various
+theories of a perfect state. 
+
+----------------------------------------------------------------------
+
+BOOK TWO
+
+Part I 
+
+Our urpose is to consider what form of political community is best
+of all for those who are most able to realize their ideal of life.
+We must therefore examine not only this but other constitutions, both
+such as actually exist in well-governed states, and any theoretical
+forms which are held in esteem; that what is good and useful may be
+brought to light. And let no one suppose that in seeking for something
+beyond them we are anxious to make a sophistical display at any cost;
+we only undertake this inquiry because all the constitutions with
+which we are acquainted are faulty. 
+
+We will begin with the natural beginning of the subject. Three alternatives
+are conceivable: The members of a state must either have (1) all things
+or (2) nothing in common, or (3) some things in common and some not.
+That they should have nothing in common is clearly impossible, for
+the constitution is a community, and must at any rate have a common
+place- one city will be in one place, and the citizens are those who
+share in that one city. But should a well ordered state have all things,
+as far as may be, in common, or some only and not others? For the
+citizens might conceivably have wives and children and property in
+common, as Socrates proposes in the Republic of Plato. Which is better,
+our present condition, or the proposed new order of society.
+
+Part II
+
+There are many difficulties in the community of women. And the principle
+on which Socrates rests the necessity of such an institution evidently
+is not established by his arguments. Further, as a means to the end
+which he ascribes to the state, the scheme, taken literally is impracticable,
+and how we are to interpret it is nowhere precisely stated. I am speaking
+of the premise from which the argument of Socrates proceeds, 'that
+the greater the unity of the state the better.' Is it not obvious
+that a state may at length attain such a degree of unity as to be
+no longer a state? since the nature of a state is to be a plurality,
+and in tending to greater unity, from being a state, it becomes a
+family, and from being a family, an individual; for the family may
+be said to be more than the state, and the individual than the family.
+So that we ought not to attain this greatest unity even if we could,
+for it would be the destruction of the state. Again, a state is not
+made up only of so many men, but of different kinds of men; for similars
+do not constitute a state. It is not like a military alliance The
+usefulness of the latter depends upon its quantity even where there
+is no difference in quality (for mutual protection is the end aimed
+at), just as a greater weight of anything is more useful than a less
+(in like manner, a state differs from a nation, when the nation has
+not its population organized in villages, but lives an Arcadian sort
+of life); but the elements out of which a unity is to be formed differ
+in kind. Wherefore the principle of compensation, as I have already
+remarked in the Ethics, is the salvation of states. Even among freemen
+and equals this is a principle which must be maintained, for they
+cannot an rule together, but must change at the end of a year or some
+other period of time or in some order of succession. The result is
+that upon this plan they all govern; just as if shoemakers and carpenters
+were to exchange their occupations, and the same persons did not always
+continue shoemakers and carpenters. And since it is better that this
+should be so in politics as well, it is clear that while there should
+be continuance of the same persons in power where this is possible,
+yet where this is not possible by reason of the natural equality of
+the citizens, and at the same time it is just that an should share
+in the government (whether to govern be a good thing or a bad), an
+approximation to this is that equals should in turn retire from office
+and should, apart from official position, be treated alike. Thus the
+one party rule and the others are ruled in turn, as if they were no
+longer the same persons. In like manner when they hold office there
+is a variety in the offices held. Hence it is evident that a city
+is not by nature one in that sense which some persons affirm; and
+that what is said to be the greatest good of cities is in reality
+their destruction; but surely the good of things must be that which
+preserves them. Again, in another point of view, this extreme unification
+of the state is clearly not good; for a family is more self-sufficing
+than an individual, and a city than a family, and a city only comes
+into being when the community is large enough to be self-sufficing.
+If then self-sufficiency is to be desired, the lesser degree of unity
+is more desirable than the greater. 
+
+Part III
+
+But, even supposing that it were best for the community to have the
+greatest degree of unity, this unity is by no means proved to follow
+from the fact 'of all men saying "mine" and "not mine" at the same
+instant of time,' which, according to Socrates, is the sign of perfect
+unity in a state. For the word 'all' is ambiguous. If the meaning
+be that every individual says 'mine' and 'not mine' at the same time,
+then perhaps the result at which Socrates aims may be in some degree
+accomplished; each man will call the same person his own son and the
+same person his wife, and so of his property and of all that falls
+to his lot. This, however, is not the way in which people would speak
+who had their had their wives and children in common; they would say
+'all' but not 'each.' In like manner their property would be described
+as belonging to them, not severally but collectively. There is an
+obvious fallacy in the term 'all': like some other words, 'both,'
+'odd,' 'even,' it is ambiguous, and even in abstract argument becomes
+a source of logical puzzles. That all persons call the same thing
+mine in the sense in which each does so may be a fine thing, but it
+is impracticable; or if the words are taken in the other sense, such
+a unity in no way conduces to harmony. And there is another objection
+to the proposal. For that which is common to the greatest number has
+the least care bestowed upon it. Every one thinks chiefly of his own,
+hardly at all of the common interest; and only when he is himself
+concerned as an individual. For besides other considerations, everybody
+is more inclined to neglect the duty which he expects another to fulfill;
+as in families many attendants are often less useful than a few. Each
+citizen will have a thousand sons who will not be his sons individually
+but anybody will be equally the son of anybody, and will therefore
+be neglected by all alike. Further, upon this principle, every one
+will use the word 'mine' of one who is prospering or the reverse,
+however small a fraction he may himself be of the whole number; the
+same boy will be 'so and so's son,' the son of each of the thousand,
+or whatever be the number of the citizens; and even about this he
+will not be positive; for it is impossible to know who chanced to
+have a child, or whether, if one came into existence, it has survived.
+But which is better- for each to say 'mine' in this way, making a
+man the same relation to two thousand or ten thousand citizens, or
+to use the word 'mine' in the ordinary and more restricted sense?
+For usually the same person is called by one man his own son whom
+another calls his own brother or cousin or kinsman- blood relation
+or connection by marriage either of himself or of some relation of
+his, and yet another his clansman or tribesman; and how much better
+is it to be the real cousin of somebody than to be a son after Plato's
+fashion! Nor is there any way of preventing brothers and children
+and fathers and mothers from sometimes recognizing one another; for
+children are born like their parents, and they will necessarily be
+finding indications of their relationship to one another. Geographers
+declare such to be the fact; they say that in part of Upper Libya,
+where the women are common, nevertheless the children who are born
+are assigned to their respective fathers on the ground of their likeness.
+And some women, like the females of other animals- for example, mares
+and cows- have a strong tendency to produce offspring resembling their
+parents, as was the case with the Pharsalian mare called Honest.
+
+Part IV
+
+Other evils, against which it is not easy for the authors of such
+a community to guard, will be assaults and homicides, voluntary as
+well as involuntary, quarrels and slanders, all which are most unholy
+acts when committed against fathers and mothers and near relations,
+but not equally unholy when there is no relationship. Moreover, they
+are much more likely to occur if the relationship is unknown, and,
+when they have occurred, the customary expiations of them cannot be
+made. Again, how strange it is that Socrates, after having made the
+children common, should hinder lovers from carnal intercourse only,
+but should permit love and familiarities between father and son or
+between brother and brother, than which nothing can be more unseemly,
+since even without them love of this sort is improper. How strange,
+too, to forbid intercourse for no other reason than the violence of
+the pleasure, as though the relationship of father and son or of brothers
+with one another made no difference. 
+
+This community of wives and children seems better suited to the husbandmen
+than to the guardians, for if they have wives and children in common,
+they will be bound to one another by weaker ties, as a subject class
+should be, and they will remain obedient and not rebel. In a word,
+the result of such a law would be just the opposite of which good
+laws ought to have, and the intention of Socrates in making these
+regulations about women and children would defeat itself. For friendship
+we believe to be the greatest good of states and the preservative
+of them against revolutions; neither is there anything which Socrates
+so greatly lauds as the unity of the state which he and all the world
+declare to be created by friendship. But the unity which he commends
+would be like that of the lovers in the Symposium, who, as Aristophanes
+says, desire to grow together in the excess of their affection, and
+from being two to become one, in which case one or both would certainly
+perish. Whereas in a state having women and children common, love
+will be watery; and the father will certainly not say 'my son,' or
+the son 'my father.' As a little sweet wine mingled with a great deal
+of water is imperceptible in the mixture, so, in this sort of community,
+the idea of relationship which is based upon these names will be lost;
+there is no reason why the so-called father should care about the
+son, or the son about the father, or brothers about one another. Of
+the two qualities which chiefly inspire regard and affection- that
+a thing is your own and that it is your only one-neither can exist
+in such a state as this. 
+
+Again, the transfer of children as soon as they are born from the
+rank of husbandmen or of artisans to that of guardians, and from the
+rank of guardians into a lower rank, will be very difficult to arrange;
+the givers or transferrers cannot but know whom they are giving and
+transferring, and to whom. And the previously mentioned evils, such
+as assaults, unlawful loves, homicides, will happen more often amongst
+those who are transferred to the lower classes, or who have a place
+assigned to them among the guardians; for they will no longer call
+the members of the class they have left brothers, and children, and
+fathers, and mothers, and will not, therefore, be afraid of committing
+any crimes by reason of consanguinity. Touching the community of wives
+and children, let this be our conclusion. 
+
+Part V
+
+Next let us consider what should be our arrangements about property:
+should the citizens of the perfect state have their possessions in
+common or not? This question may be discussed separately from the
+enactments about women and children. Even supposing that the women
+and children belong to individuals, according to the custom which
+is at present universal, may there not be an advantage in having and
+using possessions in common? Three cases are possible: (1) the soil
+may be appropriated, but the produce may be thrown for consumption
+into the common stock; and this is the practice of some nations. Or
+(2), the soil may be common, and may be cultivated in common, but
+the produce divided among individuals for their private use; this
+is a form of common property which is said to exist among certain
+barbarians. Or (3), the soil and the produce may be alike common.
+
+When the husbandmen are not the owners, the case will be different
+and easier to deal with; but when they till the ground for themselves
+the question of ownership will give a world of trouble. If they do
+not share equally enjoyments and toils, those who labor much and get
+little will necessarily complain of those who labor little and receive
+or consume much. But indeed there is always a difficulty in men living
+together and having all human relations in common, but especially
+in their having common property. The partnerships of fellow-travelers
+are an example to the point; for they generally fall out over everyday
+matters and quarrel about any trifle which turns up. So with servants:
+we are most able to take offense at those with whom we most we most
+frequently come into contact in daily life. 
+
+These are only some of the disadvantages which attend the community
+of property; the present arrangement, if improved as it might be by
+good customs and laws, would be far better, and would have the advantages
+of both systems. Property should be in a certain sense common, but,
+as a general rule, private; for, when everyone has a distinct interest,
+men will not complain of one another, and they will make more progress,
+because every one will be attending to his own business. And yet by
+reason of goodness, and in respect of use, 'Friends,' as the proverb
+says, 'will have all things common.' Even now there are traces of
+such a principle, showing that it is not impracticable, but, in well-ordered
+states, exists already to a certain extent and may be carried further.
+For, although every man has his own property, some things he will
+place at the disposal of his friends, while of others he shares the
+use with them. The Lacedaemonians, for example, use one another's
+slaves, and horses, and dogs, as if they were their own; and when
+they lack provisions on a journey, they appropriate what they find
+in the fields throughout the country. It is clearly better that property
+should be private, but the use of it common; and the special business
+of the legislator is to create in men this benevolent disposition.
+Again, how immeasurably greater is the pleasure, when a man feels
+a thing to be his own; for surely the love of self is a feeling implanted
+by nature and not given in vain, although selfishness is rightly censured;
+this, however, is not the mere love of self, but the love of self
+in excess, like the miser's love of money; for all, or almost all,
+men love money and other such objects in a measure. And further, there
+is the greatest pleasure in doing a kindness or service to friends
+or guests or companions, which can only be rendered when a man has
+private property. These advantages are lost by excessive unification
+of the state. The exhibition of two virtues, besides, is visibly annihilated
+in such a state: first, temperance towards women (for it is an honorable
+action to abstain from another's wife for temperance' sake); secondly,
+liberality in the matter of property. No one, when men have all things
+in common, will any longer set an example of liberality or do any
+liberal action; for liberality consists in the use which is made of
+property. 
+
+Such legislation may have a specious appearance of benevolence; men
+readily listen to it, and are easily induced to believe that in some
+wonderful manner everybody will become everybody's friend, especially
+when some one is heard denouncing the evils now existing in states,
+suits about contracts, convictions for perjury, flatteries of rich
+men and the like, which are said to arise out of the possession of
+private property. These evils, however, are due to a very different
+cause- the wickedness of human nature. Indeed, we see that there is
+much more quarrelling among those who have all things in common, though
+there are not many of them when compared with the vast numbers who
+have private property. 
+
+Again, we ought to reckon, not only the evils from which the citizens
+will be saved, but also the advantages which they will lose. The life
+which they are to lead appears to be quite impracticable. The error
+of Socrates must be attributed to the false notion of unity from which
+he starts. Unity there should be, both of the family and of the state,
+but in some respects only. For there is a point at which a state may
+attain such a degree of unity as to be no longer a state, or at which,
+without actually ceasing to exist, it will become an inferior state,
+like harmony passing into unison, or rhythm which has been reduced
+to a single foot. The state, as I was saying, is a plurality which
+should be united and made into a community by education; and it is
+strange that the author of a system of education which he thinks will
+make the state virtuous, should expect to improve his citizens by
+regulations of this sort, and not by philosophy or by customs and
+laws, like those which prevail at Sparta and Crete respecting common
+meals, whereby the legislator has made property common. Let us remember
+that we should not disregard the experience of ages; in the multitude
+of years these things, if they were good, would certainly not have
+been unknown; for almost everything has been found out, although sometimes
+they are not put together; in other cases men do not use the knowledge
+which they have. Great light would be thrown on this subject if we
+could see such a form of government in the actual process of construction;
+for the legislator could not form a state at all without distributing
+and dividing its constituents into associations for common meals,
+and into phratries and tribes. But all this legislation ends only
+in forbidding agriculture to the guardians, a prohibition which the
+Lacedaemonians try to enforce already. 
+
+But, indeed, Socrates has not said, nor is it easy to decide, what
+in such a community will be the general form of the state. The citizens
+who are not guardians are the majority, and about them nothing has
+been determined: are the husbandmen, too, to have their property in
+common? Or is each individual to have his own? And are the wives and
+children to be individual or common. If, like the guardians, they
+are to have all things in common, what do they differ from them, or
+what will they gain by submitting to their government? Or, upon what
+principle would they submit, unless indeed the governing class adopt
+the ingenious policy of the Cretans, who give their slaves the same
+institutions as their own, but forbid them gymnastic exercises and
+the possession of arms. If, on the other hand, the inferior classes
+are to be like other cities in respect of marriage and property, what
+will be the form of the community? Must it not contain two states
+in one, each hostile to the other He makes the guardians into a mere
+occupying garrison, while the husbandmen and artisans and the rest
+are the real citizens. But if so the suits and quarrels, and all the
+evils which Socrates affirms to exist in other states, will exist
+equally among them. He says indeed that, having so good an education,
+the citizens will not need many laws, for example laws about the city
+or about the markets; but then he confines his education to the guardians.
+Again, he makes the husbandmen owners of the property upon condition
+of their paying a tribute. But in that case they are likely to be
+much more unmanageable and conceited than the Helots, or Penestae,
+or slaves in general. And whether community of wives and property
+be necessary for the lower equally with the higher class or not, and
+the questions akin to this, what will be the education, form of government,
+laws of the lower class, Socrates has nowhere determined: neither
+is it easy to discover this, nor is their character of small importance
+if the common life of the guardians is to be maintained.
+
+Again, if Socrates makes the women common, and retains private property,
+the men will see to the fields, but who will see to the house? And
+who will do so if the agricultural class have both their property
+and their wives in common? Once more: it is absurd to argue, from
+the analogy of the animals, that men and women should follow the same
+pursuits, for animals have not to manage a household. The government,
+too, as constituted by Socrates, contains elements of danger; for
+he makes the same persons always rule. And if this is often a cause
+of disturbance among the meaner sort, how much more among high-spirited
+warriors? But that the persons whom he makes rulers must be the same
+is evident; for the gold which the God mingles in the souls of men
+is not at one time given to one, at another time to another, but always
+to the same: as he says, 'God mingles gold in some, and silver in
+others, from their very birth; but brass and iron in those who are
+meant to be artisans and husbandmen.' Again, he deprives the guardians
+even of happiness, and says that the legislator ought to make the
+whole state happy. But the whole cannot be happy unless most, or all,
+or some of its parts enjoy happiness. In this respect happiness is
+not like the even principle in numbers, which may exist only in the
+whole, but in neither of the parts; not so happiness. And if the guardians
+are not happy, who are? Surely not the artisans, or the common people.
+The Republic of which Socrates discourses has all these difficulties,
+and others quite as great. 
+
+Part VI
+
+The same, or nearly the same, objections apply to Plato's later work,
+the Laws, and therefore we had better examine briefly the constitution
+which is therein described. In the Republic, Socrates has definitely
+settled in all a few questions only; such as the community of women
+and children, the community of property, and the constitution of the
+state. The population is divided into two classes- one of husbandmen,
+and the other of warriors; from this latter is taken a third class
+of counselors and rulers of the state. But Socrates has not determined
+whether the husbandmen and artisans are to have a share in the government,
+and whether they, too, are to carry arms and share in military service,
+or not. He certainly thinks that the women ought to share in the education
+of the guardians, and to fight by their side. The remainder of the
+work is filled up with digressions foreign to the main subject, and
+with discussions about the education of the guardians. In the Laws
+there is hardly anything but laws; not much is said about the constitution.
+This, which he had intended to make more of the ordinary type, he
+gradually brings round to the other or ideal form. For with the exception
+of the community of women and property, he supposes everything to
+be the same in both states; there is to be the same education; the
+citizens of both are to live free from servile occupations, and there
+are to be common meals in both. The only difference is that in the
+Laws, the common meals are extended to women, and the warriors number
+5000, but in the Republic only 1000. 
+
+The discourses of Socrates are never commonplace; they always exhibit
+grace and originality and thought; but perfection in everything can
+hardly be expected. We must not overlook the fact that the number
+of 5000 citizens, just now mentioned, will require a territory as
+large as Babylon, or some other huge site, if so many persons are
+to be supported in idleness, together with their women and attendants,
+who will be a multitude many times as great. In framing an ideal we
+may assume what we wish, but should avoid impossibilities.
+
+It is said that the legislator ought to have his eye directed to two
+points- the people and the country. But neighboring countries also
+must not be forgotten by him, firstly because the state for which
+he legislates is to have a political and not an isolated life. For
+a state must have such a military force as will be serviceable against
+her neighbors, and not merely useful at home. Even if the life of
+action is not admitted to be the best, either for individuals or states,
+still a city should be formidable to enemies, whether invading or
+retreating. 
+
+There is another point: Should not the amount of property be defined
+in some way which differs from this by being clearer? For Socrates
+says that a man should have so much property as will enable him to
+live temperately, which is only a way of saying 'to live well'; this
+is too general a conception. Further, a man may live temperately and
+yet miserably. A better definition would be that a man must have so
+much property as will enable him to live not only temperately but
+liberally; if the two are parted, liberally will combine with luxury;
+temperance will be associated with toil. For liberality and temperance
+are the only eligible qualities which have to do with the use of property.
+A man cannot use property with mildness or courage, but temperately
+and liberally he may; and therefore the practice of these virtues
+is inseparable from property. There is an inconsistency, too, in too,
+in equalizing the property and not regulating the number of the citizens;
+the population is to remain unlimited, and he thinks that it will
+be sufficiently equalized by a certain number of marriages being unfruitful,
+however many are born to others, because he finds this to be the case
+in existing states. But greater care will be required than now; for
+among ourselves, whatever may be the number of citizens, the property
+is always distributed among them, and therefore no one is in want;
+but, if the property were incapable of division as in the Laws, the
+supernumeraries, whether few or many, would get nothing. One would
+have thought that it was even more necessary to limit population than
+property; and that the limit should be fixed by calculating the chances
+of mortality in the children, and of sterility in married persons.
+The neglect of this subject, which in existing states is so common,
+is a never-failing cause of poverty among the citizens; and poverty
+is the parent of revolution and crime. Pheidon the Corinthian, who
+was one of the most ardent legislators, thought that the families
+and the number of citizens ought to remain the same, although originally
+all the lots may have been of different sizes: but in the Laws the
+opposite principle is maintained. What in our opinion is the right
+arrangement will have to be explained hereafter. 
+
+There is another omission in the Laws: Socrates does not tell us how
+the rulers differ from their subjects; he only says that they should
+be related as the warp and the woof, which are made out of different
+wools. He allows that a man's whole property may be increased fivefold,
+but why should not his land also increase to a certain extent? Again,
+will the good management of a household be promoted by his arrangement
+of homesteads? For he assigns to each individual two homesteads in
+separate places, and it is difficult to live in two houses.
+
+The whole system of government tends to be neither democracy nor oligarchy,
+but something in a mean between them, which is usually called a polity,
+and is composed of the heavy-armed soldiers. Now, if he intended to
+frame a constitution which would suit the greatest number of states,
+he was very likely right, but not if he meant to say that this constitutional
+form came nearest to his first or ideal state; for many would prefer
+the Lacedaemonian, or, possibly, some other more aristocratic government.
+Some, indeed, say that the best constitution is a combination of all
+existing forms, and they praise the Lacedaemonian because it is made
+up of oligarchy, monarchy, and democracy, the king forming the monarchy,
+and the council of elders the oligarchy while the democratic element
+is represented by the Ephors; for the Ephors are selected from the
+people. Others, however, declare the Ephoralty to be a tyranny, and
+find the element of democracy in the common meals and in the habits
+of daily life. In the Laws it is maintained that the best constitution
+is made up of democracy and tyranny, which are either not constitutions
+at all, or are the worst of all. But they are nearer the truth who
+combine many forms; for the constitution is better which is made up
+of more numerous elements. The constitution proposed in the Laws has
+no element of monarchy at all; it is nothing but oligarchy and democracy,
+leaning rather to oligarchy. This is seen in the mode of appointing
+magistrates; for although the appointment of them by lot from among
+those who have been already selected combines both elements, the way
+in which the rich are compelled by law to attend the assembly and
+vote for magistrates or discharge other political duties, while the
+rest may do as they like, and the endeavor to have the greater number
+of the magistrates appointed out of the richer classes and the highest
+officers selected from those who have the greatest incomes, both these
+are oligarchical features. The oligarchical principle prevails also
+in the choice of the council, for all are compelled to choose, but
+the compulsion extends only to the choice out of the first class,
+and of an equal number out of the second class and out of the third
+class, but not in this latter case to all the voters but to those
+of the first three classes; and the selection of candidates out of
+the fourth class is only compulsory on the first and second. Then,
+from the persons so chosen, he says that there ought to be an equal
+number of each class selected. Thus a preponderance will be given
+to the better sort of people, who have the larger incomes, because
+many of the lower classes, not being compelled will not vote. These
+considerations, and others which will be adduced when the time comes
+for examining similar polities, tend to show that states like Plato's
+should not be composed of democracy and monarchy. There is also a
+danger in electing the magistrates out of a body who are themselves
+elected; for, if but a small number choose to combine, the elections
+will always go as they desire. Such is the constitution which is described
+in the Laws. 
+
+Part VII
+
+Other constitutions have been proposed; some by private persons, others
+by philosophers and statesmen, which all come nearer to established
+or existing ones than either of Plato's. No one else has introduced
+such novelties as the community of women and children, or public tables
+for women: other legislators begin with what is necessary. In the
+opinion of some, the regulation of property is the chief point of
+all, that being the question upon which all revolutions turn. This
+danger was recognized by Phaleas of Chalcedon, who was the first to
+affirm that the citizens of a state ought to have equal possessions.
+He thought that in a new colony the equalization might be accomplished
+without difficulty, not so easily when a state was already established;
+and that then the shortest way of compassing the desired end would
+be for the rich to give and not to receive marriage portions, and
+for the poor not to give but to receive them. 
+
+Plato in the Laws was of opinion that, to a certain extent, accumulation
+should be allowed, forbidding, as I have already observed, any citizen
+to possess more than five times the minimum qualification But those
+who make such laws should remember what they are apt to forget- that
+the legislator who fixes the amount of property should also fix the
+number of children; for, if the children are too many for the property,
+the law must be broken. And, besides the violation of the law, it
+is a bad thing that many from being rich should become poor; for men
+of ruined fortunes are sure to stir up revolutions. That the equalization
+of property exercises an influence on political society was clearly
+understood even by some of the old legislators. Laws were made by
+Solon and others prohibiting an individual from possessing as much
+land as he pleased; and there are other laws in states which forbid
+the sale of property: among the Locrians, for example, there is a
+law that a man is not to sell his property unless he can prove unmistakably
+that some misfortune has befallen him. Again, there have been laws
+which enjoin the preservation of the original lots. Such a law existed
+in the island of Leucas, and the abrogation of it made the constitution
+too democratic, for the rulers no longer had the prescribed qualification.
+Again, where there is equality of property, the amount may be either
+too large or too small, and the possessor may be living either in
+luxury or penury. Clearly, then, the legislator ought not only to
+aim at the equalization of properties, but at moderation in their
+amount. Further, if he prescribe this moderate amount equally to all,
+he will be no nearer the mark; for it is not the possessions but the
+desires of mankind which require to be equalized, and this is impossible,
+unless a sufficient education is provided by the laws. But Phaleas
+will probably reply that this is precisely what he means; and that,
+in his opinion, there ought to be in states, not only equal property,
+but equal education. Still he should tell precisely what he means;
+and that, in his opinion, there ought to be in be in having one and
+the same for all, if it is of a sort that predisposes men to avarice,
+or ambition, or both. Moreover, civil troubles arise, not only out
+of the inequality of property, but out of the inequality of honor,
+though in opposite ways. For the common people quarrel about the inequality
+of property, the higher class about the equality of honor; as the
+poet says, 
+
+"The bad and good alike in honor share. "
+
+There are crimes of which the motive is want; and for these Phaleas
+expects to find a cure in the equalization of property, which will
+take away from a man the temptation to be a highwayman, because he
+is hungry or cold. But want is not the sole incentive to crime; men
+also wish to enjoy themselves and not to be in a state of desire-
+they wish to cure some desire, going beyond the necessities of life,
+which preys upon them; nay, this is not the only reason- they may
+desire superfluities in order to enjoy pleasures unaccompanied with
+pain, and therefore they commit crimes. 
+
+Now what is the cure of these three disorders? Of the first, moderate
+possessions and occupation; of the second, habits of temperance; as
+to the third, if any desire pleasures which depend on themselves,
+they will find the satisfaction of their desires nowhere but in philosophy;
+for all other pleasures we are dependent on others. The fact is that
+the greatest crimes are caused by excess and not by necessity. Men
+do not become tyrants in order that they may not suffer cold; and
+hence great is the honor bestowed, not on him who kills a thief, but
+on him who kills a tyrant. Thus we see that the institutions of Phaleas
+avail only against petty crimes. 
+
+There is another objection to them. They are chiefly designed to promote
+the internal welfare of the state. But the legislator should consider
+also its relation to neighboring nations, and to all who are outside
+of it. The government must be organized with a view to military strength;
+and of this he has said not a word. And so with respect to property:
+there should not only be enough to supply the internal wants of the
+state, but also to meet dangers coming from without. The property
+of the state should not be so large that more powerful neighbors may
+be tempted by it, while the owners are unable to repel the invaders;
+nor yet so small that the state is unable to maintain a war even against
+states of equal power, and of the same character. Phaleas has not
+laid down any rule; but we should bear in mind that abundance of wealth
+is an advantage. The best limit will probably be, that a more powerful
+neighbor must have no inducement to go to war with you by reason of
+the excess of your wealth, but only such as he would have had if you
+had possessed less. There is a story that Eubulus, when Autophradates
+was going to besiege Atarneus, told him to consider how long the operation
+would take, and then reckon up the cost which would be incurred in
+the time. 'For,' said he, 'I am willing for a smaller sum than that
+to leave Atarneus at once.' These words of Eubulus made an impression
+on Autophradates, and he desisted from the siege. 
+
+The equalization of property is one of the things that tend to prevent
+the citizens from quarrelling. Not that the gain in this direction
+is very great. For the nobles will be dissatisfied because they think
+themselves worthy of more than an equal share of honors; and this
+is often found to be a cause of sedition and revolution. And the avarice
+of mankind is insatiable; at one time two obols was pay enough; but
+now, when this sum has become customary, men always want more and
+more without end; for it is of the nature of desire not to be satisfied,
+and most men live only for the gratification of it. The beginning
+of reform is not so much to equalize property as to train the nobler
+sort of natures not to desire more, and to prevent the lower from
+getting more; that is to say, they must be kept down, but not ill-treated.
+Besides, the equalization proposed by Phaleas is imperfect; for he
+only equalizes land, whereas a man may be rich also in slaves, and
+cattle, and money, and in the abundance of what are called his movables.
+Now either all these things must be equalized, or some limit must
+be imposed on them, or they must an be let alone. It would appear
+that Phaleas is legislating for a small city only, if, as he supposes,
+all the artisans are to be public slaves and not to form a supplementary
+part of the body of citizens. But if there is a law that artisans
+are to be public slaves, it should only apply to those engaged on
+public works, as at Epidamnus, or at Athens on the plan which Diophantus
+once introduced. 
+
+From these observations any one may judge how far Phaleas was wrong
+or right in his ideas. 
+
+Part VIII
+
+Hippodamus, the son of Euryphon, a native of Miletus, the same who
+invented the art of planning cities, and who also laid out the Piraeus-
+a strange man, whose fondness for distinction led him into a general
+eccentricity of life, which made some think him affected (for he would
+wear flowing hair and expensive ornaments; but these were worn on
+a cheap but warm garment both in winter and summer); he, besides aspiring
+to be an adept in the knowledge of nature, was the first person not
+a statesman who made inquiries about the best form of government.
+
+The city of Hippodamus was composed of 10,000 citizens divided into
+three parts- one of artisans, one of husbandmen, and a third of armed
+defenders of the state. He also divided the land into three parts,
+one sacred, one public, the third private: the first was set apart
+to maintain the customary worship of the Gods, the second was to support
+the warriors, the third was the property of the husbandmen. He also
+divided laws into three classes, and no more, for he maintained that
+there are three subjects of lawsuits- insult, injury, and homicide.
+He likewise instituted a single final court of appeal, to which all
+causes seeming to have been improperly decided might be referred;
+this court he formed of elders chosen for the purpose. He was further
+of opinion that the decisions of the courts ought not to be given
+by the use of a voting pebble, but that every one should have a tablet
+on which he might not only write a simple condemnation, or leave the
+tablet blank for a simple acquittal; but, if he partly acquitted and
+partly condemned, he was to distinguish accordingly. To the existing
+law he objected that it obliged the judges to be guilty of perjury,
+whichever way they voted. He also enacted that those who discovered
+anything for the good of the state should be honored; and he provided
+that the children of citizens who died in battle should be maintained
+at the public expense, as if such an enactment had never been heard
+of before, yet it actually exists at Athens and in other places. As
+to the magistrates, he would have them all elected by the people,
+that is, by the three classes already mentioned, and those who were
+elected were to watch over the interests of the public, of strangers,
+and of orphans. These are the most striking points in the constitution
+of Hippodamus. There is not much else. 
+
+The first of these proposals to which objection may be taken is the
+threefold division of the citizens. The artisans, and the husbandmen,
+and the warriors, all have a share in the government. But the husbandmen
+have no arms, and the artisans neither arms nor land, and therefore
+they become all but slaves of the warrior class. That they should
+share in all the offices is an impossibility; for generals and guardians
+of the citizens, and nearly all the principal magistrates, must be
+taken from the class of those who carry arms. Yet, if the two other
+classes have no share in the government, how can they be loyal citizens?
+It may be said that those who have arms must necessarily be masters
+of both the other classes, but this is not so easily accomplished
+unless they are numerous; and if they are, why should the other classes
+share in the government at all, or have power to appoint magistrates?
+Further, what use are farmers to the city? Artisans there must be,
+for these are wanted in every city, and they can live by their craft,
+as elsewhere; and the husbandmen too, if they really provided the
+warriors with food, might fairly have a share in the government. But
+in the republic of Hippodamus they are supposed to have land of their
+own, which they cultivate for their private benefit. Again, as to
+this common land out of which the soldiers are maintained, if they
+are themselves to be the cultivators of it, the warrior class will
+be identical with the husbandmen, although the legislator intended
+to make a distinction between them. If, again, there are to be other
+cultivators distinct both from the husbandmen, who have land of their
+own, and from the warriors, they will make a fourth class, which has
+no place in the state and no share in anything. Or, if the same persons
+are to cultivate their own lands, and those of the public as well,
+they will have difficulty in supplying the quantity of produce which
+will maintain two households: and why, in this case, should there
+be any division, for they might find food themselves and give to the
+warriors from the same land and the same lots? There is surely a great
+confusion in all this. 
+
+Neither is the law to commended which says that the judges, when a
+simple issue is laid before them, should distinguish in their judgement;
+for the judge is thus converted into an arbitrator. Now, in an arbitration,
+although the arbitrators are many, they confer with one another about
+the decision, and therefore they can distinguish; but in courts of
+law this is impossible, and, indeed, most legislators take pains to
+prevent the judges from holding any communication with one another.
+Again, will there not be confusion if the judge thinks that damages
+should be given, but not so much as the suitor demands? He asks, say,
+for twenty minae, and the judge allows him ten minae (or in general
+the suitor asks for more and the judge allows less), while another
+judge allows five, another four minae. In this way they will go on
+splitting up the damages, and some will grant the whole and others
+nothing: how is the final reckoning to be taken? Again, no one contends
+that he who votes for a simple acquittal or condemnation perjures
+himself, if the indictment has been laid in an unqualified form; and
+this is just, for the judge who acquits does not decide that the defendant
+owes nothing, but that he does not owe the twenty minae. He only is
+guilty of perjury who thinks that the defendant ought not to pay twenty
+minae, and yet condemns him. 
+
+To honor those who discover anything which is useful to the state
+is a proposal which has a specious sound, but cannot safely be enacted
+by law, for it may encourage informers, and perhaps even lead to political
+commotions. This question involves another. It has been doubted whether
+it is or is not expedient to make any changes in the laws of a country,
+even if another law be better. Now, if an changes are inexpedient,
+we can hardly assent to the proposal of Hippodamus; for, under pretense
+of doing a public service, a man may introduce measures which are
+really destructive to the laws or to the constitution. But, since
+we have touched upon this subject, perhaps we had better go a little
+into detail, for, as I was saying, there is a difference of opinion,
+and it may sometimes seem desirable to make changes. Such changes
+in the other arts and sciences have certainly been beneficial; medicine,
+for example, and gymnastic, and every other art and craft have departed
+from traditional usage. And, if politics be an art, change must be
+necessary in this as in any other art. That improvement has occurred
+is shown by the fact that old customs are exceedingly simple and barbarous.
+For the ancient Hellenes went about armed and bought their brides
+of each other. The remains of ancient laws which have come down to
+us are quite absurd; for example, at Cumae there is a law about murder,
+to the effect that if the accuser produce a certain number of witnesses
+from among his own kinsmen, the accused shall be held guilty. Again,
+men in general desire the good, and not merely what their fathers
+had. But the primeval inhabitants, whether they were born of the earth
+or were the survivors of some destruction, may be supposed to have
+been no better than ordinary or even foolish people among ourselves
+(such is certainly the tradition concerning the earth-born men); and
+it would be ridiculous to rest contented with their notions. Even
+when laws have been written down, they ought not always to remain
+unaltered. As in other sciences, so in politics, it is impossible
+that all things should be precisely set down in writing; for enactments
+must be universal, but actions are concerned with particulars. Hence
+we infer that sometimes and in certain cases laws may be changed;
+but when we look at the matter from another point of view, great caution
+would seem to be required. For the habit of lightly changing the laws
+is an evil, and, when the advantage is small, some errors both of
+lawgivers and rulers had better be left; the citizen will not gain
+so much by making the change as he will lose by the habit of disobedience.
+The analogy of the arts is false; a change in a law is a very different
+thing from a change in an art. For the law has no power to command
+obedience except that of habit, which can only be given by time, so
+that a readiness to change from old to new laws enfeebles the power
+of the law. Even if we admit that the laws are to be changed, are
+they all to be changed, and in every state? And are they to be changed
+by anybody who likes, or only by certain persons? These are very important
+questions; and therefore we had better reserve the discussion of them
+to a more suitable occasion. 
+
+Part IX
+
+In the governments of Lacedaemon and Crete, and indeed in all governments,
+two points have to be considered: first, whether any particular law
+is good or bad, when compared with the perfect state; secondly, whether
+it is or is not consistent with the idea and character which the lawgiver
+has set before his citizens. That in a well-ordered state the citizens
+should have leisure and not have to provide for their daily wants
+is generally acknowledged, but there is a difficulty in seeing how
+this leisure is to be attained. The Thessalian Penestae have often
+risen against their masters, and the Helots in like manner against
+the Lacedaemonians, for whose misfortunes they are always lying in
+wait. Nothing, however, of this kind has as yet happened to the Cretans;
+the reason probably is that the neighboring cities, even when at war
+with one another, never form an alliance with rebellious serfs, rebellions
+not being for their interest, since they themselves have a dependent
+population. Whereas all the neighbors of the Lacedaemonians, whether
+Argives, Messenians, or Arcadians, were their enemies. In Thessaly,
+again, the original revolt of the slaves occurred because the Thessalians
+were still at war with the neighboring Achaeans, Perrhaebians, and
+Magnesians. Besides, if there were no other difficulty, the treatment
+or management of slaves is a troublesome affair; for, if not kept
+in hand, they are insolent, and think that they are as good as their
+masters, and, if harshly treated, they hate and conspire against them.
+Now it is clear that when these are the results the citizens of a
+state have not found out the secret of managing their subject population.
+
+Again, the license of the Lacedaemonian women defeats the intention
+of the Spartan constitution, and is adverse to the happiness of the
+state. For, a husband and wife being each a part of every family,
+the state may be considered as about equally divided into men and
+women; and, therefore, in those states in which the condition of the
+women is bad, half the city may be regarded as having no laws. And
+this is what has actually happened at Sparta; the legislator wanted
+to make the whole state hardy and temperate, and he has carried out
+his intention in the case of the men, but he has neglected the women,
+who live in every sort of intemperance and luxury. The consequence
+is that in such a state wealth is too highly valued, especially if
+the citizen fall under the dominion of their wives, after the manner
+of most warlike races, except the Celts and a few others who openly
+approve of male loves. The old mythologer would seem to have been
+right in uniting Ares and Aphrodite, for all warlike races are prone
+to the love either of men or of women. This was exemplified among
+the Spartans in the days of their greatness; many things were managed
+by their women. But what difference does it make whether women rule,
+or the rulers are ruled by women? The result is the same. Even in
+regard to courage, which is of no use in daily life, and is needed
+only in war, the influence of the Lacedaemonian women has been most
+mischievous. The evil showed itself in the Theban invasion, when,
+unlike the women other cities, they were utterly useless and caused
+more confusion than the enemy. This license of the Lacedaemonian women
+existed from the earliest times, and was only what might be expected.
+For, during the wars of the Lacedaemonians, first against the Argives,
+and afterwards against the Arcadians and Messenians, the men were
+long away from home, and, on the return of peace, they gave themselves
+into the legislator's hand, already prepared by the discipline of
+a soldier's life (in which there are many elements of virtue), to
+receive his enactments. But, when Lycurgus, as tradition says, wanted
+to bring the women under his laws, they resisted, and he gave up the
+attempt. These then are the causes of what then happened, and this
+defect in the constitution is clearly to be attributed to them. We
+are not, however, considering what is or is not to be excused, but
+what is right or wrong, and the disorder of the women, as I have already
+said, not only gives an air of indecorum to the constitution considered
+in itself, but tends in a measure to foster avarice. 
+
+The mention of avarice naturally suggests a criticism on the inequality
+of property. While some of the Spartan citizen have quite small properties,
+others have very large ones; hence the land has passed into the hands
+of a few. And this is due also to faulty laws; for, although the legislator
+rightly holds up to shame the sale or purchase of an inheritance,
+he allows anybody who likes to give or bequeath it. Yet both practices
+lead to the same result. And nearly two-fifths of the whole country
+are held by women; this is owing to the number of heiresses and to
+the large dowries which are customary. It would surely have been better
+to have given no dowries at all, or, if any, but small or moderate
+ones. As the law now stands, a man may bestow his heiress on any one
+whom he pleases, and, if he die intestate, the privilege of giving
+her away descends to his heir. Hence, although the country is able
+to maintain 1500 cavalry and 30,000 hoplites, the whole number of
+Spartan citizens fell below 1000. The result proves the faulty nature
+of their laws respecting property; for the city sank under a single
+defeat; the want of men was their ruin. There is a tradition that,
+in the days of their ancient kings, they were in the habit of givin</pre></body></html>

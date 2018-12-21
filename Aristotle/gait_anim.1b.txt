@@ -1,0 +1,773 @@
+
+<BASE HREF="http://classics.mit.edu/Aristotle/gait_anim.1b.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Aristotle/gait_anim.1b.txt"><font color=blue>classics.mit.edu/Aristotle/gait_anim.1b.txt</font></a>.<br>
+<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Aristotle/gait_anim.1b.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
+<html><body><pre>
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Aristotle/gait_anim.html
+
+On the Gait of Animals
+By Aristotle
+
+
+Translated by A. S. L. Farquharson
+
+Part 1
+
+We have now to consider the parts which are useful to animals for
+movement in place (locomotion); first, why each part is such as it
+is and to what end they possess them; and second, the differences
+between these parts both in one and the same creature, and again by
+comparison of the parts of creatures of different species with one
+another. First then let us lay down how many questions we have to
+consider. 
+
+The first is what are the fewest points of motion necessary to animal
+progression, the second why sanguineous animals have four points and
+not more, but bloodless animals more than four, and generally why
+some animals are footless, others bipeds, others quadrupeds, others
+polypods, and why all have an even number of feet, if they have feet
+at all; why in fine the points on which progression depends are even
+in number. 
+
+Next, why are man and bird bipeds, but fish footless; and why do man
+and bird, though both bipeds, have an opposite curvature of the legs.
+For man bends his legs convexly, a bird has his bent concavely; again,
+man bends his arms and legs in opposite directions, for he has his
+arms bent convexly, but his legs concavely. And a viviparous quadruped
+bends his limbs in opposite directions to a man's, and in opposite
+directions to one another; for he has his forelegs bent convexly,
+his hind legs concavely. Again, quadrupeds which are not viviparous
+but oviparous have a peculiar curvature of the limbs laterally away
+from the body. Again, why do quadrupeds move their legs criss-cross?
+
+We have to examine the reasons for all these facts, and others cognate
+to them; that the facts are such is clear from our Natural History,
+we have now to ask reasons for the facts. 
+
+Part 2
+
+At the beginning of the inquiry we must postulate the principles we
+are accustomed constantly to use for our scientific investigation
+of nature, that is we must take for granted principles of this universal
+character which appear in all Nature's work. Of these one is that
+Nature creates nothing without a purpose, but always the best possible
+in each kind of living creature by reference to its essential constitution.
+Accordingly if one way is better than another that is the way of Nature.
+Next we must take for granted the different species of dimensions
+which inhere in various things; of these there are three pairs of
+two each, superior and inferior, before and behind, to the right and
+to the left. Further we must assume that the originals of movements
+in place are thrusts and pulls. (These are the essential place-movements,
+it is only accidentally that what is carried by another is moved;
+it is not thought to move itself, but to be moved by something else.)
+
+Part 3
+
+After these preliminaries, we go on to the next questions in order.
+
+Now of animals which change their position some move with the whole
+body at once, for example jumping animals, others move one part first
+and then the other, for example walking (and running) animals. In
+both these changes the moving creature always changes its position
+by pressing against what lies below it. Accordingly if what is below
+gives way too quickly for that which is moving upon it to lean against
+it, or if it affords no resistance at all to what is moving, the latter
+can of itself effect no movement upon it. For an animal which jumps
+makes its jump both by leaning against its own upper part and also
+against what is beneath its feet; for at the joints the parts do in
+a sense lean upon one another, and in general that which pushes down
+leans upon what is pushed down. That is why athletes jump further
+with weights in their hands than without, and runners run faster if
+they swing their arms; there is in extending the arms a kind of leaning
+against the hands and wrists. In all cases then that which moves makes
+its change of position by the use of at least two parts of the body;
+one part so to speak squeezes, the other is squeezed; for the part
+that is still is squeezed as it has to carry the weight, the part
+that is lifted strains against that which carries the weight. It follows
+then that nothing without parts can move itself in this way, for it
+has not in it the distinction of the part which is passive and that
+which is active. 
+
+Part 4
+
+Again, the boundaries by which living beings are naturally determined
+are six in number, superior and inferior, before and behind, right
+and left. Of these all living beings have a superior and an inferior
+part; for superior and inferior is in plants too, not only in animals.
+And this distinction is one of function, not merely of position relatively
+to our earth and the sky above our heads. The superior is that from
+which flows in each kind the distribution of nutriment and the process
+of growth; the inferior is that to which the process flows and in
+which it ends. One is a starting-point, the other an end, and the
+starting-point is the superior. And yet it might be thought that in
+the case of plants at least the inferior is rather the appropriate
+starting-point, for in them the superior and inferior are in position
+other than in animals. Still they are similarly situated from the
+point of view of function, though not in their position relatively
+to the universe. The roots are the superior part of a plant, for from
+them the nutriment is distributed to the growing members, and a plant
+takes it with its roots as an animal does with its mouth.
+
+Things that are not only alive but are animals have both a front and
+a back, because they all have sense, and front and back are distinguished
+by reference to sense. The front is the part in which sense is innate,
+and whence each thing gets its sensations, the opposite parts are
+the back. 
+
+All animals which partake not only in sense, but are able of themselves
+to make a change of place, have a further distinction of left and
+right besides those already enumerated; like the former these are
+distinctions of function and not of position. The right is that from
+which change of position naturally begins, the opposite which naturally
+depends upon this is the left. 
+
+This distinction (of right and left) is more articulate and detailed
+in some than in others. For animals which make the aforesaid change
+(of place) by the help of organized parts (I mean feet for example,
+or wings or similar organs) have the left and right distinguished
+in greater detail, while those which are not differentiated into such
+parts, but make the differentiation in the body itself and so progress,
+like some footless animals (for example snakes and caterpillars after
+their kind, and besides what men call earth-worms), all these have
+the distinction spoken of, although it is not made so manifest to
+us. That the beginning of movement is on the right is indicated by
+the fact that all men carry burdens on the left shoulder; in this
+way they set free the side which initiates movement and enable the
+side which bears the weight to be moved. And so men hop easier on
+the left leg; for the nature of the right is to initiate movement,
+that of the left to be moved. The burden then must rest on the side
+which is to be moved, not on that which is going to cause movement,
+and if it be set on the moving side, which is the original of movement,
+it will either not be moved at all or with more labour. Another indication
+that the right is the source of movement is the way we put our feet
+forward; all men lead off with the left, and after standing still
+prefer to put the left foot forward, unless something happens to prevent
+it. The reason is that their movement comes from the leg they step
+off, not from the one put forward. Again, men guard themselves with
+their right. And this is the reason why the right is the same in all,
+for that from which motion begins is the same for all, and has its
+natural position in the same place, and for this reason the spiral-shaped
+Testaceans have their shells on the right, for they do not move in
+the direction of the spire, but all go forward in the direction opposite
+to the spire. Examples are the murex and the ceryx. As all animals
+then start movement from the right, and the right moves in the same
+direction as the whole, it is necessary for all to be alike right-handed.
+And man has the left limbs detached more than any other animal because
+he is natural in a higher degree than the other animals; now the right
+is naturally both better than the left and separate from it, and so
+in man the right is more especially the right, more dextrous that
+is, than in other animals. The right then being differentiated it
+is only reasonable that in man the left should be most movable, and
+most detached. In man, too, the other starting-points are found most
+naturally and clearly distinct, the superior part that is and the
+front. 
+
+Part 5
+
+Animals which, like men and birds, have the superior part distinguished
+from the front are two-footed (biped). In them, of the four points
+of motion, two are wings in the one, hands and arms in the other.
+Animals which have the superior and the front parts identically situated
+are four-footed, many-footed, or footless (quadruped, polypod, limbless).
+I use the term foot for a member employed for movement in place connected
+with a point on the ground, for the feet appear to have got their
+name from the ground under our feet. 
+
+Some animals, too, have the front and back parts identically situated,
+for example, Cephalopods (molluscs) and spiral-shaped Testaceans,
+and these we have discussed elsewhere in another connexion.
+
+Now there is in place a superior, an intermediate, and an inferior;
+in respect to place bipeds have their superior part corresponding
+to the part of the universe; quadrupeds, polypods, and footless animals
+to the intermediate part, and plants to the inferior. The reason is
+that these have no power of locomotion, and the superior part is determined
+relatively to the nutriment, and their nutriment is from the earth.
+Quadrupeds, polypods, and footless animals again have their superior
+part corresponding to the intermediate, because they are not erect.
+Bipeds have theirs corresponding to the superior part of the universe
+because they are erect, and of bipeds, man par excellence; for man
+is the most natural of bipeds. And it is reasonable for the starting
+points to be in these parts; for the starting-point is honourable,
+and the superior is more honourable than the inferior, the front than
+the back, and the right than the left. Or we may reverse the argument
+and say quite well that these parts are more honourable than their
+opposites just because the starting-points are in them. 
+
+Part 6
+
+The above discussion has made it clear that the original of movement
+is in the parts on the right. Now every continuous whole, one part
+of which is moved while the other remains at rest must, in order to
+be able to move as a whole while one part stands still, have in the
+place where both parts have opposed movements some common part which
+connects the moving parts with one another. Further in this common
+part the original of the motion (and similarly of the absence of motion)
+of each of the parts must lie. 
+
+Clearly then if any of the opposite pairs of parts (right and left,
+that is, superior and inferior, before and behind) have a movement
+of their own, each of them has for common original of its movements
+the juncture of the parts in question. 
+
+Now before and behind are not distinctions relatively to that which
+sets up its own motion, because in nature nothing has a movement backwards,
+nor has a moving animal any division whereby it may make a change
+of position towards its front or back; but right and left, superior
+and inferior are so distinguished. Accordingly, all animals which
+progress by the use of distinct members have these members distinguished
+not by the differences of before and behind, but only of the remaining
+two pairs; the prior difference dividing these members into right
+and left (a difference which must appear as soon as you have division
+into two), and the other difference appearing of necessity where there
+is division into four. 
+
+Since then these two pairs, the superior and inferior and the right
+and left, are linked to one another by the same common original (by
+which I mean that which controls their movement), and further, everything
+which is intended to make a movement in each such part properly must
+have the original cause of all the said movements arranged in a certain
+definite position relatively to the distances from it of the originals
+of the movements of the individual members (and these centres of the
+individual parts are in pairs arranged coordinately or diagonally,
+and the common centre is the original from which the animal's movements
+of right and left, and similarly of superior and inferior, start);
+each animal must have this original at a point where it is equally
+or nearly equally related to each of the centres in the four parts
+described. 
+
+Part 7
+
+It is clear then how locomotion belongs to those animals only which
+make their changes of place by means of two or four points in their
+structure, or to such animals par excellence. Moreover, since this
+property belongs almost peculiarly to Sanguineous animals, we see
+that no Sanguineous animal can progress at more points than four,
+and that if it is the nature of anything so to progress at four points
+it must of necessity be Sanguineous. 
+
+What we observe in the animal world is in agreement with the above
+account. For no Sanguineous animal if it be divided into more parts
+can live for any appreciable length of time, nor can it enjoy the
+power of locomotion which it possessed while it was a continuous and
+undivided whole. But some bloodless animals and polypods can live
+a long time, if divided, in each of the severed parts, and can move
+in the same way as before they were dismembered. Examples are what
+is termed the centipede and other insects that are long in shape,
+for even the hinder portion of all these goes on progressing in the
+same direction as before when they are cut in two. 
+
+The explanation of their living when thus divided is that each of
+them is constructed like a continuous body of many separate living
+beings. It is plain, too, from what was said above why they are like
+this. Animals constructed most naturally are made to move at two or
+four points, and even limbless Sanguinea are no exception. They too
+move by dint of four points, whereby they achieve progression. They
+go forward by means of two flexions. For in each of their flexions
+there is a right and a left, both before and behind in their flat
+surface, in the part towards the head a right and a left front point,
+and in the part towards the tail the two hinder points. They look
+as if they moved at two points only, where they touch before and behind,
+but that is only because they are narrow in breadth. Even. in them
+the right is the sovereign part, and there is an alternate correspondence
+behind, exactly as in quadrupeds. The reason of their flexions is
+their great length, for just as tall men walk with their spines bellied
+(undulated) forward, and when their right shoulder is leading in a
+forward direction their left hip rather inclined backwards, so that
+their middle becomes hollow and bellied (undulated), so we ought to
+conceive snakes as moving in concave curves (undulations) upon the
+ground. And this is evidence that they move themselves like the quadrupeds,
+for they make the concave in its turn convex and the convex concave.
+When in its turn the left of the forward parts is leading, the concavity
+is in its turn reversed, for the right becomes the inner. (Let the
+right front point be A, the left B, the right hind C, the left D.)
+
+Among land animals this is the character of the movement of snakes,
+and among water animals of eels, and conger-eels and also lampreys,
+in fact of all that have their form snakelike. However, some marine
+animals of this shape have no fin, lampreys for example, but put the
+sea to the same use as snakes do both land and water (for snakes swim
+precisely as they move on the ground). Others have two fins only,
+for example conger-eels and eels and a kind of cestreus which breeds
+in the lake of Siphae. On this account too those that are accustomed
+to live on land, for example all the eels, move with fewer flexions
+in a fluid than on land, while the kind of cestreus which has two
+fins, by its flexion in a fluid makes up the remaining points.
+
+Part 8
+
+The reason why snakes are limbless is first that nature makes nothing
+without purpose, but always regards what is the best possible for
+each individual, preserving the peculiar essence of each and its intended
+character, and secondly the principle we laid down above that no Sanguineous
+creature can move itself at more than four points. Granting this it
+is evident that Sanguineous animals like snakes, whose length is out
+of proportion to the rest of their dimensions, cannot possibly have
+limbs; for they cannot have more than four (or they would be bloodless),
+and if they had two or four they would be practically stationary;
+so slow and unprofitable would their movement necessarily be.
+
+But every limbed animal has necessarily an even number of such limbs.
+For those which only jump and so move from place to place do not need
+limbs for this movement at least, but those which not only jump but
+also need to walk, finding that movement not sufficient for their
+purposes, evidently either are better able to progress with even limbs
+or cannot otherwise progress at all every animal which has limbs must
+have an even us for as this kind of movement is effected by part of
+the body at a time, and not by the whole at once as in the movement
+of leaping, some of the limbs must in turn remain at rest, and others
+be moved, and the animal must act in each of these cases with opposite
+limbs, shifting the weight from the limbs that are being moved to
+those at rest. And so nothing can walk on three limbs or on one; in
+the latter case it has no support at all on which to rest the body's
+weight, in the former only in respect of one pair of opposites, and
+so it must necessarily fall in endeavouring so to move. 
+
+Polypods however, like the Centipede, can indeed make progress on
+an odd number of limbs, as may be seen by the experiment of wounding
+one of their limbs; for then the mutilation of one row of limbs is
+corrected by the number of limbs which remain on either side. Such
+mutilated creatures, however, drag the wounded limb after them with
+the remainder, and do not properly speaking walk. Moreover, it is
+plain that they, too, would make the change of place better if they
+had an even number, in fact if none were missing and they had the
+limbs which correspond to one another. In this way they could equalize
+their own weight, and not oscillate to one side, if they had corresponding
+supports instead of one section of the opposite sides being unoccupied
+by a limb. A walking creature advances from each of its members alternately,
+for in this way it recovers the same figure that it had at first.
+
+Part 9
+
+The fact that all animals have an even number of feet, and the reasons
+for the fact have been set forth. What follows will explain that if
+there were no point at rest flexion and straightening would be impossible.
+Flexion is a change from a right line to an arc or an angle, straightening
+a change from either of these to a right line. Now in all such changes
+the flexion or the straightening must be relative to one point. Moreover,
+without flexion there could not be walking or swimming or flying.
+For since limbed creatures stand and take their weight alternately
+on one or other of the opposite legs, if one be thrust forward the
+other of necessity must be bent. For the opposite limbs are naturally
+of equal length, and the one which is under the weight must be a kind
+of perpendicular at right angles to the ground. 
+
+When then one leg is advanced it becomes the hypotenuse of a right-angled
+triangle. Its square then is equal to the square on the other side
+together with the square on the base. As the legs then are equal,
+the one at rest must bend either at the knee or, if there were any
+kneeless animal which walked, at some other articulation. The following
+experiment exhibits the fact. If a man were to walk parallel to a
+wall in sunshine, the line described (by the shadow of his head&amp;gt;
+would be not straight but zigzag, becoming lower as he bends, and
+higher when he stands and lifts himself up. 
+
+It is, indeed, possible to move oneself even if the leg be not bent,
+in the way in which children crawl. This was the old though erroneous
+account of the movement of elephants. But these kinds of movements
+involve a flexion in the shoulders or in the hips. Nothing at any
+rate could walk upright continuously and securely without flexions
+at the knee, but would have to move like men in the wrestling schools
+who crawl forward through the sand on their knees. For the upper part
+of the upright creature is long so that its leg has to be correspondingly
+long; in consequence there must be flexion. For since a stationary
+position is perpendicular, if that which moves cannot bend it will
+either fall forward as the right angle becomes acute or will not be
+able to progress. For if one leg is at right angles to the ground
+and the other is advanced, the latter will be at once equal and greater.
+For it will be equal to the stationary leg and also equivalent to
+the hypotenuse of a right-angled triangle. That which goes forward
+therefore must bend, and while bending one, extend the other leg simultaneously,
+so as to incline forward and make a stride and still remain above
+the perpendicular; for the legs form an isosceles triangle, and the
+head sinks lower when it is perpendicularly above the base on which
+it stands. 
+
+Of limbless animals, some progress by undulations (and this happens
+in two ways, either they undulate on the ground, like snakes, or up
+and down, like caterpillars), and undulation is a flexion; others
+by a telescopic action, like what are called earthworms and leeches.
+These go forward, first one part leading and then drawing the whole
+of the rest of the body up to this, and so they change from place
+to place. It is plain too that if the two curves were not greater
+than the one line which subtends them undulating animals could not
+move themselves; when the flexure is extended they would not have
+moved forward at all if the flexure or arc were equal to the chord
+subtended; as it is, it reaches further when it is straightened out,
+and then this part stays still and it draws up what is left behind.
+
+In all the changes described that which moves now extends itself in
+a straight line to progress, and now is hooped; it straightens itself
+in its leading part, and is hooped in what follows behind. Even jumping
+animals all make a flexion in the part of the body which is underneath,
+and after this fashion make their leaps. So too flying and swimming
+things progress, the one straightening and bending their wings to
+fly, the other their fins to swim. Of the latter some have four fins,
+others which are rather long, for example eels, have only two. These
+swim by substituting a flexion of the rest of their body for the (missing)
+pair of fins to complete the movement, as we have said before. Flat
+fish use two fins, and the flat of their body as a substitute for
+the absent pair of fins. Quite flat fish, like the Ray, produce their
+swimming movement with the actual fins and with the two extremes or
+semicircles of their body, bending and straightening themselves alternately.
+
+Part 10
+
+A difficulty might perhaps be raised about birds. How, it may be said,
+can they, either when they fly or when they walk, be said to move
+at four points? Now we did not say that all Sanguinea move at four
+points, but merely at not more than four. Moreover, they cannot as
+a fact fly if their legs be removed, nor walk without their wings.
+Even a man does not walk without moving his shoulders. Everything
+indeed, as we have said, makes a change of place by flexion and straightening,
+for all things progress by pressing upon what being beneath them up
+to a point gives way as it were gradually; accordingly, even if there
+be no flexion in another member, there must be at least in the point
+whence motion begins, is in feathered (flying) insects at the base
+of the 'scale-wing', in birds at the base of the wing, in others at
+the base of the corresponding member, the fins, for instance, in fish.
+In others, for example snakes, the flexion begins in the joints of
+the body. 
+
+In winged creatures the tail serves, like a ship's rudder, to keep
+the flying thing in its course. The tail then must like other limbs
+be able to bend at the point of attachment. And so flying insects,
+and birds (Schizoptera) whose tails are ill-adapted for the use in
+question, for example peacocks, and domestic cocks, and generally
+birds that hardly fly, cannot steer a straight course. Flying insects
+have absolutely no tail, and so drift along like a rudderless vessel,
+and beat against anything they happen upon; and this applies equally
+to sharded insects, like the scarab-beetle and the chafer, and to
+unsharded, like bees and wasps. Further, birds that are not made for
+flight have a tail that is of no use; for instance the purple coot
+and the heron and all water-fowl. These fly stretching out their feet
+as a substitute for a tail, and use their legs instead of a tail to
+direct their flight. The flight of insects is slow and frail because
+the character of their feathery wings is not proportionate to the
+bulk of their body; this is heavy, their wings small and frail, and
+so the flight they use is like a cargo boat attempting to make its
+voyage with oars; now the frailty both of the actual wings and of
+the outgrowths upon them contributes in a measure to the flight described.
+Among birds, the peacock's tail is at one time useless because of
+its size, at another because it is shed. But birds are in general
+at the opposite pole to flying insects as regards their feathers,
+but especially the swiftest flyers among them. (These are the birds
+with curved talons, for swiftness of wing is useful to their mode
+of life.) The rest of their bodily structure is in harmony with their
+peculiar movement, the small head, the slight neck, the strong and
+acute breastbone (acute like the prow of a clipper-built vessel, so
+as to be well-girt, and strong by dint of its mass of flesh), in order
+to be able to push away the air that beats against it, and that easily
+and without exhaustion. The hind-quarters, too, are light and taper
+again, in order to conform to the movement of the front and not by
+their breadth to suck the air. 
+
+Part 11
+
+So much then for these questions. But why an animal that is to stand
+erect must necessarily be not only a biped, but must also have the
+superior parts of the body lighter, and those that lie under these
+heavier, is plain. Only if situated like this could it possibly carry
+itself easily. And so man, the only erect animal, has legs longer
+and stouter relatively to the upper parts of his body than any other
+animal with legs. What we observe in children also is evidence of
+this. Children cannot walk erect because they are always dwarf-like,
+the upper parts of their bodies being longer and stouter than the
+lower. With advancing years the lower increase disproportionately,
+until the children get their appropriate size, and then and not till
+then they succeed in walking erect. Birds are hunchbacked yet stand
+on two legs because their weight is set back, after the principle
+of horses fashioned in bronze with their forelegs prancing. But their
+being bipeds and able to stand is above all due to their having the
+hip-bone shaped like a thigh, and so large that it looks as if they
+had two thighs, one in the leg before the knee-joint, the other joining
+his part to the fundament. Really this is not a thigh but a hip, and
+if it were not so large the bird could not be a biped. As in a man
+or a quadruped, the thigh and the rest of the leg would be attached
+immediately to quite a small hip; consequently the whole body would
+be tilted forward. As it is, however, the hip is long and extends
+right along to the middle of the belly, so that the legs are attached
+at that point and carry as supports the whole frame. It is also evident
+from these considerations that a bird cannot possibly be erect in
+the sense in which man is. For as it holds its body now the wings
+are naturally useful to it, but if it were erect they would be as
+useless as the wings of Cupids we see in pictures. It must have been
+clear as soon as we spoke that the form of no human nor any similar
+being permits of wings; not only because it would, though Sanguineous,
+be moved at more than four points, but also because to have wings
+would be useless to it when moving naturally. And Nature makes nothing
+contrary to her own nature. 
+
+Part 12
+
+We have stated above that without flexion in the legs or shoulders
+and hips no Sanguineous animal with feet could progress, and that
+flexion is impossible except some point be at rest, and that men and
+birds, both bipeds, bend their legs in opposite directions, and further
+that quadrupeds bend their in opposite directions, and each pair in
+the opposite way to a man's limbs. For men bend their arms backwards,
+their legs forwards; quadrupeds their forelegs forwards, their back
+legs backwards, and in like manner also birds bend theirs. The reason
+is that Nature's workmanship is never purposeless, as we said above,
+but everything for the best possible in the circumstances. Inasmuch,
+therefore, as all creatures which naturally have the power of changing
+position by the use of limbs, must have one leg stationary with the
+weight of the body on it, and when they move forward the leg which
+has the leading position must be unencumbered, and the progression
+continuing the weight must shift and be taken off on this leading
+leg, it is evidently necessary for the back leg from being bent to
+become straight again, while the point of movement of the leg thrust
+forward and its lower part remain still. And so the legs must be jointed.
+And it is possible for this to take place and at the same time for
+the animal to go forward, if the leading leg has its articulation
+forwards, impossible if it be backwards. For, if it be forwards, the
+stretching out of the leg will be while the body is going forwards,
+but, if the other way, while it is going backwards. And again, if
+the flexion were backwards, the placing of the foot would be made
+by two movements and those contrary to one another, one, that is,
+backwards and one forwards; for in the bending together of the limb
+the lower end of the thigh would go backwards, and the shin would
+move the foot forwards away from the flexion; whereas, with the flexion
+forwards, the progression described will be performed not with contrary
+motions, but with one forward motion. 
+
+Now man, being a biped and making his change of position in the natural
+way with his two legs, bends them forward for the reasons set forth,
+but his arms bend backwards reasonably enough. If they bent the opposite
+way they would be useless for the work of the hands, and for taking
+food. But quadrupeds which are also viviparous necessarily bend their
+front legs forwards. For these lead off first when they move, and
+are also in the forepart of their body. The reason that they bend
+forward is the same as in the case of man, for in this respect they
+are like mankind. And so quadrupeds as well as men bend these legs
+forward in the manner described. Moreover, if the flexion is like
+this, they are enabled to lift their feet high; if they bent them
+in the opposite way they would only lift them a little way from the
+ground, because the whole thigh and the joint from which the shin-bone
+springs would lie under the belly as the beast moved forward. If,
+however, the flexion of the hind legs were forwards the lifting of
+these feet would be similar to that of the forefeet (for the hind
+legs, too, would in this case have only a little room for their lifting
+inasmuch as both the thigh and the knee-joint would fall under the
+position of the belly); but the flexion being backwards, as in fact
+it is, nothing comes in the way of their progression with this mode
+of moving the feet. Moreover, it is necessary or at least better for
+their legs to bend thus when they are suckling their young, with a
+view to such ministrations. If the flexion were inwards it would be
+difficult to keep their young under them and to shelter them.
+
+Part 13
+
+Now there are four modes of flexion if we take the combinations in
+pairs. Fore and hind may bend either both backwards, as the figures
+marked A, or in the opposite way both forwards, as in B, or in converse
+ways and not in the same direction, as in C where the fore bend forwards
+and the hind bend backwards, or as in D, the opposite way to C, where
+the convexities are turned towards one another and the concavities
+outwards. Now no biped or quadruped bends his limbs like the figures
+A or B, but the quadrupeds like C, and like D only the elephant among
+quadrupeds and man if you consider his arms as well as his legs. For
+he bends his arms concavely and his legs convexly. 
+
+In man, too, the flexions of the limbs are always alternately opposite,
+for example the elbow bends back, but the wrist of the hand forwards,
+and again the shoulder forwards. In like fashion, too, in the case
+of the legs, the hip backwards, the knee forwards, the ankle in the
+opposite way backwards. And plainly the lower limbs are opposed in
+this respect to the upper, because the first joints are opposites,
+the shoulder bending forwards, the hip backwards; wherefore also the
+ankle bends backwards, and the wrist of the hand forwards.
+
+Part 14
+
+This is the way then the limbs bend, and for the reasons given. But
+the hind limbs move criss-cross with the fore limbs; after the off
+fore they move the near hind, then the near fore, and then the off
+hind. The reason is that (a) if they moved the forelegs together and
+first, the animal would be wrenched, and the progression would be
+a stumbling forwards with the hind parts as it were dragged after.
+Again, that would not be walking but jumping, and it is hard to make
+a continuous change of place, jumping all the time. Here is evidence
+of what I say; even as it is, all horses that move in this way soon
+begin to refuse, for example the horses in a religious procession.
+For these reasons the fore limbs and the hind limbs move in this separate
+way. Again, (b) if they moved both the right legs first the weight
+would be outside the supporting limbs and they would fall. If then
+it is necessary to move in one or other of these ways or criss-cross
+fashion, and neither of these two is satisfactory, they must move
+criss-cross; for moving in the way we have said they cannot possibly
+experience either of these untoward results. And this is why horses
+and such-like animals stand still with their legs put forward criss-cross,
+not with the right or the left put forward together at once. In the
+same fashion animals with more than four legs make their movements;
+if you take two consecutive pairs of legs the hind move criss-cross
+with the forelegs; you can see this if you watch them moving slowly.
+Even crabs move in this way, and they are polypods. They, too, always
+move criss-cross in whichever direction they are making progress.
+For in direction this animal has a movement all its own; it is the
+only animal that moves not forwards, but obliquely. Yet since forwards
+is a distinction relative to the line of vision, Nature has made its
+eyes able to conform to its limbs, for its eyes can move themselves
+obliquely, and therefore after a fashion crabs are no exception but
+in this sense move forwards. 
+
+Part 15
+
+Birds bend their legs in the same way as quadrupeds. For their natural
+construction is broadly speaking nearly the same. That is, in birds
+the wings are a substitute for the forelegs; and so they are bent
+in the same way as the forelegs of a quadruped, since when they move
+to progress the natural beginning of change is from the wings (as
+in quadrupeds from the forelegs). Flight in fact is their appropriate
+movement. And so if the wings be cut off a bird can neither stand
+still nor go forwards. 
+
+Again, the bird though a biped is not erect, and has the forward parts
+of the body lighter than the hind, and so it is necessary (or at least
+preferable for the standing posture) to have the thigh so placed below
+the body as it actually is, I mean growing towards the back. If then
+it must have this situation the flexion of the leg must be backwards,
+as in the hind legs of quadrupeds. The reasons are the same as those
+given in the case of viviparous quadrupeds. 
+
+If now we survey generally birds and winged insects, and animals which
+swim in a watery medium, all I mean that make their progress in water
+by dint of organs of movement, it is not difficult to see that it
+is better to have the attachment of the parts in question oblique
+to the frame, exactly as in fact we see it to be both in birds and
+insects. And this same arrangement obtains also among fishes. Among
+birds the wings are attached obliquely; so are the fins in water animals,
+and the feather-like wings of insects. In this way they divide the
+air or water most quickly and with most force and so effect their
+movement. For the hinder parts in this way would follow forwards as
+they are carried along in the yielding medium, fish in the water,
+birds in the air. 
+
+Of oviparous quadrupeds all those that live in holes, like crocodiles,
+lizards, spotted lizards, freshwater tortoises, and turtles, have
+their legs attached obliquely as their whole body sprawls over the
+ground, and bend them obliquely. The reason is that this is useful
+for ease in creeping into holes, and for sitting upon their eggs and
+guarding them. And as they are splayed outwards they must of necessity
+tuck in their thighs and put them under them in order to achieve the
+lifting of the whole body. In view of this they cannot bend them otherwise
+than outwards. 
+
+Part 16
+
+We have already stated the fact that non-sanguineous animals with
+limbs are polypods and none of them quadrupeds. And the reason why
+their legs, except the extreme pairs, were necessarily attached obliquely
+and had their flexions upwards, and the legs themselves were somewhat
+turned under (bandy-shape) and backwards is plain. In all such creatures
+the intermediate legs both lead and follow. If then they lay under
+them, they must have had their flexion both forwards and backwards;
+on account of leading, forwards; and on account of following, backwards.
+Now since they have to do both, for this reason their limbs are turned
+under and bent obliquely, except the two extreme pairs. (These two
+are more natural in their movement, the front leading and the back
+following.) Another reason for this kind of flexion is the number
+of their legs; arranged in this way they would interfere less with
+one another in progression and not knock together. But the reason
+that they are bandy is that all of them or most of them live in holes,
+for creatures living so cannot possibly be high above the ground.
+
+But crabs are in nature the oddest of all polypods; they do not progress
+forwards except in the sense explained above, they are the only animals
+which have more than one pair of leading limbs. The explanation of
+this is the hardness of their limbs, and the fact that they use them
+not for swimming but for walking; they always keep on the ground.
+However, the flexion of the limbs of all polypods is oblique, like
+that of the quadrupeds which live in holes-for example lizards and
+crocodiles and most of the oviparous quadrupeds. And the explanation
+is that some of them in their breeding periods, and some all their
+life, live in holes. 
+
+Part 17
+
+Now the rest have bandy legs because they are soft-skinned, but the
+crayfish is hard-skinned and its limbs are for swimming and not for
+walking (and so are not bandy). Crabs, too, have their limbs bent
+obliquely, but not bandy like oviparous quadrupeds and non-sanguineous
+polypods, because their limbs have a hard and shell-like skin, although
+they don't swim but live in holes; they live in fact on the ground.
+Moreover, their shape is like a disk, as compared with the crayfish
+which is elongated, and they haven't a tail like the crayfish; a tail
+is useful to the crayfish for swimming, but the crab is not a swimming
+creature. Further, it alone has its side equivalent to a hinder part,
+because it has many leading feet. The explanation of this is that
+its flexions are not forward nor its legs turned in under (bandy).
+We have given above the reason why its legs are not turned in under,
+that is the hardness and shell-like character of its integument.
+
+For these reasons then it must lead off with more than one limb, and
+move obliquely; obliquely, because the flexion is oblique; and with
+more than one limb, because otherwise the limbs that were still would
+have got in the way of those that were moving. 
+
+Fishes of the flat kind swim with their heads twisted, as one-eyed
+men walk; they have their natural shape distorted. Web-footed birds
+swim with their feet; because they breath the air and have lungs they
+are bipeds, but because they have their home in the water they are
+webbed; by this arrangement their feet serve them instead of fins.
+They have their legs too, not like the rest of birds in the centre
+of their body, but rather set back. Their legs are short, and being
+set back are serviceable for swimming. The reason for their having
+short legs is that nature has added to their feet by subtracting from
+the length of their limbs; instead of length she gives stoutness to
+the legs and breadth to the feet. Broad feet are more useful than
+long for pushing away the water when they are swimming. 
+
+Part 18
+
+There is reason, too, for winged creatures having feet, but fish none.
+The former have their home in the dry medium, and cannot remain always
+in mid air; they must therefore have feet. Fish on the contrary live
+in the wet medium, and take in water, not air. Fins are useful for
+swimming, but feet not. And if they had both they would be non-sanguineous.
+There is a broad similarity between birds and fishes in the organs
+of locomotion. Birds have their wings on the superior part, similarly
+fish have two pectoral fins; again, birds have legs on their under
+parts and near the wings; similarly, most fish have two fins on the
+under parts and near the pectorals. Birds, too, have a tail and fish
+a tail-fin. 
+
+Part 19
+
+A difficulty may be suggested as to the movements of molluscs, that
+is, as to where that movement originates; for they have no distinction
+of left and right. Now observation shows them moving. We must, I think,
+treat all this class as mutilated, and as moving in the way in which
+limbed creatures do when one cuts off their legs, or as analogous
+with the seal and the bat. Both the latter are quadrupeds but misshapen.
+Now molluscs do move, but move in a manner contrary to nature. They
+are not moving things, but are moving if as sedentary creatures they
+are compared with zoophytes, and sedentary if classed with progressing
+animals. 
+
+As to right and left, crabs, too, show the distinction poorly, still
+they do show it. You can see it in the claw; the right claw is larger
+and stronger, as though the right and left sides were trying to get
+distinguished. 
+
+The structure of animals, both in their other parts, and especially
+in those which concern progression and any movement in place, is as
+we have now described. It remains, after determining these questions,
+to investigate the problems of Life and Death. 
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.
+</pre></body></html>

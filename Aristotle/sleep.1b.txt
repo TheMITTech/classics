@@ -1,0 +1,463 @@
+
+<BASE HREF="http://classics.mit.edu/Aristotle/sleep.1b.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Aristotle/sleep.1b.txt"><font color=blue>classics.mit.edu/Aristotle/sleep.1b.txt</font></a>.<br>
+<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Aristotle/sleep.1b.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
+<html><body><pre>
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Aristotle/sleep.html
+
+On Sleep and Sleeplessness
+By Aristotle
+
+
+Translated by J. I. Beare
+
+Part 1
+
+With regard to sleep and waking, we must consider what they are:
+whether they are peculiar to soul or to body, or common to both; and
+if common, to what part of soul or body they appertain: further, from
+what cause it arises that they are attributes of animals, and whether
+all animals share in them both, or some partake of the one only, others
+of the other only, or some partake of neither and some of both.
+
+Further, in addition to these questions, we must also inquire what
+the dream is, and from what cause sleepers sometimes dream, and sometimes
+do not; or whether the truth is that sleepers always dream but do
+not always remember (their dream); and if this occurs, what its explanation
+is. 
+
+Again, [we must inquire] whether it is possible or not to foresee
+the future (in dreams), and if it be possible, in what manner; further,
+whether, supposing it possible, it extends only to things to be accomplished
+by the agency of Man, or to those also of which the cause lies in
+supra-human agency, and which result from the workings of Nature,
+or of Spontaneity. 
+
+First, then, this much is clear, that waking and sleep appertain to
+the same part of an animal, inasmuch as they are opposites, and sleep
+is evidently a privation of waking. For contraries, in natural as
+well as in all other matters, are seen always to present themselves
+in the same subject, and to be affections of the same: examples are-health
+and sickness, beauty and ugliness, strength and weakness, sight and
+blindness, hearing and deafness. This is also clear from the following
+considerations. The criterion by which we know the waking person to
+be awake is identical with that by which we know the sleeper to be
+asleep; for we assume that one who is exercising sense-perception
+is awake, and that every one who is awake perceives either some external
+movement or else some movement in his own consciousness. If waking,
+then, consists in nothing else than the exercise of sense-perception,
+the inference is clear, that the organ, in virtue of which animals
+perceive, is that by which they wake, when they are awake, or sleep,
+when they are awake, or sleep, when they are asleep. 
+
+But since the exercise of sense-perception does not belong to soul
+or body exclusively, then (since the subject of actuality is in every
+case identical with that of potentiality, and what is called sense-perception,
+as actuality, is a movement of the soul through the body) it is clear
+that its affection is not an affection of soul exclusively, and that
+a soulless body has not the potentiality of perception. [Thus sleep
+and waking are not attributes of pure intelligence, on the one hand,
+or of inanimate bodies, on the other.] 
+
+Now, whereas we have already elsewhere distinguished what are called
+the parts of the soul, and whereas the nutrient is, in all living
+bodies, capable of existing without the other parts, while none of
+the others can exist without the nutrient; it is clear that sleep
+and waking are not affections of such living things as partake only
+of growth and decay, e.g. not of plants, because these have not the
+faculty of sense-perception, whether or not this be capable of separate
+existence; in its potentiality, indeed, and in its relationships,
+it is separable. 
+
+Likewise it is clear that [of those which either sleep or wake] there
+is no animal which is always awake or always asleep, but that both
+these affections belong [alternately] to the same animals. For if
+there be an animal not endued with sense-perception, it is impossible
+that this should either sleep or wake; since both these are affections
+of the activity of the primary faculty of sense-perception. But it
+is equally impossible also that either of these two affections should
+perpetually attach itself to the same animal, e.g. that some species
+of animal should be always asleep or always awake, without intermission;
+for all organs which have a natural function must lose power when
+they work beyond the natural time-limit of their working period; for
+instance, the eyes [must lose power] from 
+(too long continued) seeing, and must give it up; and so it is withthe
+hand and every other member which has a function. Now, if sense-perception
+is the function of a special organ, this also, if it continues perceiving
+beyond the appointed time-limit of its continuous working period,
+will lose its power, and will do its work no longer. Accordingly,
+if the waking period is determined by this fact, that in it sense-perception
+is free; if in the case of some contraries one of the two must be
+present, while in the case of others this is not necessary; if waking
+is the contrary of sleeping, and one of these two must be present
+to every animal: it must follow that the state of sleeping is necessary.
+Finally, if such affection is Sleep, and this is a state of powerlessness
+arising from excess of waking, and excess of waking is in its origin
+sometimes morbid, sometimes not, so that the powerlessness or dissolution
+of activity will be so or not; it is inevitable that every creature
+which wakes must also be capable of sleeping, since it is impossible
+that it should continue actualizing its powers perpetually.
+
+So, also, it is impossible for any animal to continue always sleeping.
+For sleep is an affection of the organ of sense-perception--a sort
+of tie or inhibition of function imposed on it, so that every creature
+that sleeps must needs have the organ of sense-perception. Now, that
+alone which is capable of sense-perception in actuality has the faculty
+of sense-perception; but to realize this faculty, in the proper and
+unqualified sense, is impossible while one is asleep. All sleep, therefore,
+must be susceptible of awakening. Accordingly, almost all other animals
+are clearly observed to partake in sleep, whether they are aquatic,
+aerial, or terrestrial, since fishes of all kinds, and molluscs, as
+well as all others which have eyes, have been seen sleeping. 'Hard-eyed'
+creatures and insects manifestly assume the posture of sleep; but
+the sleep of all such creatures is of brief duration, so that often
+it might well baffle one's observation to decide whether they sleep
+or not. Of testaceous animals, on the contrary, no direct sensible
+evidence is as yet forthcoming to determine whether they sleep, but
+if the above reasoning be convincing to any one, he who follows it
+will admit this [viz. that they do so.] 
+
+That, therefore, all animals sleep may be gathered from these considerations.
+For an animal is defined as such by its possessing sense-perception;
+and we assert that sleep is, in a certain way, an inhibition of function,
+or, as it were, a tie, imposed on sense-perception, while its loosening
+or remission constitutes the being awake. But no plant can partake
+in either of these affections, for without sense-perception there
+is neither sleeping nor waking. But creatures which have sense-perception
+have likewise the feeling of pain and pleasure, while those which
+have these have appetite as well; but plants have none of these affections.
+A mark of this is that the nutrient part does its own work better
+when (the animal) is asleep than when it is awake. Nutrition and growth
+are then especially promoted, a fact which implies that creatures
+do not need sense-perception to assist these processes. 
+
+Part 2
+
+We must now proceed to inquire into the cause why one sleeps and wakes,
+and into the particular nature of the sense-perception, or sense-perceptions,
+if there be several, on which these affections depend. Since, then,
+some animals possess all the modes of sense-perception, and some not
+all, not, for example, sight, while all possess touch and taste, except
+such animals as are imperfectly developed, a class of which we have
+already treated in our work on the soul; and since an animal when
+asleep is unable to exercise, in the simple sense any particular sensory
+faculty whatever, it follows that in the state called sleep the same
+affection must extend to all the special senses; because, if it attaches
+itself to one of them but not to another, then an animal while asleep
+may perceive with the latter; but this is impossible. 
+
+Now, since every sense has something peculiar, and also something
+common; peculiar, as, e.g. seeing is to the sense of sight, hearing
+to the auditory sense, and so on with the other senses severally;
+while all are accompanied by a common power, in virtue whereof a person
+perceives that he sees or hears (for, assuredly, it is not by the
+special sense of sight that one sees that he sees; and it is not by
+mere taste, or sight, or both together that one discerns, and has
+the faculty of discerning, that sweet things are different from white
+things, but by a faculty connected in common with all the organs of
+sense; for there is one sensory function, and the controlling sensory
+faculty is one, though differing as a faculty of perception in relation
+to each genus of sensibles, e.g. sound or colour); and since this
+[common sensory activity] subsists in association chiefly with the
+faculty of touch (for this can exist apart from all the other organs
+of sense, but none of them can exist apart from it-a subject of which
+we have treated in our speculations concerning the Soul); it is therefore
+evident that waking and sleeping are an affection of this
+
+(common and controlling organ of sense-perception) . This explainswhy
+they belong to all animals, for touch [with which this common organ
+is chiefly connected], alone, [is common] to all [animals].
+
+For if sleeping were caused by the special senses having each and
+all undergone some affection, it would be strange that these senses,
+for which it is neither necessary nor in a manner possible to realize
+their powers simultaneously, should necessarily all go idle and become
+motionless simultaneously. For the contrary experience, viz. that
+they should not go to rest altogether, would have been more reasonably
+anticipated. But, according to the explanation just given, all is
+quite clear regarding those also. For, when the sense organ which
+controls all the others, and to which all the others are tributary,
+has been in some way affected, that these others should be all affected
+at the same time is inevitable, whereas, if one of the tributaries
+becomes powerless, that the controlling organ should also become powerless
+need in no wise follow. 
+
+It is indeed evident from many considerations that sleep does not
+consist in the mere fact that the special senses do not function or
+that one does not employ them; and that it does not consist merely
+in an inability to exercise the sense-perceptions; for such is what
+happens in cases of swooning. A swoon means just such impotence of
+perception, and certain other cases of unconsciousness also are of
+this nature. Moreover, persons who have the bloodvessels in the neck
+compressed become insensible. But sleep supervenes when such incapacity
+of exercise has neither arisen in some casual organ of sense, nor
+from some chance cause, but when, as has been just stated, it has
+its seat in the primary organ with which one perceives objects in
+general. For when this has become powerless all the other sensory
+organs also must lack power to perceive; but when one of them has
+become powerless, it is not necessary for this also to lose its power.
+
+We must next state the cause to which it is due, and its quality as
+an affection. Now, since there are several types of cause (for we
+assign equally the 'final', the 'efficient', the 'material', and the
+'formal' as causes), in the first place, then, as we assert that Nature
+operates for the sake of an end, and that this end is a good; and
+that to every creature which is endowed by nature with the power to
+move, but cannot with pleasure to itself move always and continuously,
+rest is necessary and beneficial; and since, taught by experience,
+men apply to sleep this metaphorical term, calling it a 'rest' [from
+the strain of movement implied in sense-perception]: we conclude that
+its end is the conservation of animals. But the waking state is for
+an animal its highest end, since the exercise of sense-perception
+or of thought is the highest end for all beings to which either of
+these appertains; inasmuch as these are best, and the highest end
+is what is best: whence it follows that sleep belongs of necessity
+to each animal. I use the term 'necessity' in its conditional sense,
+meaning that if an animal is to exist and have its own proper nature,
+it must have certain endowments; and, if these are to belong to it,
+certain others likewise must belong to it 
+(as their condition.)
+
+The next question to be discussed is that of the kind of movement
+or action, taking place within their bodies, from which the affection
+of waking or sleeping arises in animals. Now, we must assume that
+the causes of this affection in all other animals are identical with,
+or analogous to, those which operate in sanguineous animals; and that
+the causes operating in sanguineous animals generally are identical
+with those operating in man. Hence we must consider the entire subject
+in the light of these instances [afforded by sanguineous animals,
+especially man]. Now, it has been definitely settled already in another
+work that sense-perception in animals originates ill the same part
+of the organism in which movement originates. This locus of origination
+is one of three determinate loci, viz. that which lies midway between
+the head and the abdomen. This is sanguineous animals is the region
+of the heart; for all sanguineous animals have a heart; and from this
+it is that both motion and the controlling sense-perception originate.
+Now, as regards movement, it is obvious that that of breathing and
+of the cooling process generally takes its rise there; and it is with
+a view to the conservation of the [due amount of] heat in this part
+that nature has formed as she has both the animals which respire,
+and those which cool themselves by moisture. Of this [cooling process]
+per se we shall treat hereafter. In bloodless animals, and insects,
+and such as do not respire, the 'connatural spirit' is seen alternately
+puffed up and subsiding in the part which is in them analogous [to
+the region of the heart in sanguineous animals]. This is clearly observable
+in the holoptera [insects with undivided wings] as wasps and bees;
+also in flies and such creatures. And since to move anything, or do
+anything, is impossible without strength, and holding the breath produces
+strength-in creatures which inhale, the holding of that breath which
+comes from without, but, in creatures which do not respire, of that
+which is connatural (which explains why winged insects of the class
+holoptera, when they move, are perceived to make a humming noise,
+due to the friction of the connatural spirit colliding with the diaphragm);
+and since movement is, in every animal, attended with some sense-perception,
+either internal or external, in the primary organ of sense, [we conclude]
+accordingly that if sleeping and waking are affections of this organ,
+the place in which, or the organ in which, sleep and waking originate,
+is self-evident [being that in which movement and sense-perception
+originate, viz. the heart]. 
+
+Some persons move in their sleep, and perform many acts like waking
+acts, but not without a phantasm or an exercise of sense-perception;
+for a dream is in a certain way a sense-impression. But of them we
+have to speak later on. Why it is that persons when aroused remember
+their dreams, but do not remember these acts which are like waking
+acts, has been already explained in the work 'Of Problems'.
+
+Part 3
+
+The point for consideration next in order to the preceding is:-What
+are the processes in which the affection of waking and sleeping originates,
+and whence do they arise? Now, since it is when it has sense-perception
+that an animal must first take food and receive growth, and in all
+cases food in its ultimate form is, in sanguineous animals, the natural
+substance blood, or, in bloodless animals, that which is analogous
+to this; and since the veins are the place of the blood, while the
+origin of these is the heart-an assertion which is proved by anatomy-it
+is manifest that, when the external nutriment enters the parts fitted
+for its reception, the evaporation arising from it enters into the
+veins, and there, undergoing a change, is converted into blood, and
+makes its way to their source [the heart]. We have treated of all
+this when discussing the subject of nutrition, but must here recapitulate
+what was there said, in order that we may obtain a scientific view
+of the beginnings of the process, and come to know what exactly happens
+to the primary organ of sense-perception to account for the occurrence
+of waking and sleep. For sleep, as has been shown, is not any given
+impotence of the perceptive faculty; for unconsciousness, a certain
+form of asphyxia, and swooning, all produce such impotence. Moreover
+it is an established fact that some persons in a profound trance have
+still had the imaginative faculty in play. This last point, indeed,
+gives rise to a difficulty; for if it is conceivable that one who
+had swooned should in this state fall asleep, the phantasm also which
+then presented itself to his mind might be regarded as a dream. Persons,
+too, who have fallen into a deep trance, and have come to be regarded
+as dead, say many things while in this condition. The same view, however,
+is to be taken of all these cases, [i.e. that they are not cases of
+sleeping or dreaming]. 
+
+As we observed above, sleep is not co-extensive with any and every
+impotence of the perceptive faculty, but this affection is one which
+arises from the evaporation attendant upon the process of nutrition.
+The matter evaporated must be driven onwards to a certain point, then
+turn back, and change its current to and fro, like a tide-race in
+a narrow strait. Now, in every animal the hot naturally tends to move
+[and carry other things] upwards, but when it has reached the parts
+above [becoming cool], it turns back again, and moves downwards in
+a mass. This explains why fits of drowsiness are especially apt to
+come on after meals; for the matter, both the liquid and the corporeal,
+which is borne upwards in a mass, is then of considerable quantity.
+When, therefore, this comes to a stand it weighs a person down and
+causes him to nod, but when it has actually sunk downwards, and by
+its return has repulsed the hot, sleep comes on, and the animal so
+affected is presently asleep. A confirmation of this appears from
+considering the things which induce sleep; they all, whether potable
+or edible, for instance poppy, mandragora, wine, darnel, produce a
+heaviness in the head; and persons borne down [by sleepiness] and
+nodding [drowsily] all seem affected in this way, i.e. they are unable
+to lift up the head or the eye-lids. And it is after meals especially
+that sleep comes on like this, for the evaporation from the foods
+eaten is then copious. It also follows certain forms of fatigue; for
+fatigue operates as a solvent, and the dissolved matter acts, if not
+cold, like food prior to digestion. Moreover, some kinds of illness
+have this same effect; those arising from moist and hot secretions,
+as happens with fever-patients and in cases of lethargy. Extreme youth
+also has this effect; infants, for example, sleep a great deal, because
+of the food being all borne upwards-a mark whereof appears in the
+disproportionately large size of the upper parts compared with the
+lower during infancy, which is due to the fact that growth predominates
+in the direction of the former. Hence also they are subject to epileptic
+seizures; for sleep is like epilepsy, and, in a sense, actually is
+a seizure of this sort. Accordingly, the beginning of this malady
+takes place with many during sleep, and their subsequent habitual
+seizures occur in sleep, not in waking hours. For when the spirit
+[evaporation] moves upwards in a volume, on its return downwards it
+distends the veins, and forcibly compresses the passage through which
+respiration is effected. This explains why wines are not good for
+infants or for wet nurses (for it makes no difference, doubtless,
+whether the infants themselves, or their nurses, drink them), but
+such persons should drink them [if at all] diluted with water and
+in small quantity. For wine is spirituous, and of all wines the dark
+more so than any other. The upper parts, in infants, are so filled
+with nutriment that within five months 
+(after birth) they do not even turn the neck [sc. to raise thehead];
+for in them, as in persons deeply intoxicated, there is ever a large
+quantity of moisture ascending. It is reasonable, too, to think that
+this affection is the cause of the embryo's remaining at rest in the
+womb at first. Also, as a general rule, persons whose veins are inconspicuous,
+as well as those who are dwarf-like, or have abnormally large heads,
+are addicted to sleep. For in the former the veins are narrow, so
+that it is not easy for the moisture to flow down through them; while
+in the case of dwarfs and those whose heads are abnormally large,
+the impetus of the evaporation upwards is excessive. Those [on the
+contrary] whose veins are large are, thanks to the easy flow through
+the veins, not addicted to sleep, unless, indeed, they labour under
+some other affection which counteracts [this easy flow]. Nor are the
+'atrabilious' addicted to sleep, for in them the inward region is
+cooled so that the quantity of evaporation in their case is not great.
+For this reason they have large appetites, though spare and lean;
+for their bodily condition is as if they derived no benefit from what
+they eat. The dark bile, too, being itself naturally cold, cools also
+the nutrient tract, and the other parts wheresoever such secretion
+is potentially present 
+(i.e. tends to be formed) . 
+
+Hence it is plain from what has been said that sleep is a sort of
+concentration, or natural recoil, of the hot matter inwards [towards
+its centre], due to the cause above mentioned. Hence restless movement
+is a marked feature in the case of a person when drowsy. But where
+it [the heat in the upper and outer parts] begins to fail, he grows
+cool, and owing to this cooling process his eye-lids droop. Accordingly
+[in sleep] the upper and outward parts are cool, but the inward and
+lower, i.e. the parts at the feet and in the interior of the body,
+are hot. 
+
+Yet one might found a difficulty on the facts that sleep is most oppressive
+in its onset after meals, and that wine, and other such things, though
+they possess heating properties, are productive of sleep, for it is
+not probable that sleep should be a process of cooling while the things
+that cause sleeping are themselves hot. Is the explanation of this,
+then, to be found in the fact that, as the stomach when empty is hot,
+while replenishment cools it by the movement it occasions, so the
+passages and tracts in the head are cooled as the 'evaporation' ascends
+thither? Or, as those who have hot water poured on them feel a sudden
+shiver of cold, just so in the case before us, may it be that, when
+the hot substance ascends, the cold rallying to meet it cools [the
+aforesaid parts] deprives their native heat of all its power, and
+compels it to retire? Moreover, when much food is taken, which [i.e.
+the nutrient evaporation from which] the hot substance carries upwards,
+this latter, like a fire when fresh logs are laid upon it, is itself
+cooled, until the food has been digested. 
+
+For, as has been observed elsewhere, sleep comes on when the corporeal
+element [in the 'evaporation'] conveyed upwards by the hot, along
+the veins, to the head. But when that which has been thus carried
+up can no longer ascend, but is too great in quantity [to do so],
+it forces the hot back again and flows downwards. Hence it is that
+men sink down [as they do in sleep] when the heat which tends to keep
+them erect (man alone, among animals, being naturally erect) is withdrawn;
+and this, when it befalls them, causes unconsciousness, and afterwards
+phantasy. 
+
+Or are the solutions thus proposed barely conceivable accounts of
+the refrigeration which takes place, while, as a matter of fact, the
+region of the brain is, as stated elsewhere, the main determinant
+of the matter? For the brain, or in creatures without a brain that
+which corresponds to it, is of all parts of the body the coolest.
+Therefore, as moisture turned into vapour by the sun's heat is, when
+it has ascended to the upper regions, cooled by the coldness of the
+latter, and becoming condensed, is carried downwards, and turned into
+water once more; just so the excrementitious evaporation, when carried
+up by the heat to the region of the brain, is condensed into a 'phlegm'
+(which explains why catarrhs are seen to proceed from the head); while
+that evaporation which is nutrient and not unwholesome, becoming condensed,
+descends and cools the hot. The tenuity or narrowness of the veins
+about the brain itself contributes to its being kept cool, and to
+its not readily admitting the evaporation. This, then, is a sufficient
+explanation of the cooling which takes place, despite the fact that
+the evaporation is exceedingly hot. 
+
+A person awakes from sleep when digestion is completed: when the heat,
+which had been previously forced together in large quantity within
+a small compass from out the surrounding part, has once more prevailed,
+and when a separation has been effected between the more corporeal
+and the purer blood. The finest and purest blood is that contained
+in the head, while the thickest and most turbid is that in the lower
+parts. The source of all the blood is, as has been stated both here
+and elsewhere, the heart. Now of the chambers in the heart the central
+communicates with each of the two others. Each of the latter again
+acts as receiver from each, respectively, of the two vessels, called
+the 'great' and the 'aorta'. It is in the central chamber that the
+[above-mentioned] separation takes place. To go into these matters
+in detail would, however, be more properly the business of a different
+treatise from the present. Owing to the fact that the blood formed
+after the assimilation of food is especially in need of separation,
+sleep [then especially] occurs [and lasts] until the purest part of
+this blood has been separated off into the upper parts of the body,
+and the most turbid into the lower parts. When this has taken place
+animals awake from sleep, being released from the heaviness consequent
+on taking food. We have now stated the cause of sleeping, viz. that
+it consists in the recoil by the corporeal element, upborne by the
+connatural heat, in a mass upon the primary sense-organ; we have also
+stated what sleep is, having shown that it is a seizure of the primary
+sense-organ, rendering it unable to actualize its powers; arising
+of necessity (for it is impossible for an animal to exist if the conditions
+which render it an animal be not fulfilled), i.e. for the sake of
+its conservation; since remission of movement tends to the conservation
+of animals. 
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.
+</pre></body></html>

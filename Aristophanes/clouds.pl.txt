@@ -1,0 +1,2217 @@
+
+<BASE HREF="http://classics.mit.edu/Aristophanes/clouds.pl.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Aristophanes/clouds.pl.txt"><font color=blue>classics.mit.edu/Aristophanes/clouds.pl.txt</font></a>.<br>
+<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Aristophanes/clouds.pl.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
+<html><body><pre>
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Aristophanes/clouds.html
+
+The Clouds
+By Aristophanes
+
+
+
+----------------------------------------------------------------------
+
+Dramatis Personae
+
+STREPSIADES
+PHIDIPPIDES
+SERVANT OF STREPSIADES
+DISCIPLES OF SOCRATES
+SOCRATES
+JUST DISCOURSE
+UNJUST DISCOURSE
+PASIAS, a Money-lender
+AMYNIAS, another Money-lender
+CHORUS OF CLOUDS
+
+----------------------------------------------------------------------
+
+In the background are two houses, that of Strepsiades and that of
+Socrates, the Thoughtery. The latter is small and dingy; the in, terior
+of the former is shown and two beds are seen, each occupied.
+
+----------------------------------------------------------------------
+
+STREPSIADES  (sitting up) Great gods! will these nights never end?
+will daylight never come? I heard the cock crow long ago and my slaves
+are snoring still! Ah! Ah! It wasn't like this formerly. Curses on
+the war! has it not done me ills enough? Now I may not even chastise
+my own slaves. Again there's this brave lad, who never wakes the whole
+long night, but, wrapped in his five coverlets, farts away to his
+heart's content.  (He lies down)  Come! let me nestle in well and
+snore too, if it be possible....oh! misery, it's vain to think of
+sleep with all these expenses, this stable, these debts, which are
+devouring me, thanks to this fine cavalier, who only knows how to
+look after his long locks, to show himself off in his chariot and
+to dream of horses! And I, I am nearly dead, when I see the moon bringing
+the third decade in her train and my liability falling due....Slave!
+light the lamp and bring me my tablets.  (The slave obeys.)  Who are
+all my creditors? Let me see and reckon up the interest. What is it
+I owe?....Twelve minae to Pasias....What! twelve minae to Pasias?....Why
+did I borrow these? Ah! I know! It was to buy that thoroughbred, which
+cost me so much. How I should have prized the stone that had blinded
+him! 
+
+PHIDIPPIDES  (in his sleep) That's not fair, Philo! Drive your chariot
+straight, I say. 
+
+STREPSIADES This is what is destroying me. He raves about horses,
+even in his sleep. 
+
+PHIDIPPIDES  (still sleeping) How many times round the track is the
+race for the chariots of war? 
+
+STREPSIADES It's your own father you are driving to death....to ruin.
+Come! what debt comes next, after that of Pasias?....Three minae to
+Amynias for a chariot and its two wheels. 
+
+PHIDIPPIDES  (still asleep) Give the horse a good roll in the dust
+and lead him home. 
+
+STREPSIADES Ah! wretched boy! it's my money that you are making roll.
+My creditors have distrained on my goods, and here are others again,
+who demand security for their interest. 
+
+PHIDIPPIDES  (awaking) What is the matter with you, father, that
+you groan and turn about the whole night through? 
+
+STREPSIADES I have a bum-bailiff in the bedclothes biting me.
+
+PHIDIPPIDES For pity's sake, let me have a little sleep.  (He turns
+over.)  
+
+STREPSIADES Very well, sleep on! but remember that all these debts
+will fall back on your shoulders. Oh! curses on the go-between who
+made me marry your mother! I lived so happily in the country, a commonplace,
+everyday life, but a good and easy one-had not a trouble, not a care,
+was rich in bees, in sheep and in olives. Then indeed I had to marry
+the niece of Megacles, the son of Megacles; I belonged to the country,
+she was from the town; she was a haughty, extravagant woman, a true
+Coesyra. On the nuptial day, when I lay beside her, I was reeking
+of the dregs of the wine-cup, of cheese and of wool; she was redolent
+with essences, saffron, voluptuous kisses, the love of spending, of
+good cheer and of wanton delights. I will not say she did nothing;
+no, she worked hard...to ruin me, and pretending all the while merely
+to be showing her the cloak she had woven for me, I said, "Wife you
+go too fast about your work, your threads are too closely woven and
+you use far too much wool."  (A slave enters witk a lamp.)
+
+SLAVE There is no more oil in the lamp. 
+
+STREPSIADES Why then did you light such a thirsty lamp? Come here,
+I am going to beat you. 
+
+SLAVE What for? 
+
+STREPSIADES Because you have put in too thick a wick....Later, when
+we had this boy, what was to be his name? It was the cause of much
+quarrelling with my loving wife. She insisted on having some reference
+to a horse in his name, that he should be called Xanthippus, Charippus
+or Callippides. I wanted to name him Phidonides after his grandfather.
+We disputed long, and finally agreed to style him Phidippides....She
+used to fondle and coax him, saying, "Oh! what a joy it will be to
+me when you have grown up, to see you, like my father, Megacles, clothed
+in purple and standing up straight in your chariot driving your steeds
+toward the town." And I would say to him, "When, like your father,
+you will go, dressed in a skin, to fetch back your goats from Phelleus."
+Alas! he never listened to me and his madness for horses has shattered
+my fortune.  (He gets out of bed.)  But by dint of thinking the livelong
+night, I have discovered a road to salvation, both miraculous and
+divine. If he will but follow it, I shall be out of my trouble! First,
+however, he must be awakened, but it must be done as gently as possible.
+How shall I manage it? Phidippides! my little Phidippides!
+
+PHIDIPPIDES  (awaking again) What is it, father? 
+
+STREPSIADES Kiss me and give me your hand. 
+
+PHIDIPPIDES  (getting up and doing as his father requests) There!
+What's it all about? 
+
+STREPSIADES Tell me! do you love me? 
+
+PHIDIPPIDES By Posidon, the equestrian Posidon! yes, I swear I do.
+
+STREPSIADES Oh, do not, I pray you, invoke this god of horses; he
+is the one who is the cause of all my cares. But if you really love
+me, and with your whole heart, my boy, believe me. 
+
+PHIDIPPIDES Believe you? about what? 
+
+STREPSIADES Alter your habits forthwith and go and learn what I tell
+you. 
+
+PHIDIPPIDES Say on, what are your orders? 
+
+STREPSIADES Will you obey me ever so little? 
+
+PHIDIPPIDES By Bacchus, I will obey you. 
+
+STREPSIADES Very well then! Look this way. Do you see that little
+door and that little house? 
+
+PHIDIPPIDES Yes, father. But what are you driving at? 
+
+STREPSIADES That is the Thoughtery of wise souls. There they prove
+that we are coals enclosed on all sides under a vast snuffer, which
+is the sky. If well paid, these men also teach one how to gain law-suits,
+whether they be just or not. 
+
+PHIDIPPIDES What do they call themselves? 
+
+STREPSIADES I do not know exactly, but they are deep thinkers and
+most admirable people. 
+
+PHIDIPPIDES Bah! the wretches! I know them; you mean those quacks
+with pale faces, those barefoot fellows, such as that miserable Socrates
+and Chaerephon? 
+
+STREPSIADES Silence! say nothing foolish! If you desire your father
+not to die of hunger, join their company and let your horses go.
+
+PHIDIPPIDES No, by Bacchus! even though you gave me the pheasants
+that Leogoras raises. 
+
+STREPSIADES Oh! my beloved son, I beseech you, go and follow their
+teachings. 
+
+PHIDIPPIDES And what is it I should learn? 
+
+STREPSIADES It seems they have two courses of reasoning, the true
+and the false, and that, thanks to the false, the worst law-suits
+can be gained. If then you learn this science, which is false, I shall
+not have to pay an obolus of all the debts I have contracted on your
+account. 
+
+PHIDIPPIDES No, I will not do it. I should no longer dare to look
+at our gallant horsemen, when I had so ruined my tan. 
+
+STREPSIADES Well then, by Demeter! I will no longer support you,
+neither you, nor your team, nor your saddle-horse. Go and hang yourself,
+I turn you out of house and home. 
+
+PHIDIPPIDES My uncle Megacles will not leave me without horses; I
+shall go to him and laugh at your anger.  (He departs. STREPSIADES
+goes over to SOCRATES' house.)  
+
+STREPSIADES One rebuff shall not dishearten me. With the help of
+the gods I will enter the Thoughtery and learn myself.  (He hesitates.)
+But at my age, memory has gone and the mind is slow to grasp things.
+How can all these fine distinctions, these subtleties be learned?
+(Making up his mind)  Bah! why should I dally thus instead of rapping
+at the door? Slave, slave!  (He knocks and calls.)  
+
+A DISCIPLE  (from within) A plague on you! Who are you?
+
+STREPSIADES Strepsiades, the son of Phido, of the deme of Cicynna.
+
+DISCIPLE  (coming out of the door) You are nothing but an ignorant
+and illiterate fellow to let fly at the door with such kicks. You
+have brought on a miscarriage-of an idea! 
+
+STREPSIADES Pardon me, please; for I live far away from here in the
+country. But tell me, what was the idea that miscarried?
+
+DISCIPLE I may not tell it to any but a disciple. 
+
+STREPSIADES Then tell me without fear, for I have come to study among
+you. 
+
+DISCIPLE Very well then, but reflect, that these are mysteries. Lately,
+a flea bit Chaerephon on the brow and then from there sprang on to
+the head of Socrates. Socrates asked Chaerephon, "How many times the
+length of its legs does a flea jump?" 
+
+STREPSIADES And how ever did he go about measuring it? 
+
+DISCIPLE Oh! it was most ingenious! He melted some wax, seized the
+flea and dipped its two feet in the wax, which, when cooled, left
+them shod with true Persian slippers. These he took off and with them
+measured the distance. 
+
+STREPSIADES Ah! great Zeus! what a brain! what subtlety!
+
+DISCIPLE I wonder what then would you say, if you knew another of
+Socrates' contrivances? 
+
+STREPSIADES What is it? Pray tell me. 
+
+DISCIPLE Chaerephon of the deme of Sphettia asked him whether he
+thought a gnat buzzed through its proboscis or through its anus.
+
+STREPSIADES And what did he say about the gnat? 
+
+DISCIPLE He said that the gut of the gnat was narrow, and that, in
+passing through this tiny passage, the air is driven with force towards
+the breech; then after this slender channel, it encountered the rump,
+which was distended like a trumpet, and there it resounded sonorously.
+
+STREPSIADES So the arse of a gnat is a trumpet. Oh! what a splendid
+arsevation! Thrice happy Socrates! It would not be difficult to succeed
+in a law-suit, knowing so much about a gnat's guts! 
+
+DISCIPLE Not long ago a lizard caused him the loss of a sublime thought.
+
+STREPSIADES In what way, please? 
+
+DISCIPLE One night, when he was studying the course of the moon and
+its revolutions and was gazing open-mouthed at the heavens, a lizard
+crapped upon him from the top of the roof. 
+
+STREPSIADES A lizard crapping on Socrates! That's rich!
+
+DISCIPLE Last night we had nothing to eat. 
+
+STREPSIADES Well, what did he contrive, to secure you some supper?
+
+DISCIPLE He spread over the table a light layer of cinders, bending
+an iron rod the while; then he took up a pair of compasses and at
+the same moment unhooked a piece of the victim which was hanging in
+the palaestra. 
+
+STREPSIADES And we still dare to admire Thales! Open, open this home
+of knowledge to me quickly! Haste, haste to show me Socrates; I long
+to become his disciple. But do please open the door.  (The door opens,
+revealing the interior of the Thoughtery, in which the DISCIPLES OF
+SOCRATES are seen in various postures of meditation and study; they
+are pale and emaciated creatures.)  Ah! by Heracles! what country
+are those animals from? 
+
+DISCIPLE Why, what are you astonished at? What do you think they
+resemble? 
+
+STREPSIADES The captives of Pylos. But why do they look so fixedly
+on the ground? 
+
+DISCIPLE They are seeking for what is below the ground.
+
+STREPSIADES Ah! they're looking for onions. Do not give yourselves
+so much trouble; I know where there are some, fine big ones. But what
+are those fellows doing, bent all double? 
+
+DISCIPLE They are sounding the abysses of Tartarus. 
+
+STREPSIADES And what are their arses looking at in the heavens?
+
+DISCIPLE They are studying astronomy on their own account. But come
+in so that the master may not find us here. 
+
+STREPSIADES Not yet; not yet; let them not change their position.
+I want to tell them my own little matter. 
+
+DISCIPLE But they may not stay too long in the open air and away
+from school. 
+
+STREPSIADES  (pointing to a celestial globe) In the name of all the
+gods, what is that? Tell me. 
+
+DISCIPLE That is astronomy. 
+
+STREPSIADES  (pointing to a map) And that? 
+
+DISCIPLE Geometry. 
+
+STREPSIADES What is that used for? 
+
+DISCIPLE To measure the land. 
+
+STREPSIADES But that is apportioned by lot. 
+
+DISCIPLE No, no, I mean the entire earth. 
+
+STREPSIADES Ah! what a funny thing! How generally useful indeed is
+this invention! 
+
+DISCIPLE There is the whole surface of the earth. Look! Here is Athens.
+
+STREPSIADES Athens! you are mistaken; I see no courts in session.
+
+DISCIPLE Nevertheless it is really and truly the Attic territory.
+
+STREPSIADES And where are my neighbours of Cicynna? 
+
+DISCIPLE They live here. This is Euboea; you see this island, that
+is so long and narrow. 
+
+STREPSIADES I know. Because we and Pericles have stretched it by
+dint of squeezing it. And where is Lacedaemon? 
+
+DISCIPLE Lacedaemon? Why, here it is, look. 
+
+STREPSIADES How near it is to us! Think it well over, it must be
+removed to a greater distance. 
+
+DISCIPLE But, by Zeus, that is not possible. 
+
+STREPSIADES Then, woe to you! and who is this man suspended up in
+a basket? 
+
+DISCIPLE That's himself. 
+
+STREPSIADES Who's himself? 
+
+DISCIPLE Socrates. 
+
+STREPSIADES Socrates! Oh! I pray you, call him right loudly for me.
+
+DISCIPLE Call him yourself; I have no time to waste.  (He departs.
+The machine swings in SOCRATES in a basket.)  
+
+STREPSIADES Socrates! my little Socrates! 
+
+SOCRATES  (loftily) Mortal, what do you want with me? 
+
+STREPSIADES First, what are you doing up there? Tell me, I beseech
+you. 
+
+SOCRATES  (POMPOUSLY) I am traversing the air and contemplating the
+sun. 
+
+STREPSIADES Thus it's not on the solid ground, but from the height
+of this basket, that you slight the gods, if indeed.... 
+
+SOCRATES I have to suspend my brain and mingle the subtle essence
+of my mind with this air, which is of the like nature, in order clearly
+to penetrate the things of heaven. I should have discovered nothing,
+had I remained on the ground to consider from below the things that
+are above; for the earth by its force attracts the sap of the mind
+to itself. It's just the same with the watercress. 
+
+STREPSIADES What? Does the mind attract the sap of the watercress?
+Ah! my dear little Socrates, come down to me! I have come to ask you
+for lessons. 
+
+SOCRATES  (descending) And for what lessons? 
+
+STREPSIADES I want to learn how to speak. I have borrowed money,
+and my merciles creditors do not leave me a moment's peace; all my
+goods are at stake. 
+
+SOCRATES And how was it you did not see that you were getting so
+much into debt? 
+
+STREPSIADES My ruin has been the madness for horses, a most rapacious
+evil; but teach me one of your two methods of reasoning, the one whose
+object is not to repay anything, and, may the gods bear witness, that
+I am ready to pay any fee you may name. 
+
+SOCRATES By which gods will you swear? To begin with, the gods are
+not a coin current with us. 
+
+STREPSIADES But what do you swear by then? By the iron money of Byzantium?
+
+SOCRATES Do you really wish to know the truth of celestial matters?
+
+STREPSIADES Why, yes, if it's possible. 
+
+SOCRATES ....and to converse with the clouds, who are our genii?
+
+STREPSIADES Without a doubt. 
+
+SOCRATES Then be seated on this sacred couch. 
+
+STREPSIADES  (sitting down) I am seated. 
+
+SOCRATES Now take this chaplet. 
+
+STREPSIADES Why a chaplet? Alas! Socrates, would you sacrifice me,
+like Athamas? 
+
+SOCRATES No, these are the rites of initiation. 
+
+STREPSIADES And what is it I am to gain? 
+
+SOCRATES You will become a thorough rattle-pate, a hardened old stager,
+the fine flour of the talkers....But come, keep quiet. 
+
+STREPSIADES By Zeus! That's no lie! Soon I shall be nothing but wheat-flour,
+if you powder me in that fashion. 
+
+SOCRATES Silence, old man, give heed to the prayers.  (In an hierophantic
+tone)  Oh! most mighty king, the boundless air, that keepest the earth
+suspended in space, thou bright Aether and ye venerable goddesses,
+the Clouds, who carry in your loins the thunder and the lightning,
+arise, ye sovereign powers and manifest yourselves in the celestial
+spheres to the eyes of your sage. 
+
+STREPSIADES Not yet! Wait a bit, till I fold my mantle double, so
+as not to get wet. And to think that I did not even bring my travelling
+cap! What a misfortune! 
+
+SOCRATES  (ignoring this) Come, oh! Clouds, whom I adore, come and
+show yourselves to this man, whether you be resting on the sacred
+summits of Olympus, crowned with hoar-frost, or tarrying in the gardens
+of Ocean, your father, forming sacred choruses with the Nymphs; whether
+you be gathering the waves of the Nile in golden vases or dwelling
+in the Maeotic marsh or on the snowy rocks of Mimas, hearken to my
+prayer and accept my offering. May these sacrifices be pleasing to
+you.  (Amidst rumblings of thunder the CHORUS OF CLOUDS appears.)
+
+CHORUS  (singing) Eternal Clouds, let us appear; let us arise from
+the roaring depths of Ocean, our father; let us fly towards the lofty
+mountains, spread our damp wings over their forest-laden summits,
+whence we will dominate the distant valleys, the harvest fed by the
+sacred earth, the murmur of the divine streams and the resounding
+waves of the sea, which the unwearying orb lights up with its glittering
+beams. But let us shake off the rainy fogs, which hide our immortal
+beauty and sweep the earth from afar with our gaze. 
+
+SOCRATES Oh, venerated goddesses, yes, you are answering my call!
+(To STREPSIADES.)  Did you hear their voices mingling with the awful
+growling of the thunder? 
+
+STREPSIADES Oh! adorable Clouds, I revere you and I too am going
+to let off my thunder, so greatly has your own affrighted me.  (He
+farts.)  Faith! whether permitted or not, I must, I must crap!
+
+SOCRATES No scoffing; do not copy those damned comic poets. Come,
+silence! a numerous host of goddesses approaches with songs.
+
+CHORUS  (singing) Virgins, who pour forth the rains, let us move
+toward Attica, the rich country of Pallas, the home of the brave;
+let us visit the dear land of Cecrops, where the secret rites are
+celebrated, where the mysterious sanctuary flies open to the initiate....
+What victims are offered there to the deities of heaven! What glorious
+temples! What statues! What holy prayers to the rulers of Olympus!
+At every season nothing but sacred festivals, garlanded victims, is
+to be seen. Then Spring brings round again the joyous feasts of Dionysus,
+the harmonious contests of the choruses and the serious melodies of
+the flute. 
+
+STREPSIADES By Zeus! Tell me, Socrates, I pray you, who are these
+women, whose language is so solemn; can they be demi-goddesses?
+
+SOCRATES Not at all. They are the Clouds of heaven, great goddesses
+for the lazy; to them we owe all, thoughts, speeches, trickery, roguery,
+boasting, lies, sagacity. 
+
+STREPSIADES Ah! that was why, as I listened to them, my mind spread
+out its wings; it burns to babble about trifles, to maintain worthless
+arguments, to voice its petty reasons, to contradict, to tease some
+opponent. But are they not going to show themselves? I should like
+to see them, were it possible. 
+
+SOCRATES Well, look this way in the direction of Parnes; I already
+see those who are slowly descending. 
+
+STREPSIADES But where, where? Show them to me. 
+
+SOCRATES They are advancing in a throng, following an oblique path
+across the dales and thickets. 
+
+STREPSIADES Strange! I can see nothing. 
+
+SOCRATES There, close to the entrance. 
+
+STREPSIADES Hardly, if at all, can I distinguish them. 
+
+SOCRATES You must see them clearly now, unless your eyes are filled
+with gum as thick as pumpkins. 
+
+STREPSIADES Aye, undoubtedly! Oh! the venerable goddesses! Why, they
+fill up the entire stage. 
+
+SOCRATES And you did not know, you never suspected, that they were
+goddesses? 
+
+STREPSIADES No, indeed; I thought the Clouds were only fog, dew and
+vapour. 
+
+SOCRATES But what you certainly do not know is that they are the
+support of a crowd of quacks, the diviners, who were sent to Thurium,
+the notorious physicians, the well-combed fops, who load their fingers
+with rings down to the nails, and the braggarts, who write dithyrambic
+verses, all these are idlers whom the Clouds provide a living for,
+because they sing them in their verses. 
+
+STREPSIADES It is then for this that they praise "the rapid flight
+of the moist clouds, which veil the brightness of day" and "the waving
+locks of the hundred-headed Typho" and "the impetuous tempests, which
+float through the heavens, like birds of prey with aerial wings loaded
+with mists" and "the rains, the dew, which the clouds outpour." As
+a reward for these fine phrases they bolt well-grown, tasty mullet
+and delicate thrushes. 
+
+SOCRATES Yes, thanks to these. And is it not right and meet?
+
+STREPSIADES Tell me then why, if these really are the Clouds, they
+so very much resemble mortals. This is not their usual form.
+
+SOCRATES What are they like then? 
+
+STREPSIADES I don't know exactly; well, they are like great packs
+of wool, but not like women-no, not in the least....And these have
+noses. 
+
+SOCRATES Answer my questions. 
+
+STREPSIADES Willingly! Go on, I am listening. 
+
+SOCRATES Have you not sometimes seen clouds in the sky like a centaur,
+a leopard, a wolf or a bull? 
+
+STREPSIADES Why, certainly I have, but what of that? 
+
+SOCRATES They take what metamorphosis they like. If they see a debauchee
+with long flowing locks and hairy as a beast, like the son of Xenophantes,
+they take the form of a Centaur in derision of his shameful passion.
+
+STREPSIADES And when they see Simon, that thiever of public money,
+what do they do then? 
+
+SOCRATES To picture him to the life, they turn at once into wolves.
+
+STREPSIADES So that was why yesterday, when they saw Cleonymus, who
+cast away his buckler because he is the veriest poltroon amongst men,
+they changed into deer. 
+
+SOCRATES And to-day they have seen Clisthenes; you see....they are
+women 
+
+STREPSIADES Hail, sovereign goddesses, and if ever you have let your
+celestial voice be heard by mortal ears, speak to me, oh! speak to
+me, ye all-powerful queens. 
+
+CHORUS-LEADER Hail! veteran of the ancient times, you who burn to
+instruct yourself in fine language. And you, great high-priest of
+subtle nonsense, tell us; your desire. To you and Prodicus alone of
+all the hollow orationers of to-day have we lent an ear-to Prodicus,
+because of his knowledge and his great wisdom, and to you, because
+you walk with head erect, a confident look, barefooted, resigned to
+everything and proud of our protection. 
+
+STREPSIADES Oh! Earth! What august utterances! how sacred! how wondrous!
+
+SOCRATES That is because these are the only goddesses; all the rest
+are pure myth. 
+
+STREPSIADES But by the Earth! is our father, Zeus, the Olympian,
+not a god? 
+
+SOCRATES Zeus! what Zeus! Are you mad? There is no Zeus.
+
+STREPSIADES What are you saying now? Who causes the rain to fall?
+Answer me that! 
+
+SOCRATES Why, these, and I will prove it. Have you ever seen it raining
+without clouds? Let Zeus then cause rain with a clear sky and without
+their presence! 
+
+STREPSIADES By Apollo! that is powerfully argued! For my own part,
+I always thought it was Zeus pissing into a sieve. But tell me, who
+is it makes the thunder, which I so much dread? 
+
+SOCRATES These, when they roll one over the other. 
+
+STREPSIADES But how can that be? you most daring among men!
+
+SOCRATES Being full of water, and forced to move along, they are
+of necessity precipitated in rain, being fully distended with moisture
+from the regions where they have been floating; hence they bump each
+other heavily and burst with great noise. 
+
+STREPSIADES But is it not Zeus who forces them to move?
+
+SOCRATES Not at all; it's the aerial Whirlwind. 
+
+STREPSIADES The Whirlwind! ah! I did not know that. So Zeus, it seems,
+has no existence, and its the Whirlwind that reigns in his stead?
+But you have not yet told me what makes the roll of the thunder?
+
+SOCRATES Have you not understood me then? I tell you, that the Clouds,
+when full of rain, bump against one another, and that, being inordinately
+swollen out, they burst with a great noise. 
+
+STREPSIADES How can you make me credit that? 
+
+SOCRATES Take yourself as an example. When you have heartily gorged
+on stew at the Panathenaea, you get throes of stomach-ache and then
+suddenly your belly resounds with prolonged rumbling. 
+
+STREPSIADES Yes, yes, by Apollo I suffer, I get colic, then the stew
+sets to rumbling like thunder and finally bursts forth with a terrific
+noise. At first, it's but a little gurgling pappax, pappax! then it
+increases, papapappax! and when I take my crap, why, it's thunder
+indeed, papapappax! pappax!! papapappax!!! just like the clouds.
+
+SOCRATES Well then, reflect what a noise is produced by your belly,
+which is but small. Shall not the air, which is boundless, produce
+these mighty claps of thunder? 
+
+STREPSIADES And this is why the names are so much alike: crap and
+clap. But tell me this. Whence comes the lightning, the dazzling flame,
+which at times consumes the man it strikes, at others hardly singes
+him. Is it not plain, that Zeus is hurling it at the perjurers?
+
+SOCRATES Out upon the fool! the driveller! he still savours of the
+golden age! If Zeus strikes at the perjurers, why has he not blasted
+Simon, Cleonymus and Theorus? Of a surety, greater perjurers cannot
+exist. No, he strikes his own temple, and Sunium, the promontory of
+Athens, and the towering oaks. Now, why should he do that? An oak
+is no perjurer. 
+
+STREPSIADES I cannot tell, but it seems to me well argued. What is
+the lightning then? 
+
+SOCRATES When a dry wind ascends to the Clouds and gets shut into
+them, it blows them out like a bladder; finally, being too confined,
+it bursts them, escapes with fierce violence and a roar to flash into
+flame by reason of its own impetuosity. 
+
+STREPSIADES Ah, that's just what happened to me one day. It was at
+the feast of Zeus! I was cooking a sow's belly for my family and I
+had forgotten to slit it open. It swelled out and, suddenly bursting,
+discharged itself right into my eyes and burnt my face. 
+
+LEADER OF THE CHORUS Oh, mortal, you who desire to instruct yourself
+in our great wisdom, the Athenians, the Greeks will envy you your
+good fortune. Only you must have the memory and ardour for study,
+you must know how to stand the tests, hold your own, go forward without
+feeling fatigue, caring but little for food, abstaining from wine,
+gymnastic exercises and other similar follies, in fact, you must believe
+as every man of intellect should, that the greatest of all blessings
+is to live and think more clearly than the vulgar herd, to shine in
+the contests of words. 
+
+STREPSIADES If it be a question of hardiness for labour, of spending
+whole nights at work, of living sparingly, of fighting my stomach
+and only eating chickpease, rest assured, I am as hard as an anvil.
+
+SOCRATES Henceforward, following our example, you will recognize
+no other gods but Chaos, the Clouds and the Tongue, these three alone.
+
+STREPSIADES I would not speak to the others, even if I met them in
+the street; not a single sacrifice, not a libation, not a grain of
+incense for them! 
+
+LEADER OF THE CHORUS Tell us boldly then what you want of us; you
+cannot fail to succeed. If you honour and revere us and if you are
+resolved to become a clever man. 
+
+STREPSIADES Oh, sovereign goddesses, it is only a very small favour
+that I ask of you; grant that I may outdistance all the Greeks by
+a hundred stadia in the art of speaking. 
+
+LEADER OF THE CHORUS We grant you this, and henceforward no eloquence
+shall more often succeed with the people than your own. 
+
+STREPSIADES May the gods shield me from possessing great eloquence!
+That's not what I want. I want to be able to turn bad law-suits to
+my own advantage and to slip through the fingers of my creditors.
+
+LEADER OF THE CHORUS It shall be as you wish, for your ambitions
+are modest. Commit yourself fearlessly to our ministers, the sophists.
+
+STREPSIADES This I will do, for I trust in you. Moreover there is
+no drawing back, what with these cursed horses and this marriage,
+which has eaten up my vitals.  (More and more volubly from here to
+the end of speech)  So let them do with me as they will; I yield my
+body to them. Come blows, come hunger, thirst, heat or cold, little
+matters it to me; they may flay me, if I only escape my debts, if
+only I win the reputation of being a bold rascal, a fine speaker,
+impudent, shameless, a braggart, and adept at stringing lies, an old
+stager at quibbles, a complete table of laws, a thorough rattle, a
+fox to slip through any hole; supple as a leathern strap, slippery
+as an eel, an artful fellow, a blusterer, a villain; a knave with
+a hundred faces, cunning, intolerable, a gluttonous dog. With such
+epithets do I seek to be greeted; on these terms they can treat me
+as they choose, and, if they wish, by Demeter! they can turn me into
+sausages and serve me up to the philosophers. 
+
+CHORUS  (singing) Here have we a bold and well-disposed pupil indeed.
+When we have taught you, your glory among the mortals will reach even
+to the skies. 
+
+STREPSIADES  (singing) Wherein will that profit me? 
+
+CHORUS  (singing) You will pass your whole life among us and will
+be the most envied of men. 
+
+STREPSIADES  (singing) Shall I really ever see such happiness?
+
+CHORUS  (singing) Clients will be everlastingly besieging your door
+in crowds, burning to get at you, to explain their business to you
+and to consult you about their suits, which, in return for your ability,
+will bring you in great sums. 
+
+LEADER OF THE CHORUS But, Socrates, begin the lessons you want to
+teach this old man; rouse his mind, try the strength of his intelligence.
+
+SOCRATES Come, tell me the kind of mind you have; it's important
+that I know this, that I may order my batteries against you in the
+right fashion. 
+
+STREPSIADES Eh, what! in the name of the gods, are you purposing
+to assault me then? 
+
+SOCRATES No. I only wish to ask you some questions. Have you any
+memory? 
+
+STREPSIADES That depends: if anything is owed me, my memory is excellent,
+but if I owe, alas! I have none whatever. 
+
+SOCRATES Have you a natural gift for speaking? 
+
+STREPSIADES For speaking, no; for cheating, yes. 
+
+SOCRATES How will you be able to learn then? 
+
+STREPSIADES Very easily, have no fear. 
+
+SOCRATES Thus, when I throw forth some philosophical thought anent
+things celestial., you will seize it in its very flight?
+
+STREPSIADES Then I am to snap up wisdom much as a dog snaps up a
+morsel? 
+
+SOCRATES  (aside) Oh! the ignoramus! the barbarian!  (to STREPSIADES)
+I greatly fear, old man, it will be necessary for me to have recourse
+to blows. Now, let me hear what you do when you are beaten.
+
+STREPSIADES I receive the blow, then wait a moment, take my witnesses
+and finally summon my assailant at law. 
+
+SOCRATES Come, take off your cloak. 
+
+STREPSIADES Have I robbed you of anything? 
+
+SOCRATES No. but the usual thing is to enter the school without your
+cloak. 
+
+STREPSIADES But I have not come here to look for stolen goods.
+
+SOCRATES Off with it, fool! 
+
+STREPSIADES  (He obeys.) Tell me, if I prove thoroughly attentive
+and learn with zeal, which O; your disciples shall I resemble, do
+you think? 
+
+SOCRATES You will be the image of Chaerephon. 
+
+STREPSIADES Ah! unhappy me! Shall I then be only half alive?
+
+SOCRATES A truce to this chatter! follow me and no more of it.
+
+STREPSIADES First give me a honey-cake, for to descend down there
+sets me all a-tremble; it looks like the cave of Trophonius.
+
+SOCRATES But get in with you! What reason have you for thus dallying
+at the door?  (They go into the Thoughtery.)  
+
+LEADER OF THE CHORUS Good luck! you have courage; may you succeed,
+you, who, though already so advanced in years, wish to instruct your
+mind with new studies and practise it in wisdom!  (The CHORUS turns
+and faces the Audience.)  Spectators! By Bacchus, whose servant I
+am, I will frankly tell you the truth. May I secure both victory and
+renown as certainly as I hold you for adept critics and as I regard
+this comedy as my best. I wished to give you the first view of a work,
+which had cost me much trouble, but which I withdrew, unjustly beaten
+by unskilful rivals. It is you, oh, enlightened public, for whom I
+have prepared my piece, that I reproach with this. Nevertheless I
+shall never willingly cease to seek the approval of the discerning.
+I have not forgotten the day, when men, whom one is happy to have
+for an audience, received my Virtuous Young Man and my Paederast with
+so much favour in this very place. Then as yet virgin, my Muse had
+not attained the age for maternity; she had to expose her first-born
+for another to adopt, and it has since grown up under your generous
+patronage. Ever since you have as good as sworn me your faithful alliance.
+Thus, like the Electra of the poets, my comedy has come to seek you
+to-day, hoping again to encounter such enlightened spectators. As
+far away as she can discern her Orestes, she will be able to recognize
+him by his curly head. And note her modest demeanour! She has not
+sewn on a piece of hanging leather, thick and reddened at the end,
+to cause laughter among the children; she does not rail at the bald,
+neither does she dance the cordax; no old man is seen, who, while
+uttering his lines, batters his questioner with a stick to make his
+poor jests pass muster. She does not rush upon the scene carrying
+a torch and screaming, 'Iou! Iou!' No, she relies upon herself and
+her verses....My value is so well known, that I take no further pride
+in it. I do not seek to deceive you, by reproducing the same subjects
+two or three times; I always invent fresh themes to present before
+you, themes that have no relation to each other and that are all clever.
+I attacked Cleon to his face and when he was all-powerful; but he
+has fallen, and now I have no desire to kick him when he is down.
+My rivals, on the contrary, now that this wretched Hyperbolus has
+given them the cue, have never ceased setting upon both him and his
+mother. First Eupolis presented his 'Maricas'; this was simply my
+'Knights,' whom this plagiarist had clumsily furbished up again by
+adding to the piece an old drunken woman, so that she might dance
+the cordax. It was an old idea, taken from Phrynichus, who caused
+his old hag to be devoured by a monster of the deep. Then Hermippus
+fell foul of Hyperbolus and now all the others fall upon him and repeat
+my comparison of the eels. May those who find amusement in their pieces
+not be pleased with mine, but as for you, who love and applaud my
+inventions, why, posterity will praise your good taste. 
+
+FIRST SEMI-CHORUS  (singing) Oh, ruler of Olympus, all-powerful king
+of the gods, great Zeus, it is thou whom I first invoke; protect this
+chorus; and thou too, Posidon, whose dread trident upheaves at the
+will of thy anger both the bowels of the earth and the salty waves
+of the ocean. I invoke my illustrious father, the divine Aether, the
+universal sustainer of life, and Phoebus, who, from the summit of
+his chariot, sets the world aflame with his dazzling rays, Phoebus,
+a mighty deity amongst the gods and adored amongst mortals.
+
+LEADER OF FIRST SEMI-CHORUS Most wise spectators, lend us all your
+attention. Give heed to our just reproaches. There exist no gods to
+whom this city owes more than it does to us, whom alone you forget.
+Not a sacrifice, not a libation is there for those who protect you!
+Have you decreed some mad expedition? Well! we thunder or we fall
+down in rain. When you chose that enemy of heaven, the Paphlagonian
+tanner, for a general, we knitted our brow, we caused our wrath to
+break out; the lightning shot forth, the thunder pealed, the moon
+deserted her course and the sun at once veiled his beam threatening,
+no longer to give you light, if Cleon became general. Nevertheless
+you elected him; it is said, Athens never resolves upon some fatal
+step but the gods turn these errors into her greatest gain. Do you
+wish that his election should even now be a success for you? It is
+a very simple thing to do; condemn this rapacious gull named Cleon
+for bribery and extortion, fit a wooden collar tight round his neck,
+and your error will be rectified and the commonweal will at once regain
+its old prosperity. 
+
+SECOND SEMI-CHORUS  (singing) Aid me also, Phoebus, god of Delos,
+who reignest on the cragged peaks of Cynthia; and thou, happy virgin,
+to whom the Lydian damsels offer pompous sacrifice in a temple; of
+gold; and thou, goddess of our country, Athene, armed with the aegis,
+the protectress of Athens; and thou, who, surrounded by the bacchants
+of Delphi; roamest over the rocks of Parnassus shaking the flame of
+thy resinous torch, thou, Bacchus, the god of revel and joy.
+
+LEADER OF SECOND SEMI-CHORUS As we were preparing to come here, we
+were hailed by the Moon and were charged to wish joy and happiness
+both to the Athenians and to their allies; further, she said that
+she was enraged and that you treated her very shamefully, her, who
+does not pay you in words alone, but who renders you all real benefits.
+Firstly, thanks to her, you save at least a drachma each month for
+lights, for each, as he is leaving home at night, says, "Slave, buy
+no torches, for the moonlight is beautiful,"-not to name a thousand
+other benefits. Nevertheless you do not reckon the days correctly
+and your calendar is naught but confusion. Consequently the gods load
+her with threats each time they get home and are disappointed of their
+meal, because the festival has not been kept in the regular order
+of time. When you should be sacrificing, you are putting to the torture
+or administering justice. And often, we others, the gods, are fasting
+in token of mourning for the death of Memnon or Sarpedon, while you
+are devoting yourselves to joyous libations. It is for this, that
+last year, when the lot would have invested Hyperbolus with the duty
+of Amphictyon, we took his crown from him, to teach him that time
+must be divided according to the phases of the moon. 
+
+SOCRATES  (coming out) By Respiration, the Breath of Life! By Chaos!
+By the Air! I have never seen a man so gross, so inept, so stupid,
+so forgetful. All the little quibbles, which I teach him, he forgets
+even before he has learnt them. Yet I will not give it up, I will
+make him come out here into the open air. Where are you, Strepsiades?
+Come, bring your couch out here. 
+
+STREPSIADES  (from within) But the bugs will not allow me to bring
+it. 
+
+SOCRATES Have done with such nonsense! place it there and pay attention.
+
+STREPSIADES  (coming out, with the bed) Well, here I am.
+
+SOCRATES Good! Which science of all those you have never been taught,
+do you wish to learn first? The measures, the rhythms or the verses?
+
+STREPSIADES Why, the measures; the flour dealer cheated me out of
+two choenixes the other day. 
+
+SOCRATES It's not about that I ask you, but which, according to you,
+is the best measure, the trimeter or the tetrameter? 
+
+STREPSIADES The one I prefer is the semisextarius. 
+
+SOCRATES You talk nonsense, my good fellow. 
+
+STREPSIADES I will wager your tetrameter is the semisextarius.
+
+SOCRATES Plague seize the dunce and the fool! Come, perchance you
+will learn the rhythms quicker. 
+
+STREPSIADES Will the rhythms supply me with food? 
+
+SOCRATES First they will help you to be pleasant in company, then
+to know what is meant by enhoplian rhythm and what by the dactylic.
+
+STREPSIADES Of the dactyl? I know that quite well. 
+
+SOCRATES What is it then, other than this finger here? 
+
+STREPSIADES Formerly, when a child, I used this one. 
+
+SOCRATES You are as low-minded as you are stupid. 
+
+STREPSIADES But, wretched man, I do not want to learn all this.
+
+SOCRATES Then what do you want to know? 
+
+STREPSIADES Not that, not that, but the art of false reasoning.
+
+SOCRATES But you must first learn other things. Come, what are the
+male quadrupeds? 
+
+STREPSIADES Oh! I know the males thoroughly. Do you take me for a
+fool then? The ram, the buck, the bull, the dog, the pigeon.
+
+SOCRATES Do you see what you are doing; is not the female pigeon
+called the same as the male? 
+
+STREPSIADES How else? Come now! 
+
+SOCRATES How else? With you then it's pigeon and pigeon!
+
+STREPSIADES That's right, by Posidon! but what names do you want
+me to give them? 
+
+SOCRATES Term the female pigeonnette and the male pigeon.
+
+STREPSIADES Pigeonnette! hah! by the Air! That's splendid! for that
+lesson bring out your kneading-trough and I will fill him with flour
+to the brim. 
+
+SOCRATES There you are wrong again; you make trough masculine and
+it should be feminine. 
+
+STREPSIADES What? if I say, him, do I make the trough masculine?
+
+SOCRATES Assuredly! would you not say him for Cleonymus?
+
+STREPSIADES Well? 
+
+SOCRATES Then trough is of the same gender as Cleonymus?
+
+STREPSIADES My good man! Cleonymus never had a kneading-trough; he
+used a round mortar for the purpose. But come, tell me what I should
+say! 
+
+SOCRATES For trough you should say her as you would for Soctrate.
+
+STREPSIADES Her? 
+
+SOCRATES In this manner you make it truly female. 
+
+STREPSIADES That's it! Her for trough and her for Cleonymus.
+
+SOCRATE," 
+Now I must teach you to distinguish the masculine proper names from
+those that are feminine. 
+
+STREPSIADES Ah! I know the female names well. 
+
+SOCRATES Name some then. 
+
+STREPSIADES Lysilla, Philinna, Clitagora, Demetria. 
+
+SOCRATES And what are masculine names? 
+
+STREPSIADES They are are countless-Philoxenus, Melesias, Amynias.
+
+SOCRATES But, wretched man, the last two are not masculine.
+
+STREPSIADES You do not count them as masculine? 
+
+SOCRATES Not at all. If you met Amynias, how would you hail him?
+
+STREPSIADES How? Why, I should shout, "Hi, there, Amynia!
+
+SOCRATES Do you see? it's a female name that you give him.
+
+STREPSIADES And is it not rightly done, since he refuses military
+service? But what use is there in learning what we all know?
+
+SOCRATES You know nothing about it. Come, lie down there.
+
+STREPSIADES What for? 
+
+SOCRATES Ponder awhile over matters that interest you. 
+
+STREPSIADES Oh! I pray you, not there but, if I must lie down and
+ponder, let me lie on the ground. 
+
+SOCRATES That's out of the question. Come! on the couch!
+
+STREPSIADES  (as he lies down) What cruel fate! What a torture the
+bugs will this day put me to!  (Socrates turns aside.)  
+
+CHORUS  (singing) Ponder and examine closely, gather your thoughts
+together, let your mind turn to every side of things; if you meet
+with a difficulty, spring quickly to some other idea; above all, keep
+your eyes away from all gentle sleep. 
+
+STREPSIADES  (singing) Ow, Wow, Wow, Wow is me! 
+
+CHORUS  (singing) What ails you? why do you cry so? 
+
+STREPSIADES Oh! I am a dead man! Here are these cursed Corinthians
+advancing upon me from all corners of the couch; they are biting me,
+they are gnawing at my sides, they are drinking all my blood, they
+are yanking of my balls, they are digging into my arse, they are killing
+me! 
+
+LEADER OF THE CHORUS Not so much wailing and clamour, if you please.
+
+STREPSIADES How can I obey? I have lost my money and my complexion,
+my blood and my slippers, and to cap my misery, I must keep awake
+on this couch, when scarce a breath of life is left in me.  (A brief
+interval of silence ensues.)  
+
+SOCRATES Well now! what are you doing? are you reflecting?
+
+STREPSIADES Yes, by Posidon! 
+
+SOCRATES What about? 
+
+STREPSIADES Whether the bugs will entirely devour me. 
+
+SOCRATES May death seize you, accursed man!  (He turns aside again.)
+
+STREPSIADES Ah it has already. 
+
+SOCRATES Come, no giving way! Cover up your head; the thing to do
+is to find an ingenious alternative. 
+
+STREPSIADES An alternative! ah! I only wish one would come to me
+from within these coverlets!  (Another interval of silence ensues.)
+
+SOCRATES Wait! let us see what our fellow is doing! Ho! are you asleep?
+
+STREPSIADES No, by Apollo! 
+
+SOCRATES Have you got hold of anything? 
+
+STREPSIADES No, nothing whatever. 
+
+SOCRATES Nothing at all? 
+
+STREPSIADES No, nothing except my tool, which I've got in my hand.
+
+SOCRATES Aren't you going to cover your head immediately and ponder?
+
+STREPSIADES On what? Come, Socrates, tell me. 
+
+SOCRATES Think first what you want, and then tell me. 
+
+STREPSIADES But I have told you a thousand times what I want. Not
+to pay any of my creditors. 
+
+SOCRATES Come, wrap yourself up; concentrate your mind, which wanders
+to lightly; study every detail, scheme and examine thoroughly.
+
+STREPSIADES Alas! Alas! 
+
+SOCRATES Keep still, and if any notion troubles you, put it quickly
+aside, then resume it and think over it again. 
+
+STREPSIADES My dear little Socrates! 
+
+SOCRATES What is it, old greybeard? 
+
+STREPSIADES I have a scheme for not paying my debts. 
+
+SOCRATES Let us hear it. 
+
+STREPSIADES Tell me, if I purchased a Thessalian witch, I could make
+the moon descend during the night and shut it, like a mirror, into
+a round box and there keep it carefully.... 
+
+SOCRATES How would you gain by that? 
+
+STREPSIADES How? why, if the moon did not rise, I would have no interest
+to pay. 
+
+SOCRATES Why so? 
+
+STREPSIADES Because money is lent by the month. 
+
+SOCRATES Good! but I am going to propose another trick to you. If
+you were condemned to pay five talents, how would you manage to quash
+that verdict? Tell me. 
+
+STREPSIADES How? how? I don't know, I must think. 
+
+SOCRATES Do you always shut your thoughts within yourself? Let your
+ideas fly in the air, like a may-bug, tied by the foot with a thread.
+
+STREPSIADES I have found a very clever way to annul that conviction;
+you will admit that much yourself. 
+
+SOCRATES What is it? 
+
+STREPSIADES Have you ever seen a beautiful, transparent stone at
+the druggists', with which you may kindle fire? 
+
+SOCRATES You mean a crystal lens. 
+
+STREPSIADES That's right. Well, now if I placed myself with this
+stone in the sun and a long way off from the clerk, while he was writing
+out the conviction, I could make all the wax, upon which the words
+were written, melt. 
+
+SOCRATES Well thought out, by the Graces! 
+
+STREPSIADES Ah! I am delighted to have annulled the decree that was
+to cost me five talents. 
+
+SOCRATES Come, take up this next question quickly. 
+
+STREPSIADES Which? 
+
+SOCRATES If, when summoned to court, you were in danger of losing
+your case for want of witnesses, how would you make the conviction
+fall upon your opponent? 
+
+STREPSIADES That's very simple and easy. 
+
+SOCRATES Let me hear. 
+
+STREPSIADES This way. If another case had to be pleaded before mine
+was called, I should run and hang myself. 
+
+SOCRATES You talk rubbish! 
+
+STREPSIADES Not so, by the gods! if I were dead, no action could
+lie against me. 
+
+SOCRATES You are merely beating the air. Get out! I will give you
+no more lessons. 
+
+STREPSIADES  (imploringly) Why not? Oh! Socrates! in the name of
+the gods! 
+
+SOCRATES But you forget as fast as you learn. Come, what was the
+thing I taught you first? Tell me. 
+
+STREPSIADES Ah let me see. What was the first thing? What was it
+then? Ah! that thing in which we knead the bread, oh! my god! what
+do you call it? 
+
+SOCRATES Plague take the most forgetful and silliest of old addlepates!
+
+STREPSIADES Alas! what a calamity! what will become of me? I am undone
+if I do not learn how to ply my tongue. Oh! Clouds! give me good advice.
+
+CHORUS-LEADER Old man, we counsel you, if you have brought up a son,
+to send him to learn in your stead. 
+
+STREPSIADES Undoubtedly I have a son, as well endowed as the best,
+but he is unwilling to learn. What will become of me? 
+
+CHORUS-LEADER And you don't make him obey you? 
+
+STREPSIADES You see, he is big and strong; moreover, through his
+mother he is a descendant of those fine birds, the race of Coesyra.
+Nevertheless, I will go and find him, and if he refuses, I will turn
+him out of the house. Go in, Socrates, and wait for me awhile.  (SOCRATES
+goes into the Thoughtery, STREPSIADES into his own house.)
+
+CHORUS  (singing) Do you understand, Socrates, that thanks to us
+you will be loaded with benefits? Here is a man, ready to obey you
+in all things. You see how he is carried away with admiration and
+enthusiasm. Profit by it to clip him as short as possible; fine chances
+are all too quickly gone. 
+
+STREPSIADES  (coming out of his house and pushing his son in front
+of him)  No, by the Clouds! you stay here no longer; go and devour
+the ruins of your uncle Megacles' fortune. 
+
+PHIDIPPIDES Oh! my poor father! what has happened to you? By the
+Olympian 
+Zeus! You are no longer in your senses! 
+
+STREPSIADES Look! "the Olympian Zeus." Oh! you fool! to believe in
+Zeus at your age! 
+
+PHIDIPPIDES What is there in that to make you laugh? 
+
+STREPSIADES You are then a tiny little child, if you credit such
+antiquated rubbish! But come here, that I may teach you; I will tell
+you something very necessary to know to be a man; but do not repeat
+it to anybody. 
+
+PHIDIPPIDES Tell me, what is it? 
+
+STREPSIADES Just now you swore by Zeus. 
+
+PHIDIPPIDES Sure I did. 
+
+STREPSIADES Do you see how good it is to learn? Phidippides, there
+is no Zeus. 
+
+PHIDIPPIDES What is there then? 
+
+STREPSIADES The Whirlwind has driven out Zeus and is King now.
+
+PHIDIPPIDES What drivel! 
+
+STREPSIADES You must realize that it is true. 
+
+PHIDIPPIDES And who says so? 
+
+STREPSIADES Socrates, the Melian, and Chaerephon, who knows how to
+measure the jump of a flea. 
+
+PHIDIPPIDES Have you reached such a pitch of madness that you believe
+those bilious fellows? 
+
+STREPSIADES Use better language, and do not insult men who are clever
+and full of wisdom, who, to economize, never shave, shun the gymnasia
+and never go to the baths, while you, you only await my death to eat
+up my wealth. But come, come as quickly as you can to learn in my
+stead. 
+
+PHIDIPPIDES And what good can be learnt of them? 
+
+STREPSIADES What good indeed? Why, all human knowledge. Firstly,
+you will know yourself grossly ignorant. But await me here awhile.
+(He goes back into his house.)  
+
+PHIDIPPIDES Alas! what is to be done? Father has lost his wits. Must
+I have him certificated for lunacy, or must I order his coffin?
+
+STREPSIADES  (returning with a bird in each hand) Come! what kind
+of bird is this? Tell me. 
+
+PHIDIPPIDES A pigeon. 
+
+STREPSIADES Good! And this female? 
+
+PHIDIPPIDES A pigeon. 
+
+STREPSIADES The same for both? You make me laugh! In the future you
+must call this one a pigeonnette and the other a pigeon.
+
+PHIDIPPIDES A pigeonnette! These then are the fine things you have
+just learnt at the school of these sons of Earth! 
+
+STREPSIADES And many others; but what I learnt I forgot at once,
+because I am to old. 
+
+PHIDIPPIDES So this is why you have lost your cloak? 
+
+STREPSIADES I have not lost it, I have consecrated it to Philosophy.
+
+PHIDIPPIDES And what have you done with your sandals, you poor fool?
+
+STREPSIADES If I have lost them, it is for what was necessary, just
+as Pericles did. But come, move yourself, let us go in; if necessary,
+do wrong to obey your father. When you were six years old and still
+lisped, I was the one who obeyed you. I remember at the feasts of
+Zeus you had a consuming wish for a little chariot and I bought it
+for you with the first obolus which I received as a juryman in the
+courts. 
+
+PHIDIPPIDES You will soon repent of what you ask me to do.
+
+STREPSIADES Oh! now I am happy! He obeys.  (loudly)  Come, Socrates,
+come! Come out quick! Here I am bringing you my son; he refused, but
+I have persuaded him. 
+
+SOCRATES Why, he is but a child yet. He is not used to these baskets,
+in which we suspend our minds. 
+
+PHIDIPPIDES To make you better used to them, I would you were hung.
+
+STREPSIADES A curse upon you! you insult your master! 
+
+SOCRATES "I would you were hung!" What a stupid speech! and so emphatically
+spoken! How can one ever get out of an accusation with such a tone,
+summon witnesses or touch or convince? And yet when we think, Hyperbolus
+learnt all this for one talent! 
+
+STREPSIADES Rest undisturbed and teach him. He has a most intelligent
+nature. Even when quite little he amused himself at home with making
+houses, carving boats, constructing little chariots of leather, and
+understood wonderfully how to make frogs out of pomegranate rinds.
+Teach him both methods of reasoning, the strong and also the weak,
+which by false arguments triumphs over the strong; if not the two,
+at least the false, and that in every possible way. 
+
+SOCRATES The Just and Unjust Discourse themselves shall instruct
+him. I shall leave you. 
+
+STREPSIADES But forget it not, he must always, always be able to
+confound the true.  (Socrates enters the Thoughtery; a moment later
+the JUST and the UNJUST DISCOURSE come out; they are quarrelling violently.)
+
+JUST DISCOURSE Come here! Shameless as you may be, will you dare
+to show your face to the spectators? 
+
+UNJUST DISCOURSE Take me where you will. I seek a throng, so that
+I may the better annihilate you. 
+
+JUST DISCOURSE Annihilate me! Do you forget who you are?
+
+UNJUST DISCOURSE I am Reasoning. 
+
+JUST DISCOURSE Yes, the weaker Reasoning." 
+
+UNJUST DISCOURSE But I triumph over you, who claim to be the stronger.
+
+JUST DISCOURSE By what cunning shifts, pray? 
+
+UNJUST DISCOURSE By the invention of new maxims. 
+
+JUST DISCOURSE .... which are received with favour by these fools.
+(He points to the audience.)  
+
+UNJUST DISCOURSE Say rather, by these wise men. 
+
+JUST DISCOURSE I am going to destroy you mercilessly. 
+
+UNJUST DISCOURSE How pray? Let us see you do it. 
+
+JUST DISCOURSE By saying what is true. 
+
+UNJUST DISCOURSE I shall retort and shall very soon have the better
+of you. First, maintain that justice has no existence. 
+
+JUST DISCOURSE Has no existence? 
+
+UNJUST DISCOURSE No existence! Why, where is it? 
+
+JUST DISCOURSE With the gods. 
+
+UNJUST DISCOURSE How then, if justice exists, was Zeus not put to
+death for having put his father in chains? 
+
+JUST DISCOURSE Bah! this is enough to turn my stomach! A basin, quick!
+
+UNJUST DISCOURSE You are an old driveller and stupid withal.
+
+JUST DISCOURSE And you a degenerate and shameless fellow.
+
+UNJUST DISCOURSE Hah! What sweet expressions! 
+
+JUST DISCOURSE An impious buffoon. 
+
+UNJUST DISCOURSE You crown me with roses and with lilies.
+
+JUST DISCOURSE A parricide. 
+
+UNJUST DISCOURSE Why, you shower gold upon me. 
+
+JUST DISCOURSE Formerly it was a hailstorm of blows. 
+
+UNJUST DISCOURSE I deck myself with your abuse. 
+
+JUST DISCOURSE What impudence! 
+
+UNJUST DISCOURSE What tomfoolery! 
+
+JUST DISCOURSE It is because of you that the youth no longer attends
+the schools. The Athenians will soon recognize what lessons you teach
+those who are fools enough to believe you. 
+
+UNJUST DISCOURSE You are overwhelmed with wretchedness.
+
+JUST DISCOURSE And you, you prosper. Yet you were poor when you said,
+"I am the Mysian Telephus," and used to stuff your wallet with maxims
+of Pandeletus to nibble at. 
+
+UNJUST DISCOURSE Oh! the beautiful wisdom, of which you are now boasting!
+
+JUST DISCOURSE Madman! But yet madder the city that keeps you, you,
+the corrupter of its youth! 
+
+UNJUST DISCOURSE It is not you who will teach this young man; you
+are as old and out of date at Cronus. 
+
+JUST DISCOURSE Nay, it will certainly be I, if he does not wish to
+be lost and to practise verbosity only. 
+
+UNJUST DISCOURSE  (to PHIDIPPIDES) Come here and leave him to beat
+the air. 
+
+JUST DISCOURSE You'll regret it, if you touch him. 
+
+CHORUS-LEADER  (stepping between them as they are about to come to
+blows)  A truce to your quarrellings and abuse! But you expound what
+you taught us formerly, and you, your new doctrine. Thus, after hearing
+each of you argue, he will be able to choose betwixt the two schools.
+
+JUST DISCOURSE I am quite agreeable. 
+
+UNJUST DISCOURSE And I too. 
+
+LEADER OF THE CHORUS Who is to speak first? 
+
+UNJUST DISCOURSE Let it be my opponent, he has my full consent; then
+I shall follow upon the very ground he shall have chosen and shall
+shatter him with a hail of new ideas and subtle fancies; if after
+that he dares to breathe another word, I shall sting him in the face
+and in the eyes with our maxims, which are as keen as the sting of
+a wasp, and he will die. 
+
+CHORUS  (singing) Here are two rivals confident in their powers of
+oratory and in the thoughts over which they have pondered so long.
+Let us see which will come triumphant out of the contest. This wisdom,
+for which my friends maintain such a persistent fight, is in great
+danger. 
+
+LEADER OF THE CHORUS Come then, you, who crowned men of other days
+with so many virtues, plead the cause dear to you, make yourself known
+to us. 
+
+JUST DISCOURSE Very well, I will tell you what was the old education,
+when I used to teach justice with so much success and when modesty
+was held in veneration. Firstly, it was required of a child, that
+it should not utter a word. In the street, when they went to the music-school,
+all the youths of the same district marched lightly clad and ranged
+in good order, even when the snow was falling in great flakes. At
+the master's house they had to stand with their legs apart and they
+were taught to sing either, "Pallas, the Terrible, who overturneth
+cities," or "A noise resounded from afar" in the solemn tones of the
+ancient harmony. If anyone indulged in buffoonery or lent his voice
+any of the soft inflexions, like those which to-day the disciples
+of Phrynis take so much pains to form, he was treated as an enemy
+of the Muses and belaboured with blows. In the wrestling school they
+would sit with outstretched legs and without display of any indecency
+to the curious. When they rose, they would smooth over the sand, so
+as to leave no trace to excite obscene thoughts. Never was a child
+rubbed with oil below the belt; the rest of their bodies thus retained
+its fresh bloom and down, like a velvety peach. They were not to be
+seen approaching a lover and themselves rousing his passion by soft
+modulation of the voice and lustful gaze. At table, they would not
+have dared, before those older than themselves, to have taken a radish,
+an aniseed or a leaf of parsley, and much less eat fish or thrushes
+or cross their legs. 
+
+UNJUST DISCOURSE What antiquated rubbish! Have we got back to the
+days of the festivals of Zeus Polieus, to the Buphonia, to the time
+of the poet Cecides and the golden cicadas? 
+
+JUST DISCOURSE Nevertheless by suchlike teaching I built up the men
+of Marathon-But you, you teach the children of to-day to bundle themselves
+quickly into their clothes, and I am enraged when I see them at the
+Panathenaea forgetting Athene while they dance, and covering their
+tools with their bucklers. Hence, young man, dare to range yourself
+beside me, who follow justice and truth; you will then be able to
+shun the public place, to refrain from the baths, to blush at all
+that is shameful, to fire up if your virtue is mocked at, to give
+place to your elders, to honour your parents, in short, to avoid all
+that is evil. Be modesty itself, and do not run to applaud the dancing
+girls; if you delight in such scenes, some courtesan will cast you
+her apple and your reputation will be done for. Do not bandy words
+with your father, nor treat him as a dotard, nor reproach the old
+man, who has cherished you, with his age. 
+
+UNJUST DISCOURSE If you listen to him, by Bacchus! you will be the
+image of the sons of Hippocrates and will be called mother's big ninny.
+
+JUST DISCOURSE No, but you will pass your days at the gymnasia, glowing
+with strength and health; you will not go to the public place to cackle
+and wrangle as is done nowadays; you will not live in fear that you
+may be dragged before the courts for some trifle exaggerated by quibbling.
+But you will go down to the Academy to run beneath the sacred olives
+with some virtuous friend of your own age, your head encircled with
+the white reed, enjoying your ease and breathing the perfume of the
+yew and of the fresh sprouts of the poplar, rejoicing in the return
+of springtide and gladly listening to the gentle rustle of the plane
+tree and the elm.  (With greater warmth from here on)  If you devote
+yourself to practising my precepts, your chest will be stout, your
+colour glowing, your shoulders broad, your tongue short, your hips
+muscular, but your tool small. But if you follow the fashions of the
+day, you will be pallid in hue, have narrow shoulders, a narrow chest,
+a long tongue, small hips and a big thing; you will know how to spin
+forth long-winded arguments on law. You will be persuaded also to
+regard as splendid everything that is shameful and as shameful everything
+that is honourable; in a word, you will wallow in degeneracy like
+Antimachus. 
+
+CHORUS  (singing) How beautiful, high-souled, brilliant is this wisdom
+that you practise! What a sweet odour of honesty is emitted by your
+discourse! Happy were those men of other days who lived when you were
+honoured! And you, seductive talker, come, find some fresh arguments,
+for your rival has done wonders. 
+
+LEADER OF THE CHORUS You will have to bring out against him all the
+battery of your wit, it you desire to beat him and not to be laughed
+out of court. 
+
+UNJUST DISCOURSE At last! I was choking with impatience, I was burning
+to upset his arguments! If I am called the Weaker Reasoning in the
+schools, it is just because I was the first to discover the means
+to confute the laws and the decrees of justice. To invoke solely the
+weaker arguments and yet triumph is an art worth more than a hundred
+thousand drachmae. But see how I shall batter down the sort of education
+of which he is so proud. Firstly, he forbids you to bathe in hot water.
+What grounds have you for condemning hot baths? 
+
+JUST DISCOURSE Because they are baneful and enervate men.
+
+UNJUST DISCOURSE Enough said! Oh! you poor wrestler! From the very
+outset I have seized you and hold you round the middle; you cannot
+escape me. Tell me, of all the sons of Zeus, who had the stoutest
+heart, who performed the most doughty deeds? 
+
+JUST DISCOURSE None, in my opinion, surpassed Heracles.
+
+UNJUST DISCOURSE Where have you ever seen cold baths called 'Bath
+of Heracles'? And yet who was braver than he? 
+
+JUST DISCOURSE It is because of such quibbles, that the baths are
+seen crowded with young folk, who chatter there the livelong day while
+the gymnasia remain empty. 
+
+UNJUST DISCOURSE Next you condemn the habit of frequenting the market-place,
+while I approve this. If it were wrong Homer would never have made
+Nestor speak in public as well as all his wise heroes. As for the
+art of speaking, he tells you, young men should not practise it; I
+hold the contrary. Furthermore he preaches chastity to them. Both
+precepts are equally harmful. Have you ever seen chastity of any use
+to anyone? Answer and try to confute me. 
+
+JUST DISCOURSE To many; for instance, Peleus won a sword thereby.
+
+UNJUST DISCOURSE A sword! Ah! what a fine present to make him! Poor
+wretch! Hyperbolus, the lamp-seller, thanks to his villainy, has gained
+more than....do not know how many talents, but certainly no sword.
+
+JUST DISCOURSE Peleus owed it to his chastity that he became the
+husband of Thetis. 
+
+UNJUST DISCOURSE .... who left him in the lurch, for he was not the
+most ardent; in those nocturnal sports between the sheets, which so
+please women, he possessed but little merit. Get you gone, you are
+but an old fool. But you, young man, just consider a little what this
+temperance means and the delights of which it deprives you-young fellows,
+women, play, dainty dishes, wine, boisterous laughter. And what is
+life worth without these? Then, if you happen to commit one of these
+faults inherent in human weakness, some seduction or adultery, and
+you are caught in the act, you are lost, if you cannot speak. But
+follow my teaching and you will be able to satisfy your passions,
+to dance, to laugh, to blush at nothing. Suppose you are caught in
+the act of adultery. Then up and tell the husband you are not guilty,
+and recall to him the example of Zeus, who allowed himself to be conquered
+by love and by women. Being but a mortal, can you be stronger than
+a god? 
+
+JUST DISCOURSE Suppose your pupil, following your advice, gets the
+radish rammed up his arse and then is depilated with a hot coal; how
+are you going to prove to him that he is not a broad-arse?
+
+UNJUST DISCOURSE What's the matter with being a broad-arse?
+
+JUST DISCOURSE Is there anything worse than that? 
+
+UNJUST DISCOURSE Now what will you say, if I beat you even on this
+point? 
+
+JUST DISCOURSE I should certainly have to be silent then.
+
+UNJUST DISCOURSE Well then, reply! Our advocates, what are they?
+
+JUST DISCOURSE Sons of broad-arses. 
+
+UNJUST DISCOURSE Nothing is more true. And our tragic poets?
+
+JUST DISCOURSE Sons of broad-arses. 
+
+UNJUST DISCOURSE Well said again. And our demagogues? 
+
+JUST DISCOURSE Sons of broad-arses. 
+
+UNJUST DISCOURSE You admit that you have spoken nonsense. And the
+spectators, what are they for the most part? Look at them.
+
+JUST DISCOURSE I am looking at them. 
+
+UNJUST DISCOURSE Well! What do you see? 
+
+JUST DISCOURSE By the gods, they are nearly all broad-arses.  (pointing)
+See, this one I know to be such and that one and that other with
+the long hair. 
+
+UNJUST DISCOURSE What have you to say, then? 
+
+JUST DISCOURSE I am beaten. Debauchees! in the name of the gods,
+receive my cloak; I pass over to your ranks.  (He goes back into the
+Thoughtery.)  
+
+UNJUST DISCOURSE Well then! Are you going to take away your son or
+do you wish me to teach him how to speak? 
+
+STREPSIADES Teach him, chastise him and do not fail to sharpen his
+tongue well, on one side for petty law-suits and on the other for
+important cases. 
+
+UNJUST DISCOURSE Don't worry, I shall return him to you an accomplished
+sophist. 
+
+PHIDIPPIDES Very pale then and thoroughly hang-dog-looking.
+
+LEADER OF THE CHORUS Take him with you.  (The UNJUST DISCOURSE and
+PHIDIPPIDES go into the THOUGHTERY. To STREPSIADES, who is just going
+into his own house.)  I think you will regret this.  (The CHORUS turns
+and faces the audience.)  judges, we are all about to tell you what
+you will gain by awarding us the crown as equity requires of you.
+In spring, when you wish to give your fields the first dressing, we
+will rain upon you first; the others shall wait. Then we will watch
+over your corn and over your vinestocks; they will have no excess
+to fear, neither of heat nor of wet. But if a mortal dares to insult
+the goddesses of the Clouds, let him think of the ills we shall pour
+upon him. For him neither wine nor any harvest at all! Our terrible
+slings will mow down his young olive plants and his vines. If he is
+making bricks, it will rain, and our round hailstones will break the
+tiles of his roof. If he himself marries or any of his relations or
+friends, we shall cause rain to fall the whole night long. Verily,
+he would prefer to live in Egypt than to have given this iniquitous
+verdict. 
+
+STREPSIADES  (coming out again) Another four, three, two days, then
+the eve, then the day, the fatal day of payment! I tremble, I quake,
+I shudder, for it's the day of the old moon and the new. Then all
+my creditors take the oath, pay their deposits, I swear my downfall
+and my ruin. As for me, I beseech them to be reasonable, to be just,
+"My friend, do not demand this sum, wait a little for this other and
+give me time for this third one." Then they will pretend that at this
+rate they will never be repaid, will accuse me of bad faith and will
+threaten me with the law. Well then, let them sue me! I care nothing
+for that, if only Phidippides has learnt to speak fluently. I am going
+to find out; I'll knock at the door of the school.  (He knocks.)
+.... Ho! slave, slave! 
+
+SOCRATES  (coming out) Welcome! Strepsiades! 
+
+STREPSIADES Welcome! Socrates! But first take this sack;  (offers
+him a sack of flour)  it is right to reward the master with some present.
+And my son, whom you took off lately, has he learnt this famous reasoning?
+Tell me. 
+
+SOCRATES He has learnt it. 
+
+STREPSIADES Wonderful! Oh! divine Knavery! 
+
+SOCRATES You will win just as many causes as you choose.
+
+STREPSIADES Even if I have borrowed before witnesses? 
+
+SOCRATES So much the better, even if there are a thousand of them!
+
+STREPSIADES  (bursting into song) Then I am going to shout with all
+my might. "Woe to the usurers, woe to their capital and their interest
+and their compound interest! You shall play me no more bad turns.
+My son is being taught there, his tongue is being sharpened into a
+double-edged weapon; he is my defender, the saviour of my house, the
+ruin of my foes! His poor father was crushed down with misfortune
+and he delivers him." Go and call him to me quickly. Oh! my child!
+my dear little one! run forward to your father's voice! 
+
+SOCRATES  (singing) Lo, the man himself! 
+
+STREPSIADES  (singing) Oh, my friend, my dearest friend!
+
+SOCRATES  (singing) Take your son, and get you gone. 
+
+STREPSIADES  (as PHIDIPPIDES appears) Oh, my son! oh! oh! what a
+pleasure to see your pallor! You are ready first to deny and then
+to contradict; it's as clear as noon. What a child of your country
+you are! How your lips quiver with the famous, "What have you to say
+now?" How well you know, I am certain, to put on the look of a victim,
+when it is you who are making both victims and dupes! And what a truly
+Attic glance! Come, it's for you to save me, seeing it is you who
+have ruined me. 
+
+PHIDIPPIDES What is it you fear then? 
+
+STREPSIADES The day of the old and the new. 
+
+PHIDIPPIDES Is there then a day of the old and the new?
+
+STREPSIADES The day on which they threaten to pay deposit against
+me. 
+
+PHIDIPPIDES Then so much the worse for those who have deposited!
+for it's not possible for one day to be two. 
+
+STREPSIADES What? 
+
+PHIDIPPIDES Why, undoubtedly, unless a woman can be both old and
+young at the same time. 
+
+STREPSIADES But so runs the law. 
+
+PHIDIPPIDES I think the meaning of the law is quite misunderstood.
+
+STREPSIADES What does it mean? 
+
+PHIDIPPIDES Old Solon loved the people. 
+
+STREPSIADES What has that to do with the old day and the new?
+
+PHIDIPPIDES He has fixed two days for the summons, the last day of
+the old moon and the first day of the new; but the deposits must only
+be paid on the first day of the new moon. 
+
+STREPSIADES And why did he also name the last day of the old?
+
+PHIDIPPIDES So, my dear sir, that the debtors, being there the day
+before, might free themselves by mutual agreement, or that else, if
+not, the creditor might begin his action on the morning of the new
+moon. 
+
+STREPSIADES Why then do the magistrates have the deposits paid on
+the last of the month and not the next day? 
+
+PHIDIPPIDES I think they do as the gluttons do, who are the first
+to pounce upon the dishes. Being eager to carry off these deposits,
+they have them paid in a day too soon. 
+
+STREPSIADES Splendid!  (to the audience)  Ah! you poor brutes, who
+serve for food to us clever folk! You are only down here to swell
+the number, true blockheads, sheep for shearing, heap of empty pots!
+Hence I will sing a song of victory for my son and myself. "Oh! happy,
+Strepsiades! what cleverness is thine! and what a son thou hast here!"
+Thus my friends and my neighbours will say, jealous at seeing me gain
+all my suits. But come in, I wish to regale you first.  (They both
+go in. A moment later a creditor arrives, with his witness.)
+
+PASIAS  (to the WITNESS) A man should never lend a single obolus.
+It would be better to put on a brazen face at the outset than to get
+entangled in such matters. I want to see my money again and I bring
+you here to-day to attest the loan. I am going to make a foe of a
+neighbour; but, as long as I live, I do not wish my country to have
+to blush for me. Come, I am going to summon Strepsiades....
+
+STREPSIADES  (coming out of his house) Who is this? 
+
+PASIAS ....for the old day and the new. 
+
+STREPSIADES  (to the WITNESS) I call you to witness, that he has
+named two days. What do you want of me? 
+
+PASIAS I claim of you the twelve minae, which you borrowed from me
+to buy the dapple-grey horse. 
+
+STREPSIADES A horse! do you hear him? I, who detest horses, as is
+well known. 
+
+PASIAS I call Zeus to witness, that you swore by the gods to return
+them to me. 
+
+STREPSIADES Because at that time, by Zeus! Phidippides did not yet
+know the irrefutable argument. 
+
+PASIAS Would you deny the debt on that account? 
+
+STREPSIADES If not, what use is his science to me? 
+
+PASIAS Will you dare to swear by the gods that you owe me nothing?
+
+STREPSIADES By which gods? 
+
+PASIAS By Zeus, Hermes and Posidon! 
+
+STREPSIADES Why, I would give three obols for the pleasure of swearing
+by them. 
+
+PASIAS Woe upon you, impudent knave! 
+
+STREPSIADES Oh! what a fine wine-skin you would make if flayed!
+
+PASIAS Heaven! he jeers at me! 
+
+STREPSIADES It would hold six gallons easily. 
+
+PASIAS By great Zeus! by all the gods! you shall not scoff at me
+with impunity, 
+
+STREPSIADES Ah! how you amuse me with your gods! how ridiculous it
+seems to a sage to hear Zeus invoked. 
+
+PASIAS Your blasphemies will one day meet their reward. But, come,
+will you repay me my money, yes or no? Answer me, that I may go.
+
+STREPSIADES Wait a moment, I am going to give you a distinct answer.
+(He goes indoors and returns immediately with a kneading-trough.)
+
+PASIAS  (to the WITNESS) What do you think he will do? Do you think
+he will pay? 
+
+STREPSIADES Where is the man who demands money? Tell me, what is
+this? 
+
+PASIAS Him? Why, he is your kneading-trough. 
+
+STREPSIADES And you dare to demand money of me, when you are so ignorant?
+I will not return an obolus to anyone who says him instead of her
+for a kneading-trough. 
+
+PASIAS You will not repay? 
+
+STREPSIADES Not if I know it. Come, an end to this, pack off as quick
+as you can. 
+
+PASIAS I go, but, may I die, if it be not to pay my deposit for a
+summons.  (Exit)  
+
+STREPSIADES Very well! It will be so much more loss to add to the
+twelve minae. But truly it makes me sad, for I do pity a poor simpleton
+who says him for a kneading-trough  (Another creditor arrives.)
+
+AMYNIAS Woe! ah woe is me! 
+
+STREPSIADES Wait! who is this whining fellow? Can it be one of the
+gods of Carcinus? 
+
+AMYNIAS Do you want to know who I am? I am a man of misfortune!
+
+STREPSIADES Get on your way then. 
+
+AMYNIAS  (in tragic style) Oh! cruel god! Oh Fate, who hast broken
+the wheels of my chariot! Oh, Pallas, thou hast undone me!
+
+STREPSIADES What ill has Tlepolemus done you? 
+
+AMYNIAS Instead of jeering me, friend, make your son return me the
+money he has had of me; I am already unfortunate enough.
+
+STREPSIADES What money? 
+
+AMYNIAS The money he borrowed of me. 
+
+STREPSIADES You have indeed had misfortune, it seems to me.
+
+AMYNIAS Yes, by the gods! I have been thrown from a chariot.
+
+STREPSIADES Why then drivel as if you had fallen off an ass?
+
+AMYNIAS Am I drivelling because I demand my money? 
+
+STREPSIADES No, no, you cannot be in your right senses.
+
+AMYNIAS Why? 
+
+STREPSIADES No doubt your poor wits have had a shake. 
+
+AMYNIAS But by Hermes! I will sue you at law, if you do not pay me.
+
+STREPSIADES Just tell me; do you think it is always fresh water that
+Zeus lets fall every time it rains, or is ill always the same water
+that the sun pumps over the earth? 
+
+AMYNIAS I neither know, nor care. 
+
+STREPSIADES And actually you would claim the right to demand your
+money, when you know not an iota of these celestial phenomena?
+
+AMYNIAS If you are short, pay me the interest anyway. 
+
+STREPSIADES What kind of animal is interest? 
+
+AMYNIAS What? Does not the sum borrowed go on growing, growing every
+month, each day as the time slips by? 
+
+STREPSIADES Well put. But do you believe there is more water in the
+sea now than there was formerly? 
+
+AMYNIAS No, it's just the same quantity. It cannot increase.
+
+STREPSIADES Thus, poor fool, the sea, that receives the rivers, never
+grows, and yet you would have your money grow? Get you gone, away
+with you, quick! Slave! bring me the ox-goad! 
+
+AMYNIAS I have witnesses to this. 
+
+STREPSIADES Come, what are you waiting for? Will you not budge, old
+nag! 
+
+AMYNIAS What an insult! 
+
+STREPSIADES Unless you start trotting, I shall catch you and stick
+this in your arse, you sorry packhorse!  (AMYNIAS runs off.)  Ah!
+you start, do you? I was about to drive you pretty fast, I tell you-you
+and your wheels and your chariot!  (He enters his house.)
+
+CHORUS  (singing) Whither does the passion of evil lead! here is
+a perverse old man, who wants to cheat his creditors; but some mishap,
+which will speedily punish this rogue for his shameful schemings,
+cannot fail to overtake him from to-day. For a long time he has been
+burning to have his son know how to fight against all justice and
+right and to gain even the most iniquitous causes against his adversaries
+every one. I think this wish is going to be fulfilled. But mayhap,
+mayhap, will he soon wish his son were dumb rather! 
+
+STREPSIADES  (rushing out With PHIDIPPIDES after him) Oh! oh! neighbours,
+kinsmen, fellow-citizens, help! help! to the rescue, I am being beaten!
+Oh! my head! oh! my jaw! Scoundrel! Do you beat your own father?
+
+PHIDIPPIDES  (calmly) Yes, father, I do. 
+
+STREPSIADES See! he admits he is beating me. 
+
+PHIDIPPIDES Of course I do. 
+
+STREPSIADES You villain, you parricide, you gallows-bird!
+
+PHIDIPPIDES Go on, repeat your epithets, call me a thousand other
+names, if it please you. The more you curse, the greater my amusement!
+
+STREPSIADES Oh! you ditch-arsed cynic! 
+
+PHIDIPPIDES How fragrant the perfume breathed forth in your words.
+
+STREPSIADES Do you beat your own father? 
+
+PHIDIPPIDES Yes, by Zeus! and I am going to show you that I do right
+in beating you. 
+
+STREPSIADES Oh, wretch! can it be right to beat a father?
+
+PHIDIPPIDES I will prove it to you, and you shall own yourself vanquished.
+
+STREPSIADES Own myself vanquished on a point like this?
+
+PHIDIPPIDES It's the easiest thing in the world. Choose whichever
+of the two reasonings you like. 
+
+STREPSIADES Of which reasonings? 
+
+PHIDIPPIDES The Stronger and the Weaker. 
+
+STREPSIADES Miserable fellow! Why, I am the one who had you taught
+how to refute what is right. and now you would persuade me it is right
+a son should beat his father. 
+
+PHIDIPPIDES I think I shall convince you so thoroughly that, when
+you have heard me, you will not have a word to say. 
+
+STREPSIADES Well, I am curious to hear what you have to say.
+
+CHORUS  (singing) Consider well, old man, how you can best triumph
+over him. His brazenness shows me that he thinks himself sure of his
+case; he has some argument which gives him nerve. Note the confidence
+in his look! 
+
+LEADER OF THE CHORUS But how did the fight begin? tell the Chorus;
+you cannot help doing that much. 
+
+STREPSIADES I will tell you what was the start of the quarrel. At
+the end of the meal, as you know, I bade him take his lyre and sing
+me the air of Simonides, which tells of the fleece of the ram. He
+replied bluntly, that it was stupid, while drinking, to play the lyre
+and sing, like a woman when she is grinding barley. 
+
+PHIDIPPIDES Why, by rights I ought to have beaten and kicked you
+the very moment you told me to sing. 
+
+STREPSIADES That is just how he spoke to me in the house, furthermore
+he added, that Simonides was a detestable poet. However, I mastered
+myself and for a while said nothing. Then I said to him, 'At least,
+take a myrtle branch and recite a passage from Aeschylus to me.'-'For
+my own part,' he at once replied, 'I look upon Aeschylus as the first
+of poets, for his verses roll superbly; they're nothing but incoherence,
+bombast and turgidity.' Yet still I smothered my wrath and said, 'Then
+recite one of the famous pieces from the modern poets.' Then he commenced
+a piece in which Euripides shows, oh! horror! a brother, who violates
+his own uterine sister. Then I could not longer restrain myself, and
+attacked him with the most injurious abuse; naturally he retorted;
+hard words were hurled on both sides, and finally he sprang at me,
+broke my bones, bore me to earth, strangled and started killing me!
+
+PHIDIPPIDES I was right. What! not praise Euripides, the greatest
+of our poets? 
+
+STREPSIADES He the greatest of our poets? Ah! if I but dared to speak!
+but the blows would rain upon me harder than ever. 
+
+PHIDIPPIDES Undoubtedly and rightly too. 
+
+STREPSIADES Rightly! Oh! what impudence! to me, who brought you up!
+when you could hardly lisp, I guessed what you wanted. If you said
+broo, broo, well, I brought you your milk; if you asked for mam mam,
+I gave you bread; and you had no sooner said, caca, than I took you
+outside and held you out. And just now, when you were strangling me,
+I shouted, I bellowed that I was about to crap; and you, you scoundrel,
+had not the heart to take me outside, so that, though almost choking,
+I was compelled to do my crapping right there. 
+
+CHORUS  (singing) Young men, your hearts must be panting with impatience.
+What is Phidippides going to say? If, after such conduct, he proves
+he has done well, I would not give an obolus for the hide of old men.
+
+LEADER OF THE CHORUS Come, you, who know how to brandish and hurl
+the keen shafts of the new science, find a way to convince us, give
+your language an appearance of truth. 
+
+PHIDIPPIDES How pleasant it is to know these clever new inventions
+and to be able to defy the established laws! When I thought only about
+horses, I was not able to string three words together without a mistake,
+but now that the master has altered and improved me and that I live
+in this world of subtle thought, of reasoning and of meditation, I
+count on being able to prove satisfactorily that I have done well
+to thrash my father. 
+
+STREPSIADES Mount your horse! By Zeus! I would rather defray the
+keep of a four-in-hand team than be battered with blows.
+
+PHIDIPPIDES I revert to what I was saying when you interrupted me.
+And first, answer me, did you beat me in my childhood? 
+
+STREPSIADES Why, assuredly, for your good and in your own best interest.
+
+PHIDIPPIDES Tell me, is it not right, that in turn I should beat
+you for your good, since it is for a man's own best interest to be
+beaten? What! must your body be free of blows, and not mine? am I
+not free-born too? the children are to weep and the fathers go free?
+You will tell me, that according to the law, it is the lot of children
+to be beaten. But I reply that the old men are children twice over
+and that it is far more fitting to chastise them than the young, for
+there is less excuse for their faults. 
+
+STREPSIADES But the law nowhere admits that fathers should be treated
+thus. 
+
+PHIDIPPIDES Was not the legislator who carried this law a man like
+you and me? In those days be got men to believe him; then why should
+not I too have the right to establish for the future a new law, allowing
+children to beat their fathers in turn? We make you a present of all
+the blows which were received before his law, and admit that you thrashed
+us with impunity. But look how the cocks and other animals fight with
+their fathers; and yet what difference is there betwixt them and ourselves,
+unless it be that they do not propose decrees? 
+
+STREPSIADES But if you imitate the cocks in all things, why don't
+you scratch up the dunghill, why don't you sleep on a perch?
+
+PHIDIPPIDES That has no bearing on the case, good sir; Socrates would
+find no connection, I assure you. 
+
+STREPSIADES Then do not beat at all, for otherwise you have only
+yourself to blame afterwards. 
+
+PHIDIPPIDES What for? 
+
+STREPSIADES I have the right to chastise you, and you to chastise
+your son, if you have one. 
+
+PHIDIPPIDES And if I have not, I shall have cried in vain, and you
+will die laughing in my face. 
+
+STREPSIADES What say you, all here present? It seems to me that he
+is right, and I am of opinion that they should be accorded their right.
+If we think wrongly, it is but just we should be beaten.
+
+PHIDIPPIDES Again, consider this other point. 
+
+STREPSIADES It will be the death of me. 
+
+PHIDIPPIDES But you will certainly feel no more anger because of
+the blows I have given you. 
+
+STREPSIADES Come, show me what profit I shall gain from it.
+
+PHIDIPPIDES I shall beat my mother just as I have you. 
+
+STREPSIADES What do you say? what's that you say? Hah! this is far
+worse still. 
+
+PHIDIPPIDES And what if I prove to you by our school reasoning, that
+one ought to beat one's mother? 
+
+STREPSIADES Ah! if you do that, then you will only have to throw
+yourself, along with Socrates and his reasoning, into the Barathrum.
+Oh! Clouds! all our troubles emanate from you, from you, to whom I
+entrusted myself, body and soul. 
+
+LEADER OF THE CHORUS No, you alone are the cause, because you have
+pursued the path of evil. 
+
+STREPSIADES Why did you not say so then, instead of egging on a poor
+ignorant old man? 
+
+LEADER OF THE CHORUS We always act thus, when we see a man conceive
+a passion for what is evil; we strike him with some terrible disgrace,
+so that he may learn to fear the gods. 
+
+STREPSIADES Alas! oh Clouds! that's hard indeed, but it's just! I
+ought not to have cheated my creditors....But come, my dear son, come
+with me to take vengeance on this wretched Chaerephon and on Socrates,
+who have deceived us both. 
+
+PHIDIPPIDES I shall do nothing against our masters. 
+
+STREPSIADES Oh show some reverence for ancestral Zeus! 
+
+PHIDIPPIDES Mark him and his ancestral Zeus! What a fool you are!
+Does any such being as Zeus exist? 
+
+STREPSIADES Why, assuredly. 
+
+PHIDIPPIDES No, a thousand times no! The ruler of the world is the
+Whirlwind, that has unseated Zeus. 
+
+STREPSIADES He has not dethroned him. I believed it, because of this
+whirligig here. Unhappy wretch that I am! I have taken a piece of
+clay to be a god. 
+
+PHIDIPPIDES Very well! Keep your stupid nonsense for your own consumption.
+(He goes back into STREPSIADES' house.)  
+
+STREPSIADES Oh! what madness! I had lost my reason when I threw over
+the gods through Socrates' seductive phrases.  (Addressing the statue
+of Hermes)  Oh! good Hermes, do not destroy me in your wrath. Forgive
+me; their babbling had driven me crazy. Be my counselor. Shall I pursue
+them at law or shall I....? Order and I obey.-You are right, no law-suit;
+but up! let us burn down the home of those praters. Here, Xanthias,
+here! take a ladder, come forth and arm yourself with an axe; now
+mount upon the Thoughtery, demolish the roof, if you love your master,
+and may the house fall in upon them. Ho! bring me a blazing torch!
+There is more than one of them, arch-impostors as they are, on whom
+I am determined to have vengeance. 
+
+A DISCIPLE  (from within) Oh! oh! 
+
+STREPSIADES Come, torch, do your duty! Burst into full flame!
+
+DISCIPLE What are you up to? 
+
+STREPSIADES What am I up to? Why, I am entering upon a subtle argument
+with the beams of the house. 
+
+SECOND DISCIPLE  (from within) Hullo! hullo who is burning down our
+house? 
+
+STREPSIADES The man whose cloak you have appropriated. 
+
+SECOND DISCIPLE You are killing us! 
+
+STREPSIADES That is just exactly what I hope, unless my axe plays
+me false, or I fall and break my neck. 
+
+SOCRATES  (appearing at the window) Hi! you fellow on the roof, what
+are you doing up there? 
+
+STREPSIADES  (mocking SOCRATES' manner) I am traversing the air and
+contemplating the sun. 
+
+SOCRATES Ah! ah! woe is upon me! I am suffocating! 
+
+SECOND DISCIPLE And I, alas, shall be burnt up! 
+
+STREPSIADES Ah! you insulted the gods! You studied the face of the
+moon! Chase them, strike and beat them down! Forward! they have richly
+deserved their fate-above all, by reason of their blasphemies.
+
+LEADER OF THE CHORUS So let the Chorus file off the stage. Its part
+is played. 
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.
+</pre></body></html>

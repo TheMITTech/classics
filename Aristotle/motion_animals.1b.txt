@@ -1,0 +1,540 @@
+
+<BASE HREF="http://classics.mit.edu/Aristotle/motion_animals.1b.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Aristotle/motion_animals.1b.txt"><font color=blue>classics.mit.edu/Aristotle/motion_animals.1b.txt</font></a>.<br>
+<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Aristotle/motion_animals.1b.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
+<html><body><pre>
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Aristotle/motion_animals.html
+
+On the Motion of Animals
+By Aristotle
+
+
+Translated by A. S. L. Farquharson
+
+Part 1
+
+Elsewhere we have investigated in detail the movement of animals
+after their various kinds, the differences between them, and the reasons
+for their particular characters (for some animals fly, some swim,
+some walk, others move in various other ways); there remains an investigation
+of the common ground of any sort of animal movement whatsoever.
+
+Now we have already determined (when we were discussing whether eternal
+motion exists or not, and its definition, if it does exist) that the
+origin of all other motions is that which moves itself, and that the
+origin of this is the immovable, and that the prime mover must of
+necessity be immovable. And we must grasp this not only generally
+in theory, but also by reference to individuals in the world of sense,
+for with these in view we seek general theories, and with these we
+believe that general theories ought to harmonize. Now in the world
+of sense too it is plainly impossible for movement to be initiated
+if there is nothing at rest, and before all else in our present subject-
+animal life. For if one of the parts of an animal be moved, another
+must be at rest, and this is the purpose of their joints; animals
+use joints like a centre, and the whole member, in which the joint
+is, becomes both one and two, both straight and bent, changing potentially
+and actually by reason of the joint. And when it is bending and being
+moved one of the points in the joint is moved and one is at rest,
+just as if the points A and D of a diameter were at rest, and B were
+moved, and DAC were generated. However, in the geometrical illustration,
+the centre is held to be altogether indivisible (for in mathematics
+motion is a fiction, as the phrase goes, no mathematical entity being
+really moved), whereas in the case of joints the centres become now
+one potentially and divided actually, and now one actually and divided
+potentially. But still the origin of movement, qua origin, always
+remains at rest when the lower part of a limb is moved; for example,
+the elbow joint, when the forearm is moved, and the shoulder, when
+the whole arm; the knee when the tibia is moved, and the hip when
+the whole leg. Accordingly it is plain that each animal as a whole
+must have within itself a point at rest, whence will be the origin
+of that which is moved, and supporting itself upon which it will be
+moved both as a complete whole and in its members. 
+
+Part 2
+
+But the point of rest in the animal is still quite ineffectual unless
+there be something without which is absolutely at rest and immovable.
+Now it is worth while to pause and consider what has been said, for
+it involves a speculation which extends beyond animals even to the
+motion and march of the universe. For just as there must be something
+immovable within the animal, if it is to be moved, so even more must
+there be without it something immovable, by supporting itself upon
+which that which is moved moves. For were that something always to
+give way (as it does for mice walking in grain or persons walking
+in sand) advance would be impossible, and neither would there be any
+walking unless the ground were to remain still, nor any flying or
+swimming were not the air and the sea to resist. And this which resists
+must needs be different from what is moved, the whole of it from the
+whole of that, and what is thus immovable must be no part of what
+is moved; otherwise there will be no movement. Evidence of this lies
+in the problem why it is that a man easily moves a boat from outside,
+if he push with a pole, putting it against the mast or some other
+part, but if he tried to do this when in the boat itself he would
+never move it, no not giant Tityus himself nor Boreas blowing from
+inside the ship, if he really were blowing in the way painters represent
+him; for they paint him sending the breath out from the boat. For
+whether one blew gently or so stoutly as to make a very great wind,
+and whether what were thrown or pushed were wind or something else,
+it is necessary in the first place to be supported upon one of one's
+own members which is at rest and so to push, and in the second place
+for this member, either itself, or that of which it is a part, to
+remain at rest, fixing itself against something external to itself.
+Now the man who is himself in the boat, if he pushes, fixing himself
+against the boat, very naturally does not move the boat, because what
+he pushes against should properly remain at rest. Now what he is trying
+to move, and what he is fixing himself against is in his case the
+same. If, however, he pushes or pulls from outside he does move it,
+for the ground is no part of the boat. 
+
+Part 3
+
+Here we may ask the difficult question whether if something moves
+the whole heavens this mover must be immovable, and moreover be no
+part of the heavens, nor in the heavens. For either it is moved itself
+and moves the heavens, in which case it must touch something immovable
+in order to create movement, and then this is no part of that which
+creates movement; or if the mover is from the first immovable it will
+equally be no part of that which is moved. In this point at least
+they argue correctly who say that as the Sphere is carried round in
+a circle no single part remains still, for then either the whole would
+necessarily stand still or its continuity be torn asunder; but they
+argue less well in supposing that the poles have a certain force,
+though conceived as having no magnitude, but as merely termini or
+points. For besides the fact that no such things have any substantial
+existence it is impossible for a single movement to be initiated by
+what is twofold; and yet they make the poles two. From a review of
+these difficulties we may conclude that there is something so related
+to the whole of Nature, as the earth is to animals and things moved
+by them. 
+
+And the mythologists with their fable of Atlas setting his feet upon
+the earth appear to have based the fable upon intelligent grounds.
+They make Atlas a kind of diameter twirling the heavens about the
+poles. Now as the earth remains still this would be reasonable enough,
+but their theory involves them in the position that the earth is no
+part of the universe. And further the force of that which initiates
+movement must be made equal to the force of that which remains at
+rest. For there is a definite quantity of force or power by dint of
+which that which remains at rest does so, just as there is of force
+by dint of which that which initiates movement does so; and as there
+is a necessary proportion between opposite motions, so there is between
+absences of motion. Now equal forces are unaffected by one another,
+but are overcome by a superiority of force. And so in their theory
+Atlas, or whatever similar power initiates movement from within, must
+exert no more force than will exactly balance the stability of the
+earth- otherwise the earth will be moved out of her place in the centre
+of things. For as the pusher pushes so is the pushed pushed, and with
+equal force. But the prime mover moves that which is to begin with
+at rest, so that the power it exerts is greater, rather than equal
+and like to the power which produces absence of motion in that which
+is moved. And similarly also the power of what is moved and so moves
+must be greater than the power of that which is moved but does not
+initiate movement. Therefore the force of the earth in its immobility
+will have to be as great as the force of the whole heavens, and of
+that which moves the heavens. But if that is impossible, it follows
+that the heavens cannot possibly be moved by any force of this kind
+inside them. 
+
+Part 4
+
+There is a further difficulty about the motions of the parts of the
+heavens which, as akin to what has gone before, may be considered
+next. For if one could overcome by force of motion the immobility
+of the earth he would clearly move it away from the centre. And it
+is plain that the power from which this force would originate will
+not be infinite, for the earth is not infinite and therefore its weight
+is not. Now there are more senses than one of the word 'impossible'.
+When we say it is impossible to see a sound, and when we say it is
+impossible to see the men in the moon, we use two senses of the word;
+the former is of necessity, the latter, though their nature is to
+be seen, cannot as a fact be seen by us. Now we suppose that the heavens
+are of necessity impossible to destroy and to dissolve, whereas the
+result of the present argument would be to do away with this necessity.
+For it is natural and possible for a motion to exist greater than
+the force by dint of which the earth is at rest, or than that by dint
+of which Fire and Aether are moved. If then there are superior motions,
+these will be dissolved in succession by one another: and if there
+actually are not, but might possibly be (for the earth cannot be infinite
+because no body can possibly be infinite), there is a possibility
+of the heavens being dissolved. For what is to prevent this coming
+to pass, unless it be impossible? And it is not impossible unless
+the opposite is necessary. This difficulty, however, we will discuss
+elsewhere. 
+
+To resume, must there be something immovable and at rest outside of
+what is moved, and no part of it, or not? And must this necessarily
+be so also in the case of the universe? Perhaps it would be thought
+strange were the origin of movement inside. And to those who so conceive
+it the word of Homer would appear to have been well spoken:
+
+'Nay, ye would not pull Zeus, highest of all from heaven to the plain,
+no not even if ye toiled right hard; come, all ye gods and goddesses!
+Set hands to the chain'; for that which is entirely immovable cannot
+possibly be moved by anything. And herein lies the solution of the
+difficulty stated some time back, the possibility or impossibility
+of dissolving the system of the heavens, in that it depends from an
+original which is immovable. 
+
+Now in the animal world there must be not only an immovable without,
+but also within those things which move in place, and initiate their
+own movement. For one part of an animal must be moved, and another
+be at rest, and against this the part which is moved will support
+itself and be moved; for example, if it move one of its parts; for
+one part, as it were, supports itself against another part at rest.
+
+But about things without life which are moved one might ask the question
+whether all contain in themselves both that which is at rest and that
+which initiates movement, and whether they also, for instance fire,
+earth, or any other inanimate thing, must support themselves against
+something outside which is at rest. Or is this impossible and must
+it not be looked for rather in those primary causes by which they
+are set in motion? For all things without life are moved by something
+other, and the origin of all things so moved are things which move
+themselves. And out of these we have spoken about animals (for they
+must all have in themselves that which is at rest, and without them
+that against which they are supported); but whether there is some
+higher and prime mover is not clear, and an origin of that kind involves
+a different discussion. Animals at any rate which move themselves
+are all moved supporting themselves on what is outside them, even
+when they inspire and expire; for there is no essential difference
+between casting a great and a small weight, and this is what men do
+when they spit and cough and when they breathe in and breathe out.
+
+Part 5
+
+But is it only in that which moves itself in place that there must
+be a point at rest, or does this hold also of that which causes its
+own qualitative changes, and its own growth? Now the question of original
+generation and decay is different; for if there is, as we hold, a
+primary movement, this would be the cause of generation and decay,
+and probably of all the secondary movements too. And as in the universe,
+so in the animal world this is the primary movement, when the creature
+attains maturity; and therefore it is the cause of growth, when the
+creature becomes the cause of its own growth, and the cause too of
+alteration. But if this is not the primary movement then the point
+at rest is not necessary. However, the earliest growth and alteration
+in the living creature arise through another and by other channels,
+nor can anything possibly be the cause of its own generation and decay,
+for the mover must exist before the moved, the begetter before the
+begotten, and nothing is prior to itself. 
+
+Part 6
+
+Now whether the soul is moved or not, and how it is moved if it be
+moved, has been stated before in our treatise concerning it. And since
+all inorganic things are moved by some other thing- and the manner
+of the movement of the first and eternally moved, and how the first
+mover moves it, has been determined before in our Metaphysics, it
+remains to inquire how the soul moves the body, and what is the origin
+of movement in a living creature. For, if we except the movement of
+the universe, things with life are the causes of the movement of all
+else, that is of all that are not moved by one another by mutual impact.
+And so all their motions have a term or limit, inasmuch as the movements
+of things with life have such. For all living things both move and
+are moved with some object, so that this is the term of all their
+movement, the end, that is, in view. Now we see that the living creature
+is moved by intellect, imagination, purpose, wish, and appetite. And
+all these are reducible to mind and desire. For both imagination and
+sensation are on common ground with mind, since all three are faculties
+of judgement though differing according to distinctions stated elsewhere.
+Will, however, impulse, and appetite, are all three forms of desire,
+while purpose belongs both to intellect and to desire. Therefore the
+object of desire or of intellect first initiates movement, not, that
+is, every object of intellect, only the end in the domain of conduct.
+Accordingly among goods that which moves is a practical end, not the
+good in its whole extent. For it initiates movement only so far as
+something else is for its sake, or so far as it is the object of that
+which is for the sake of something else. And we must suppose that
+a seeming good may take the room of actual good, and so may the pleasant,
+which is itself a seeming good. From these considerations it is clear
+that in one regard that which is eternally moved by the eternal mover
+is moved in the same way as every living creature, in another regard
+differently, and so while it is moved eternally, the movement of living
+creatures has a term. Now the eternal beautiful, and the truly and
+primarily good (which is not at one time good, at another time not
+good), is too divine and precious to be relative to anything else.
+The prime mover then moves, itself being unmoved, whereas desire and
+its faculty are moved and so move. But it is not necessary for the
+last in the chain of things moved to move something else; wherefore
+it is plainly reasonable that motion in place should be the last of
+what happens in the region of things happening, since the living creature
+is moved and goes forward by reason of desire or purpose, when some
+alteration has been set going on the occasion of sensation or imagination.
+
+Part 7
+
+But how is it that thought (viz. sense, imagination, and thought proper)
+is sometimes followed by action, sometimes not; sometimes by movement,
+sometimes not? What happens seems parallel to the case of thinking
+and inferring about the immovable objects of science. There the end
+is the truth seen (for, when one conceives the two premisses, one
+at once conceives and comprehends the conclusion), but here the two
+premisses result in a conclusion which is an action- for example,
+one conceives that every man ought to walk, one is a man oneself:
+straightway one walks; or that, in this case, no man should walk,
+one is a man: straightway one remains at rest. And one so acts in
+the two cases provided that there is nothing in the one case to compel
+or in the other to prevent. Again, I ought to create a good, a house
+is good: straightway I make a house. I need a covering, a coat is
+a covering: I need a coat. What I need I ought to make, I need a coat:
+I make a coat. And the conclusion I must make a coat is an action.
+And the action goes back to the beginning or first step. If there
+is to be a coat, one must first have B, and if B then A, so one gets
+A to begin with. Now that the action is the conclusion is clear. But
+the premisses of action are of two kinds, of the good and of the possible.
+
+And as in some cases of speculative inquiry we suppress one premise
+so here the mind does not stop to consider at all an obvious minor
+premise; for example if walking is good for man, one does not dwell
+upon the minor 'I am a man'. And so what we do without reflection,
+we do quickly. For when a man actualizes himself in relation to his
+object either by perceiving, or imagining or conceiving it, what he
+desires he does at once. For the actualizing of desire is a substitute
+for inquiry or reflection. I want to drink, says appetite; this is
+drink, says sense or imagination or mind: straightway I drink. In
+this way living creatures are impelled to move and to act, and desire
+is the last or immediate cause of movement, and desire arises after
+perception or after imagination and conception. And things that desire
+to act now create and now act under the influence of appetite or impulse
+or of desire or wish. 
+
+The movements of animals may be compared with those of automatic puppets,
+which are set going on the occasion of a tiny movement; the levers
+are released, and strike the twisted strings against one another;
+or with the toy wagon. For the child mounts on it and moves it straight
+forward, and then again it is moved in a circle owing to its wheels
+being of unequal diameter (the smaller acts like a centre on the same
+principle as the cylinders). Animals have parts of a similar kind,
+their organs, the sinewy tendons to wit and the bones; the bones are
+like the wooden levers in the automaton, and the iron; the tendons
+are like the strings, for when these are tightened or leased movement
+begins. However, in the automata and the toy wagon there is no change
+of quality, though if the inner wheels became smaller and greater
+by turns there would be the same circular movement set up. In an animal
+the same part has the power of becoming now larger and now smaller,
+and changing its form, as the parts increase by warmth and again contract
+by cold and change their quality. This change of quality is caused
+by imaginations and sensations and by ideas. Sensations are obviously
+a form of change of quality, and imagination and conception have the
+same effect as the objects so imagined and conceived For in a measure
+the form conceived be it of hot or cold or pleasant or fearful is
+like what the actual objects would be, and so we shudder and are frightened
+at a mere idea. Now all these affections involve changes of quality,
+and with those changes some parts of the body enlarge, others grow
+smaller. And it is not hard to see that a small change occurring at
+the centre makes great and numerous changes at the circumference,
+just as by shifting the rudder a hair's breadth you get a wide deviation
+at the prow. And further, when by reason of heat or cold or some kindred
+affection a change is set up in the region of the heart, even in an
+imperceptibly small part of the heart, it produces a vast difference
+in the periphery of the body,- blushing, let us say, or turning white,
+goose-skin and shivers and their opposites. 
+
+Part 8
+
+But to return, the object we pursue or avoid in the field of action
+is, as has been explained, the original of movement, and upon the
+conception and imagination of this there necessarily follows a change
+in the temperature of the body. For what is painful we avoid, what
+is pleasing we pursue. We are, however, unconscious of what happens
+in the minute parts; still anything painful or pleasing is generally
+speaking accompanied by a definite change of temperature in the body.
+One may see this by considering the affections. Blind courage and
+panic fears, erotic motions, and the rest of the corporeal affections,
+pleasant and painful, are all accompanied by a change of temperature,
+some in a particular member, others in the body generally. So, memories
+and anticipations, using as it were the reflected images of these
+pleasures and pains, are now more and now less causes of the same
+changes of temperature. And so we see the reason of nature's handiwork
+in the inward parts, and in the centres of movement of the organic
+members; they change from solid to moist, and from moist to solid,
+from soft to hard and vice versa. And so when these are affected in
+this way, and when besides the passive and active have the constitution
+we have many times described, as often as it comes to pass that one
+is active and the other passive, and neither of them falls short of
+the elements of its essence, straightway one acts and the other responds.
+And on this account thinking that one ought to go and going are virtually
+simultaneous, unless there be something else to hinder action. The
+organic parts are suitably prepared by the affections, these again
+by desire, and desire by imagination. Imagination in its turn depends
+either upon conception or sense-perception. And the simultaneity and
+speed are due to the natural correspondence of the active and passive.
+
+However, that which first moves the animal organism must be situate
+in a definite original. Now we have said that a joint is the beginning
+of one part of a limb, the end of another. And so nature employs it
+sometimes as one, sometimes as two. When movement arises from a joint,
+one of the extreme points must remain at rest, and the other be moved
+(for as we explained above the mover must support itself against a
+point at rest); accordingly, in the case of the elbow-joint, the last
+point of the forearm is moved but does not move anything, while, in
+the flexion, one point of the elbow, which lies in the whole forearm
+that is being moved, is moved, but there must also be a point which
+is unmoved, and this is our meaning when we speak of a point which
+is in potency one, but which becomes two in actual exercise. Now if
+the arm were the living animal, somewhere in its elbow-joint would
+be situate the original seat of the moving soul. Since, however, it
+is possible for a lifeless thing to be so related to the hand as the
+forearm is to the upper (for example, when a man moves a stick in
+his hand), it is evident that the soul, the original of movement,
+could not lie in either of the two extreme points, neither, that is,
+in the last point of the stick which is moved, nor in the original
+point which causes movement. For the stick too has an end point and
+an originative point by reference to the hand. Accordingly, this example
+shows that the moving original which derives from the soul is not
+in the stick and if not, then not in the hand; for a precisely similar
+relation obtains between the hand and the wrist, as between the wrist
+and the elbow. In this matter it makes no difference whether the part
+is a continuous part of the body or not; the stick may be looked at
+as a detached part of the whole. It follows then of necessity that
+the original cannot lie in any individual origin which is the end
+of another member, even though there may lie another part outside
+the one in question. For example, relatively to the end point of the
+stick the hand is the original, but the original of the hand's movement
+is in the wrist. And so if the true original is not in the hand, be-there
+is still something higher up, neither is the true original in the
+wrist, for once more if the elbow is at rest the whole part below
+it can be moved as a continuous whole. 
+
+Part 9
+
+Now since the left and the right sides are symmetrical, and these
+opposites are moved simultaneously, it cannot be that the left is
+moved by the right remaining stationary, nor vice versa; the original
+must always be in what lies above both. Therefore, the original seat
+of the moving soul must be in that which lies in the middle, for of
+both extremes the middle is the limiting point; and this is similarly
+related to the movements from above [and below,] those that is from
+the head, and to the bones which spring from the spinal column, in
+creatures that have a spinal column. 
+
+And this is a reasonable arrangement. For the sensorium is in our
+opinion in the centre too; and so, if the region of the original of
+movement is altered in structure through sense-perception and thus
+changes, it carries with it the parts that depend upon it and they
+too are extended or contracted, and in this way the movement of the
+creature necessarily follows. And the middle of the body must needs
+be in potency one but in action more than one; for the limbs are moved
+simultaneously from the original seat of movement, and when one is
+at rest the other is moved. For example, in the line BAC, B is moved,
+and A is the mover. There must, however, be a point at rest if one
+is to move, the other to be moved. A (AE) then being one in potency
+must be two in action, and so be a definite spatial magnitude not
+a mathematical point. Again, C may be moved simultaneously with B.
+Both the originals then in A must move and be, and so there must be
+something other than them which moves but is not moved. For otherwise,
+when the movement begins, the extremes, i.e. the originals, in A would
+rest upon one another, like two men putting themselves back to back
+and so moving their legs. There must then be some one thing which
+moves both. This something is the soul, distinct from the spatial
+magnitude just described and yet located therein. 
+
+Part 10
+
+Although from the point of view of the definition of movement- a definition
+which gives the cause- desire is the middle term or cause, and desire
+moves being moved, still in the material animated body there must
+be some material which itself moves being moved. Now that which is
+moved, but whose nature is not to initiate movement, is capable of
+being passive to an external force, while that which initiates movement
+must needs possess a kind of force and power. Now experience shows
+us that animals do both possess connatural spirit and derive power
+from this. (How this connatural spirit is maintained in the body is
+explained in other passages of our works.) And this spirit appears
+to stand to the soul-centre or original in a relation analogous to
+that between the point in a joint which moves being moved and the
+unmoved. Now since this centre is for some animals in the heart, in
+the rest in a part analogous with the heart, we further see the reason
+for the connatural spirit being situate where it actually is found.
+The question whether the spirit remains always the same or constantly
+changes and is renewed, like the cognate question about the rest of
+the parts of the body, is better postponed. At all events we see that
+it is well disposed to excite movement and to exert power; and the
+functions of movement are thrusting and pulling. Accordingly, the
+organ of movement must be capable of expanding and contracting; and
+this is precisely the characteristic of spirit. It contracts and expands
+naturally, and so is able to pull and to thrust from one and the same
+cause, exhibiting gravity compared with the fiery element, and levity
+by comparison with the opposites of fire. Now that which is to initiate
+movement without change of structure must be of the kind described,
+for the elementary bodies prevail over one another in a compound body
+by dint of disproportion; the light is overcome and kept down by the
+heavier, and the heavy kept up by the lighter. 
+
+We have now explained what the part is which is moved when the soul
+originates movement in the body, and what is the reason for this.
+And the animal organism must be conceived after the similitude of
+a well-governed commonwealth. When order is once established in it
+there is no more need of a separate monarch to preside over each several
+task. The individuals each play their assigned part as it is ordered,
+and one thing follows another in its accustomed order. So in animals
+there is the same orderliness- nature taking the place of custom-
+and each part naturally doing his own work as nature has composed
+them. There is no need then of a soul in each part, but she resides
+in a kind of central governing place of the body, and the remaining
+parts live by continuity of natural structure, and play the parts
+Nature would have them play. 
+
+Part 11
+
+So much then for the voluntary movements of animal bodies, and the
+reasons for them. These bodies, however, display in certain members
+involuntary movements too, but most often non-voluntary movements.
+By involuntary I mean motions of the heart and of the privy member;
+for often upon an image arising and without express mandate of the
+reason these parts are moved. By non-voluntary I mean sleep and waking
+and respiration, and other similar organic movements. For neither
+imagination nor desire is properly mistress of any of these; but since
+the animal body must undergo natural changes of quality, and when
+the parts are so altered some must increase and other decrease, the
+body must straightway be moved and change with the changes that nature
+makes dependent upon one another. Now the causes of the movements
+are natural changes of temperature, both those coming from outside
+the body, and those taking place within it. So the involuntary movements
+which occur in spite of reason in the aforesaid parts occur when a
+change of quality supervenes. For conception and imagination, as we
+said above, produce the conditions necessary to affections, since
+they bring to bear the images or forms which tend to create these
+states. And the two parts aforesaid display this motion more conspicuously
+than the rest, because each is in a sense a separate vital organism,
+the reason being that each contains vital moisture. In the case of
+the heart the cause is plain, for the heart is the seat of the senses,
+while an indication that the generative organ too is vital is that
+there flows from it the seminal potency, itself a kind of organism.
+Again, it is a reasonable arrangement that the movements arise in
+the centre upon movements in the parts, and in the parts upon movements
+in the centre, and so reach one another. Conceive A to be the centre
+or starting point. The movements then arrive at the centre from each
+letter in the diagram we have drawn, and flow back again from the
+centre which is moved and changes, (for the centre is potentially
+multiple) the movement of B goes to B, that of C to C, the movement
+of both to both; but from B to C the movements flow by dint of going
+from B to A as to a centre, and then from A to C as from a centre.
+
+Moreover a movement contrary to reason sometimes does and sometimes
+does not arise in the organs on the occasion of the same thoughts;
+the reason is that sometimes the matter which is passive to the impressions
+is there in sufficient quantity and of the right quality and sometimes
+not. 
+
+And so we have finished our account of the reasons for the parts of
+each kind of animal, of the soul, and furthere of sense-perception,
+of sleep, of memory, and of movement in general; it remains to speak
+of animal generation. 
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.
+</pre></body></html>

@@ -1,0 +1,1783 @@
+
+<BASE HREF="http://classics.mit.edu/Aristophanes/eccles.pl.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Aristophanes/eccles.pl.txt"><font color=blue>classics.mit.edu/Aristophanes/eccles.pl.txt</font></a>.<br>
+<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Aristophanes/eccles.pl.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
+<html><body><pre>
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Aristophanes/eccles.html
+
+The Ecclesiazusae
+By Aristophanes
+
+
+
+----------------------------------------------------------------------
+
+Dramatis Personae
+
+PRAXAGORA
+BLEPYRUS, husband of Praxagora
+WOMEN
+A MAN
+CHREMES
+A CITIZEN
+HERALD
+A GIRL
+A YOUNG MAN
+THREE OLD WOMEN
+A SERVANT MAID to PRAXAGORA
+CHORUS OF WOMEN
+
+----------------------------------------------------------------------
+
+The Orchestra represents a public square in Athens; in the background
+are two houses with an alley between them.
+
+----------------------------------------------------------------------
+
+PRAXAGORA (swinging the lantern, which is to be a signal for the
+other women; in high tragic style)  Oh! Thou shining light of my earthenware
+lamp, from this high spot shalt thou look abroad. Oh! lamp, I will
+tell thee thine origin and thy future; 'tis the rapid whirl of the
+potter's wheel that has lent thee thy shape, and thy wick counterfeits
+the glory of the sun; mayst thou send the agreed signal flashing afar!
+In thee alone do we confide, and thou art worthy, for thou art near
+us when we practise the various postures in which Aphrodite delights
+upon our couches, and none dreams even in the midst of her sports
+of seeking to avoid thine eye that watches us. Thou alone shinest
+into the secret recesses of our thighs and dost singe the hair that
+groweth there, and with thy flame dost light the actions of our loves.
+If we open some cellar stored with fruits and wine, thou art our companion,
+and never dost thou betray or reveal to a neighbour the secrets thou
+hast learned about us. Therefore thou shalt know likewise the whole
+of the plot that I have planned with my friends, the women, at the
+festival of the Scirophoria.  (She pauses and looks about her.)  I
+see none of those I was expecting, though dawn approaches; the Assembly
+is about to gather and we must take our seats in spite of Phyromachus,
+who forsooth would say, "It is meet the women sit apart and hidden
+from the eyes of the men." Why, have they not been able then to procure
+the false beards that they must wear, or to steal their husbands'
+cloaks? Ah! I see a light approaching; let us draw somewhat aside,
+for fear it should be a man.  (She hides in the alley. From the right
+a woman enters, followed almost immediately by others. All are carrying
+staffs, men's sandals, and cloaks over their arms.)  
+
+FIRST WOMAN Let us start, it is high time; as we left our dwellings,
+the cock was crowing for the second time. 
+
+PRAXAGORA  (to herself) And I have spent the whole night waiting
+for you.  (She emerges from the alley.)  But come, let us call our
+neighbour by scratching at her door; and gently too, so that her husband
+may hear nothing. 
+
+SECOND WOMAN (coming out of her house; she is dressed like a man,
+with a staff in her hand)  I was putting on my shoes, when I heard
+you scratching, for I was not asleep, so there! Oh! my dear, my husband
+(he is a Salaminian) never left me an instant's peace, but was at
+me, for ever at me, all night long, so that it was only just now that
+I was able to filch his cloak. 
+
+PRAXAGORA I see Clinarete coming too, along with Sostrate and their
+next-door neighbour Philaenete.  (To the women that are just arriving;
+in a loud voice)  Hurry yourselves then, for Glyce has sworn that
+the last comer shall forfeit three measures of wine and a choenix
+of pease. 
+
+SECOND WOMAN Don't you see Melistice, the wife of Smicythion, hurrying
+hither in her big shoes? I think she is the only one of us all who
+has had no trouble in getting rid of her husband. 
+
+FIRST WOMAN And can't you see Geusistrate, the tavern-keeper's wife,
+with a lamp in her hand? 
+
+PRAXAGORA And the wives of Philodoretus and Chaeretades, and a great
+many others; all the useful people in the city, in fact.
+
+THIRD WOMAN Oh! my dear, I have had such trouble in getting away!
+My husband ate such a surfeit of sprats last evening that he was coughing
+and choking the whole night long. 
+
+PRAXAGORA Take your seats, and, since you are all gathered here at
+last, let us see if what we decided on at the feast of the Scirophoria
+has been duly done. 
+
+FIRST WOMAN Yes. Firstly, as agreed, I have let the hair under my
+armpits grow thicker than a bush; furthermore, whilst my husband was
+at the Assembly, I rubbed myself from head to foot with oil and then
+stood the whole day long in the sun. 
+
+SECOND WOMAN So did I. I began by throwing away my razor, so that
+I might get quite hairy, and no longer resemble a woman.
+
+PRAXAGORA Have you the beards that we had all to get ourselves for
+the Assembly? 
+
+FIRST WOMAN Yea, by Hecate! Is this not a fine one? 
+
+SECOND WOMAN Aye, much finer even than the one Epicrates has.
+
+PRAXAGORA  (to the other women) And you? 
+
+FIRST WOMAN Yes, yes; look, they all nod assent. 
+
+PRAXAGORA I see that you have got all the rest too, Spartan shoes,
+staffs and men's cloaks, as it was arranged. 
+
+FIRST WOMAN I have brought Lamias' club, which I stole from him while
+he slept. 
+
+PRAXAGORA What, the club that makes him fart with its weight?
+
+SECOND WOMAN By Zeus the Deliverer, if he had the skin of Argus,
+he would know better than any other how to shepherd the popular herd.
+
+PRAXAGORA But come, let us finish what has yet to be done, while
+the stars are still shining; the Assembly, at which we mean to be
+present, will open at dawn. 
+
+FIRST WOMAN Good; you must take up your place at the foot of the
+platform and facing the Prytanes. 
+
+SECOND WOMAN I have brought this with me to card during the Assembly.
+(She shows some wool.)  
+
+PRAXAGORA During the Assembly, wretched woman? 
+
+SECOND WOMAN Surely, by Artemis! shall I hear any less well if I
+am doing a bit of carding? My little ones are all but naked.
+
+PRAXAGORA Think of her wanting to card! whereas we must not let anyone
+see the smallest part of our bodies. 'Twould be a fine thing if one
+of us, in the midst of the discussion, rushed on to the speaker's
+platform and, flinging her cloak aside, showed her Phormisius. If,
+on the other hand, we are the first to take our seats closely muffled
+in our cloaks, none will know us. Let us fix these beards on our chins,
+so that they spread all over our bosoms. How can we fail then to be
+mistaken for men? Agyrrhius has deceived everyone, thanks to the beard
+of Pronomus; yet he was no better than a woman, and you see how he
+now holds the first position in the city. Thus, I adjure you by this
+day that is about to dawn, let us dare to copy him and let us be clever
+enough to possess ourselves of the management of affairs. Let us save
+the ship of state, which just at present none seems able either to
+sail or row. 
+
+FIRST WOMAN  (in a tragic style) But where shall we find orators
+in an Assembly of women? 
+
+PRAXAGORA Nothing simpler. Is it not said that the cleverest speakers
+are those who get made love to most often? Well, thanks to the gods,
+we are that by nature. 
+
+FIRST WOMAN There's no doubt of that; but the worst of it is our
+inexperience. 
+
+PRAXAGORA That's the very reason we are gathered here, in order to
+prepare the speech we must make in the Assembly. Hasten, therefore,
+all you who know aught of speaking, to fix on your beards.
+
+SECOND WOMAN Oh you stupid thing! is there ever a one among us cannot
+use her tongue? 
+
+PRAXAGORA Come, look sharp, on with your beard and become a man.
+As for me, I will do the same in case I should have a fancy for getting
+on to the platform. Here are the chaplets.  (They all put on their
+beards.)  
+
+SECOND WOMAN Oh! great gods! my dear Praxagora, do look here! Is
+it not laughable? 
+
+PRAXAGORA How laughable? 
+
+SECOND WOMAN Our beards look like broiled cuttle-fishes.
+
+PRAXAGORA  (pretending to be the herald) Priest, bring in the cat.
+Step forward, please Silence, Ariphrades! Come and take your seat.
+Now, who wishes to speak? 
+
+SECOND WOMAN I do. 
+
+PRAXAGORA Then put on this chaplet and success be with you.
+
+SECOND WOMAN There! 
+
+PRAXAGORA Well then I begin. 
+
+SECOND WOMAN Before drinking? 
+
+PRAXAGORA Hah! she wants to drink! 
+
+SECOND WOMAN Why, what else is the meaning of this chaplet?
+
+PRAXAGORA Get you hence! you would probably have played us this trick
+also before the people. 
+
+SECOND WOMAN Well! don't the men drink then in the Assembly?
+
+PRAXAGORA Now she's telling us the men drink! 
+
+SECOND WOMAN Yes, by Artemis, and neat wine too. That's why their
+decrees breathe of drunkenness and madness. And why libations, why
+so many ceremonies, if wine plays no part in them? Besides, they abuse
+each other like drunken men, and you can see the archers dragging
+more than one uproarious drunkard out of the market-place.
+
+PRAXAGORA Go back to your seat, you are wandering. 
+
+SECOND WOMAN  (returning to her seat) Ah! I should have done better
+not to have muffled myself in this beard; my throat's afire and I
+feel I shall die of thirst. 
+
+PRAXAGORA Who else wishes to speak? 
+
+FIRST WOMAN  (rising) I do. 
+
+PRAXAGORA Quick then, take the chaplet; the time's running short.
+Try to speak worthily, let your language be truly manly, and lean
+on your staff with dignity. 
+
+FIRST WOMAN I had rather have seen one of your regular orators giving
+you wise advice; but, as that is not to be, it behoves me to break
+silence; I cannot, for my part indeed, allow the tavern-keepers to
+fill up their wine-pits with water. No, by the two goddesses...
+
+PRAXAGORA What? by the two goddesses! Wretched woman, where are your
+senses? 
+
+FIRST WOMAN Eh! what?... I have not asked you for a drink.
+
+PRAXAGORA No, but you want to pass for a man, and you swear by the
+two goddesses. Otherwise you did very well. 
+
+FIRST WOMAN Well then. By Apollo... 
+
+PRAXAGORA Stop! All these details of language must be adjusted; else
+it is quite useless to go to the Assembly. 
+
+FIRST WOMAN Give me back the chaplet; I wish to speak again, for
+I think I have got hold of something good. You women who are listening
+to me... 
+
+PRAXAGORA Women again; why, you wretched creature, it's men that
+you are addressing. 
+
+FIRST WOMAN That's the fault of Epigonus; I caught sight of him way
+over there, and I thought I was speaking to women. 
+
+PRAXAGORA Come, withdraw and remain seated in the future. I am going
+to take this chaplet myself and speak in your name. May the gods grant
+success to my plans! My country is as dear to me as it is to you,
+and I groan, I am grieved at all that is happening in it. Scarcely
+one in ten of those who rule it is honest, and all the others are
+bad. If you appoint fresh chiefs, they will do still worse. It is
+hard to correct your peevish humour; you fear those who love you and
+throw yourselves at the feet of those who betray you. There was a
+time when we had no assemblies, and then we all thought Agyrrhius
+a dishonest man; now they are established, he who gets money thinks
+everything is as it should be, and he who does not, declares all who
+sell their votes to be worthy of death. 
+
+SECOND WOMAN By Aphrodite, that is well spoken. 
+
+PRAXAGORA Why, wretched woman, you have actually called upon Aphrodite.
+Oh! what a fine thing it would have been if you had said that in the
+Assembly! 
+
+SECOND WOMAN But I would not have done it then. 
+
+PRAXAGORA Well, mind you don't fall into the habit.  (Resuming the
+oratorical manner)  When we were discussing the alliance, it seemed
+as though it were all over with Athens if it fell through. No sooner
+was it made than we were vexed and angry, and the orator who had caused
+its adoption was compelled to seek safety in flight. Is there talk
+of equipping a fleet? The poor man says, yes, but the rich citizen
+and the countryman say, no. You were angered against the Corinthians
+and they with you; now they are well disposed towards you, be so towards
+them. As a rule the Argives are dull, but the Argive Hieronymus is
+a distinguished chief. Herein lies a spark of hope; but Thrasybulus
+is far from Athens and you do not recall him. 
+
+SECOND WOMAN Oh! what a brilliant man! 
+
+PRAXAGORA  (to her) That's better! that's fitting applause.  (Continuing
+her speech)  Citizens, you are the ones who are the cause of all this
+trouble. You vote yourselves salaries out of the public funds and
+care only for your own personal interests; hence the state limps along
+like Aesimus. But if you hearken to me, you will be saved. I assert
+that the direction of affairs must be handed over to the women, for
+they are the ones who have charge and look after our households.
+
+ALL THE WOMEN Very good, very good, that's perfect! Go on, go on.
+
+PRAXAGORA  (ignoring this interruption) They are worth more than
+you are, as I shall prove. First of all they wash all their wool in
+warm water, according to the ancient practice; you will never see
+them changing their method. Ah! if Athens only acted thus, if it did
+not take delight in ceaseless innovations, would not its happiness
+be assured? Then the women sit down to cook, just as they always did;
+they carry things on their head just as they always did; they keep
+the Thesmophoria, just as they always did; they knead their cakes
+just as they always did; they make their husbands angry just as they
+always did; they receive their lovers in their houses just as they
+always did; they buy dainties just as they always did; they love unmixed
+wine just as they always did; they delight in being loved just as
+they always did. Let us therefore hand Athens over to them without
+endless discussions, without bothering ourselves about what they will
+do; let us simply hand them over the power, remembering that they
+are mothers and will therefore spare the blood of our soldiers; besides,
+who will know better than a mother how to forward provisions to the
+front? Woman is adept at getting money for herself and will not easily
+let herself be deceived; she understands deceit too well herself.
+I omit a thousand other advantages. Take my advice and you will live
+in perfect happiness. 
+
+FIRST WOMAN How beautiful this is, my dearest Praxagora, how clever!
+But where, pray, did you learn all these pretty things? 
+
+PRAXAGORA When the countryfolk were seeking refuge in the city, I
+lived on the Pnyx with my husband, and there I learnt to speak through
+listening to the orators. 
+
+FIRST WOMAN Then, dear, it's not astonishing that you are so eloquent
+and clever, henceforward you shall be our leader, so put your great
+ideas into execution. But if Cephalus belches forth insults against
+you, what answer will you give him in the Assembly? 
+
+PRAXAGORA I shall say that he is drivelling. 
+
+FIRST WOMAN But all the world knows that. 
+
+PRAXAGORA I shall furthermore say that he is a raving madman.
+
+FIRST WOMAN There's nobody who does not know that. 
+
+PRAXAGORA That he, as excellent a statesman as he is, is a clumsy
+potter. 
+
+FIRST WOMAN And if the blear-eyed Neoclides comes to insult you?
+
+PRAXAGORA To him I shall say, "Go and look at a dog's arse."
+
+FIRST WOMAN And if they fly at you? 
+
+PRAXAGORA Oh! I shall shake them off as best I can; never fear, I
+know how to use this too! 
+
+FIRST WOMAN But there is one thing we don't think of. If the Scythians
+drag you away, what will you do? 
+
+PRAXAGORA With my arms akimbo like this, I will never, never let
+myself be taken round the middle. 
+
+FIRST WOMAN If they seize you, we will bid them let you go.
+
+SECOND WOMAN That's the best way. But how are we going to remember
+to lift our arms in the Assembly when it's our legs we are used to
+lifting? 
+
+PRAXAGORA It's difficult; yet it must be done, and the arm shown
+naked to the shoulder in order to vote. Quick now, put on these tunics
+and these Laconian shoes, as you see the men do each time they go
+to the Assembly or for a walk. When this is done, fix on your beards,
+and when they are arranged in the best way possible, dress yourselves
+in the cloaks you have stolen from your husbands; finally start off,
+leaning on your staffs and singing some old man's song as the villagers
+do. 
+
+FIRST WOMAN Well spoken; and let us hurry to get to the Pnyx before
+the women from the country, for they will no doubt not fail to come
+there. 
+
+PRAXAGORA Quick, quick, for it's the custom that those who are not
+at the Pnyx early in the morning return home empty-handed.  (PRAXAGORA
+and the FIRST and SECOND WOMEN depart; those who are left behind form
+the CHORUS.)  
+
+LEADER OF THE CHORUS Move forward, citizens, move forward; let us
+not forget to give ourselves this name and may that of woman never
+slip out of our mouths; woe to us, if it were discovered that we had
+laid such a plot in the darkness of night. 
+
+CHORUS  (singing) Let us go to the Assembly then, fellow-citizens;
+for the Thesmothetes have declared that only those who arrive at daybreak
+with haggard eye and covered with dust, without having snatched time
+to eat anything but a snack of garlic-pickle, shall alone receive
+the triobolus. Walk up smartly, Charitimides, Smicythus and Draces,
+and do not fail in any point of your part; let us first demand our
+fee and then vote for all that may perchance be useful for our partisans....
+Ah! what am I saying? I meant to say, for our fellow-citizens. Let
+us drive away these men of the city who used to stay at home and chatter
+round the table in the days when only an obolus was paid, whereas
+now one is stifled by the crowds at the Pnyx. No! during the archonship
+of generous Myronides, none would have dared to let himself be paid
+for the trouble he spent over public business; each one brought his
+own meal of bread, a couple of onions, three olives and some wine
+in a little wine-skin. But nowadays we run here to earn the three
+obols, for the citizen has become as mercenary as the stonemason.
+(The CHORUS marches away. BLEPYRUS appears in the doorway of his
+house, wearing PRAXAGORA's Persian sandals and saffron robe.)
+
+BLEPYRUS What does this mean? My wife has vanished! it is nearly
+daybreak and she does not return! I had to take a crap! I woke up
+and hunted in the darkness for my shoes and my cloak; but grope where
+I would, I couldn't find them. Meanwhile Mr. O'Shit was already knocking
+on the door and I had only just time to seize my wife's little mantle
+and her Persian slippers. But where shall I find a place where I can
+take a crap? Bah! One place is as good as another at night-time; no
+one will see me. Ah! what a damned fool I was to take a wife at my
+age, and how I could thrash myself for having acted so stupidly! It's
+certainty she's not gone out for any honest purpose. But the thing
+to do now is to take a crap.  (He squats.)  
+
+A MAN  (looking out of the window of the house next door) Who's that?
+Is that not my neighbour Blepyrus? Why, yes, it's no other. Tell me,
+what's all that yellow about you? Can it be Cinesias who has befouled
+you so? 
+
+BLEPYRUS No, no, I only slipped on my wife's tunic to come out in.
+
+MAN And where is your cloak? 
+
+BLEPYRUS I cannot tell you; I hunted for it vainly on the bed.
+
+MAN And why did you not ask your wife for it? 
+
+BLEPYRUS Ah! why indeed! because she is not in the house; she has
+run away, and I greatly fear that she may be doing me an ill turn.
+
+MAN But, by Posidon, it's the same with myself. My wife has disappeared
+with my cloak, and what is still worse, with my shoes as well; I cannot
+find them anywhere. 
+
+BLEPYRUS Nor can I my Laconian ones; but as I urgently needed to
+crap, I popped my feet into these slippers, so as not to soil my blanket,
+which is brand new. 
+
+MAN What does it mean? Can some friend have invited her to a feast?
+
+BLEPYRUS I expect so, for she does not generally misconduct herself,
+as far as I know. 
+
+MAN What are you doing, making well-ropes? Are you never going to
+be done? As for myself, I would like to go to the Assembly, and it
+is time to start, but I've got to find my cloak; I have only one.
+
+BLEPYRUS I am going to have a look too, when I have finished crapping;
+but I really think there must be a wild pear obstructing my rectum.
+
+MAN Is it the one which Thrasybulus spoke about to the Lacedaemonians?
+
+BLEPYRUS Oh! oh! oh! stopped up I am! Whatever am I to do? It's not
+merely for the present that I am frightened; but when I have eaten,
+where is my crap to find an outlet now? This damned McPear fellow
+has bolted the door. Call a doctor; but who is the cleverest in this
+branch of the science? Amynon? Perhaps he would not come. Ah! Antisthenes!
+Let him be brought to me, cost what it will. To judge by his noisy
+sighs, that man knows what an arse wants, when it needs to crap. Oh!
+venerated Ilithyia! I shall burst unless the door gives way. Have
+pity! pity! Let me not become a thunder-mug for the comic poets.
+(Enter CHREMES, returning from the Assembly.)  
+
+CHREMES Hi! friend, what are you doing there? You're not crapping,
+are you? 
+
+BLEPYRUS  (finding relief at last) Oh! there! it is over and I can
+get up again. 
+
+CHREMES What's this? You have your wife's tunic on. 
+
+BLEPYRUS It was the first thing that came to my hand in the darkness.
+But where are you coming from? 
+
+CHREMES From the Assembly. 
+
+BLEPYRUS Is it already over then? 
+
+CHREMES Certainly. 
+
+BLEPYRUS Why, it is scarcely daylight. 
+
+CHREMES I did laugh, ye gods, at the vermilion rope-marks that were
+to be seen all about the Assembly. 
+
+BLEPYRUS Did you get the triobolus? 
+
+CHREMES Would it had so pleased the gods! but I arrived just too
+late, and am quite ashamed of it; I bring back nothing but this empty
+wallet. 
+
+BLEPYRUS But why is that? 
+
+CHREMES There was a crowd, such as has never been seen at the Pnyx,
+and the folk looked pale and wan, like so many shoemakers, so white
+were they in hue; both I and many another had to go without the triobolus.
+
+BLEPYRUS Then if I went now, I should get nothing. 
+
+CHREMES No, certainly not, nor even had you gone at the second cock-crow.
+
+BLEPYRUS Oh! what a misfortune! "Oh, Antilochus! no triobolus! Even
+death would be better! I am undone!" But what can have attracted such
+a crowd at that early hour? 
+
+CHREMES The Prytanes started the discussion of measures closely concerning
+the safety of the state; immediately, that blear-eyed fellow, the
+son of Neoclides, was the first to mount the platform. Then the folk
+shouted with their loudest voice, "What! he dares to speak, and that,
+too, when the safety of the state is concerned, and he a man who has
+not known how to save even his own eyebrows!" He, however, shouted
+louder than all of them, and looking at them asked, "Why, what ought
+I to have done?" 
+
+BLEPYRUS Pound together garlic and laserpitium juice, add to this
+mixture some Laconian spurge, and rub it well into the eyelids at
+night. That's what I should have answered, had I been there.
+
+CHREMES After him that clever rascal Evaeon began to speak; he was
+naked, so far as we all could see, but he declared he had a cloak;
+he propounded the most popular, the most democratic, doctrines. "You
+see," he said, "I have the greatest need of sixteen drachmae, the
+cost of a new cloak, my health demands it; nevertheless I wish first
+to care for that of my fellow-citizens and of my country. If the fullers
+were to supply tunics to the indigent at the approach of winter, none
+would be exposed to pleurisy. Let him who has neither beds nor coverlets
+go to sleep at the tanners' after taking a bath; and if they shut
+the door in winter, let them be condemned to give him three goat-skins."
+
+BLEPYRUS By Dionysus, a fine, a very fine notion! Not a soul will
+vote against his proposal, especially if he adds that the flour-sellers
+must supply the poor with three measures of corn, or else suffer the
+severest penalties of the law; this is the only way Nausicydes can
+be of any use to us. 
+
+CHREMES Then we saw a handsome young man rush into the tribune, be
+was all pink and white like young Nicias, and he began to say that
+the direction of matters should be entrusted to the women; this the
+crowd of shoemakers began applauding with all their might, while the
+country-folk assailed him with groans. 
+
+BLEPYRUS And, indeed, they did well. 
+
+CHREMES But they were outnumbered, and the orator shouted louder
+than they, saying much good of the women and much ill of you.
+
+BLEPYRUS  (eagerly) And what did he say? 
+
+CHREMES First he said you were a rogue... 
+
+BLEPYRUS And you? 
+
+CHREMES Wait a minute!...and a thief... 
+
+BLEPYRUS I alone? 
+
+CHREMES And an informer. 
+
+BLEPYRUS I alone? 
+
+CHREMES Why, no, by the gods! this whole crowd here.  (He points
+to the audience.)  
+
+BLEPYRUS And who avers the contrary? 
+
+CHREMES He maintained that women were both clever and thrifty, that
+they never divulged the Mysteries of Demeter, while you and I go about
+babbling incessantly about whatever happens at the Senate.
+
+BLEPYRUS By Hermes, he was not lying! 
+
+CHREMES Then he added that the women lend each other clothes, trinkets
+of gold and silver, drinking-cups, and not before witnesses too, but
+all by themselves, and that they return everything with exactitude
+without ever cheating each other; whereas, according to him, we are
+ever ready to deny the loans we have effected. 
+
+BLEPYRUS Yes, by Posidon, and in spite of witnesses. 
+
+CHREMES Again, he said that women were not informers, nor did they
+bring lawsuits, nor hatch conspiracies; in short, he praised the women
+in every possible manner. 
+
+BLEPYRUS And what was decided? 
+
+CHREMES To confide the direction of affairs to them; it's the one
+and only innovation that has not yet been tried at Athens.
+
+BLEPYRUS And it was voted? 
+
+CHREMES Yes. 
+
+BLEPYRUS And everything that used to be the men's concern has been
+given over to the women? 
+
+CHREMES You express it exactly. 
+
+BLEPYRUS Thus it will be my wife who will go to the courts now in
+my stead? 
+
+CHREMES And it will be she who will keep your children in your place.
+
+BLEPYRUS I shall no longer have to tire myself out with work from
+daybreak onwards? 
+
+CHREMES No, 'twill be the women's business, and you can stay at home
+and amuse yourself with farting the whole day through. 
+
+BLEPYRUS Well, what I fear for us fellows now is, that, holding the
+reins of government, they will forcibly compel us... 
+
+CHREMES To do what? 
+
+BLEPYRUS ...to lay them. 
+
+CHREMES And if we are not able? 
+
+BLEPYRUS They will give us no dinner. 
+
+CHREMES Well then, do your duty; dinner and love-making form a double
+enjoyment. 
+
+BLEPYRUS Ah! but I hate compulsion. 
+
+CHREMES But if it is for the public good, let us resign ourselves.
+It's an old saying that our absurdest and maddest decrees always somehow
+turn out for our good. May it be so in this case, oh gods, oh venerable
+Pallas! But I must be off; so, good-bye to you!  (Exit.)
+
+BLEPYRUS Good-bye, Chremes.  (He goes back into his house.)
+
+CHORUS  (returning from the Assembly, still dressed like men; singing)
+March along, go forward. Is there some man following us? Turn round,
+examine everywhere and keep a good look-out; be on your guard against
+every trick, for they might spy on us from behind. Let us make as
+much noise as possible as we tramp. It would be a disgrace for all
+of us if we allowed ourselves to be caught in this deed by the men.
+Come, wrap yourselves up well, and search both right and left, so
+that no mischance may happen to us. Let us hasten our steps; here
+we are close to the meeting-place whence we started for the Assembly,
+and here is the house of our leader, the author of this bold scheme,
+which is now decreed by all the citizens. Let us not lose a moment
+in taking off our false beards, for we might be recognized and denounced.
+Let us stand under the shadow of this wall; let us glance round sharply
+with our eye to beware of surprises, while we quickly resume our ordinary
+dress. Ah! here is our leader, returning from the Assembly. Hasten
+to relieve your chins of these flowing manes. Look at your comrades
+yonder; they have already made themselves women again some while ago.
+(They remove the beards as PRAXAGORA and the other women enter from
+the right through the Orchestra.)  
+
+PRAXAGORA Friends, success has crowned our plans. But off with these
+cloaks and these boots quick, before any man sees you; unbuckle the
+Laconian straps and get rid of your staffs;  (to the LEADER)  and
+you help them with their toilet. As for myself, I am going to slip
+quietly into the house and replace my husband's cloak and other gear
+where I took them from, before he can suspect anything. 
+
+LEADER OF THE CHORUS There! it's done according to your bidding.
+Now tell us how we can be of service to you, so that we may show you
+our obedience, for we have never seen a cleverer woman than you.
+
+PRAXAGORA Wait! I only wish to use the power given me in accordance
+with your wishes; for, in the market-place, in the midst of the shouts
+and danger, I appreciated your indomitable courage.  (Just as she
+is about to enter the house BLEPYRUS appears in the doorway.)
+
+BLEPYRUS Eh, Praxagora! where are you coming from? 
+
+PRAXAGORA How does that concern you, dear? 
+
+BLEPYRUS Why, greatly! what a silly question! 
+
+PRAXAGORA You don't think I have come from a lover's? 
+
+BLEPYRUS No, perhaps not from only one. 
+
+PRAXAGORA You can make yourself sure of that. 
+
+BLEPYRUS And how? 
+
+PRAXAGORA You can see whether my hair smells of perfume.
+
+BLEPYRUS What? cannot a woman possibly be laid without perfume, eh!
+
+PRAXAGORA The gods forfend, as far as I am concerned. 
+
+BLEPYRUS Why did you go off at early dawn with my cloak?
+
+PRAXAGORA Acompanion, a friend who was in labour, had sent to fetch
+me. 
+
+BLEPYRUS Could you not have told me? 
+
+PRAXAGORA Oh, my dear, would you have me caring nothing for a poor
+woman in that plight? 
+
+BLEPYRUS A word would have been enough. There's something behind
+all this. 
+
+PRAXAGORA No, I call the goddesses to witness! I went running off;
+the poor woman who summoned me begged me to come, whatever might betide.
+
+BLEPYRUS And why did you not take your mantle? Instead of that, you
+carry of mine, you throw your dress upon the bed and you leave me
+as the dead are left, bar the chaplets and perfumes. 
+
+PRAXAGORA It was cold, and I am frail and delicate; I took your cloak
+for greater warmth, leaving you thoroughly warm yourself beneath your
+coverlets. 
+
+BLEPYRUS And my shoes and staff, those too went off with you?
+
+PRAXAGORA I was afraid they might rob me of the cloak, and so, to
+look like a man, I put on your shoes and walked with a heavy tread
+and struck the stones with your staff. 
+
+BLEPYRUS D'you know you have made us lose a sextary of wheat, which
+I should have bought with the triobolus of the Assembly?
+
+PRAXAGORA Be comforted, for she had a boy. 
+
+BLEPYRUS Who? the Assembly? 
+
+PRAXAGORA No, no, the woman I helped. But has the Assembly taken
+place then? 
+
+BLEPYRUS Did I not tell you of it yesterday? 
+
+PRAXAGORA True; I remember now. 
+
+BLEPYRUS And don't you know the decrees that have been voted?
+
+PRAXAGORA No indeed. 
+
+BLEPYRUS Go to! you can live on lobster from now on, for they say
+the government is handed over to you. 
+
+PRAXAGORA To do what-to spin? 
+
+BLEPYRUS No, that you may rule... 
+
+PRAXAGORA What? 
+
+BLEPYRUS ...over all public business. 
+
+PRAXAGORA  (as she exclaims this CHREMES reappears) Oh! by Aphrodite
+how happy Athens will be! 
+
+BLEPYRUS Why so? 
+
+PRAXAGORA For a thousand reasons. None will dare now to do shameless
+deeds, give false testimony or lay informations. 
+
+BLEPYRUS Stop! in the name of the gods! Do you want me to die of
+hunger? 
+
+CHREMES Good sir, let your wife speak. 
+
+PRAXAGORA There will be no more thieves, nor envious people, no more
+rags nor misery, no more abuse and no more prosecutions and law-suits.
+
+CHREMES By Posidon! that's grand, if it's true! 
+
+PRAXAGORA I shall prove it and you shall be my witness and even he
+(pointing to Blepyrus)  will have no objections to raise.
+
+CHORUS  (singing) You have served your friends, but now it behoves
+you to apply your ability and your care to the welfare of the people.
+Devote the fecundity of your mind to the public weal; adorn the citizens'
+lives with a thousand enjoyments and teach them to seize every favourable
+opportunity. Devise some ingenious method to secure the much-needed
+salvation of Athens; but let neither your acts nor your words recall
+anything of the past, for 'tis only innovations that please.
+
+LEADER OF THE CHORUS But do not fail to put your plans into execution
+immediately; it's quick action that pleases the audience.
+
+PRAXAGORA I believe my ideas are good, but what I fear is that the
+public will cling to the old customs and refuse to accept my reforms.
+
+CHREMES Have no fear about that. Love of novelty and disdain for
+traditions, these are the dominating principles among us.
+
+PRAXAGORA  (to the audience) Let none contradict nor interrupt me
+until I have explained my plan. I want all to have a share of everything
+and all property to be in common; there will no longer be either rich
+or poor; no longer shall we see one man harvesting vast tracts of
+land, while another has not ground enough to be buried in, nor one
+man surround himself with a whole army of slaves, while another has
+not a single attendant; I intend that there shan only be one and the
+same condition of life for all. 
+
+BLEPYRUS But how do you mean for all? 
+
+PRAXAGORA  (impatiently) You'll eat dung before I do! 
+
+BLEPYRUS Won't the dung be common too? 
+
+PRAXAGORA No, no, but you interrupted me too soon. This is what I
+was going to say; I shall begin by making land, money, everything
+that is private property, common to all. Then we shall live on this
+common wealth, which we shall take care to administer with wise thrift.
+
+BLEPYRUS And how about the man who has no land, but only gold and
+silver coins, that cannot be seen? 
+
+PRAXAGORA He must bring them to the common stock, and if he fails
+he will be a perjured man. 
+
+BLEPYRUS That won't worry him much, for has he not gained them by
+perjury? 
+
+PRAXAGORA But his riches will no longer be of any use to him.
+
+BLEPYRUS Why? 
+
+PRAXAGORA The poor will no longer be obliged to work; each will have
+all that he needs, bread, salt fish, cakes, tunics, wine, chaplets
+and chick-pease; of what advantage will it be to him not to contribute
+his share to the common wealth? What do you think of it?
+
+BLEPYRUS But is it not the biggest robbers that have all these things?
+
+CHREMES Yes, formerly, under the old order of things; but now that
+all goods are in common, what will he gain by not bringing his wealth
+into the general stock? 
+
+BLEPYRUS If someone saw a pretty wench and wished to lay her, he
+would take some of his reserve store to make her a present and stay
+the night with her; this would not prevent him claiming his share
+of the common property. 
+
+PRAXAGORA But he can sleep with her for nothing; I intend that women
+shall belong to all men in common, and each shall beget children by
+any man that wishes to have her. 
+
+BLEPYRUS But all will go to the prettiest woman and try to lay her.
+
+PRAXAGORA The ugliest and the most flat-nosed will be side by side
+with the most charming, and to win the latter's favours, a man will
+first have to get into the former. 
+
+BLEPYRUS But what about us oldsters? If we have to lay the old women
+first, how can we keep our tools from failing before we get into the
+Promised Land? 
+
+PRAXAGORA They will make no resistance. Never fear; they will make
+no resistance. 
+
+BLEPYRUS Resistance to what? 
+
+PRAXAGORA To the pleasure of the thing. This is the way that matters
+will be ordered for you. 
+
+BLEPYRUS It's very well conceived for you women, for every wench's
+hole will be filled; but what about the men? The women will run away
+from the ugly ones and chase the good-looking. 
+
+PRAXAGORA The ugly will follow the handsomest into the public places
+after supper and see to it that the law, which forbids the women to
+sleep with the big, handsome men before having satisfied the ugly
+shrimps, is complied with. 
+
+BLEPYRUS Thus ugly Lysicrates' nose will be as proud as the handsomest
+face? 
+
+PRAXAGORA Yes, by Apollo! this is a truly popular decree, and what
+a set-back it will be for one of those elegants with their fingers
+loaded with rings, when a man with heavy shoes says to him, "Give
+way to me and wait till I have done; you will pass in after me."
+
+BLEPYRUS But if we live in this fashion, how will each one know his
+children? 
+
+PRAXAGORA The youngest will look upon the oldest as their fathers.
+
+BLEPYRUS Ah! how heartily they will strangle all the old men, since
+even now, when each one knows his father, they make no bones about
+strangling him! then, my word! won't they just scorn and crap upon
+the old folks! 
+
+PRAXAGORA But those around will prevent it. Hitherto, when anyone
+saw an old man beaten, he would not meddle, because it did not concern
+him; buff now each will fear the sufferer may be his own father and
+such violence will be stopped. 
+
+BLEPYRUS What you say is not so silly after all; but it would be
+highly unpleasant were Epicurus and Leucolophas to come up and call
+me father. 
+
+CHREMES But it would be far worse, were... 
+
+BLEPYRUS Were what? 
+
+CHREMES ...Aristyllus to embrace you and style you his father.
+
+BLEPYRUS He'll regret it if he does! 
+
+CHREMES For you would smell vilely of mint if he kissed you. But
+he was born before the decree was carried, so that you have not to
+fear his kiss. 
+
+BLEPYRUS It would be awful. But who will till the soil?
+
+PRAXAGORA The slaves. Your only cares will be to scent yourself,
+and to go and dine, when the shadow of the gnomon is ten feet long
+on the dial. 
+
+BLEPYRUS But how shall we obtain clothing? Tell me that!
+
+PRAXAGORA You will first wear out those you have, and then we women
+will weave you others. 
+
+BLEPYRUS Now another point: if the magistrates condemn a citizen
+to the payment of a fine, how is he going to do it? Out of the public
+funds? That would not be right surely. 
+
+PRAXAGORA But there will be no more lawsuits. 
+
+BLEPYRUS This rule will ruin you. 
+
+CHREMES I think so too. 
+
+PRAXAGORA Besides, my dear, why should there be lawsuits?
+
+BLEPYRUS Oh! for a thousand reasons, on my faith! Firstly, because
+a debtor denies his obligation. 
+
+PRAXAGORA But where will the lender get the money to lend, if all
+is in common? unless he steals it out of the treasury? and he could
+not hide that! 
+
+CHREMES Well thought out, by Demeter! 
+
+BLEPYRUS But tell me this: here are some men who are returning from
+a feast and are drunk and they strike some passer-by; how are they
+going to pay the fine? Ah! you are puzzled now! 
+
+PRAXAGORA They will have to take it out of their pittance; and being
+thus punished through their belly, they will not care to begin again.
+
+BLEPYRUS There will be no more thieves then, eh? 
+
+PRAXAGORA Why steal, if you have a share of everything?
+
+BLEPYRUS People will not be robbed any more at night? 
+
+CHREMES Not if you sleep at home. 
+
+PRAXAGORA Even if you sleep outdoors there will be no more danger,
+for all will have the means of living. Besides, if anyone wanted to
+steal your cloak, you would give it to him yourself. Why not? You
+will only have to go to the common store and be given a better one.
+
+BLEPYRUS There will be no more playing at dice? 
+
+PRAXAGORA What object will there be in playing? 
+
+BLEPYRUS But what kind of life is it you propose to set up?
+
+PRAXAGORA The life in common. Athens will become nothing more than
+a single house, in which everything will belong to everyone; so that
+everybody will be able to go from one house to the other at pleasure.
+
+BLEPYRUS And where will the meals be served? 
+
+PRAXAGORA The law-courts and the porticoes will be turned into dining-halls.
+
+BLEPYRUS And what will the speaker's platform be used for?
+
+PRAXAGORA I shall place the bowls and the ewers there; and young
+children will sing the glory of the brave from there, also the infamy
+of cowards, who out of very shame will no longer dare to come to the
+public meals. 
+
+BLEPYRUS Well thought out, by Apollo! And what will you do with the
+urns? 
+
+PRAXAGORA I shall have them taken to the market-place, and standing
+close to the statue of Harmodius, I shall draw a lot for each citizen,
+which by its letter will show the place where he must go to dine.
+Thus, those for whom I have drawn an R will go to the royal portico;
+if it's a T, they will go to the portico of Theseus; if it's an F,
+to that of the flour-market. 
+
+BLEPYRUS To cram himself there like a capon? 
+
+PRAXAGORA No, to dine there. 
+
+BLEPYRUS And the citizen whom the lot has not given a letter showing
+where he is to dine will be driven off by everyone? 
+
+PRAXAGORA  (with great solemnity) But that will not occur. Each man
+will have plenty; he will not leave the feast until he is well drunk,
+and then with a chaplet on his head and a torch in his hand; and then
+the women running to meet you in the crossroads will say, "This way,
+come to our house, you will find a beautiful young girl there."-"And
+I," another will call from her balcony, "have one so pretty and as
+white as milk; but before touching her, you must sleep with me." And
+the ugly men, watching closely after the handsome fellows, will say,
+"Hi! friend, where are you running to? Go in, but you must do nothing;
+it's the ugly and the flat-nosed to whom the law gives the right to
+make love first; amuse yourself on the porch while you wait, in handling
+your fig-leaves and playing with yourself." Well, tell me, does that
+picture suit you? 
+
+BLEPYRUS AND CHREMES Marvellously well. 
+
+PRAXAGORA I must now go to the market-place to receive the property
+that is going to be placed in common and to choose a woman with a
+loud voice as my herald. I have all the cares of state on my shoulders,
+since the power has been entrusted to me. I must likewise go to busy
+myself about establishing the common meals, and you will attend your
+first banquet to-day. 
+
+BLEPYRUS Are we going to banquet? 
+
+PRAXAGORA Why, undoubtedly! Furthermore, I propose abolishing the
+whores. 
+
+BLEPYRUS And what for? 
+
+PRAXAGORA It's clear enough why; so that, instead of them, we may
+have the first-fruits of the young men. It is not meet that tricked-out
+slaves should rob free-born women of their pleasures. Let the courtesans
+be free to sleep with the slaves. 
+
+BLEPYRUS I will march at your side, so that I may be seen and that
+everyone may say, "Look at the Dictator's husband!"  (He follows PRAXAGORA
+into their house.)  
+
+CHREMES As for me, I shall arrange my belongings and take inventory
+of them, in order that I may take them to the market-place.  (He departs., There is an interlude of dancing by the CHORUS, after which CHREMES
+returns with his belongings and arranges them in a long line.)
+
+CHREMES Come hither, my beautiful sieve, I have nothing more precious
+than you, come, all clotted with the flour of which I have poured
+so many sacks through you; you shall act the part of Canephorus in
+the procession of my chattels. Where is the sunshade carrier? Ah!
+this stew-pot shall take his place. Great gods, how black it is! it
+could not be more so if Lysicrates had boiled the drugs in it with
+which be dyes his hair. Hither, my beautiful mirror. And you, my tripod,
+bear this urn for me; you shall be the water-bearer; and you, cock,
+whose morning song has so often roused me in the middle of the night
+to send me hurrying to the Assembly, you shall be my flute-girl. Scaphephorus,
+do you take the large basin, place in it the honeycombs and twine
+the olive-branches over them, bring the tripods and the phial of perfume;
+as for the humble crowd of little pots, I will just leave them behind.
+
+CITIZEN  (watching CHREMES from a distance) What folly to carry one's
+goods to the common store; I have a little more sense than that. No,
+no, by Posidon, I want first to ponder and calculate over the thing
+at leisure. I shall not be fool enough to strip myself of the fruits
+of my toil and thrift, if it is not for a very good reason; let us
+see first which way things turn.  (He walks over to CHREMES)  Hi!
+friend, what means this display of goods? Are you moving or are you
+going to pawn your stuff? 
+
+CHREMES Neither. 
+
+CITIZEN Why then are you setting all these things out in line? Is
+it a procession that you are starting off to Hiero, the public crier?
+
+CHREMES No, but in accordance with the new law that has been decreed,
+I am going to carry all these things to the market-place to make a
+gift of them to the state. 
+
+CITIZEN Oh! bah! you don't mean that. 
+
+CHREMES Certainly. 
+
+CITIZEN Oh! Zeus the Deliverer! you unfortunate man! 
+
+CHREMES Why? 
+
+CITIZEN Why? It's as clear as noonday. 
+
+CHREMES Must the laws not be obeyed then? 
+
+CITIZEN What laws, you poor fellow? 
+
+CHREMES Those that have been decreed. 
+
+CITIZEN Decreed! Are you mad, I ask you? 
+
+CHREMES Am I mad? 
+
+CITIZEN Oh! this is the height of folly! 
+
+CHREMES Because I obey the law? 
+
+CITIZEN Is that the duty of a smart man? 
+
+CHREMES Absolutely. 
+
+CITIZEN Say rather of a ninny. 
+
+CHREMES Don't you propose taking what belongs to you to the common
+stock? 
+
+CITIZEN I'll take good care I don't until I see what the majority
+are doing. 
+
+CHREMES There's but one opinion, namely, to contribute every single
+thing one has. 
+
+CITIZEN I am waiting to see it, before I believe that. 
+
+CHREMES At least, so they say in every street. 
+
+CITIZEN  (sardonically) And they will go on saying so. 
+
+CHREMES Everyone talks of contributing all he has. 
+
+CITIZEN  (in the same tone) And will go on talking of it.
+
+CHREMES You weary me with your doubts and dubitations. 
+
+CITIZEN  (in the same tone) Everybody else will doubt it.
+
+CHREMES The pest seize you! 
+
+CITIZEN  (in the same tone) It will take you.  (Then seriously)
+What? give up your goods! Is there a man of sense who will do such
+a thing? Giving is not one of our customs. Receiving is another matter;
+it's the way of the gods themselves. Look at the position of their
+hands on their statues; when we ask a favour, they present their hands
+turned palm up so as not to give, but to receive. 
+
+CHREMES Wretch, let me do what is right. Come, I'll make a bundle
+of all these things. Where is my strap? 
+
+CITIZEN Are you really going to carry them in? 
+
+CHREMES Undoubtedly, and there are my two tripods strung together
+already. 
+
+CITIZEN What folly! Not to wait to see what the others do, and then...
+
+CHREMES Well, and then what? 
+
+CITIZEN ...wait and put it off again. 
+
+CHREMES What for? 
+
+CITIZEN That an earthquake may come or an ill-omened flash of lightning,
+that a black cat may run across the street and no one carry in anything
+more, you fool! 
+
+CHREMES It would be a fine thing if I were to find no room left for
+placing all this. 
+
+CITIZEN You are much more likely to lose your stuff. As for placing
+it, you can be at ease, for there will be room enough as long as a
+month hence. 
+
+CHREMES Why? 
+
+CITIZEN I know these people; a decree is readily passed, but it is
+not so easily attended to. 
+
+CHREMES All will contribute their property, my friend. 
+
+CITIZEN But what if they don't? 
+
+CHREMES But there is no doubt that they will. 
+
+CITIZEN  (insistently) But anyhow, what if they don't? 
+
+CHREMES Do not worry; they will. 
+
+CITIZEN And what if they oppose it? 
+
+CHREMES We shall compel them to do so. 
+
+CITIZEN And what if they prove the stronger? 
+
+CHREMES I shall leave my goods and go off. 
+
+CITIZEN And what if they sell them for you? 
+
+CHREMES The plague take you! 
+
+CITIZEN And if it does? 
+
+CHREMES It will be a good riddance. 
+
+CITIZEN  (in an incredulous tone) You are really bent on contributing,
+then? 
+
+CHREMES 'Pon my soul, yes! Look, there are all my neighbours carrying
+in all they have. 
+
+CITIZEN  (sarcastically) Oh yes, it's Antisthenes; he's the type
+that would contribute! He would just as soon spend the next month
+sitting on the can. 
+
+CHREMES The pest seize you! 
+
+CITIZEN Will Callimachus, the chorus-master, contribute anything?
+
+CHREMES Why, more than Callias! 
+
+CITIZEN The man must want to spend all his money! 
+
+CHREMES How you weary me! 
+
+CITIZEN Ah! I weary you? But, wretch, see what comes of decrees of
+this kind. Don't you remember the one reducing the price of salt?
+
+CHREMES Why, certainly I do. 
+
+CITIZEN And do you remember that about the copper coinage?
+
+CHREMES Ah! that cursed money did me enough harm. I had sold my grapes
+and had my mouth stuffed with pieces of copper; indeed I was going
+to the market to buy flour, and was in the act of holding out my bag
+wide open, when the herald started shouting, "Let none in future accept
+pieces of copper; those of silver are alone current." 
+
+CITIZEN And quite lately, were we not all swearing that the impost
+of one-fortieth, which Euripides had conceived, would bring five hundred
+talents to the state, and everyone was vaunting Euripides to the skies?
+But when the thing was looked at closely, it was seen that this fine
+decree was mere moonshine and would produce nothing, and you would
+have willingly burnt this very same Euripides alive. 
+
+CHREMES The cases are quite different, my good fellow. We were the
+rulers then, but now it's the women. 
+
+CITIZEN Whom, by Posidon, I will never allow to piss on my nose.
+
+CHREMES I don't know what the devil you're chattering about. Slave,
+pick up that bundle. 
+
+HERALD  (a woman) Let all citizens come, let them hasten at our leader's
+bidding! It is the new law. The lot will teach each citizen where
+he is to dine; the tables are already laid and loaded with the most
+exquisite dishes; the couches are covered with the softest of cushions;
+the wine and water are already being mixed in the ewers; the slaves
+are standing in a row and waiting to pour scent over the guests; the
+fish is being grilled, the hares are on the spit and the cakes are
+being kneaded, chaplets are being plaited and the fritters are frying;
+the youngest women are watching the pea-soup in the saucepans, and
+in the midst of them all stands Smoeus, dressed as a knight, washing
+the crockery. And Geron has come, dressed in a grand tunic and finely
+shod; he is joking with another young fellow and has already divested
+himself of his heavy shoes and his cloak. The pantry man is waiting,
+so come and use your jaws.  (Exit)  
+
+CITIZEN All right, I'll go. Why should I delay, since the state commands
+me? 
+
+CHREMES And where are you going to, since you have not deposited
+your belongings? 
+
+CITIZEN To the feast. 
+
+CHREMES If the women have any wits, they will first insist on your
+depositing your goods. 
+
+CITIZEN But I am going to deposit them. 
+
+CHREMES When? 
+
+CITIZEN I am not the man to make delays. 
+
+CHREMES How do you mean? 
+
+CITIZEN There will be many less eager than I. 
+
+CHREMES In the meantime you are going to dine. 
+
+CITIZEN What else should I do? Every sensible man must give his help
+to the state. 
+
+CHREMES But if admission is forbidden you? 
+
+CITIZEN I shall duck my head and slip in. 
+
+CHREMES And if the women have you beaten? 
+
+CITIZEN I shall summon them. 
+
+CHREMES And if they laugh in your face? 
+
+CITIZEN I shall stand near the door... 
+
+CHREMES And then? 
+
+CITIZEN ...and seize upon the dishes as they pass. 
+
+CHREMES Then go there, but after me. Sicon and Parmeno, pick up all
+this baggage. 
+
+CITIZEN Come, I will help you carry it. 
+
+CHREMES  (pushing him away) No, no, I should be afraid of your pretending
+to the leader that what I am depositing belonged to you.  (Exit with
+his belongings.)  
+
+CITIZEN Let me see! let me think of some good trick by which I can
+keep my goods and yet take my share of the common feast.  (He reflects
+for a moment.)  Ha! that's a fine idea! Quick! I'll go and dine, ha!
+ha!  (Exit laughing., Interlude of dancing by the CHORUS., The
+scene shifts to a different section of Athens and the two houses are
+now to be thought of as those of two prostitutes.)  
+
+FIRST OLD WOMAN  (leaning out of the window of one house) How is
+this? no men are coming? And yet it must be fully time! Then it is
+for naught that I have painted myself with white lead, dressed myself
+in my beautiful yellow robe, and that I am here, frolicking and humming
+between my teeth to attract some passer-by! Oh, Muses, alight upon
+my lips, inspire me with some soft Ionian love-song! 
+
+YOUNG GIRL  (in the window of the other house) You putrid old thing,
+you have placed yourself at the window before me. You were expecting
+to strip my vines during my absence and to trap some man in your snares
+with your songs. If you sing, I shall follow suit; all this singing
+will weary the spectators, but is nevertheless very pleasant and very
+diverting. 
+
+FIRST OLD WOMAN  (thumbing her nose at the YOUNG GIRL) Ha! here is
+an old man; take him and lead him away.  (To the flute-player)  As
+for you, you young flute-player, let us hear some airs that are worthy
+of you and me.  (She sings)  Let him who wishes to taste pleasure
+come to my side. These young things know nothing about it; it's only
+the women of ripe age who understand the art of love, and no one could
+know how to fondle the lover who possessed me so well as myself; the
+young girls are all flightiness. 
+
+YOUNG GIRL  (singing in her turn) Don't be jealous of the young girls;
+voluptuousness resides in the pure outline of their beautiful limbs
+and blossoms on their rounded breasts; but you, old woman, you who
+are tricked out and perfumed as if for your own funeral, are an object
+of love only for grim Death himself. 
+
+FIRST OLD WOMAN  (singing again) May your tongue be stopped; may
+you be unable to find your couch when you want to be loved. And on
+your couch, when your lips seek a lover, may you embrace only a viper!
+
+YOUNG GIRL  (singing again) Alas! alas! what is to become of me?
+There is no lover! I am left here alone; my mother has gone out.
+(Interrupting her song)  There's no need to mention the rest.  (Then
+singing again)  Oh! my dear nurse, I adjure you to call Orthagoras,
+and may heaven bless you. Ah! poor child, desire is consuming you
+like an Ionian woman;  (interrupting again)  and yet you are no stranger
+to the wanton arts of the Lesbian women.  (Resuming her song)  But
+you shall not rob me of my pleasures; you will not be able to reduce
+or filch the time that first belongs to me. 
+
+FIRST OLD WOMAN Sing as much as you please, peep out like a cat lying
+in wait, but none shall pass through your door without first having
+been to see me. 
+
+YOUNG GIRL If anyone enter your house, it will be to carry out your
+corpse. And that will be something new for you, you rotten old thing!
+
+FIRST OLD WOMAN Can anything be new to an old woman? My old age will
+not harm you. 
+
+YOUNG GIRL Ah! shame on your painted cheeks! 
+
+FIRST OLD WOMAN Why do you speak to me at all? 
+
+YOUNG GIRL And why do you place yourself at the window?
+
+FIRST OLD WOMAN I am singing to myself about my lover, Epigenes.
+
+YOUNG GIRL Can you have any other lover than that old fop Geres?
+
+FIRST OLD WOMAN Epigenes will show you that himself, for he is coming
+to me. See, here he is. 
+
+YOUNG GIRL He's not thinking of you in the least. 
+
+FIRST OLD WOMAN Aye, but he is. 
+
+YOUNG GIRL Old starveling! Let's see what he will do. I will leave
+my window. 
+
+FIRST OLD WOMAN And I likewise. You will see I am much wiser than
+you. 
+
+A YOUNG MAN  (sings) Ah! could I but sleep with the young girl without
+first making love to the old flat-nose! It is intolerable for a free-born
+man. 
+
+FIRST OLD WOMAN  (singing to the same tune) Willy nilly, you must
+first gratify my desire. There shall be no nonsense about that, for
+my authority is the law and the law must be obeyed in a democracy.
+(Speaking)  But come, let me hide, to see what he's going to do.
+(She retires.)  
+
+YOUNG MAN Ah! ye gods, if I were to find the sweet child alone! the
+wine has fired my lust. 
+
+YOUNG GIRL  (reappearing in her window) I have tricked that cursed
+old wretch; she has left her window, thinking I would stay at home.
+Ah! here is the lover we were talking of.  (She sings)  This way,
+my love, this way, come here and haste to rest the whole night in
+my arms. I worship your lovely curly hair; I am consumed with ardent
+desire. Oh! Eros, in thy mercy, compel him to my bed. 
+
+YOUNG MAN  (standing beneath the YOUNG GIRL'S window and singing)
+Come down and haste to open the door unless you want to see me fall
+dead with desire. Dearest treasure, I am burning to yield myself to
+voluptuous sport, lying on your bosom, to let my hands play with your
+bottom. Aphrodite, why dost thou fire me with such delight in her?
+Oh! Eros, I beseech thee, have mercy and make her share my couch.
+Words cannot express the tortures I am suffering. Oh! my adored one,
+I adjure you, open your door for me and press me to your heart; 'tis
+for you that I am suffering. Oh! my jewel, my idol, you child of Aphrodite,
+the confidante of the Muses, the sister of the Graces, you living
+picture of voluptuousness, oh! open for me, press me to your heart,
+'tis for you that I am suffering.  (He knocks.)  
+
+FIRST OLD WOMAN  (reappearing suddenly) What are you knocking for?
+Are you looking for me? 
+
+YOUNG MAN What an idea! 
+
+FIRST OLD WOMAN But you were tapping at the door. 
+
+YOUNG MAN Death would be sweeter. 
+
+FIRST OLD WOMAN Why do you come with that torch in your hand?
+
+YOUNG MAN I am looking for a man from Anaphlystia. 
+
+FIRST OLD WOMAN What's his name? 
+
+YOUNG MAN Oh! it's not Sebinus, whom no doubt you are expecting.
+
+FIRST OLD WOMAN  (taking him by the arm) By Aphrodite, you must,
+whether you like it or not. 
+
+YOUNG MAN  (shaking her off) We are not now concerned with cases
+dated sixty years back; they are remanded for a later day; we are
+dealing only with those of less than twenty. 
+
+FIRST OLD WOMAN That was under the old order of things, sweetheart,
+but now you must first busy yourself with us. 
+
+YOUNG MAN Aye, if I want to, according to the rules of draughts,
+where we may either take or leave. 
+
+FIRST OLD WOMAN But it's not according to the rules of draughts that
+you take your seat at the banquet. 
+
+YOUNG MAN I don't know what you mean; it's at this door I want to
+knock. 
+
+FIRST OLD WOMAN  (standing in his way) Not before knocking at mine
+first. 
+
+YOUNG MAN  (haughtily) For the moment I really have no need for old
+leather. 
+
+FIRST OLD WOMAN I know that you love me; perhaps you are surprised
+to find me at the door. But come, let me kiss you. 
+
+YOUNG MAN  (pulling back; sarcastically) No, no, my dear, I am afraid
+of your lover. 
+
+FIRST OLD WOMAN Of whom? 
+
+YOUNG MAN The most gifted of painters. 
+
+FIRST OLD WOMAN And who is he? 
+
+YOUNG MAN The artist who paints the little bottles on coffins. But
+get you indoors, lest he should find you at the door. 
+
+FIRST OLD WOMAN I know what you want. 
+
+YOUNG MAN I can say as much of you. 
+
+FIRST OLD WOMAN  (hanging on to him) By Aphrodite, who has granted
+me this good chance, I won't let you go. 
+
+YOUNG MAN You are drivelling, you little old hag. 
+
+FIRST OLD WOMAN Rubbish! I am going to lead you to my couch.
+
+YOUNG MAN What need for buying hooks? I will let her down to the
+bottom of the well and pull up the buckets with her old carcase, for
+she's crooked enough for that. 
+
+FIRST OLD WOMAN A truce to your jeering, poor boy, and follow me.
+
+YOUNG MAN Nothing compels me to do so, unless you have paid the levy
+of five hundredths for me. 
+
+FIRST OLD WOMAN Look, by Aphrodite, there is nothing that delights
+me as much as sleeping with a lad of your years. 
+
+YOUNG MAN And I abhor such as you, and I will never, never consent.
+
+FIRST OLD WOMAN But, by Zeus, here is something will force you to
+it.  (She shows him a document.)  
+
+YOUNG MAN What's that? 
+
+FIRST OLD WOMAN A decree, which orders you to enter my house.
+
+YOUNG MAN Read it out then, and let's hear. 
+
+FIRST OLD WOMAN Listen. "The women have decreed that if a young man
+desires a young girl, he can only lay her after having satisfied an
+old woman; and if he refuses and goes to seek the maiden, the old
+women are authorized to seize him and drag him in." 
+
+YOUNG MAN Alas! I shall become a Procrustes. 
+
+FIRST OLD WOMAN Obey the law. 
+
+YOUNG MAN But if a fellow-citizen, a friend, came to pay my ransom?
+
+FIRST OLD WOMAN No man may dispose of anything above a medimnus.
+
+YOUNG MAN But may I not enter an excuse? 
+
+FIRST OLD WOMAN There's no evasion. 
+
+YOUNG MAN I shall declare myself a merchant and so escape service.
+
+FIRST OLD WOMAN Beware what you do! 
+
+YOUNG MAN Well! what is to be done? 
+
+FIRST OLD WOMAN Follow me. 
+
+YOUNG MAN Is it absolutely necessary? 
+
+FIRST OLD WOMAN Yes, as surely as if Diomedes had commanded it.
+
+YOUNG MAN Well then, first spread out a layer of origanum upon four
+pieces of wood; bind fillets round your head, bring phials of scent
+and place a bowl filled with lustral water before your door.
+
+FIRST OLD WOMAN Will you buy a chaplet for me too? 
+
+YOUNG MAN Yes, if you outlast the tapers; for I expect to see you
+fall down dead as you go in. 
+
+YOUNG GIRL  (running out of her house) Where are you dragging this
+unfortunate man to? 
+
+FIRST OLD WOMAN To my own bed. 
+
+YOUNG GIRL That's not right. A young fellow like him is not of the
+age to suit you. You ought to be his mother rather than his wife.
+With these laws in force, the earth will be filled with Oedipuses.
+(She takes him away with her.)  
+
+FIRST OLD WOMAN Oh! you cursed pest! it's envy that makes you say
+this; but I will be revenged.  (She goes back into her house.)
+
+YOUNG MAN By Zeus the Deliverer, what a service you have done me,
+by freeing me of this old wretch! with what ardour I will show you
+my gratitude in a substantial form!  (Just as he begins to go in with
+the YOUNG GIRL an even older and uglier woman enters.)  
+
+SECOND OLD WOMAN Hi! you there! where are you taking that young man
+to, in defiance of the law? The decree ordains that he must first
+sleep with me. 
+
+YOUNG MAN Oh! what a misfortune! Where does this hag come from? She's
+a more frightful monster than the other even. 
+
+SECOND OLD WOMAN Come here.  (She takes him by the arm.)
+
+YOUNG MAN  (to the YOUNG GIRL) Oh! I beg you, don't let me be led
+off by her! 
+
+SECOND OLD WOMAN It's not I but the law that leads you off.
+
+YOUNG MAN No, it's not the law, but an Empusa with a body covered
+with blemishes and blotches. 
+
+SECOND OLD WOMAN Follow me, my handsome little friend, come along
+quickly without any more ado. 
+
+YOUNG MAN Oh! let me go to the can first, so that I may gather my
+wits somewhat. Else I should be so terrified that you would see me
+letting out something yellow. 
+
+SECOND OLD WOMAN Never mind! you can crap, if you want, in my house.
+
+YOUNG MAN More than I want to, I'm afraid; but I offer you two good
+securities. 
+
+SECOND OLD WOMAN I don't require them.  (A THIRD OLD WOMAN, the ugliest
+yet, now appears.)  
+
+THIRD OLD WOMAN Hi! friend, where are you off to with that woman?
+
+YOUNG MAN I am not going with her, but am being dragged by force.
+Oh! whoever you are, may heaven bless you for having had pity on me
+in my dire misfortune.  (Turns round and sees the THIRD OLD WOMAN.)
+Oh Heracles! oh Pan! oh Corybantes! oh Dioscuri! Why, she is still
+more awful! Oh! what a monster! great gods! Are you an ape plastered
+with white lead, or the ghost of some old hag returned from the dark
+borderlands of death? 
+
+THIRD OLD WOMAN  (taking his other arm) No jesting! Follow me.
+
+SECOND OLD WOMAN No, come this way. 
+
+THIRD OLD WOMAN I will never let you go. 
+
+SECOND OLD WOMAN Nor will I. 
+
+YOUNG MAN But you will rend me asunder, you cursed wretches.
+
+SECOND OLD WOMAN I'm the one he must go with according to the law.
+
+THIRD OLD WOMAN Not if an uglier old woman than yourself appears.
+
+YOUNG MAN But if you kill me at the outset, how shall I afterwards
+go to find this beautiful girl of mine? 
+
+THIRD OLD WOMAN That's your problem. But begin by obeying.
+
+YOUNG MAN Of which one must I rid myself first? 
+
+THIRD OLD WOMAN Don't you know? Come here. 
+
+YOUNG MAN Then let the other one release me. 
+
+SECOND OLD WOMAN Come to my house. 
+
+YOUNG MAN If this dame will let me go. 
+
+THIRD OLD WOMAN No, by all the gods, I'll not let you go.
+
+SECOND OLD WOMAN Nor will I. 
+
+YOUNG MAN You would make very bad boatwomen. 
+
+SECOND OLD WOMAN Why? 
+
+YOUNG MAN Because you would tear your passengers to pieces in dragging
+them on board. 
+
+THIRD OLD WOMAN Then come along, do, and hold your tongue.
+
+SECOND OLD WOMAN No, by Zeus, come with me. 
+
+YOUNG MAN It's clearly a case for the decree of Cannonus; I must
+cut myself in two in order to lay you both. But how am I to work two
+oars at once? 
+
+THIRD OLD WOMAN Easily enough; you have only to eat a full pot of
+onions. 
+
+YOUNG MAN Oh! great gods! here I am close to the door and being dragged
+in! 
+
+SECOND OLD WOMAN  (to THIRD OLD WOMAN) You will gain nothing by this,
+for I shall rush into your house with you. 
+
+YOUNG MAN Oh, no! no! to suffer a single misfortune than two.
+
+THIRD OLD WOMAN Ah! by Hecate, whether you wish it or not.
+
+YOUNG MAN What a fate is mine, that I must make love to such a stinking
+harridan the whole night through and all day; then, when I am rid
+of her, I have still to tackle a brick-coloured hag! Am I not truly
+unfortunate? Ah! by Zeus the Deliverer; under what fatal star must
+I have been born, that I must sail in company with such monsters!
+But if my bark sinks in the sewer of these strumpets, may I be buried
+at the very threshold of the door; let this hag be stood upright on
+my grave, let her be coated alive with pitch and her legs covered
+with molten lead up to the ankles, and let her be set alight as a
+funeral lamp.  (The YOUNG MAN is dragged off by the two OLD WOMEN,
+one on each arm., Interlude of dancing by the CHORUS.)
+
+A SERVANT-MAID TO PRAXAGORA  (she comes from the banquet) What happiness
+is the people's! what joy is mine, and above all that of my mistress!
+Happy are ye, who form choruses before our house! Happy are ye, both
+neighbours and fellow-citizens! Happy am I myself! I am but a servant,
+and yet I have poured on my hair the most exquisite essences. Let
+thanks be rendered to thee, Oh, Zeus! But a still more delicious aroma
+is that of the wine of Thasos; its sweet bouquet delights the drinker
+for a long time, whereas the others lose their bloom and vanish quickly.
+Therefore, long life to the wine-jars of Thasos! Pour yourselves out
+unmixed wine, it will cheer you the whole night through, if you choose
+the liquor that possesses most fragrance.  (To the CHORUS)  But tell
+me, friends, where is my mistress's husband? 
+
+LEADER OF THE CHORUS Wait for him here; he will no doubt pass this
+way. 
+
+MAID-SERVANT Ah! there he is just going to dinner. Oh! master! what
+joy! what blessedness is yours! 
+
+BLEPYRUS Mine? 
+
+MAID-SERVANT None can compare his happiness to yours; you have reached
+its utmost height, you who, alone out of thirty thousand citizens
+have not yet dined. 
+
+LEADER OF THE CHORUS Aye, here is undoubtedly a truly happy man.
+
+MAID-SERVANT Where are you off to? 
+
+BLEPYRUS I am going to dine. 
+
+MAID-SERVANT By Aphrodite, you will be the last of all, far and away
+the last. Yet my mistress has bidden me take you and take with you
+these young girls. Some Chian wine is left and lots of other good
+things. Therefore hurry, and invite likewise all the spectators whom
+we have pleased, and such of the judges as are not against us, to
+follow us; we will offer them everything they can desire.
+
+BLEPYRUS Generously invite everyone and omit no one, old or young.
+Dinner is ready for all; they need only go home. As for me, I shall
+go to the banquet with the customary torch in my hand. 
+
+MAID-SERVANT But why do you tarry, Blepyrus? Take these young girls
+with you and, while you are away a while, I will whet my appetite
+with some dining-song. 
+
+LEADER OF THE CHORUS I have but a few words to say: let the wise
+judge me because of what, ever is wise in this piece, and those who
+like a laugh by whatever has made them laugh. In this way I address
+pretty well everyone. If the lot has assigned my comedy to be played
+first of all, don't let that be a disadvantage to me; engrave in your
+memory all that shall have pleased you in it and judge the competitors
+equitably as you have bound yourselves by oath to do. Don't act like
+vile courtesans, who never remember any but their last lover.
+
+MAID-SERVANT It is time, friends, high time to go to the banquet,
+if we want to have our share of it. Open your ranks and let the Cretan
+rhythms regulate your dances. 
+
+BLEPYRUS That's what I am doing. 
+
+MAID-SERVANT And you others, let your light steps too keep time.
+Very soon we'll be eating lepadotema choselackogaleokrani oleipsanodrimypotrimmatosil
+phiotyromelitokatake chymenokicklepikossyphopkat toperisteralektryonoptokeph
+aliokinklopeleiolagoiosiral obaphetragalopter ygdn. Come, quickly,
+seize hold of a plate, snatch up a cup, and let's run to secure a
+place at table. The rest will have their jaws at work by this time.
+
+CHORUS  (as they depart, dancing, with BLEPYRUS leading them) Dance
+gaily! Iai! Iai! We shall dine! Euoi! Euai! Euai! As for a triumph!
+Euoi! Euoi Euai! Euai! 
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.
+</pre></body></html>

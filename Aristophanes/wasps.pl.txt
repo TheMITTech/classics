@@ -1,0 +1,2019 @@
+
+<BASE HREF="http://classics.mit.edu/Aristophanes/wasps.pl.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Aristophanes/wasps.pl.txt"><font color=blue>classics.mit.edu/Aristophanes/wasps.pl.txt</font></a>.<br>
+<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Aristophanes/wasps.pl.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
+<html><body><pre>
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Aristophanes/wasps.html
+
+The Wasps
+By Aristophanes
+
+
+
+----------------------------------------------------------------------
+
+Dramatis Personae
+
+PHILOCLEON
+BDELYCLEON, his Son
+SOSIAS, Slave of Philocleon
+XANTHIAS, Slave of Philocleon
+BOYS
+DOGS
+A GUEST
+A BAKER'S WIFE
+AN ACCUSER
+CHORUS OF WASPS
+
+----------------------------------------------------------------------
+
+In the background is the house of PHILOCLEON, surrounded by a huge
+net. Two slaves are on guard, one of them asleep. On the roof is
+BDELYCLEON.
+
+----------------------------------------------------------------------
+
+SOSIAS  (waking XANTHIAS up) Why, Xanthias! what are you doing,
+wretched man? 
+
+XANTHIAS I am teaching myself how to rest; I have been awake and
+on watch the whole night. 
+
+SOSIAS So you want to earn trouble for your ribs, eh? Don't you know
+what sort of animal we are guarding here? 
+
+XANTHIAS Aye indeed! but I want to put my cares to sleep for a while.
+(He falls asleep again.)  
+
+SOSIAS Beware what you do. I too feel soft sleep spreading over my
+eyes, 
+
+XANTHIAS Are you crazy, like a Corybant? 
+
+SOSIAS No! It's Bacchus who lulls me off. 
+
+XANTHIAS Then you serve the same god as myself. just now a heavy
+slumber settled on my eyelids like a hostile Mede; I nodded and, faith!
+I had a wondrous dream. 
+
+SOSIAS Indeed! and so had I. A dream such as I never had before.
+But first tell me yours. 
+
+XANTHIAS I saw an eagle, a gigantic bird, descend upon the market-place;
+it seized a brazen buckler with its talons and bore it away into the
+highest heavens; then I saw it was Cleonymus had thrown it away.
+
+SOSIAS This Cleonymus is a riddle worth propounding among guests.
+How can one and the same animal have cast away his buckler both on
+land, in the sky and at sea? 
+
+XANTHIAS Alas! what ill does such a dream portend for me?
+
+SOSIAS Rest undisturbed! Please the gods, no evil will befall you.
+
+XANTHIAS Nevertheless, it's a fatal omen when a man throws away his
+weapons. But what was your dream? Let me hear. 
+
+SOSIAS Oh! it is a dream of high import. It has reference to the
+hull of the State; to nothing less. 
+
+XANTHIAS Tell it to me quickly; show me its very keel. 
+
+SOSIAS In my first slumber I thought I saw sheep, wearing cloaks
+and carrying staves, met in assembly on the Pnyx; a rapacious whale
+was haranguing them and screaming like a pig that is being grilled.
+
+XANTHIAS Faugh! faugh! 
+
+SOSIAS What's the matter? 
+
+XANTHIAS Enough, enough, spare me. Your dream stinks vilely of old
+leather. 
+
+SOSIAS Then this scoundrelly whale seized a balance and set to weighing
+ox-fat. 
+
+XANTHIAS Alas! it's our poor Athenian people, whom this accursed
+beast wishes to cut up and despoil of their fat. 
+
+SOSIAS Seated on the ground close to it, I saw Theorus, who had the
+head of crow. Then Alcibiades said to me in his lisping way, "Do you
+thee? Theoruth hath a crow'th head." 
+
+XANTHIAS Ah! that's very well lisped indeed! 
+
+SOSIAS Isn't this mighty strange? Theorus turning into a crow!
+
+XANTHIAS No, it is glorious. 
+
+SOSIAS Why? 
+
+XANTHIAS Why? He was a man and now he has suddenly become a crow;
+does it not foretoken that he will take his flight from here and go
+to the crows? 
+
+SOSIAS Interpreting dreams so aptly certainly is worth two obols.
+
+XANTHIAS  (turning to the audience) Come, I must explain the matter
+to the spectators. But first a few words of preamble: expect nothing
+very high-flown from us, nor any jests stolen from Megara; we have
+no slaves, who throw baskets of nuts to the spectators, nor any Heracles
+to be robbed of his dinner, nor does Euripides get loaded with contumely;
+and despite the happy chance that gave Cleon his fame we shall not
+go out of our way to belabour him again, Our little subject is not
+wanting in sense; it is well within your capacity and at the same
+time cleverer than many vulgar comedies.-We have a master of great
+renown, who is now sleeping up there on the other story. He has bidden
+us keep guard over his father, whom he has locked in, so. that he
+may not go out. This father has a curious complaint; not one of you
+could hit upon or guess it, if I did not tell you.-Well then, try!
+I hear Amynias, the son of Pronapus, over there, saying, "He is addicted
+to gambling." He's wrong! He is imputing his own malady to others.
+Yet love is indeed the principal part of his disease. Ah! here Sosias
+is telling Dercylus, "He loves drinking." Wrong again! the love of
+wine is a good man's failing. "Well then," says Nicostratus of the
+Scambonian deme, "he either loves sacrifices or else strangers." God
+no! he is not fond of strangers, Nicostratus, for he who says "Philoxenus"
+means a pederast, It's mere waste of time, you will not find it out.
+If you want to know it, keep silence! I will tell your our master's
+complaint; of all men, it is he who is fondest of the Heliaea. Thus,
+to be judging is his hobby, and he groans if he is not sitting on
+the first seat. He does not close an eye at night, and if he dozes
+off for an instant his mind flies instantly to the clepsydra. He is
+so accustomed to hold the balloting pebble, that he awakes with his
+three fingers pinched together as if he were offering incense to the
+new moon. If he sees scribbled on some doorway, "How charming is Demos,
+the son of Pyrilampes!" he will write beneath it, "How charming is
+Cemos!" His cock crowed one evening; said he, "He has had money from
+the accused to awaken me too late. As soon as he rises from supper
+he bawls for his shoes and away he rushes down there before dawn to
+sleep beforehand, glued fast to the column like an oyster. He is a
+merciless judge, never failing to draw the convicting line and return
+home with his nails full of wax like a bumble-bee. Fearing he might
+run short of pebbles he keeps enough at home to cover a sea-beach,
+so that he may have the means of recording his sentence. Such is his
+madness, and all advice is useless; he only judges the more each day.
+So we keep him under lock and key, to prevent his going out; for his
+son is broken-hearted over this mania. At first he tried him with
+gentleness, wanted to persuade him to wear the cloak no longer, to
+go out no more; unable to convince him, he had him bathed and purified
+according to the ritual without any greater success, and then handed
+him over to the Corybantes; but the old man escaped them, and carrying
+off the kettledrum, rushed right into the midst of the Heliasts. As
+Cybele could do nothing with her rites, his son took him to Aegina
+and forcibly made him lie one night in the temple of Asclepius, the
+God of Healing, but before daylight there he was to be seen at the
+gate of the tribunal. Since then we let him go out no more, but he
+escaped us by the drains or by the skylight, so we stuffed up every
+opening with old rags and made all secure; then he drove short sticks
+into the wall and sprang from rung to rung like a magpie. Now we have
+stretched-nets all around the court and we keep watch and ward. The
+old man's name is Philocleon, it's the best name he could have, and
+the son is called Edelycleon, for he is a man very fit to cure an
+insolent fellow of his boasting. 
+
+BDELYCLEON  (from the roof) Xanthias! Sosias! Are you asleep?
+
+XANTHIAS Alas! 
+
+SOSIAS What is the matter? 
+
+XANTHIAS Why, Bdelycleon is getting up. 
+
+BDELYCLEON Will neither of you come here? My father has got into
+the stove-chamber and is ferreting about like a rat in his hole. Take
+care he does not escape through the bath drain. You there, put all
+your weight against the door. 
+
+XANTHIAS Yes, master. 
+
+BDELYCLEON By Zeus! what is that noise in the chimney? Hullo! who
+are you? 
+
+PHILOCLEON  (poking his head out of the chimney) I am the smoke going
+up. 
+
+BDELYCLEON Smoke? smoke of what wood? 
+
+PHILOCLEON Of fig-wood. 
+
+BDELYCLEON Ah! that's the most acrid of all. But you shall not get
+out. Where is the chimney cover? Come down again. Now, up with another
+cross-bar. Now look out for some fresh dodge. But am I not the most
+unfortunate of men? Henceforward I shall only be called the son of
+Capnius. 
+
+XANTHIAS He is pushing the door. 
+
+BDELYCLEON Throw your weight upon it, come, put heart into the work.
+I will come and help you. Watch both lock and bolt. Take care he does
+not gnaw through the peg. 
+
+PHILOCLEON  (from within) What are you doing, you wretches? Let me
+go out; it is imperative that I go and judge, or Dracontides will
+be acquitted. 
+
+XANTHIAS Would you mind that? 
+
+PHILOCLEON Once at Delphi, the god, whom I was consulting, foretold,
+that if an accused man escaped me, I should die of consumption.
+
+XANTHIAS Apollo the Saviour, what a prophecy! 
+
+PHILOCLEON Ah! I beseech you, if you do not want my death, let me
+go. 
+
+XANTHIAS No, Philocleon, no never, by Posidon! 
+
+PHILOCLEON Well then, I shall gnaw through the net with my teeth.
+
+XANTHIAS But you have no teeth. 
+
+PHILOCLEON Oh! you rascal, how can I kill you? How? Give me a sword,
+quick, or a conviction tablet. 
+
+BDELYCLEON Our friend is planning some great crime. 
+
+PHILOCLEON No, by Zeus! but I want to go and sell my ass and its
+panniers, for it's the first of the month. 
+
+BDELYCLEON Could I not sell it just as well? 
+
+PHILOCLEON Not as well as I could. 
+
+BDELYCLEON No, but better. 
+
+PHILOCLEON Bring out the ass anyway. 
+
+XANTHIAS What a clever excuse he has found now! What cunning to get
+you to let him go out! 
+
+BDELYCLEON Yes, but I have not swallowed the hook; I scented the
+trick. I will go in and fetch the ass, so that the old man may not
+point his weapons that way again.  (He goes in, returning immediately
+with the ass.)  Stupid old ass, are you weeping because you are going
+to be sold? Come, go a bit quicker. Why, what are you moaning and
+groaning for? You might be carrying another Odysseus. 
+
+XANTHIAS Why, certainly, so he is! someone has crept beneath his
+belly. 
+
+BDELYCLEON Who, who? Let's see. Why it's he! What does this mean?
+Who are you? Come, speak! 
+
+PHILOCLEON I am Noman. 
+
+BDELYCLEON Noman? Of what country? 
+
+PHILOCLEON Of Ithaca, son of Apodrasippides. 
+
+BDELYCLEON Ha! Mister Noman, you will not laugh presently. Pull him
+out quick. Ah! the wretch, where has he crept to? Does he not resemble
+a she-ass to the life? 
+
+PHILOCLEON If you do not leave me in peace, I shall sue.
+
+BDELYCLEON And what will the suit be about? 
+
+PHILOCLEON The shade of an ass. 
+
+BDELYCLEON You are a poor man of very little wit, but thoroughly
+brazen. 
+
+PHILOCLEON A poor man! Ah! by Zeus! you know not now what I am worth;
+but you will know when you disembowel the old Heliast's money-bag.
+
+BDELYCLEON Come, get back indoors, both you and your ass.
+
+PHILOCLEON Oh! my brethren of the tribunal! oh! Cleon! to the rescue!
+
+BDELYCLEON Go and bawl in there under lock and key. And you there,
+pile plenty of stones against the door, thrust the bolt home into
+the staple, and to keep this beam in its place roll that great mortar
+against it. Quick's the word. 
+
+XANTHIAS Oh! my god! whence did this brick fall on me? 
+
+BDELYCLEON Perhaps a rat loosened it. 
+
+XANTHIAS A rat? it's surely our gutter-judge, who has crept beneath
+the tiles of the roof. 
+
+BDELYCLEON Ah! woe to us! there he is, he has turned into a sparrow;
+he will be flying off. Where is the net? where? Shoo! shoo! get back!
+Ah! by Zeus! I would rather have to guard Scione than such a father.
+
+XANTHIAS And now that we have driven him in thoroughly and he can
+no longer escape without our knowledge, can we not have a few winks
+of sleep, no matter how few? 
+
+BDELYCLEON Why, wretch! the other jurymen will be here almost directly
+to summon my father! 
+
+XANTHIAS Why, it's scarcely dawn yet! 
+
+BDELYCLEON Ah, they must have risen late to-day. Generally it is
+the middle of the night when they come to fetch him. They arrive here,
+carrying lanterns in their hands and singing the charming old verses
+of Phrynichus' Sidonian Women; it's their way of calling him.
+
+XANTHIAS Well, if need be, we will chase them off with stones.
+
+BDELYCLEON What! you dare to speak so? Why, this class of old men,
+if irritated, becomes as terrible as a swarm of wasps. They carry
+below their loins the sharpest of stings, with which to prick their
+foes; they shout and leap and their stings burn like so many sparks.
+
+XANTHIAS Have no fear! If I can find stones to throw into this nest
+of jurymen-wasps, I shall soon have them cleared off.  (Enter the
+CHORUS, composed of old men costumed as wasps.)  
+
+LEADER OF THE CHORUS March on, advance boldly and bravely! Comias,
+your feet are dragging; once you were as tough as a dog-skin strap
+and now even Charinades walks better than you. Ha! Strymodorus of
+Conthyle, you best of mates, where is Euergides and where is Chabes
+of Phlya? Ha, ha, bravo! there you are, the last of the lads with
+whom we mounted guard together at Byzantium. Do you remember how,
+one night, prowling round, we noiselessly stole the kneading-trough
+of a baker's wife; we split it in two and cooked our green-stuff with
+it.-But let us hasten, for the case of Laches comes on to-day, and
+they all say he has embezzled a pot of money. Hence Cleon, our protector,
+advised us yesterday to come early and with a three days' stock of
+fiery rage so as to chastise him for his crimes. Let us hurry, comrades,
+before it is light; come, let us search every nook with our lanterns
+to see whether those who wish us ill have not set us some trap.
+
+BOY Father, father, watch out for the mud. 
+
+LEADER OF THE CHORUS Pick up a blade of straw and trim your lamp.
+
+BOY No. I can trim it quite well with my finger. 
+
+LEADER OF THE CHORUS Why do you pull out the wick, you little dolt?
+Oil is scarce, and it's not you who suffer when it has to be paid
+for.  (Strikes him.)  
+
+BOY If you teach us again with your fists, we shall put out the lamps
+and go home; then you will have no light and will squatter about in
+the mud like ducks in the dark. 
+
+LEADER OF THE CHORUS I know how to punish offenders bigger than you.
+But I think I am treading in some mud. Oh! it's certain it will rain
+in torrents for four days at least; look at the snuff in our lamps;
+that is always a sign of heavy rain; but the rain and the north wind
+will be good for the crops that are still standing. Why, what can
+have happened to our mate, who lives here? Why does he not come to
+join our party? There used to be no need to haul him in our wake,
+for he would march at our head singing the verses of Phrynichus; he
+was a lover of singing. Should we not, friends, make a halt here and
+sing to call him out? The charm of my voice will fetch him out, if
+he hears it. 
+
+CHORUS  (singing) Why does the old man not show himself before the
+door? Why does he not answer? Has he lost his shoes? has he stubbed
+his toe in the dark and thus got a swollen ankle? Perhaps he has a
+tumour in his groin. He was the hardest of us all; he alone never
+allowed himself to be moved. If anyone tried to move him, he would
+lower his head, saying, "You might just as well try to boil a stone."
+But I bethink me, an accused man escaped us yesterday through his
+false pretence that he loved Athens and had been the first to unfold
+the Samian plot. Perhaps his acquittal has so distressed Philocleon
+that he is abed with fever-he is quite capable of such a thing.-Friend,
+arise, do not thus vex your heart, but forget your wrath. To-day we
+have to judge a man made wealthy by-treason, one of those who set
+Thrace free; we have to prepare him a funeral urn....so march on,
+my boy, get going.  (Here a duet begins between the BOY and the CHORUS.)
+
+BOY Father, would you give me something if I asked for it?
+
+CHORUS Assuredly, my child, but tell me what nice thing do you want
+me to buy you? A set of knuckle-bones, I suppose. 
+
+BOY No, father, I prefer figs; they are better. 
+
+CHORUS No, by Zeus! even if you were to hang yourself with vexation.
+
+BOY Well then, I will lead you no farther. 
+
+CHORUS With my small pay, I am obliged to buy bread, wood, and stew;
+and now you ask me for figs! 
+
+BOY But, father, if the Archon should not form a court to-day, how
+are we to buy our dinner? Have you some good hope to offer us or only
+"Helle's sacred waves"? 
+
+CHORUS Alas! alas! I have not a notion how we shall dine.
+
+BOY Oh! my poor mother! why did you let me see this day?
+
+CHORUS So that you might give me troubles to feed on. 
+
+BOY Little wallet, you seem like to be a mere useless ornament!
+
+BOY AND CHORUS It is our destiny to groan. 
+
+PHILOCLEON  (appearing at an upper window; singing) My friends, I
+have long been pining away while listening to you from my window,
+but I absolutely know not what to do. I am detained here, because
+I have long wanted to go with you to the law-court and do all the
+harm I can. Oh! Zeus! cause the peals of thy thunder to roll, change
+me quickly into smoke or make me into a Proxenides, a tissue of falsehoods,
+like the son of Sellus. Oh, King of Heaven! hesitate not to grant
+me this favour, pity my misfortune or else may thy dazzling lightning
+instantly reduce me to ashes; then carry me hence, and may thy breath
+hurl me into some strong, hot marinade or turn me into one of the
+stones on which the votes are counted. 
+
+CHORUS  (singing) Who is it detains you and shuts you in? Speak,
+for you are talking to friends. 
+
+PHILOCLEON  (singing) My son. But no bawling, he is there in front
+asleep; lower your voice. 
+
+CHORUS  (singing) But, poor fellow, what is his aim? what is his
+object? 
+
+PHILOCLEON  (singing) My friends, he will not have me judge nor do
+anyone any ill, but he wants me to stay at home and enjoy myself,
+and I will not. And does this wretch, this Demologocleon dare to say
+such odious things, just because you tell the truth about our navy?
+He would not have dared, had he not been a conspirator. 
+
+LEADER OF THE CHORUS But meanwhile, you must devise some new dodge,
+so that you can come down here without his knowledge. 
+
+PHILOCLEON But what? Try to find some way. For myself, I am ready
+for anything, so much do I burn to run along the tiers of the tribunal
+with my voting-pebble in my hand. 
+
+LEADER OF THE CHORUS There is surely some hole through which you
+could manage to squeeze from within, and escape dressed in rags, like
+the crafty Odysseus. 
+
+PHILOCLEON Everything is sealed fast; not so much as a gnat could
+get through. Think of some other plan; there is no possible hole of
+escape. 
+
+LEADER OF THE CHORUS Do you recall how, when you were with the army
+at the taking of Naxos, you descended so readily from the top of the
+wall by means of the spits you had stolen? 
+
+PHILOCLEON I remember that well enough, but what connection is there
+with present circumstances? I was young, clever at thieving, I had
+all my strength, none watched over me, and I could run off without
+fear. But to-day men-at-arms are placed at every outlet to watch me,
+and two of them are lying in wait for me at this very door armed with
+spits, just as folks lie in wait for a cat that has stolen a piece
+of meat. 
+
+CHORUS  (singing) Come, discover some way as quick as possible. Here
+is the dawn come, my dear little friend. 
+
+PHILOCLEON  (singing) The best way is to gnaw through the net. Oh!
+goddess who watchest over the nets, forgive me for making a hole in
+this one. 
+
+CHORUS  (singing) It's acting like a man eager for his safety. Get
+your jaws to work. 
+
+PHILOCLEON  (singing) There! it's gnawed through! But no shouting!
+let Bdelycleon notice nothing! 
+
+CHORUS  (singing) Have no fear, have no fear! if he breathes a syllable,
+it will be to bruise his own knuckles; he will have to fight to defend
+his own head. We shall teach him not to insult the mysteries of the
+goddesses. 
+
+LEADER OF THE CHORUS But fasten a rope to the window, tie it around
+your body and let yourself down to the ground, with your heart bursting
+with the fury of Diopithes. 
+
+PHILOCLEON But if these notice it and want to fish me up and drag
+me back into the house, what will you do? Tell me that. 
+
+LEADER OF THE CHORUS We shall call up the full strength of our oak-tough
+courage to your aid. That is what we will do. 
+
+PHILOCLEON I trust myself to you and risk the danger. If misfortune
+overtakes me, take away my body, bathe it with your tears and bury
+it beneath the bar of the tribunal. 
+
+LEADER OF THE CHORUS Nothing will happen to you, rest assured. Come,
+friend, have courage and let yourself slide down while you invoke
+your country's gods. 
+
+PHILOCLEON Oh! mighty Lycus! noble hero and my neighbour, thou, like
+myself, takest pleasure in the tears and the groans of the accused.
+If thou art come to live near the tribunal, 'tis with the express
+design of hearing them incessantly; thou alone of all the heroes hast
+wished to remain among those who weep. Have pity on me and save him,
+who lives close to thee; I swear I will never make water, never, nor
+ever let a fart, against the railing of thy statue.  (He slides down
+as quietly as possible; nevertheless BDELYCLEON wakes up.)
+
+BDELYCLEON  (to XANTHIAS) Ho, there! ho! get up! 
+
+XANTHIAS  (waking up) What's the matter? 
+
+BDELYCLEON I thought I heard talking close to me. Is the old man
+at it again, escaping through some loophole? 
+
+XANTHIAS No, by Zeus! no, but he is letting himself down by a rope.
+
+BDELYCLEON Ha, rascal! what are you doing there? You shall not descend.
+(To XANTHIAS)  Mount quick to the other window, strike him with the
+boughs that hang over the entrance; perhaps he will turn back when
+he feels himself being thrashed. 
+
+PHILOCLEON  (to the audience) To the rescue! all you, who are going
+to have lawsuits this year-Smicythion, Tisiades, Chremon and Pheredipnus.
+It's now or never, before they force me to return, that you must help.
+
+LEADER OF THE CHORUS Why do we delay to let loose that fury, that
+is so terrible, when our nests are attacked? 
+
+CHORUS  (singing) I feel my angry sting is stiffening, that sharp
+sting, with which we punish our enemies. Come, children, cast your
+cloaks to the winds, run, shout, tell Cleon what is happening, that
+he may march against this foe of our city, who deserves death, since
+he proposes to prevent the trial of lawsuits.  (The Boys run off,
+taking the CHORUS' mantles with them.)  
+
+BDELYCLEON  (rushing out of the house with the two slaves and seizing
+his father)  Friends, listen to the truth, instead of bawling.
+
+LEADER OF THE CHORUS By Zeus! we will shout to heaven. 
+
+BDELYCLEON And I shall not let him go. 
+
+LEADER OF THE CHORUS Why, this is intolerable, 'tis manifest tyranny.
+
+CHORUS  (singing) Oh! citizens, oh! Theorus, the enemy of the gods!
+and all you flatterers, who rule us! come to our aid. 
+
+XANTHIAS By Heracles! they have stings. Do you see them, master?
+
+BDELYCLEON It was with these weapons that they killed Philippus the
+son of Gorgias when he was put on trial. 
+
+LEADER OF THE CHORUS And you too shall die. Turn yourselves this
+way, all, with your stings out for attack and throw yourselves upon
+him in good and serried order, and swelled up with wrath and rage.
+Let him learn to know the sort of foes he has dared to irritate.
+
+XANTHIAS The fight will be fast and furious, by great Zeus! I tremble
+at the sight of their stings. 
+
+CHORUS  (singing) Let this man go, unless you want to envy the tortoise
+his hard shell. 
+
+PHILOCLEON Come, my dear companions, wasps with relentless hearts,
+fly against him, animated with your fury. Sting him in the arse, eyes,
+and fingers. 
+
+BDELYCLEON (opening the door and trying to shove his struggling father
+in) Midas, Phryx, Masyntias, here! Come and help. Seize this man and
+hand him over to no one, otherwise you shall starve to death in chains.
+Fear nothing, I have often heard the crackling of fig-leaves in the
+fire. 
+
+LEADER OF THE CHORUS If you won't let him go, I shall bury this sting
+in your body. 
+
+PHILOCLEON Oh, Cecrops, mighty hero with the tail of a dragon! Seest
+thou how these barbarians ill-use me-me, who have many a time made
+them weep a full bushel of tears? 
+
+LEADER OF THE CHORUS Is not old age filled with cruel ills? What
+violence these two slaves offer to their old master! they have forgotten
+all bygones, the fur-coats and the jackets and the caps he bought
+for them; in winter he watched that their feet should not get frozen.
+And only see them now; there is no gentleness in their look nor any
+recollection of the slippers of other days. 
+
+PHILOCLEON  (to XANTHIAS) Will you let me go, you accursed animal?
+Don't you remember the day when I surprised you stealing the grapes;
+I tied you to an olive-tree and I cut open your bottom with such vigorous
+lashes that folks thought you had been raped. Get away, you are ungrateful.
+But let go of me, and you too, before my son comes up. 
+
+LEADER OF THE CHORUS You shall repay us for all this, and that soon.
+Tremble at our ferocious glance; you shall taste our just anger.
+
+BDELYCLEON Strike! strike! Xanthias! Drive these wasps away from
+the house. 
+
+XANTHIAS That's just what I am doing. 
+
+BDELYCLEON Blind them with smoke too! 
+
+XANTHIAS AND SOSIAS You will not go? The plague seize you! Will you
+not clear off? 
+
+BDELYCLEON Hit them with your stick Xanthias, and you Sosias, to
+smoke them out better, throw Aeschines, the son of Sellartius, on
+the fire. 
+
+XANTHIAS  (as the CHORUS retires from the unequal conquest) There,
+we were bound to drive you off sooner or later! 
+
+BDELYCLEON Eh! by Zeus! you would not have put them to flight so
+easily if they had fed on the verses of Philocles. 
+
+CHORUS  (singing) It is clear to all the poor that tyranny has attacked
+us sorely. Proud emulator of Amynias, you, who only take pleasure
+in doing ill, see how you are preventing us from obeying the laws
+of the city; you do not even seek a pretext or any plausible excuse,
+but claim to rule alone. 
+
+BDELYCLEON Hold! A truce to all blows and brawling! Had we not better
+confer together and come to some understanding? 
+
+LEADER OF THE CHORUS Confer with you, the people's foe! with you,
+a royalist.... 
+
+CHORUS  (singing) ....and accomplice of Brasidas, you with your woollen-fringed
+coat and your long beard? 
+
+BDELYCLEON Ah! it would be better to separate altogether from my
+father than to steer my boat daily through such stormy seas!
+
+LEADER OF THE CHORUS Oh! you have but reached the parsley and the
+rue, to use the common saying. What you are suffering is nothing!
+but welcome the hour when the advocate shall adduce all these same
+arguments against you and shall summon your accomplices to give witness.
+
+BDELYCLEON In the name of the gods! withdraw or we shall fight you
+the whole day long. 
+
+CHORUS  (singing) No, not as long as I retain an atom of breath.
+Ha! your desire is to tyrannize over us! 
+
+BDELYCLEON Everything is now tyranny with us, no matter what is concerned,
+whether it be large or small. Tyranny! I have not heard the word mentioned
+once in fifty years, and now it is more common than salt-fish, the
+word is even current on the market. If you are buying gurnards and
+don't want anchovies, the huckster next door, who is selling the latter,
+at once exclaims, "That is a man whose kitchen savours of tyranny!"
+If you ask for onions to season your fish, the green-stuff woman winks
+one eye and asks, "Ha, you ask for onions! are you seeking to tyrannize,
+or do you think that Athens must pay you your seasonings as a tribute?"
+
+XANTHIAS Yesterday I went to see a whore about noon and told her
+to get on top; she flew into a rage, pretending I wanted to restore
+the tyranny of Hippias. 
+
+BDELYCLEON That's the talk that pleases the people! As for myself,
+I want my father to lead a joyous life like Morychus instead of going
+away before dawn basely to calumniate and condemn; and for this I
+am accused of conspiracy and tyrannical practice! 
+
+PHILOCLEON And quite right too, by Zeus! The most exquisite dishes
+do not make up to me for the life of which you deprive me. I scorn
+your red mullet and your eels, and would far rather eat a nice little
+lawsuitlet cooked in the pot. 
+
+BDELYCLEON That's because you have got used to seeking your pleasure
+in it; but if you will agree to keep silence and hear me, I think
+I could persuade you that you deceive yourself altogether.
+
+PHILOCLEON I deceive myself, when I am judging? 
+
+BDELYCLEON You do not see that you are the laughing-stock of these
+men, whom you are ready to worship. You are their slave and do not
+know it. 
+
+PHILOCLEON I a slave, I, who lord it over all? 
+
+BDELYCLEON Not at all, you think you are ruling when you are only
+obeying. Tell me, father, what do you get out of the tribute paid
+by so many Greek towns. 
+
+PHILOCLEON Much, and I appoint my colleagues jurymen. 
+
+BDELYCLEON And I also.  (To the slaves)  Release him. 
+
+PHILOCLEON And bring me a sword; If I am worsted in this debate,
+I shall fall on the blade. 
+
+BDELYCLEON Tell me whether you will accept the verdict of the Court.
+
+PHILOCLEON May I never drink my Heliast's pay in honour of the Good
+Genius, it if I do not. 
+
+CHORUS  (singing) Now it is necessary for you, who are of our school,
+to say something novel, that you may not seem... 
+
+BDELYCLEON  (interrupting) And I must note down everything he says,
+so as to remember it; someone bring me a tablet, quick. 
+
+CHORUS  (singing) ....to side with this youth in his opinions. You
+see how serious the question has become; if he should prevail, which
+the gods forfend, it will be all over for us. 
+
+PHILOCLEON But what will you say of it, if he should triumph in the
+debate? 
+
+CHORUS  (singing) That old men are no longer good for anything; we
+shall be perpetually laughed at in the streets, shall be called thallophores,
+mere brief-bags. 
+
+LEADER OF THE CHORUS You are to be the champion of all our rights
+and sovereignty. Come, take courage! Bring into action all the resources
+of your wit. 
+
+PHILOCLEON At the outset I will prove to you that there exists no
+king whose might is greater than ours. Is there a pleasure, a blessing
+comparable with that of a juryman? Is there a being who lives more
+in the midst of delights, who is more feared, aged though he be? From
+the moment I leave my bed, men of power, the most illustrious in the
+city, await me at the bar of the tribunal; the moment I am seen from
+the greatest distance, they come forward to offer me a gentle handy-that
+has pilfered the public funds; they entreat me, bowing right low and
+with a piteous voice, "Oh, father," they say, "pity me, I adjure you
+by the profit you were able to make in the public service or in the
+army, when dealing with the victuals." Why, the man who speaks thus
+would not know of my existence, had I not let him off on some former
+occasion. 
+
+BDELYCLEON Let us note this first point, the supplicants.
+
+PHILOCLEON These entreaties have appeased my wrath, and I enter-firmly
+resolved to do nothing that I have promised. Nevertheless I listen
+to the accused. Oh! what tricks to secure acquittal! Ah! there is
+no form of flattery that is not addressed to the Heliast! Some groan
+over their poverty and exaggerate it. Others tell us anecdotes or
+some comic story from Aesop. Others, again, cut jokes; they fancy
+I shall be appeased if I won If we are not even then won over, why,
+then they drag forward their young children by the hand, both boys
+and girls, who prostrate themselves and whine with one accord, and
+then the father, trembling as if before a god, beseeches me not to
+condemn him out of pity for them, "If you love the voice of the lamb,
+have pity on my sons"; and because I am fond of little sows, I must
+yield to his daughter's prayers. Then we relax the heat of our wrath
+a little for him. Is not this great power indeed, which allows even
+wealth to be disdained? 
+
+BDELYCLEON A second point to note, the disdain of wealth. And now
+recall to me what are the advantages you enjoy, you, who pretend to
+rule over Greece? 
+
+PHILOCLEON We are entrusted with the inspection of the young men,
+and thus we have a right to examine their tools. If Oeagrus is accused,
+he is not acquitted before he has recited a passage from 'Niobe' and
+he chooses the finest. If a flute-player gains his case, he adjusts
+his mouth-strap in return and plays us the final air while we are
+leaving. A father on his death-bed names some husband for his daughter,
+who is his sole heir; but we care little for his will or for the shell
+so solemnly placed over the seal; we give the young maiden to him
+who has best known how to secure our wavour. Name me another duty
+that is so important and so irresponsible. 
+
+BDELYCLEON Aye, it's a fine privilege, and the only one on which
+I can congratulate you; but surely to violate the will is to act badly
+towards the heiress. 
+
+PHILOCLEON And if the Senate and the people have trouble in deciding
+some important case, it is decreed to send the culprits before the
+Heliasts; then Euathlus and the illustrious Colaconymus, who cast
+away his shield, swear not to betray us and to fight for the people.
+Did ever an orator carry the day with his opinion if he had not first
+declared that the jury should be dismissed for the day as soon as
+they had given their first verdict? We are the only ones whom Cleon,
+the great bawler, does not badger. On the contrary, he protects and
+caresses us; he keeps off the flies, which is what you have never
+done for your father. Theorus, who is a man not less illustrious than
+Euphemius, takes the sponge out of the pot and blacks our shoes. See
+then what good things you deprive and despoil me of. Pray, is this
+obeying or being a slave, as you pretended to be able to prove?
+
+BDELYCLEON Talk away to your heart's content; you must come to a
+stop at last and then you shall see that this grand power only resembles
+an anus; no matter how much you wash it, you can never get it clean.
+
+PHILOCLEON But I am forgetting the most pleasing thing of all. When
+I return home with my pay, everyone runs to greet me because of my
+money. First my daughter bathes me, anoints my feet, stoops to kiss
+me and, while she is calling me "her dearest father," fishes out my
+triobolus with her tongue; then my little wife comes to wheedle me
+and brings a nice light cake; she sits beside me and entreats me in
+a thousand ways, "Do take this now; do have some more." All this delights
+me hugely, and I have no need to turn towards you or the steward to
+know when it shall please him to serve my dinner, all the while cursing
+and grumbling. But if he does not quickly knead my cake, I have something
+which is my defence, my shield against all ills. If you do not pour
+me out drink, I have brought this long-eared jar full of wine. How
+it brays, when I bend back and bury its neck in my mouth! It farts
+like a whole army, and how I laugh at your wine-skins.  (With increasing
+excitement)  As to power, am I not equal to the king of the gods?
+If our assembly is noisy, all say as they pass, "Great gods! the tribunal
+is rolling out its thunder!" If I let loose the lightning, the richest,
+aye, the noblest are half dead with terror and crap for fright. You
+yourself are afraid of me, yea, by Demeter! you are afraid. But may
+I die if you frighten me. 
+
+CHORUS  (singing) Never have I heard speech so elegant or so sensible.
+
+PHILOCLEON Ah! he thought he had only to turn me round his finger;
+he should, however have known the vigour of my eloquence.
+
+CHORUS  (singing) He has said everything without omission. I felt
+myself grow taller while I listened to him. Methought myself meting
+out justice in the Islands of the Blest, so much was I taken with
+the charm of his words. 
+
+BDELYCLEON How overjoyed they are! What extravagant delight! Ah!
+ah! you are going to get a thrashing to-day. 
+
+CHORUS  (singing) Come, plot everything you can to beat him; 'tis
+not easy to soften me if you do no talk on my side. 
+
+LEADER OF THE CHORUS If you have nothing but nonsense to spout, it's
+time to buy a good millstone, freshly cut withal, to crush my anger.
+
+BDELYCLEON The cure of a disease, so inveterate and so widespread
+in Athens, is a difficult task and of too great importance for the
+scope of comedy. Nevertheless, my old father.... 
+
+PHILOCLEON Cease to call me by that name, for, if you do not prove
+me a slave and that quickly too, you must die by my hand, even if
+I must be deprived of my share in the sacred feasts. 
+
+BDELYCLEON Listen to me, dear little father, unruffle that frowning
+brow and reckon, you can do so without trouble, not with pebbles,
+but on your fingers, what is the sum-total of the tribute paid by
+the allied towns; besides this we have the direct imposts, a mass
+of percentage dues, the fees of the courts of justice, the produce
+from the mines, the markets, the harbours, tile public lands and the
+confiscations. All these together amount to nearly two thousand talents.
+Take from this sum the annual pay of the dicasts; they number six
+thousand, and there have never been more in this town; so therefore
+it is one hundred and fifty talents that come to you. 
+
+PHILOCLEON What! our pay is not even a tithe of the state revenue?
+
+BDELYCLEON Why no, certainly not. 
+
+PHILOCLEON And where does the rest go then? 
+
+BDELYCLEON To those who say: "I shall never betray the interests
+of the masses; I shall always fight for the people." And it is you,
+father, who let yourself be caught with their fine talk, who give
+them all power over yourself. They are the men who extort fifty talents
+at a time by threat and intimidation from the allies. "Pay tribute
+to me," they say, "or I shall loose the lightning on you-town and
+destroy it." And you, you are content to gnaw the crumbs of your own
+might. What do the allies do? They see that the Athenian mob lives
+on the tribunal in niggard and miserable fashion, and they count you
+for nothing, for not more than the vote of Connus; it is on those
+wretches that they lavish everything, dishes of salt fish, wine, tapestries,
+cheese, honey, chaplets, necklets, drinking-cups, all that yields
+pleasure and health. And you, their master, to you as a reward for
+all your toil both on land and sea, nothing is given, not even a clove
+of garlic to eat with your little fish. 
+
+PHILOCLEON No, undoubtedly not; I have had to send and buy some from
+Eucharides. But you told me I was a slave. Prove it then, for I am
+dying with impatience. 
+
+BDELYCLEON Is it not the worst of all slaveries to see all these
+wretches and their flatterers, whom they gorge with gold, at the head
+of affairs? As for you, you are content with the three obols which
+they give you and which you have so painfully earned in the galleys,
+in battles and sieges. But what I stomach least is that you go to
+sit on the tribunal by order. Some young fairy, the son of Chaereas,
+to wit, enters your house wiggling his arse, foul with debauchery,
+on his straddling legs and charges you to come and judge at daybreak,
+and precisely to the minute. "He who presents himself after the opening
+of the Court," says he, "will not get the triobolus." But he himself,
+though he arrives late, will nevertheless get his drachma as a public
+advocate. If an accused man makes him some present, he shares it with
+a colleague and the pair agree to arrange the matter like two sawyers,
+one of whom pulls and the other pushes. As for you, you have only
+eyes for the public pay-clerk, and you see nothing. 
+
+PHILOCLEON Can it be I am treated thus? Oh! what is it you are saying?
+You stir me to the bottom of my heart! I am all ears! I cannot express
+what I feel. 
+
+BDELYCLEON Consider then; you might be rich, both you and all the
+others; I know not why you let yourself be fooled by these folk who
+call themselves the people's friends. A myriad of towns obey you,
+from the Euxine to Sardis. What do you gain thereby? Nothing but this
+miserable pay, and even that is like the oil with which the flock
+of wool is impregnated and is doled to you drop by drop, just enough
+to keep you from dying of hunger. They want you to be poor, and I
+will tell you why. It is so that you may know only those who nourish
+you, and so that, if it pleases them to loose you against one of their
+foes, you shall leap upon him with fury. If they wished to assure
+the well-being of the people, nothing would be easier for them. We
+have now a thousand towns that pay us tribute; let them comand each
+of these to feed twenty Athenians; then twenty thousand of our citizens
+would be eating nothing but hare, would drink nothing but the purest
+of milk, and always crowned with garlands, would be enjoying the delights
+to which the great name of their country and the trophies of Marathon
+give them the right; whereas to-day you are like the hired labourers
+who gather the olives; you follow him who pays you. 
+
+PHILOCLEON Alas! my hand is benumbed; I can no longer draw my sword.
+What has become of my strength? 
+
+BDELYCLEON When they are afraid, they promise to divide Euboea among
+you and to give each fifty bushels of wheat, but what have they given
+you? Nothing excepting, quite recently, five bushels of barley, and
+even these you have only obtained with great difficulty, on proving
+you were not aliens, and then choenix by choenix.  (With increasing
+excitement)  That is why I always kept you shut in; I wanted you to
+be fed by me and no longer at the beck of these blustering braggarts.
+Even now I am ready to let you have all you want, provided you no
+longer let yourself be suckled by the payclerk. 
+
+LEADER OF THE CHORUS  (to BDELYCLEON) He was right who said, "Decide
+nothing till you have heard both sides," for now it seems to me that
+you are the one who gains the complete victory. My wrath is appeased
+and I throw away my sticks.  (To PHILOCLEON)  But, you, our comrade
+and contemporary.... 
+
+FIRST SEMI-CHORUS  (taking this up in song) .... let yourself be
+won over by his words; come, be not too obstinate or too perverse.
+Would that I had a relative or kinsman to correct me thus! Clearly
+some god is at hand and is now protecting you and loading you with
+benefits. Accept them. 
+
+BDELYCLEON I will feed him, I will give him everything that is suitable
+for an old man; oatmeal gruel, a cloak, soft furs, and a wench to
+rub his tool and his loins. But he keeps silent and will not utter
+a sound; that's a bad sign. 
+
+SECOND SEMI-CHORUS  (singing) He has thought the thing over and has
+recognized his folly; he is reproaching himself for not having followed
+your advice always. But there he is, converted by your words, and
+wiser now, so that he will no doubt alter his ways in the future and
+always believe in none but you. 
+
+PHILOCLEON Alas! alas! 
+
+BDELYCLEON Now why this lamentation? 
+
+PHILOCLEON  (in tragic style) A truce to your promises! What I love
+is down there, down there I want to be, there, where the herald cries,
+"Who has not yet voted? Let him rise!" I want to be the last of all
+to leave the urn. Oh, my soul, my soul! where art thou? come! oh!
+dark shadows, make way for me! By Heracles, may I reach the court
+in time to convict Cleon of theft. 
+
+BDELYCLEON Come, father, in the name of the gods, believe me!
+
+PHILOCLEON Believe you! Ask me anything, anything, except one.
+
+BDELYCLEON What is it? Let us hear. 
+
+PHILOCLEON Not to judge any more! Before I consent, I shall have
+appeared before Pluto. 
+
+BDELYCLEON Very well then, since you find so much pleasure in it,
+go down there no more, but stay here and deal out justice to your
+slaves. 
+
+PHILOCLEON But what is there to judge? Are you mad? 
+
+BDELYCLEON Everything as in a tribunal. If a servant opens a door
+secretly, you inflict upon him a simple fine; that's what you have
+repeatedly done down there. Everything can be arranged to suit you.
+If it is warm in the morning, you can judge in the sunlight; if it
+is snowing, then seated at your fire; if it rains, you go indoors;
+and if you don't rise till noon, there will be no Thesmothetes to
+exclude you from the precincts. 
+
+PHILOCLEON The notion pleases me. 
+
+BDELYCLEON Moreover, if a pleader is long-winded, you will not be
+hungering and chafing and seeking vengeance on the accused.
+
+PHILOCLEON But could I judge as well with my mouth full?
+
+BDELYCLEON Much better. Is it not said, that the dicasts, when deceived
+by lying witnesses, have need to ruminate well in order to arrive
+at the truth? 
+
+PHILOCLEON Well said, but you have not told me yet who will pay my
+salary. 
+
+BDELYCLEON I will. 
+
+PHILOCLEON So much the better; in this way I shall be paid by myself.
+Because that damned jester, Lysistratus, played me an infamous trick
+the other day. He received a drachma for the two of us and went on
+the fish-market to get it changed and then brought me back three mullet
+scales. I took them for obols and crammed them into my mouth; but
+the smell choked me and I quickly spat them out. So I dragged him
+before the court. 
+
+BDELYCLEON And what did he say to that? 
+
+PHILOCLEON Well, he pretended I had the stomach of a cock. "You have
+soon digested the money," he said with a laugh. 
+
+BDELYCLEON You see, that is yet another advantage. 
+
+PHILOCLEON And no small one either. Come, do as you will.
+
+BDELYCLEON Wait! I will bring everything here.  (He goes into the
+house.)  
+
+PHILOCLEON  (to himself) You see, the oracles are coming true; I
+have heard it foretold, that one day the Athenians would dispense
+justice in their own houses, that each citizen. would have himself
+a little tribunal constructed in his porch similar to the altars of
+Hecate, and that there would be such before every door. 
+
+BDELYCLEON  (returning with slaves who are carrying various objects)
+There, what do you think of that? I have brought you everything needful
+and much more into the bargain. See, here is a thunder-mug in case
+you have to pee; I shall hang it up beside you. 
+
+PHILOCLEON Good idea! Right useful at my age. You have found the
+true alleviation of bladder troubles. 
+
+BDELYCLEON Here is a fire, and near to it are lentils, should you
+want to have a bite to eat. 
+
+PHILOCLEON That's admirably arranged. In this way, even when feverish,
+I shall nevertheless receive my pay; and besides, I could eat my lentils
+without quitting my seat. But why this cock? 
+
+BDELYCLEON So that, should you doze during some pleading, he may
+awaken you by crowing up there. 
+
+PHILOCLEON I want only for one thing more; all the rest is as good
+as can be. 
+
+BDELYCLEON What is that? 
+
+PHILOCLEON If only they could bring me an image of the hero Lycus.
+
+BDELYCLEON Here it is! Why, you might think it was the god himself!
+
+PHILOCLEON Oh! hero, my master I how repulsive you are to look at
+I 
+
+BDELYCLEON He looks just like Cleonymus. 
+
+PHILOCLEON That is why, hero though he be, he has no weapon.
+
+BDELYCLEON The sooner you take your seat, the sooner I shall call
+a case. 
+
+PHILOCLEON Call it, for I have been seated ever so long.
+
+BDELYCLEON Let us see. What case shall we bring up first? Is there
+a slave who has done something wrong? Ah! you Thracian there, you
+burnt the stew-pot the other day. 
+
+PHILOCLEON Wait, wait! This is a fine state of affairs! You almost
+made me judge without a bar, and that is the most sacred thing of
+all for us. 
+
+BDELYCLEON There isn't any, by Zeus. 
+
+PHILOCLEON I'll run indoors and get one myself.  (Exit)
+
+BDELYCLEON What does it matter? Terrible thing, the force of habit.
+
+XANTHIAS  (coming out of the house) Damn that animal! How can anyone
+keep such a dog? 
+
+BDELYCLEON Hullo! what's the matter? 
+
+XANTHIAS Oh, it's Labes, who has just rushed into the kitchen and
+seized a whole Sicilian cheese and gobbled it up. 
+
+BDELYCLEON Good! this will be the first offence I shall make my father
+try.  (To XANTHIAS)  Come along and lay your accusation. XANTHIAS
+No, not I; the other dog vows he will be accuser, if the matter is
+brought up for trial. 
+
+BDELYCLEON Well then, bring them both along. 
+
+XANTHIAS That's what we'll have to do.  (He goes hack into the house.
+A moment later PHILOCLEON comes out.)  
+
+BDELYCLEON What is this? 
+
+PHILOCLEON The pig-trough of the swine dedicated to Hestia.
+
+BDELYCLEON Did you steal it from a shrine? 
+
+PHILOCLEON No, no, by addressing Hestia first, I might, thanks to
+her, crush an adversary. But put an end to delay by calling up the
+case. My verdict is already settled. 
+
+BDELYCLEON Wait! I still have to bring out the tablets and the scrolls.
+(He goes into the house.)  
+
+PHILOCLEON Oh! I am boiling, I am dying with impatience at your delays.
+I could have traced the sentence in the dust. 
+
+BDELYCLEON  (coming out with tablets and scrolls) There you are.
+
+PHILOCLEON Then call the case. 
+
+BDELYCLEON Right. Who is first on the docket? 
+
+PHILOCLEON My god! This is unbearable! I have forgotten the urns.
+
+BDELYCLEON Now where are you going? 
+
+PHILOCLEON To look for the urns. 
+
+BDELYCLEON Don't bother, I have these pots. 
+
+PHILOCLEON Very well, then we have all we need, except the clepsydra.
+
+BDELYCLEON  (pointing to the thunder-mug) What is this if it is not
+a clepsydra? 
+
+PHILOCLEON You know how to supply everything. 
+
+BDELYCLEON Let fire be brought quickly from the house with myrtle
+boughs and incense, and let us invoke the gods before opening the
+sitting. 
+
+LEADER OF THE CHORUS Offer them libations and your vows and we will
+thank them that a noble agreement has put an end to your bickerings
+and strife. And first let there be a sacred silence. 
+
+CHORUS  (singing) Oh! god of Delphi! oh! Phoebus Apollo! convert
+into the greatest blessing for us all what is now happening before
+this house, and cure us of our error, oh, Paean, our helper!
+
+BDELYCLEON  (solemnly) Oh, Powerful god, Apollo Aguieus, who watchest
+at the door of my entrance hall, accept this fresh sacrifice; I offer
+it that you may deign to soften my father's excessive severity; he
+is as hard as iron, his heart is like sour wine; do thou pour into
+it a little honey. Let him become gentle toward other men, let him
+take more interest in the accused than in the accusers, may he allow
+himself to be softened by entreaties; calm his acrid humour and deprive
+his irritable mind of all sting. 
+
+CHORUS  (singing) We unite our vows and chants to those of this new
+magistrate. His words have won our favour and we are convinced that
+he loves the people more than any of the young men of the present
+day.  (XANTHIAS brings in two persons costumed as dogs, but with masks
+that suggest Laches and Cleon.)  
+
+BDELYCLEON If there be any judge near at hand, let him enter; once
+the proceedings have opened, we shall admit him no more.
+
+PHILOCLEON Who is the defendant? 
+
+BDELYCLEON This one. 
+
+PHILOCLEON  (aside) He does not stand a chance. 
+
+BDELYCLEON Listen to the indictment. A dog of Cydathenaea doth hereby
+charge Labes of Aexonia with having devoured a Sicilian cheese by
+himself without accomplices. Penalty demanded, a collar of fig-tree
+wood. 
+
+PHILOCLEON Nay, a dog's death, if convicted. 
+
+BDELYCLEON This is Labes, the defendant. 
+
+PHILOCLEON Oh! what a wretched brute! how entirely he looks the rogue!
+He thinks to deceive me by keeping his jaws closed. Where is the plaintiff,
+the dog of Cydathenaea? 
+
+DOG Bow wow! bow wow! 
+
+BDELYCLEON Here he is. 
+
+PHILOCLEON Why, he's another Labes, a great barker and a licker of
+dishes. 
+
+BDELYCLEON  (as Herald) Silence! Keep your seats!  (To the Cydathenaean
+dog.)  And you, up on your feet and accuse him. 
+
+PHILOCLEON Go on, and I will help myself and eat these lentils.
+
+DOG Gentlemen of the jury, listen to this indictment I have drawn
+up. He has committed the blackest of crimes, against both me and the
+seamen. He sought refuge in a dark corner to glutton on a big Sicilian
+cheese, with which he sated his hunger. 
+
+PHILOCLEON Why, the crime is clear; the filthy brute this very moment
+belched forth a horrible odour of cheese right under my nose.
+
+DOG And he refused to share with me. And yet can anyone style himself
+your benefactor, when he does not cast a morsel to your poor dog?
+
+PHILOCLEON He has not shared anything, not even with his comrade.
+His madness is as hot as my lentils. 
+
+BDELYCLEON In the name of the gods, father! No hurried verdict without
+hearing the other side! 
+
+PHILOCLEON But the evidence is plain; the fact speaks for itself.
+
+DOG Then beware of acquitting the most selfish of canine gluttons,
+who has devoured the whole cheese, rind and all, prowling round the
+platter. 
+
+PHILOCLEON There is not even enough left for me to fill up the chinks
+in my pitcher. 
+
+DOG Besides, you must punish him, because the same house cannot keep
+two thieves. Let me not have barked in vain, else I shall never bark
+again. 
+
+PHILOCLEON Oh! the black deeds he has just denounced! What a shameless
+thief! Say, cock, is not that your opinion too? Ha, ha! He thinks
+as I do. Here, Thesmothetes! where are you? Hand me the thunder-mug.
+
+BDELYCLEON Get it yourself. I go to call the witnesses; these are
+a plate, a pestle, a cheese knife, a brazier, a stew-pot and other
+half-burnt utensils.  (To PHILOCLEON)  But you have not finished?
+you are piddling away still! Have done and be seated. 
+
+PHILOCLEON Ha, ha! I reckon I know somebody who will crap for fright
+to-day. 
+
+BDELYCLEON Will you never cease showing yourself hard and intractable,
+and especially to the accused? You tear them to pieces tooth and nail.
+(To LABES)  Come forward and defend yourself. What means this silence?
+Answer. 
+
+PHILOCLEON No doubt he has nothing to say. 
+
+BDELYCLEON Not at all, I think he has got what happened once to Thucydides
+in court; his jaws suddenly set fast. Get away! I will undertake your
+defence.-Gentlemen of the jury, it is a difficult thing to speak for
+a dog who has been calumniated, but nevertheless I will try. He is
+a good dog, and he chases wolves finely. 
+
+PHILOCLEON He is a thief and a conspirator. 
+
+BDELYCLEON No, he is the best of all our dogs; he is capable of guarding
+a whole flock. 
+
+PHILOCLEON And what good is that, if he eats the cheese?
+
+BDELYCLEON What? he fights for you, he guards your door; he is an
+excellent dog in every respect. Forgive him his larceny! he is wretchedly
+ignorant, he cannot play the lyre. 
+
+PHILOCLEON I wish he did not know how to write either; then the rascal
+would not have drawn up his pleadings. 
+
+BDELYCLEON Witnesses, I pray you, listen. Come forward, grating-knife,
+and speak up; answer me clearly. You were paymaster at the time. Did
+you grate out to the soldiers what was given you?-He says he did so.
+
+PHILOCLEON But, by Zeus! he lies. 
+
+BDELYCLEON Oh! have patience. Take pity on the unfortunate. Labes
+feeds only on fish-bones and fishes' heads and has not an instant
+of peace. The other is good only to guard the house; he never moves
+from here, but demands his share of all that is brought in and bites
+those who refuse. 
+
+PHILOCLEON  (aside) Oh! Heaven! have I fallen ill? I feel my anger
+cooling! Woe to me! I am softening! 
+
+BDELYCLEON Have pity, father, pity, I adjure you; you would not have
+him dead. Where are his puppies?  (A group of children costumed as
+puppies comes out.)  Come, poor little beasties, yap, up on your haunches,
+beg and whine! 
+
+PHILOCLEON Descend, descend, descend, descend! 
+
+BDELYCLEON I will descend, although that word, "descend," has too
+often raised false hope. None the less, I will descend. 
+
+PHILOCLEON Plague seize it! Have I then done wrong to eat! What!
+I, crying! Ah! I certainly should not be weeping, if I were not stuffed
+with lentils. 
+
+BDELYCLEON Then he is acquitted? 
+
+PHILOCLEON It is difficult to tell. 
+
+BDELYCLEON Ah! my dear father, be good! be humane! Take this voting
+pebble and rush with your eyes closed to that second urn and, father,
+acquit him. 
+
+PHILOCLEON No, I know no more how to acquit than to play the lyre.
+
+BDELYCLEON Come quickly, I will show you the way.  (He takes his
+father by the hand and leads him to the second urn.)  
+
+PHILOCLEON Is this the first urn? 
+
+BDELYCLEON Yes. 
+
+PHILOCLEON  (dropping in his vote) Then I have voted. 
+
+BDELYCLEON  (aside) I have fooled him and he has acquitted in spite
+of himself.  (To PHILOCLEON)  Come, I will turn out the urns.
+
+PHILOCLEON What is the result? 
+
+BDELYCLEON We shall see.  (He examines both urns.)  Labes, you stand
+acquitted.  (PHILOCLEON faints)  Eh! father, what's the matter, what
+is it? (To slaves) Water! water!  (To PHILOCLEON)  Pull yourself together,
+sir! 
+
+PHILOCLEON  (weakly) Tell me! Is he really acquitted? 
+
+BDELYCLEON Yes, certainly. 
+
+PHILOCLEON  (falling back) Then it's all over with me! 
+
+BDELYCLEON Courage, dear father, don't let this afflict you so terribly.
+
+PHILOCLEON  (dolefully) And so I have charged my conscience with
+the acquittal of an accused being! What will become of me? Sacred
+gods! forgive me. I did it despite myself; it is not in my character.
+
+BDELYCLEON Do not vex yourself, father; I will feed you well, will
+take you everywhere to eat and drink with me; you shall go to every
+feast; henceforth your life shall be nothing but pleasure, and Hyperbolus
+shall no longer have you for a tool. But come, let us go in.
+
+PHILOCLEON  (resignedly) So be it; if you will, let us go in.  (They
+all go into the house.)  
+
+LEADER OF THE CHORUS Go where it pleases you and may your happiness
+be great.  (The CHORUS turns and faces the audience.)  You meanwhile,
+oh! countless myriads, listen to the sound counsels I am going to
+give you and take care they are not lost upon you. That would be the
+fate of vulgar spectators, not that of such an audience. Hence, people,
+lend me your ear, if you love frank speaking. 
+
+The poet has a reproach to make against his audience; he says you
+have ill-treated him in return for the many services he has rendered
+you. At first he kept himself in the background and lent help secretly
+to other poets, and like the prophetic Genius, who hid himself in
+the belly of Eurycles, slipped within the spirit of another and whispered
+to him many a comic hit. Later he ran the risks of the theatre on
+his own account, with his face uncovered, and dared to guide his Muse
+unaided. Though overladen with success and honours more than any of
+your poets, indeed despite all his glory, he does not yet believe
+he has attained his goal; his heart is not swollen with pride and
+he does not seek to seduce the young folk in the wrestling school.
+If any lover runs up to him to complain because he is furious at seeing
+the object of his passion derided on the stage, he takes no heed of
+such reproaches, for he is inspired only with honest motives and his
+Muse is no pander. From the very outset of his dramatic career he
+has disdained to assail those who were men, but with a courage worthy
+of Heracles himself he attacked the most formidable monsters, and
+at the beginning went straight for that beast with the sharp teeth,
+with the terrible eyes that flashed lambent fire like those of Cynna,
+surrounded by a hundred lewd flatterers who spittle-licked him to
+his heart's content; he had a voice like a roaring torrent, the stench
+of a seal, the unwashed balls of a Lamia, and the arse of a camel.
+Our poet did not tremble at the sight of this horrible monster, nor
+did he dream of gaining him over; and again this very day he is fighting
+for your good. Last year besides, he attacked those pale, shivering
+and feverish beings who strangled your fathers in the dark, throttled
+your grandfathers, and who, lying in the beds of the most inoffensive,
+piled up against them lawsuits, summonses and witnesses to such an
+extent, that many of them flew in terror to the Polemarch for refuge.
+Such is the champion you have found to purify your country of all
+its evil, and last year you betrayed him, when he sowed the most novel
+ideas, which, however, did not strike root, because you did not understand
+their value; notwithstanding this, he swears by Bacchus, the while
+offering him libations, that none ever heard better comic verses.
+It is a disgrace to you not to have caught their drift at once; as
+for the poet, he is none the less appreciated by the enlightened judges.
+He shivered his oars in rushing boldly forward to board his foe.
+(With increasing excitement)  But in future, my dear fellow-citizens,
+love and honour more those of your poets who seek to imagine and express
+some new thought. Make their ideas your own, keep them in your caskets
+like sweet-scented fruit. If you do, your clothing will emit an odour
+of wisdom the whole year through. 
+
+FIRST SEMI-CHORUS  (singing) Ah, once long ago we were brave in the
+dance, brave too in battle, and on this account alone the most courageous
+of men! That was formerly, was formerly; all that is gone now and
+these hairs of ours are whiter than the swan. But from what is left
+we must rekindle a youthful ardour; really we prefer our old age to
+the curly hair and the fine clothes and the effeminacy of many of
+the young. 
+
+LEADER OF THE FIRST SEMI-CHORUS Should any among you spectators look
+upon me with wonder, because of this wasp waist, or not know the meaning
+of this sting, I will soon dispel his ignorance. We, who wear this
+appendage, are the true Attic men, who alone are noble and native
+to the soil, the bravest of all people. We are the ones who, weapon
+in hand, did so much for the country, when the barbarian shed torrents
+of fire and smoke over our city in his relentless desire to seize
+our nests by force. At once we ran up, armed with lance and buckler,
+and, drunk with the bitter wine of anger, we gave them battle, man
+standing to man and rage distorting our lips. A hail of arrows hid
+the sky. However, by the help of the gods, we drove off the foe to,
+wards evening. Before the battle an owl had flown over our army. Then
+we pursued them with our lance-point in their loins as one hunts the
+tunny-fish; they fled and we stung them in the jaw and in the eyes,
+so that even now the barbarians tell each other that there is nothing
+in the world more to be feared than the Attic wasp. 
+
+SECOND SEMI-CHORUS  (singing) Oh! at that time I was terrible, I
+feared nothing; forth on my galleys I went in search of my foe and
+subjected him. Then we never thought of rounding fine phrases, we
+never dreamt of calumny; it was who should prove the strongest rower.
+And thus we took many a town from the Medes, and 'tis to us that Athens
+owes the tributes that our young men thieve to-day. 
+
+LEADER OF THE SECOND SEMI-CHORUS Look well at us, and you will see
+that we have all the character and habits of the wasp. Firstly, if
+roused, no beings are more irascible, more relentless than we are.
+In all other things, too, we act like wasps. We collect in swarms,
+in a kind of nests, and some go judging with the Archon, some with
+the Eleven, others at the Odeon; there are yet others, who hardly
+move at all, like the grubs in the cells, but remain glued to the
+walls, and bent double to the ground. We also pay full attention to
+the discovery of all sorts of means of existing and sting the first
+who comes, so as to live at his expense. Finally, we have among us
+drones, who have no sting and who, without giving themselves the least
+trouble, seize on our revenues as they flow past them and devour them.
+It's this that grieves us most of all, to see men who have never served
+or held either lance or oar in defence of their country, enriching
+themselves at our expense without ever raising a blister on their
+hands. In short, I give it as my deliberate opinion that in future
+every citizen not possessed of a sting shall not receive the triobolus.
+(PRILOCLEON comes out of the house, followed by his son and a slave.
+The CHORUS turns to face them.)  
+
+PHILOCLEON As long as I live, I will never give up this cloak; it's
+the one I wore in that battle when Boreas delivered us from such fierce
+attacks. 
+
+BDELYCLEON You do not know what is good for you. 
+
+PHILOCLEON Ah! I do not know how to use fine clothing! The other
+day, when cramming myself with fried fish, I dropped so many grease
+spots that I had to pay three obols to the cleaner. 
+
+BDELYCLEON At least have a try, since you have once for all handed
+the care for your well-being over to me. 
+
+PHILOCLEON Very well then! what must I do? 
+
+BDELYCLEON Take off your cloak, and put on this tunic in its stead.
+
+PHILOCLEON Was it worth while to beget and bring up children, so
+that this one should now wish to choke me? 
+
+BDELYCLEON Come, take this tunic and put it on without so much talk.
+
+PHILOCLEON Great gods! what sort of a cursed garment is this?
+
+BDELYCLEON Some call it a pelisse, others a Persian cloak.
+
+PHILOCLEON Ah! I thought it was a wraprascal like those made at Thymaetis.
+
+BDELYCLEON No wonder. It's only at Sardis you could have seen them,
+and you have never been there. 
+
+PHILOCLEON Of course not, but it seems to me exactly like the mantle
+Morychus sports. 
+
+BDELYCLEON Not at all; I tell you they are woven at Ecbatana.
+
+PHILOCLEON What! are there woollen ox-guts then at Ecbatana?
+
+BDELYCLEON Whatever are you talking about? These are woven by the
+barbarians at great cost. I am certain this pelisse has consumed more
+than a talent of wool. 
+
+PHILOCLEON It should be called wool-waster then instead of pelisse.
+
+BDELYCLEON Come, father, just hold still for a moment and put it
+on. 
+
+PHILOCLEON Oh! horrors! what a waft of heat the hussy sends up my
+nose! 
+
+BDELYCLEON Will you have done with this fooling? 
+
+PHILOCLEON No by Zeus. 
+
+BDELYCLEON But good sir.... 
+
+PHILOCLEON If need be, I prefer you should put me in the oven.
+
+BDELYCLEON Come, I will put it round you. There! 
+
+PHILOCLEON At all events, bring out a crook. 
+
+BDELYCLEON Why, whatever for? 
+
+PHILOCLEON To drag me out of it before I am quite melted.
+
+BDELYCLEON Now take off those wretched clogs and put on these nice
+Laconian slippers. 
+
+PHILOCLEON I put on odious slippers made by our foes! Never
+
+BDELYCLEON Come! put your foot in and push hard. Quick!
+
+PHILOCLEON You're doing wrong here. You want me to put my foot on
+Laconian ground. 
+
+BDELYCLEON Now the other. 
+
+PHILOCLEON Ah! no, not that foot; one of its toes holds the Laconians
+in horror 
+
+BDELYCLEON Positively you must. 
+
+PHILOCLEON Alas! alas! Then I shall have no chilblains in my old
+age. 
+
+BDELYCLEON Now, hurry up and get them on; and now imitate the easy
+effeminate gait of the rich. See, like this.  (He takes a few steps.)
+
+PHILOCLEON  (trying to do likewise) There!.... Look at my get-up
+and tell me which rich man I most resemble in my walk. 
+
+BDELYCLEON Why, you look like a garlic plaster on a boil.
+
+PHILOCLEON Ah! I am longing to swagger and sway my arse about.
+
+BDELYCLEON Now, will you know how to talk gravely with well-informed
+men of good class? 
+
+PHILOCLEON Undoubtedly. 
+
+BDELYCLEON What will you say to them? 
+
+PHILOCLEON Oh, lots of things. First of all I shall say, that Lamia,
+seeing herself caught, let flee a fart; then, that Cardopion and his
+mother.... 
+
+BDELYCLEON Come, no fabulous tales, pray! talk of realities, of domestic
+facts, as is usually done. 
+
+PHILOCLEON Ah! I know something that is indeed most domestic. Once
+upon a time there was a rat and a cat.... 
+
+BDELYCLEON "Oh, you ignorant fool," as Theagenes said to the dung-gatherer
+in a rage. Are you going to talk of cats and rats among high-class
+people? 
+
+PHILOCLEON Then what should I talk about? 
+
+BDELYCLEON Tell some dignified story. Relate how you were sent on
+a solemn mission with Androcles and Clisthenes. 
+
+PHILOCLEON On a mission! never in my life, except once to Paros,
+a job which brought me in two obols a day. 
+
+BDELYCLEON At least say, that you have just seen Ephudion doing well
+in the pancratium with Ascondas and, that despite his age and his
+white hair, he is still robust in loin and arm and flank and that
+his chest is a very breast-plate. 
+
+PHILOCLEON Stop! stop! what nonsense! Who ever contested at the pancratium
+with a breast-plate on? 
+
+BDELYCLEON That is how well-behaved folk like to talk. But another
+thing. When at wine, it would be fitting to relate some good story
+of your youthful days. What is your most brilliant feat?
+
+PHILOCLEON My best feat? Ah! when I stole Ergasion's vine-props.
+
+BDELYCLEON You and your vine-props! you'll be the death of me! Tell
+of one of your boar-hunts or of when you coursed the hare. Talk about
+some torch-race you were in; tell of some deed of daring.
+
+PHILOCLEON Ah! my most daring dee, was when, quite a young man still,
+I prosecuted Phayllus, the runner, for defamation, and he was condemded
+by majority of two votes. 
+
+BDELYCLEON Enough of that! Now recline there, and practise the bearing
+that is fitting at table in society. 
+
+PHILOCLEON How must I recline? Tell me quick! 
+
+BDELYCLEON In an elegant style. 
+
+PHILOCLEON  (lying on the ground) Like this? 
+
+BDELYCLEON Not at all. 
+
+PHILOCLEON How then? 
+
+BDELYCLEON Spread your knees on the tapestries and give your body
+the most easy curves, like those taught in the gymnasium. Then praise
+some bronze vase, survey the ceiling, admire the awning stretched
+over the court. Water is poured over our hands; the tables are spread;
+we sup and, after ablution, we now offer libations to the gods.
+
+PHILOCLEON But, by Zeus! this supper is but a dream, it appears!
+
+BDELYCLEON The flute-player has finished the prelude. The guests
+are Theorus, Aeschines, Phanus, Cleon, Acestor; and beside this last,
+I don't know who else. You are with them. Shall you know exactly how
+to take up the songs that are started? 
+
+PHILOCLEON Quite well. 
+
+BDELYCLEON Really? 
+
+PHILOCLEON Better than any born mountaineer of Attica. 
+
+BDELYCLEON That we shall see. Suppose me to be Cleon. I am the first
+to begin the song of Harmodius, and you take it up: "There never yet
+was seen in Athens.... 
+
+PHILOCLEON ....such a rogue or such a thief." 
+
+BDELYCLEON Why, you wretched man, it will be the end of you if you
+sing that. He will vow your ruin, your destruction, to chase you out
+of the country. 
+
+PHILOCLEON Well! then I shall answer his threats with another song:
+"With your madness for supreme power, you will end by overthrowing
+the city, which even now totters towards ruin." 
+
+BDELYCLEON And when Theorus, prone at Cleon's feet, takes his hand
+and sings, "Like Admetus, love those who are brave," what reply will
+you make him? 
+
+PHILOCLEON I shall sing, "I know not how to play the fox, nor call
+myself the friend of both parties." 
+
+BDELYCLEON Then comes the turn of Aeschines, the son of Sellus, and
+a well-trained and clever musician, who will sing, "Good things and
+riches for Clitagora and me and eke for the Thessalians!"
+
+PHILOCLEON "The two of us have squandered a great deal between us."
+
+BDELYCLEON At this game you seem at home. But come, we will go and
+dine with Philoctemon.-Slave! slave! place our dinner in a basket;
+we are going out for a good long drinking bout. 
+
+PHILOCLEON By no means, it is too dangerous; for after drinking,
+one breaks in doors, one comes to blows, one batters everything. Anon,
+when the wine is slept off, one is forced to pay. 
+
+ELYCLEON Not if you are with decent people. Either they undertake
+to appease the offended person or, better still, you say something
+witty, you tell some comic story, perhaps one of those you have yourself
+heard at table, either in Aesop's style or in that of Sybaris; everyone
+laughs and the trouble is ended. 
+
+PHILOCLEON Faith! it's worth while learning many stories then, if
+you are thus not punished for the ill you do. But come, no more delay!
+(They go out.)  
+
+CHORUS  (singing) More than once have I given proof of cunning and
+never of stupidity, but how much more clever is Amynias, the son of
+Sellus and of the race of forelock-wearers; him we saw one day coming
+to dine with Leogaras, bringing as his share one apple and a pomegranate,
+and bear in mind he was as hungry as Antiphon. He went on an embassy
+to Pharsalus, and there he lived solely among the Thessalian mercenaries;
+indeed, is he not the vilest of mercenaries himself? 
+
+LEADER OF THE CHORUS Oh! blessed, oh! fortunate Automenes, how enviable
+is your fortune! You have three sons, the most industrious in the
+world; one is the friend of all, a very able man, the first among
+the lyre-players, the favourite of the Graces. The second is an actor,
+and his talent is beyond all praise. As for Ariphrades, he is by far
+the most gifted; his father would swear to me, that without any master
+whatever and solely through the spontaneous effort of his happy nature,
+he taught himself to exercise his tongue in the whorehouses, where
+he spends the whole of his time. 
+
+Some have said that I and Cleon were reconciled. This is the truth
+of the matter: Cleon was harassing me, persecuting and belabouring
+me in every way; and, when I was being fleeced, the public laughed
+at seeing me uttering such loud cries; not that they cared about me,
+but simply curious to know whether, when trodden down by my enemy,
+I would not hurl at him some taunt. Noticing this, I have played the
+wheedler a bit; but now, look! the prop is deceiving the vine!  (XANTHIAS
+enters, weeping and wailing and rubbing his sides.)  
+
+XANTHIAS Oh! tortoises! happy to have so hard a skin! Oh! creatures
+full of sense! what a happy thought to cover your bodies with this
+shell, which shields it from blows! As for me, I can no longer move;
+the stick has so belaboured my body. 
+
+LEADER OF THE CHORUS Why, what's the matter, my child? for, old as
+he may be, one has the right to call anyone a child who has let himself
+be beaten. 
+
+XANTHIAS Alas! my master is really the worst of all plagues. He was
+the most drunk of all the guests, and yet among them were Hippyllus,
+Antiphon, Lycon, Lysistratus, Theophrastus and Phrynichus. But he
+was hundred times more insolent than any. As soon as he had stuffed
+himself with a host of good dishes, he began to leap and spring, to
+laugh and to fart like a little ass well stuffed with barley. Then
+he set to beating me with all his heart, shouting, "Slave! slave!"
+Lysistratus, as soon as he saw him, let fly this comparison at him.
+"Old fellow," said he, "you resemble one of the scum assuming the
+airs of a rich man or a stupid ass that has broken loose from its
+stable." "As for you," bawled the other at the top of his voice, "you
+are like a grasshopper, whose cloak is worn to the thread, or like
+Sthenelus after his clothes had been sold." All applauded excepting
+Theophrastus, who made a grimace as behoved a well-bred man like him.
+The old man called to him, "Hi! tell me then what you have to be proud
+of? Not so much mouthing, you, who so well know how to play the buffoon
+and to lick-spittle the rich!" In this way he insulted each in turn
+with the grossest of jests, and he reeled off a thousand of the most
+absurd and ridiculous speeches. At last, when he was thoroughly drunk,
+he started towards here, striking everyone he met. Wait, here he comes
+reeling along. I will be off for fear of his blows.  (PHILOCLEON enters,
+inebriated and hilarious, carrying a torch; his other hand is occupied
+with a wholly nude flute-girl; he is followed by a group of angry
+victims of his exuberance.)  
+
+PHILOCLEON  (singing) Halt! and let everyone begone, or I shall do
+an evil turn to some of those who insist on following me. Clear off,
+rascals, or I shall roast you with this torch! 
+
+GUEST We shall all make you smart to-morrow for your youthful pranks.
+We shall come in a body to summon you to justice. 
+
+PHILOCLEON  (singing) Ho! ho! summon me? what old women's babble!
+Know that I can no longer bear to hear even the name of suits. Ha!
+ha! ha! this is what pleases me, "Down with the urns!" Get out of
+here! Down with the dicasts! away with them, away with them!  (Dropping
+into speech; to the flute-girl)  Mount up there, my little gilded
+cock-chafer; take hold of this rope's end in your hand. Hold it tight,
+but have a care; the rope's a bit old and worn. But even though it's
+worn, it still has its virtues. Do you see how opportunely I got you
+away from the solicitations of those fellators, who wanted you to
+make love to them in their own odd way? You therefore owe me this
+return to gratify me. But will you pay the debt? Oh! I know well you
+will not even try; you will play with me, you will laugh heartily
+at me as you have done at many another man. And yet, if you would
+not be a naughty girl, I would redeem you, when my son is dead, and
+you should be my concubine, my little one. At present I am not my
+own master; I am very young and am watched very closely. My dear son
+never lets me out of his sight; he's an unbearable creature, who would
+quarter a thread and skin a flint; he is afraid I should get lost,
+for I am his only father. But here he comes running towards us. But
+be quick, don't stir, hold these torches. I am going to play him a
+young man's trick, the same as he played me before I was initiated
+into the mysteries. 
+
+BDELYCLEON Oh! oh! you debauched old dotard! you are amorous, it
+seems, of pretty baggages; but, by Apollo, it shall not be with impunity!
+
+PHILOCLEON Ah! you would be very glad to eat a lawsuit in vinegar,
+you would. 
+
+BDELYCLEON Only a rascal would steal the flute-girl away from the
+other guests. 
+
+PHILOCLEON What flute-girl? Are you distraught, as if you had just
+returned from Pluto? 
+
+BDELYCLEON By Zeus! But here is the Dardanian wench in person.
+
+PHILOCLEON Nonsense. This is a torch that I have lit in the public
+square in honour of the gods. 
+
+BDELYCLEON Is this a torch? 
+
+PHILOCLEON A torch? Certainly. Do you not see it is of several different
+colours? 
+
+DELYCLEON And what is that black part in the middle? 
+
+PHILOCLEON That's the pitch running out while it burns.
+
+BDELYCLEON And there, on the other side, surely that is a girl's
+bottom? 
+
+PHILOCLEON No. That's just a small bit of the torch, that projects.
+
+BDELYCLEON What do you mean? what bit? Hi! you woman! come here!
+
+PHILOCLEON Oh! What do you want to do? 
+
+BDELYCLEON To take her away from you and lead her off. You are too
+much worn out and can do nothing.  (He takes the girl into the house.)
+
+PHILOCLEON Listen to me! One day, at Olympia, I saw Euphudion boxing
+bravely against Ascondas; he was already aged, and yet with a blow
+from his fist he knocked down his young opponent. So watch out that
+I don't blacken your eves. 
+
+BDELYCLEON  (who has returned) By Zeus! you have Olympia at your
+finger-ends!  (A BAKER'S WIFE enters with an empty basket; she brings
+CHAEREPHON with her as witness.)  
+
+BAKER'S WIFE  (to CHAEREPHON) Come to my help, I beg you, in the
+name of the gods! This cursed man, when striking out right and left
+with his torch, knocked over ten loaves worth an obolus apiece, and
+then, to cap the deal, four others. 
+
+BDELYCLEON Do you see what lawsuits you are drawing upon yourself
+with your drunkenness? You will have to plead. 
+
+PHILOCLEON Oh, no, no! a little pretty talk and pleasant tales will
+soon settle the matter and reconcile her with me. Not so, by the goddesses
+twain! It shall not be said that you have with impunity spoilt the
+wares of Myrtia, the daughter of Ancylion and Sostrate. 
+
+PHILOCLEON Listen, woman, I wish to tell you a lovely anecdote.
+
+BAKER'S WIFE By Zeus, no anecdotes for me, thank you. 
+
+PHILOCLEON One night Aesop was going out to supper. A drunken bitch
+had the impudence to bark near him. Aesop said to her, "Oh, bitch,
+bitch! you would do well to sell your wicked tongue and buy some wheat."
+
+BAKER'S WIFE You make a mock of me! Very well! I don't care who you
+are, I shall summons you before the market inspectors for damage done
+to my business. Chaerephon here shall be my witness. 
+
+PHILOCLEON But just listen, here's another will perhaps please you
+better. Lasus and Simonides were contesting against each other for
+the singing prize. Lasus said, "Damned if I care." 
+
+BAKER'S WIFE Ah! really, did he now! 
+
+PHILOCLEON As for you, Chaerephon, can you be witness to this woman,
+who looks as pale and tragic as Ino when she throws herself from her
+rock...at the feet of Euripides?  (The BAKER'S WIFE and CHAEREPHON
+depart.)  
+
+BDELYCLEON Here, I suppose, comes another to summons you; he has
+his witness too. Ah! unhappy indeed we are!  (A badly bruised man
+enters.)  
+
+ACCUSER I summons you, old man, for outrage. 
+
+BDELYCLEON For outrage? Oh! in the name of the gods, do not summons
+him! I will be answerable for him; name the price and I will be more
+more grateful still. 
+
+PHILOCLEON I ask for nothing better than to be reconciled with him;
+for I admit I struck him and threw stones at him. So, first come here.
+Will you leave it in my hands to name the indemnity I must pay, if
+I promise you my friendship as well, or will you fix it yourself?
+
+ACCUSER Fix it; I like neither lawsuits nor disputes. 
+
+PHILOCLEON A man of Sybaris fell from his chariot and wounded his
+head most severely; he was a very poor driver. One of his friends
+came up to him and said, "Every man to his trade." Well then, go you
+to Pittalus to get mended. 
+
+BDELYCLEON You are incorrigible. 
+
+ACCUSER  (to his witness) At all events, make a note of his reply.
+(They start to leave.)  
+
+PHILOCLEON Listen, instead of going off so abruptly. A woman at Sybaris
+broke a box. 
+
+ACCUSER  (to his witness) I again ask you to witness this.
+
+PHILOCLEON The box therefore had the fact attested, but the woman
+said, "Never worry about witnessing the matter, but hurry off to buy
+a cord to tie it together with; that will be the more sensible course."
+
+ACCUSER Oh! go on with your ribaldry until the Archon calls the case.
+(He and his witness depart.)  
+
+BDELYCLEON  (to PHILOCLEON) By Demeter! you'll stay here no longer!
+I am going to take you and carry you off. 
+
+PHILOCLEON And what for? 
+
+BDELYCLEON What for? I am going to carry you into the house, so that
+the accusers will not run out of witnesses. 
+
+PHILOCLEON One day at Delphi, Aesop.... 
+
+BDELYCLEON I don't care a fig for that. 
+
+PHILOCLEON ....was accused of having stolen a sacred vase. But he
+replied, that the horn-beetle.... 
+
+BDELYCLEON Oh, dear, dear! You'll drive me crazy with your horn-beetle.
+(PHILOCLEON goes on with his fable while BDELYCLEON is carrying him
+off the scene by main force.)  
+
+CHORUS  (singing) I envy you your happiness, old man. What a contrast
+to his former frugal habits and his very hard life! Taught now in
+quite another school, he will know nothing but the pleasures of ease.
+Perhaps he will jibe at it, for indeed it is difficult to renounce
+what has become one's second nature. However, many have done it, and
+adopting the ideas of others, have changed their use and wont. As
+for Philocleon's son, I, like all wise and judicious men, cannot sufficiently
+praise his filial tenderness and his tact. Never have I met a more
+amiable nature, and I have conceived the greatest fondness for him.
+How he triumphed on every point in his discussion with his father,
+when he wanted to bring him back to more worthy and honourable tastes!
+
+XANTHIAS  (coming out of the house) By Bacchus! Some Evil Genius
+has brought this unbearable disorder into our house. The old man,
+full up with wine and excited by the sound of the flute, is so delighted,
+so enraptured, that he is spending the night executing the old dances
+that Thespis first produced on the stage, and just now he offered
+to prove to the modern tragedians, by disputing with them for the
+dancing prize, that they are nothing but a lot of old dotards.  (BDELYCLEON
+comes out of the house with his father who is costumed as POLYPHEMUS
+in Euripides' Cyclops.)  
+
+PHILOCLEON "Who loiters at the door of the vestibule?" 
+
+XANTHIAS Here comes our pest, our plague! 
+
+PHILOCLEON Let down the barriers. The dance is now to begin.  (He
+begins to dance in a manner grotesquely parodying that of Euripides.)
+
+XANTHIAS Or rather the madness. 
+
+PHILOCLEON Impetuous movement already twists and racks my sides.
+How my nostrils wheeze! how my back cracks! 
+
+XANTHIAS Go and fill yourself with hellebore. 
+
+PHILOCLEON Phrynichus is as bold as a cock and terrifies his rivals.
+
+XANTHIAS He'll be stoned. 
+
+PHILOCLEON His leg kicks out sky-high.... 
+
+XANTHIAS ....and his arse gapes open. 
+
+PHILOCLEON Mind your own business. Look how easily my leg-joints
+move. Isn't that good? 
+
+XANTHIAS God, no, it's merely insane! 
+
+PHILOCLEON And now I summon and challenge my rivals. It there be
+a tragic poet who pretends to be a skilful dancer, let him come and
+contest the matter with me. Is there one? Is there not one?
+
+XANTHIAS Here comes one, and one only.  (A very small dancer, costumed
+as a crab, enters.)  
+
+PHILOCLEON Who is the wretch? 
+
+XANTHIAS The younger son of Carcinus. 
+
+PHILOCLEON I will crush him to nothing; in point of keeping time,
+I will knock him out, for he knows nothing of rhythm. 
+
+XANTHIAS Ah! ah! here comes his brother too, another tragedian, and
+another son of Carcinus.  (Another dancer, hardly larger than the
+first, and similarly costumed, enters.)  
+
+PHILOCLEON Him I will devour for my dinner. 
+
+XANTHIAS Oh! ye gods! I see nothing but crabs. Here is yet another
+son of Carcinus.  (A third dancer enters, likewise resembling a crab,
+but smaller than either of the others.)  
+
+PHILOCLEON What's this? A shrimp or a spider? 
+
+XANTHIAS It's a crab,-a hermit-crab, the smallest of its kind; it
+writes tragedies. 
+
+PHILOCLEON Oh! Carcinus, how proud you should be of your brood! What
+a crowd of kinglets have come swooping down here! But we shall have
+to measure ourselves against them. Have marinade prepared for seasoning
+them, in case I prove the victor. 
+
+LEADER OF THE CHORUS Let us stand out of the way a little, so that
+they may twirl at their ease. 
+
+CHORUS (It divides in two and accompanies with its song the wild
+dancing of PHILOCLEON and the sons of CARCINUS in the centre of the
+Orchestra.)  Come, illustrious children of this inhabitant of the
+brine, brothers of the shrimps, skip on the sand and the shore of
+the barren sea; show us the lightning whirls and twirls of your nimble
+limbs. Glorious offspring of Phrynichus, let fly your kicks, so that
+the spectators may be overjoyed at seeing your legs so high in air.
+Twist, twirl, tap your bellies, kick your legs to the sky. Here comes
+your famous father, the ruler of the sea, delighted to see his three
+lecherous kinglets. Go on with your dancing, if it pleases you, but
+as for us, we shall not join you. Lead us promptly off the stage,
+for never a comedy yet was seen where the Chorus finished off with
+a dance. 
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.
+</pre></body></html>

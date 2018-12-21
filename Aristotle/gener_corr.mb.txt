@@ -1,0 +1,2551 @@
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Aristotle/gener_corr.html
+
+On Generation and Corruption
+By Aristotle
+
+
+Translated by H. H. Joachim
+
+----------------------------------------------------------------------
+
+BOOK I
+
+Part 1 
+
+Our next task is to study coming-to-be and passing-away. We are to
+distinguish the causes, and to state the definitions, of these processes
+considered in general-as changes predicable uniformly of all the things
+that come-to-be and pass-away by nature. Further, we are to study
+growth and 'alteration'. We must inquire what each of them is; and
+whether 'alteration' is to be identified with coming-to-be, or whether
+to these different names there correspond two separate processes with
+distinct natures. 
+
+On this question, indeed, the early philosophers are divided. Some
+of them assert that the so-called 'unqualified coming-to-be' is 'alteration',
+while others maintain that 'alteration' and coming-to-be are distinct.
+For those who say that the universe is one something (i.e. those who
+generate all things out of one thing) are bound to assert that coming-to-be
+is 'alteration', and that whatever 'comes-to-be' in the proper sense
+of the term is 'being altered': but those who make the matter of things
+more than one must distinguish coming-to-be from 'alteration'. To
+this latter class belong Empedocles, Anaxagoras, and Leucippus. And
+yet Anaxagoras himself failed to understand his own utterance. He
+says, at all events, that coming-to-be and passing-away are the same
+as 'being altered':' yet, in common with other thinkers, he affirms
+that the elements are many. Thus Empedocles holds that the corporeal
+elements are four, while all the elements-including those which initiate
+movement-are six in number; whereas Anaxagoras agrees with Leucippus
+and Democritus that the elements are infinite. 
+
+(Anaxagoras posits as elements the 'homoeomeries', viz. bone, flesh,
+marrow, and everything else which is such that part and whole are
+the same in name and nature; while Democritus and Leucippus say that
+there are indivisible bodies, infinite both in number and in the varieties
+of their shapes, of which everything else is composed-the compounds
+differing one from another according to the shapes, 'positions', and
+'groupings' of their constituents.) 
+
+For the views of the school of Anaxagoras seem diametrically opposed
+to those of the followers of Empedocles. Empedocles says that Fire,
+Water, Air, and Earth are four elements, and are thus 'simple' rather
+than flesh, bone, and bodies which, like these, are 'homoeomeries'.
+But the followers of Anaxagoras regard the 'homoeomeries' as 'simple'
+and elements, whilst they affirm that Earth, Fire, Water, and Air
+are composite; for each of these is (according to them) a 'common
+seminary' of all the 'homoeomeries'. 
+
+Those, then, who construct all things out of a single element, must
+maintain that coming-tobe and passing-away are 'alteration'. For they
+must affirm that the underlying something always remains identical
+and one; and change of such a substratum is what we call 'altering'
+Those, on the other hand, who make the ultimate kinds of things more
+than one, must maintain that 'alteration' is distinct from coming-to-be:
+for coming-to-be and passingaway result from the consilience and the
+dissolution of the many kinds. That is why Empedocles too uses language
+to this effect, when he says 'There is no coming-to-be of anything,
+but only a mingling and a divorce of what has been mingled'. Thus
+it is clear (i) that to describe coming-to-be and passing-away in
+these terms is in accordance with their fundamental assumption, and
+(ii) that they do in fact so describe them: nevertheless, they too
+must recognize 'alteration' as a fact distinct from coming to-be,
+though it is impossible for them to do so consistently with what they
+say. 
+
+That we are right in this criticism is easy to perceive. For 'alteration'
+is a fact of observation. While the substance of the thing remains
+unchanged, we see it 'altering' just as we see in it the changes of
+magnitude called 'growth' and 'diminution'. Nevertheless, the statements
+of those who posit more 'original reals' than one make 'alteration'
+impossible. For 'alteration, as we assert, takes place in respect
+to certain qualities: and these qualities (I mean, e.g. hot-cold,
+white-black, dry-moist, soft-hard, and so forth) are, all of them,
+differences characterizing the 'elements'. The actual words of Empedocles
+may be quoted in illustration- 
+
+The sun everywhere bright to see, and hot, 
+The rain everywhere dark and cold; and he distinctively characterizes
+his remaining elements in a similar manner. Since, therefore, it is
+not possible for Fire to become Water, or Water to become Earth, neither
+will it be possible for anything white to become black, or anything
+soft to become hard; and the same argument applies to all the other
+qualities. Yet this is what 'alteration' essentially is.
+
+It follows, as an obvious corollary, that a single matter must always
+be assumed as underlying the contrary 'poles' of any change whether
+change of place, or growth and diminution, or 'alteration'; further,
+that the being of this matter and the being of 'alteration' stand
+and fall together. For if the change is 'alteration', then the substratum
+is a single element; i.e. all things which admit of change into one
+another have a single matter. And, conversely, if the substratum of
+the changing things is one, there is 'alteration'. 
+
+Empedocles, indeed, seems to contradict his own statements as well
+as the observed facts. For he denies that any one of his elements
+comes-to-be out of any other, insisting on the contrary that they
+are the things out of which everything else comes-to-be; and yet (having
+brought the entirety of existing things, except Strife, together into
+one) he maintains, simultaneously with this denial, that each thing
+once more comes-to-be out of the One. Hence it was clearly out of
+a One that this came-to-be Water, and that Fire, various portions
+of it being separated off by certain characteristic differences or
+qualities-as indeed he calls the sun 'white and hot', and the earth
+'heavy and hard'. If, therefore, these characteristic differences
+be taken away (for they can be taken away, since they came-to-be),
+it will clearly be inevitable for Earth to come to-be out of Water
+and Water out of Earth, and for each of the other elements to undergo
+a similar transformation-not only then, but also now-if, and because,
+they change their qualities. And, to judge by what he says, the qualities
+are such that they can be 'attached' to things and can again be 'separated'
+from them, especially since Strife and Love are still fighting with
+one another for the mastery. It was owing to this same conflict that
+the elements were generated from a One at the former period. I say
+'generated', for presumably Fire, Earth, and Water had no distinctive
+existence at all while merged in one. 
+
+There is another obscurity in the theory Empedocles. Are we to regard
+the One as his 'original real'? Or is it the Many-i.e. Fire and Earth,
+and the bodies co-ordinate with these? For the One is an 'element'
+in so far as it underlies the process as matter-as that out of which
+Earth and Fire come-to-be through a change of qualities due to 'the
+motion'. On the other hand, in so far as the One results from composition
+(by a consilience of the Many), whereas they result from disintegration
+the Many are more 'elementary' than the One, and prior to it in their
+nature. 
+
+Part 2
+
+We have therefore to discuss the whole subject of 'unqualified' coming-to-be
+and passingaway; we have to inquire whether these changes do or do
+not occur and, if they occur, to explain the precise conditions of
+their occurrence. We must also discuss the remaining forms of change,
+viz. growth and 'alteration'. For though, no doubt, Plato investigated
+the conditions under which things come-to-be and pass-away, he confined
+his inquiry to these changes; and he discussed not all coming-to-be,
+but only that of the elements. He asked no questions as to how flesh
+or bones, or any of the other similar compound things, come-to-be;
+nor again did he examine the conditions under which 'alteration' or
+growth are attributable to things. 
+
+A similar criticism applies to all our predecessors with the single
+exception of Democritus. Not one of them penetrated below the surface
+or made a thorough examination of a single one of the problems. Democritus,
+however, does seem not only to have thought carefully about all the
+problems, but also to be distinguished from the outset by his method.
+For, as we are saying, none of the other philosophers made any definite
+statement about growth, except such as any amateur might have made.
+They said that things grow 'by the accession of like to like', but
+they did not proceed to explain the manner of this accession. Nor
+did they give any account of 'combination': and they neglected almost
+every single one of the remaining problems, offering no explanation,
+e.g. of 'action' or 'passion' how in physical actions one thing acts
+and the other undergoes action. Democritus and Leucippus, however,
+postulate the 'figures', and make 'alteration' and coming-to-be result
+from them. They explain coming-to-be and passing-away by their 'dissociation'
+and 'association', but 'alteration' by their 'grouping' and 'Position'.
+And since they thought that the 'truth lay in the appearance, and
+the appearances are conflicting and infinitely many, they made the
+'figures' infinite in number. Hence-owing to the changes of the compound-the
+same thing seems different and conflicting to different people: it
+is 'transposed' by a small additional ingredient, and appears utterly
+other by the 'transposition' of a single constituent. For Tragedy
+and Comedy are both composed of the same letters. 
+
+Since almost all our predecessors think (i) that coming-to-be is distinct
+from 'alteration', and (ii) that, whereas things 'alter' by change
+of their qualities, it is by 'association' and 'dissociation' that
+they come-to-be and pass-away, we must concentrate our attention on
+these theses. For they lead to many perplexing and well-grounded dilemmas.
+If, on the one hand, coming-to-be is 'association', many impossible
+consequences result: and yet there are other arguments, not easy to
+unravel, which force the conclusion upon us that coming-to-be cannot
+possibly be anything else. If, on the other hand, coming-to-be is
+not 'association', either there is no such thing as coming-to-be at
+all or it is 'alteration': or else we must endeavour to unravel this
+dilemma too-and a stubborn one we shall find it. The fundamental question,
+in dealing with all these difficulties, is this: 'Do things come-to-be
+and "alter" and grow, and undergo the contrary changes, because the
+primary "reals" are indivisible magnitudes? Or is no magnitude indivisible?'
+For the answer we give to this question makes the greatest difference.
+And again, if the primary 'reals' are indivisible magnitudes, are
+these bodies, as Democritus and Leucippus maintain? Or are they planes,
+as is asserted in the Timaeus? 
+
+To resolve bodies into planes and no further-this, as we have also
+remarked elsewhere, in itself a paradox. Hence there is more to be
+said for the view that there are indivisible bodies. Yet even these
+involve much of paradox. Still, as we have said, it is possible to
+construct 'alteration' and coming-to-be with them, if one 'transposes'
+the same by 'turning' and 'intercontact', and by 'the varieties of
+the figures', as Democritus does. (His denial of the reality of colour
+is a corollary from this position: for, according to him, things get
+coloured by 'turning' of the 'figures'.) But the possibility of such
+a construction no longer exists for those who divide bodies into planes.
+For nothing except solids results from putting planes together: they
+do not even attempt to generate any quality from them. 
+
+Lack of experience diminishes our power of taking a comprehensive
+view of the admitted facts. Hence those who dwell in intimate association
+with nature and its phenomena grow more and more able to formulate,
+as the foundations of their theories, principles such as to admit
+of a wide and coherent development: while those whom devotion to abstract
+discussions has rendered unobservant of the facts are too ready to
+dogmatize on the basis of a few observations. The rival treatments
+of the subject now before us will serve to illustrate how great is
+the difference between a 'scientific' and a 'dialectical' method of
+inquiry. For, whereas the Platonists argue that there must be atomic
+magnitudes 'because otherwise "The Triangle" will be more than one',
+Democritus would appear to have been convinced by arguments appropriate
+to the subject, i.e. drawn from the science of nature. Our meaning
+will become clear as we proceed. For to suppose that a body (i.e.
+a magnitude) is divisible through and through, and that this division
+is possible, involves a difficulty. What will there be in the body
+which escapes the division? 
+
+If it is divisible through and through, and if this division is possible,
+then it might be, at one and the same moment, divided through and
+through, even though the dividings had not been effected simultaneously:
+and the actual occurrence of this result would involve no impossibility.
+Hence the same principle will apply whenever a body is by nature divisible
+through and through, whether by bisection, or generally by any method
+whatever: nothing impossible will have resulted if it has actually
+been divided-not even if it has been divided into innumerable parts,
+themselves divided innumerable times. Nothing impossible will have
+resulted, though perhaps nobody in fact could so divide it.
+
+Since, therefore, the be dy is divisible through and through, let
+it have been divided. What, then, will remain? A magnitude? No: that
+is impossible, since then there will be something not divided, whereas
+ex hypothesis the body was divisible through and through. But if it
+be admitted that neither a body nor a magnitude will remain, and yet
+division is to take place, the constituents of the body will either
+be points (i.e. without magnitude) or absolutely nothing. If its constituents
+are nothings, then it might both come-to-be out of nothings and exist
+as a composite of nothings: and thus presumably the whole body will
+be nothing but an appearance. But if it consists of points, a similar
+absurdity will result: it will not possess any magnitude. For when
+the points were in contact and coincided to form a single magnitude,
+they did not make the whole any bigger (since, when the body was divided
+into two or more parts, the whole was not a bit smaller or bigger
+than it was before the division): hence, even if all the points be
+put together, they will not make any magnitude. 
+
+But suppose that, as the body is being divided, a minute section-a
+piece of sawdust, as it were-is extracted, and that in this sense-a
+body 'comes away' from the magnitude, evading the division. Even then
+the same argument applies. For in what sense is that section divisible?
+But if what 'came away' was not a body but a separable form or quality,
+and if the magnitude is 'points or contacts thus qualified': it is
+paradoxical that a magnitude should consist of elements, which are
+not magnitudes. Moreover, where will the points be? And are they motionless
+or moving? And every contact is always a contact of two somethings,
+i.e. there is always something besides the contact or the division
+or the point. 
+
+These, then, are the difficulties resulting from the supposition that
+any and every body, whatever its size, is divisible through and through.
+There is, besides, this further consideration. If, having divided
+a piece of wood or anything else, I put it together, it is again equal
+to what it was, and is one. Clearly this is so, whatever the point
+at which I cut the wood. The wood, therefore, has been divided potentially
+through and through. What, then, is there in the wood besides the
+division? For even if we suppose there is some quality, yet how is
+the wood dissolved into such constituents and how does it come-to-be
+out of them? Or how are such constituents separated so as to exist
+apart from one another? Since, therefore, it is impossible for magnitudes
+to consist of contacts or points, there must be indivisible bodies
+and magnitudes. Yet, if we do postulate the latter, we are confronted
+with equally impossible consequences, which we have examined in other
+works.' But we must try to disentangle these perplexities, and must
+therefore formulate the whole problem over again. 
+
+On the one hand, then, it is in no way paradoxical that every perceptible
+body should be indivisible as well as divisible at any and every point.
+For the second predicate will at. tach to it potentially, but the
+first actually. On the other hand, it would seem to be impossible
+for a body to be, even potentially, divisible at all points simultaneously.
+For if it were possible, then it might actually occur, with the result,
+not that the body would simultaneously be actually both (indivisible
+and divided), but that it would be simultaneously divided at any and
+every point. Consequently, nothing will remain and the body will have
+passed-away into what is incorporeal: and so it might come-to-be again
+either out of points or absolutely out of nothing. And how is that
+possible? 
+
+But now it is obvious that a body is in fact divided into separable
+magnitudes which are smaller at each division-into magnitudes which
+fall apart from one another and are actually separated. Hence (it
+is urged) the process of dividing a body part by part is not a 'breaking
+up' which could continue ad infinitum; nor can a body be simultaneously
+divided at every point, for that is not possible; but there is a limit,
+beyond which the 'breaking up' cannot proceed. The necessary consequence-especially
+if coming-to-be and passing-away are to take place by 'association'
+and 'dissociation' respectively-is that a body must contain atomic
+magnitudes which are invisible. Such is the argument which is believed
+to establish the necessity of atomic magnitudes: we must now show
+that it conceals a faulty inference, and exactly where it conceals
+it. 
+
+For, since point is not 'immediately-next' to point, magnitudes are
+'divisible through and through' in one sense, and yet not in another.
+When, however, it is admitted that a magnitude is 'divisible through
+and through', it is thought there is a point not only anywhere, but
+also everywhere, in it: hence it is supposed to follow, from the admission,
+that the magnitude must be divided away into nothing. For it is supposed-there
+is a point everywhere within it, so that it consists either of contacts
+or of points. But it is only in one sense that the magnitude is 'divisible
+through and through', viz. in so far as there is one point anywhere
+within it and all its points are everywhere within it if you take
+them singly one by one. But there are not more points than one anywhere
+within it, for the points are not 'consecutive': hence it is not simultaneously
+'divisible through and through'. For if it were, then, if it be divisible
+at its centre, it will be divisible also at a point 'immediately-next'
+to its centre. But it is not so divisible: for position is not 'immediately-next'
+to position, nor point to point-in other words, division is not 'immediately-next'
+to division, nor composition to composition. 
+
+Hence there are both 'association' and 'dissociation', though neither
+(a) into, and out of, atomic magnitudes (for that involves many impossibilities),
+nor (b) so that division takes place through and through-for this
+would have resulted only if point had been 'immediately-next' to point:
+but 'dissociation' takes place into small (i.e. relatively small)
+parts, and 'association' takes place out of relatively small parts.
+
+It is wrong, however, to suppose, as some assert, that coming-to-be
+and passing-away in the unqualified and complete sense are distinctively
+defined by 'association' and 'dissociation', while the change that
+takes place in what is continuous is 'alteration'. On the contrary,
+this is where the whole error lies. For unqualified coming-to-be and
+passing-away are not effected by 'association' and 'dissociation'.
+They take place when a thing changes, from this to that, as a whole.
+But the philosophers we are criticizing suppose that all such change
+is 'alteration': whereas in fact there is a difference. For in that
+which underlies the change there is a factor corresponding to the
+definition and there is a material factor. When, then, the change
+is in these constitutive factors, there will be coming-to-be or passing-away:
+but when it is in the thing's qualities, i.e. a change of the thing
+per accidents, there will be 'alteration'. 
+
+'Dissociation' and 'association' affect the thing's susceptibility
+to passing-away. For if water has first been 'dissociated' into smallish
+drops, air comes-to-be out of it more quickly: while, if drops of
+water have first been 'associated', air comes-to-be more slowly. Our
+doctrine will become clearer in the sequel.' Meantime, so much may
+be taken as established-viz. that coming-to-be cannot be 'association',
+at least not the kind of 'association' some philosophers assert it
+to be. 
+
+Part 3
+
+Now that we have established the preceding distinctions, we must first
+consider whether there is anything which comes-to-be and passes-away
+in the unqualified sense: or whether nothing comes-to-be in this strict
+sense, but everything always comes-to-be something and out of something-I
+mean, e.g. comes-to-be-healthy out of being-ill and ill out of being-healthy,
+comes-to-be-small out of being big and big out of being-small, and
+so on in every other instance. For if there is to be coming-to-be
+without qualification, 'something' must-without qualification-'come-to-be
+out of not-being', so that it would be true to say that 'not-being
+is an attribute of some things'. For qualified coming-to-be is a process
+out of qualified not-being (e.g. out of not-white or not-beautiful),
+but unqualified coming-to-be is a process out of unqualified not-being.
+
+Now 'unqulified' means either (i) the primary predication within each
+Category, or (ii) the universal, i.e. the all-comprehensive, predication.
+Hence, if'unqualified not-being 'means the negation of 'being' in
+the sense of the primary term of the Category in question, we shall
+have, in 'unqualified coming-to-be', a coming-to-be of a substance
+out of not-substance. But that which is not a substance or a 'this'
+clearly cannot possess predicates drawn from any of the other Categories
+either-e.g. we cannot attribute to it any quality, quantity, or position.
+Otherwise, properties would admit of existence in separation from
+substances. If, on the other hand, 'unqualified not-being' means 'what
+is not in any sense at all', it will be a universal negation of all
+forms of being, so that what comes-to-be will have to come-to-be out
+of nothing. 
+
+Although we have dealt with these problems at greater length in another
+work,where we have set forth the difficulties and established the
+distinguishing definitions, the following concise restatement of our
+results must here be offered: In one sense things come-to-be out of
+that which has no 'being' without qualification: yet in another sense
+they come-to-be always out of what is'. For coming-to-be necessarily
+implies the pre-existence of something which potentially 'is', but
+actually 'is not'; and this something is spoken of both as 'being'
+and as 'not-being'. 
+
+These distinctions may be taken as established: but even then it is
+extraordinarily difficult to see how there can be 'unqualified coming-to-be'
+(whether we suppose it to occur out of what potentially 'is', or in
+some other way), and we must recall this problem for further examination.
+For the question might be raised whether substance (i.e. the 'this')
+comes-to-be at all. Is it not rather the 'such', the 'so great', or
+the 'somewhere', which comes-to-be? And the same question might be
+raised about 'passing-away' also. For if a substantial thing comes-to-be,
+it is clear that there will 'be' (not actually, but potentially) a
+substance, out of which its coming-to-be will proceed and into which
+the thing that is passing-away will necessarily change. Then will
+any predicate belonging to the remaining Categories attach actually
+to this presupposed substance? In other words, will that which is
+only potentially a 'this' (which only potentially is), while without
+the qualification 'potentially' it is not a 'this' (i.e. is not),
+possess, e.g. any determinate size or quality or position? For (i)
+if it possesses none of these determinations actually, but all of
+them only potentially, the result is first that a being, which is
+not a determinate being, is capable of separate existence; and in
+addition that coming-to-be proceeds out of nothing pre-existing-a
+thesis which, more than any other, preoccupied and alarmed the earliest
+philosophers. On the other hand (ii) if, although it is not a 'this
+somewhat' or a substance, it is to possess some of the remaining determinations
+quoted above, then (as we said)' properties will be separable from
+substances. 
+
+We must therefore concentrate all our powers on the discussion of
+these difficulties and on the solution of a further question-viz.
+What is the cause of the perpetuity of coming-to-be? Why is there
+always unqualified, as well as partial, coming-to-be? Cause' in this
+connexion has two senses. It means (i) the source from which, as we
+say, the process 'originates', and (ii) the matter. It is the material
+cause that we have here to state. For, as to the other cause, we have
+already explained (in our treatise on Motion that it involves (a)
+something immovable through all time and (b) something always being
+moved. And the accurate treatment of the first of these-of the immovable
+'originative source'-belongs to the province of the other, or 'prior',
+philosophy: while as regards 'that which sets everything else in motion
+by being itself continuously moved', we shall have to explain later'
+which amongst the so-called 'specific' causes exhibits this character.
+But at present we are to state the material cause-the cause classed
+under the head of matter-to which it is due that passing-away and
+coming-to-be never fail to occur in Nature. For perhaps, if we succeed
+in clearing up this question, it will simultaneously become clear
+what account we ought to give of that which perplexed us just now,
+i.e. of unqualified passingaway and coming-to-be. 
+
+Our new question too-viz. 'what is the cause of the unbroken continuity
+of coming-to-be?'-is sufficiently perplexing, if in fact what passes-away
+vanishes into 'what is not' and 'what is not' is nothing (since 'what
+is not' is neither a thing, nor possessed of a quality or quantity,
+nor in any place). If, then, some one of the things 'which are' constantly
+disappearing, why has not the whole of 'what is' been used up long
+ago and vanished away assuming of course that the material of all
+the several comings-to-be was finite? For, presumably, the unfailing
+continuity of coming-to-be cannot be attributed to the infinity of
+the material. That is impossible, for nothing is actually infinite.
+A thing is infinite only potentially, i.e. the dividing of it can
+continue indefinitely: so that we should have to suppose there is
+only one kind of coming-to-be in the world-viz. one which never fails,
+because it is such that what comes-to-be is on each successive occasion
+smaller than before. But in fact this is not what we see occurring.
+
+Why, then, is this form of change necessarily ceaseless? Is it because
+the passing-away of this is a coming-to-be of something else, and
+the coming-to-be of this a passing-away of something else?
+
+The cause implied in this solution must no doubt be considered adequate
+to account for coming-to-be and passing-away in their general character
+as they occur in all existing things alike. Yet, if the same process
+is a coming to-be of this but a passing-away of that, and a passing-away
+of this but a coming-to-be of that, why are some things said to come-to-be
+and pass-away without qualification, but others only with a qualification?
+
+The distinction must be investigated once more, for it demands some
+explanation. (It is applied in a twofold manner.) For (i) we say 'it
+is now passing-away' without qualification, and not merely 'this is
+passing-away': and we call this change 'coming-to-be', and that 'passing-away',
+without qualification. And (ii) so-and-so 'comes-to-be-something',
+but does not 'come-to-be' without qualification; for we say that the
+student 'comes-to-be-learned', not 'comes-to-be' without qualification.
+
+(i) Now we often divide terms into those which signify a 'this somewhat'
+and those which do not. And (the first form of) the distinction, which
+we are investigating, results from a similar division of terms: for
+it makes a difference into what the changing thing changes. Perhaps,
+e.g. the passage into Fire is 'coming-to-be' unqualified, but 'passingaway-of-something'
+(e.g. Earth): whilst the coming-to-be of Earth is qualified (not unqualified)
+'coming-to-be', though unqualified 'passing-away' (e.g. of Fire).
+This would be the case on the theory set forth in Parmenides: for
+he says that the things into which change takes place are two, and
+he asserts that these two, viz. what is and what is not, are Fire
+and Earth. Whether we postulate these, or other things of a similar
+kind, makes no difference. For we are trying to discover not what
+undergoes these changes, but what is their characteristic manner.
+The passage, then, into what 'is' not except with a qualification
+is unqualified passing-away, while the passage into what 'is' without
+qualification is unqualified coming-to-be. Hence whatever the contrasted
+'poles' of the changes may be whether Fire and Earth, or some other
+couple-the one of them will be 'a being' and the other 'a not-being'.
+
+We have thus stated one characteristic manner in which unqualified
+will be distinguished from qualified coming-to-be and passing-away:
+but they are also distinguished according to the special nature of
+the material of the changing thing. For a material, whose constitutive
+differences signify more a 'this somewhat', is itself more 'substantial'
+or 'real': while a material, whose constitutive differences signify
+privation, is 'not real'. (Suppose, e.g. that 'the hot' is a positive
+predication, i.e. a 'form', whereas 'cold' is a privation, and that
+Earth and Fire differ from one another by these constitutive differences.)
+
+The opinion, however, which most people are inclined to prefer, is
+that the distinction depends upon the difference between 'the perceptible'
+and 'the imperceptible'. Thus, when there is a change into perceptible
+material, people say there is 'coming-to-be'; but when there is a
+change into invisible material, they call it 'passing-away'. For they
+distinguish 'what is' and 'what is not' by their perceiving and not-perceiving,
+just as what is knowable 'is' and what is unknowable 'is not'-perception
+on their view having the force of knowledge. Hence, just as they deem
+themselves to live and to 'be' in virtue of their perceiving or their
+capacity to perceive, so too they deem the things to 'be' qua perceived
+or perceptible-and in this they are in a sense on the track of the
+truth, though what they actually say is not true. 
+
+Thus unqualified coming-to-be and passingaway turn out to be different
+according to common opinion from what they are in truth. For Wind
+and Air are in truth more real more a 'this somewhat' or a 'form'-than
+Earth. But they are less real to perception which explains why things
+are commonly said to 'pass-away' without qualification when they change
+into Wind and Air, and to 'come-to-be' when they change into what
+is tangible, i.e. into Earth. 
+
+We have now explained why there is 'unqualified coming-to-be' (though
+it is a passingaway-of-something) and 'unqualified passingaway (though
+it is a coming-to-be-of-something). For this distinction of appellation
+depends upon a difference in the material out of which, and into which,
+the changes are effected. It depends either upon whether the material
+is or is not 'substantial', or upon whether it is more or less 'substantial',
+or upon whether it is more or less perceptible. 
+
+(ii) But why are some things said to 'come to-be' without qualification,
+and others only to 'come-to-be-so-and-so', in cases different from
+the one we have been considering where two things come-to-be reciprocally
+out of one another? For at present we have explained no more than
+this:-why, when two things change reciprocally into one another, we
+do not attribute coming-to-be and passing-away uniformly to them both,
+although every coming-to-be is a passing-away of something else and
+every passing-away some other thing's coming-to-be. But the question
+subsequently formulated involves a different problem-viz. why, although
+the learning thing is said to 'come-to-be-learned' but not to 'come-tobe'
+without qualification, yet the growing thing is said to 'come-to-be'.
+
+The distinction here turns upon the difference of the Categories.
+For some things signify a this somewhat, others a such, and others
+a so-much. Those things, then, which do not signify substance, are
+not said to 'come-to-be' without qualification, but only to 'come-to-be-so-and-so'.
+Nevertheless, in all changing things alike, we speak of 'coming-to-be'
+when the thing comes-to-be something in one of the two Columns-e.g.
+in Substance, if it comes-to-be Fire but not if it comes-to-be Earth;
+and in Quality, if it comes-to-be learned but not when it comes-to-be
+ignorant. 
+
+We have explained why some things come to-be without qualification,
+but not others both in general, and also when the changing things
+are substances and nothing else; and we have stated that the substratum
+is the material cause of the continuous occurrence of coming to-be,
+because it is such as to change from contrary to contrary and because,
+in substances, the coming-to-be of one thing is always a passing-away
+of another, and the passing-away of one thing is always another's
+coming-to-be. But there is no need even to discuss the other question
+we raised-viz. why coming-to-be continues though things are constantly
+being destroyed. For just as people speak of 'a passing-away' without
+qualification when a thing has passed into what is imperceptible and
+what in that sense 'is not', so also they speak of 'a coming-to-be
+out of a not-being' when a thing emerges from an imperceptible. Whether,
+therefore, the substratum is or is not something, what comes-tobe
+emerges out of a 'not-being': so that a thing comes-to-be out of a
+not-being' just as much as it 'passes-away into what is not'. Hence
+it is reasonable enough that coming-to-be should never fail. For coming-to-be
+is a passing-away of 'what is not' and passing-away is a coming to-be
+of 'what is not'. 
+
+But what about that which 'is' not except with a qualification? Is
+it one of the two contrary poles of the chang-e.g. Earth (i.e. the
+heavy) a 'not-being', but Fire (i.e. the light) a 'being'? Or, on
+the contrary, does what is 'include Earth as well as Fire, whereas
+what is not' is matter-the matter of Earth and Fire alike? And again,
+is the matter of each different? Or is it the same, since otherwise
+they would not come-to-be reciprocally out of one another, i.e. contraries
+out of contraries? For these things-Fire, Earth, Water, Air-are characterized
+by 'the contraries'. 
+
+Perhaps the solution is that their matter is in one sense the same,
+but in another sense different. For that which underlies them, whatever
+its nature may be qua underlying them, is the same: but its actual
+being is not the same. So much, then, on these topics. 
+
+Part 4
+
+Next we must state what the difference is between coming-to-be and
+'alteration'-for we maintain that these changes are distinct from
+one another. 
+
+Since, then, we must distinguish (a) the substratum, and (b) the property
+whose nature it is to be predicated of the substratum; and since change
+of each of these occurs; there is 'alteration' when the substratum
+is perceptible and persists, but changes in its own properties, the
+properties in question being opposed to one another either as contraries
+or as intermediates. The body, e.g. although persisting as the same
+body, is now healthy and now ill; and the bronze is now spherical
+and at another time angular, and yet remains the same bronze. But
+when nothing perceptible persists in its identity as a substratum,
+and the thing changes as a whole (when e.g. the seed as a whole is
+converted into blood, or water into air, or air as a whole into water),
+such an occurrence is no longer 'alteration'. It is a coming-to-be
+of one substance and a passing-away of the other-especially if the
+change proceeds from an imperceptible something to something perceptible
+(either to touch or to all the senses), as when water comes-to-be
+out of, or passes-away into, air: for air is pretty well imperceptible.
+If, however, in such cases, any property (being one of a pair of contraries)
+persists, in the thing that has come-to-be, the same as it was in
+the thing which has passedaway-if, e.g. when water comes-to-be out
+of air, both are transparent or cold-the second thing, into which
+the first changes, must not be a property of this persistent identical
+something. Otherwise the change will be 'alteration.' Suppose, e.g.
+that the musical man passed-away and an unmusical man came-tobe, and
+that the man persists as something identical. Now, if 'musicalness
+and unmusicalness' had not been a property essentially inhering in
+man, these changes would have been a coming-to-be of unmusicalness
+and a passing-away of musicalness: but in fact 'musicalness and unmusicalness'
+are a property of the persistent identity, viz. man. (Hence, as regards
+man, these changes are 'modifications'; though, as regards musical
+man and unmusical man, they are a passing-away and a coming-to-be.)
+Consequently such changes are 'alteration.' When the change from contrary
+to contrary is in quantity, it is 'growth and diminution'; when it
+is in place, it is 'motion'; when it is in property, i.e. in quality,
+it is 'alteration': but, when nothing persists, of which the resultant
+is a property (or an 'accident' in any sense of the term), it is 'coming-to-be',
+and the converse change is 'passing-away'. 
+
+'Matter', in the most proper sense of the term, is to be identified
+with the substratum which is receptive of coming-to-be and passingaway:
+but the substratum of the remaining kinds of change is also, in a
+certain sense, 'matter', because all these substrata are receptive
+of 'contrarieties' of some kind. So much, then, as an answer to the
+questions (i) whether coming-to-be 'is' or 'is not'-i.e. what are
+the precise conditions of its occurrence and (ii) what 'alteration'
+is: but we have still to treat of growth. 
+
+Part 5
+
+We must explain (i) wherein growth differs from coming-to-be and from
+'alteration', and ii) what is the process of growing and the sprocess
+of diminishing in each and all of the things that grow and diminish.
+
+Hence our first question is this: Do these changes differ from one
+another solely because of a difference in their respective 'spheres'?
+In other words, do they differ because, while a change from this to
+that (viz. from potential to actual substance) is coming-to-be, a
+change in the sphere of magnitude is growth and one in the sphere
+of quality is 'alteration'-both growth and 'alteration' being changes
+from what is-potentially to what is-actually magnitude and quality
+respectively? Or is there also a difference in the manner of the change,
+since it is evident that, whereas neither what is 'altering' nor what
+is coming-to-be necessarily changes its place, what is growing or
+diminishing changes its spatial position of necessity, though in a
+different manner from that in which the moving thing does so? For
+that which is being moved changes its place as a whole: but the growing
+thing changes its place like a metal that is being beaten, retaining
+its position as a whole while its parts change their places. They
+change their places, but not in the same way as the parts of a revolving
+globe. For the parts of the globe change their places while the whole
+continues to occupy an equal place: but the parts of the rowing thing
+expand over an ever-increasing place and the parts of the diminishing
+thing contract within an ever-diminishing area. 
+
+It is clear, then, that these changes-the changes of that which is
+coming-to-be, of that which is 'altering', and of that which is growing-differ
+in manner as well as in sphere. But how are we to conceive the 'sphere'
+of the change which is growth and diminution? The sphere' of growing
+and diminishing is believed to be magnitude. Are we to suppose that
+body and magnitude come-to-be out of something which, though potentially
+magnitude and body, is actually incorporeal and devoid of magnitude?
+And since this description may be understood in two different ways,
+in which of these two ways are we to apply it to the process of growth?
+Is the matter, out of which growth takes place, (i) 'separate' and
+existing alone by itself, or (ii) 'separate' but contained in another
+body? 
+
+Perhaps it is impossible for growth to take place in either of these
+ways. For since the matter is 'separate', either (a) it will occupy
+no place (as if it were a point), or (b) it will be a 'void', i.e.
+a non-perceptible body. But the first of these alternatives is impossible.
+For since what comes-to-be out of this incorporeal and sizeless something
+will always be 'somewhere', it too must be 'somewhere'-either intrinsically
+or indirectly. And the second alternative necessarily implies that
+the matter is contained in some other body. But if it is to be 'in'
+another body and yet remains 'separate' in such a way that it is in
+no sense a part of that body (neither a part of its substantial being
+nor an 'accident' of it), many impossibilities will result. It is
+as if we were to suppose that when, e.g. air comes-to-be out of water
+the process were due not to a change of the but to the matter of the
+air being 'contained in' the water as in a vessel. This is impossible.
+For (i) there is nothing to prevent an indeterminate number of matters
+being thus 'contained in' the water, so that they might come-to-be
+actually an indeterminate quantity of air; and (ii) we do not in fact
+see air coming-to-be out of water in this fashion, viz. withdrawing
+out of it and leaving it unchanged. 
+
+It is therefore better to suppose that in all instances of coming-to-be
+the matter is inseparable, being numerically identical and one with
+the 'containing' body, though isolable from it by definition. But
+the same reasons also forbid us to regard the matter, out of which
+the body comes-to-be, as points or lines. The matter is that of which
+points and lines are limits, and it is something that can never exist
+without quality and without form. 
+
+Now it is no doubt true, as we have also established elsewhere,' that
+one thing 'comes-tobe' (in the unqualified sense) out of another thing:
+and further it is true that the efficient cause of its coming-to-be
+is either (i) an actual thing (which is the same as the effect either
+generically-or the efficient cause of the coming-to-be of a hard thing
+is not a hard thing or specifically, as e.g. fire is the efficient
+cause of the coming-to-be of fire or one man of the birth of another),
+or (ii) an actuality. Nevertheless, since there is also a matter out
+of which corporeal substance itself comes-to-be (corporeal substance,
+however, already characterized as such-and-such a determinate body,
+for there is no such thing as body in general), this same matter is
+also the matter of magnitude and quality-being separable from these
+matters by definition, but not separable in place unless Qualities
+are, in their turn, separable. 
+
+It is evident, from the preceding development and discussion of difficulties,
+that growth is not a change out of something which, though potentially
+a magnitude, actually possesses no magnitude. For, if it were, the
+'void' would exist in separation; but we have explained in a former
+work' that this is impossible. Moreover, a change of that kind is
+not peculiarly distinctive of growth, but characterizes coming-to-be
+as such or in general. For growth is an increase, and diminution is
+a lessening, of the magnitude which is there already-that, indeed,
+is why the growing thing must possess some magnitude. Hence growth
+must not be regarded as a process from a matter without magnitude
+to an actuality of magnitude: for this would be a body's coming-to-be
+rather than its growth. 
+
+We must therefore come to closer quarters with the subject of our
+inquiry. We must grapple' with it (as it were) from its beginning,
+and determine the precise character of the growing and diminishing
+whose causes we are investigating. 
+
+It is evident (i) that any and every part of the growing thing has
+increased, and that similarly in diminution every part has become
+smaller: also (ii) that a thing grows by the accession, and diminishes
+by the departure, of something. Hence it must grow by the accession
+either (a) of something incorporeal or (b) of a body. Now, if (a)
+it grows by the accession of something incorporeal, there will exist
+separate a void: but (as we have stated before)' is impossible for
+a matter of magnitude to exist 'separate'. If, on the other hand (b)
+it grows by the accession of a body, there will be two bodies-that
+which grows and that which increases it-in the same place: and this
+too is impossible. 
+
+But neither is it open to us to say that growth or diminution occurs
+in the way in which e.g. air is generated from water. For, although
+the volume has then become greater, the change will not be growth,
+but a coming to-be of the one-viz. of that into which the change is
+taking place-and a passing-away of the contrasted body. It is not
+a growth of either. Nothing grows in the process; unless indeed there
+be something common to both things (to that which is coming-to-be
+and to that which passed-away), e.g. 'body', and this grows. The water
+has not grown, nor has the air: but the former has passed-away and
+the latter has come-to-be, and-if anything has grown-there has been
+a growth of 'body.' Yet this too is impossible. For our account of
+growth must preserve the characteristics of that which is growing
+and diminishing. And these characteristics are three: (i) any and
+every part of the growing magnitude is made bigger (e.g. if flesh
+grows, every particle of the flesh gets bigger), (ii) by the accession
+of something, and (iii) in such a way that the growing thing is preserved
+and persists. For whereas a thing does not persist in the processes
+of unqualified coming-to-be or passing-away, that which grows or 'alters'
+persists in its identity through the 'altering' and through the growing
+or diminishing, though the quality (in 'alteration') and the size
+(in growth) do not remain the same. Now if the generation of air from
+water is to be regarded as growth, a thing might grow without the
+accession (and without the persistence) of anything, and diminish
+without the departure of anything-and that which grows need not persist.
+But this characteristic must be preserved: for the growth we are discussing
+has been assumed to be thus characterized. 
+
+One might raise a further difficulty. What is 'that which grows'?
+Is it that to which something is added? If, e.g. a man grows in his
+shin, is it the shin which is greater-but not that 'whereby' he grows,
+viz. not the food? Then why have not both 'grown'? For when A is added
+to B, both A and B are greater, as when you mix wine with water; for
+each ingredient is alike increased in volume. Perhaps the explanation
+is that the substance of the one remains unchanged, but the substance
+of the other (viz. of the food) does not. For indeed, even in the
+mixture of wine and water, it is the prevailing ingredient which is
+said to have increased in volume. We say, e.g. that the wine has increased,
+because the whole mixture acts as wine but not as water. A similar
+principle applies also to 'alteration'. Flesh is said to have been
+'altered' if, while its character and substance remain, some one of
+its essential properties, which was not there before, now qualifies
+it: on the other hand, that 'whereby' it has been 'altered' may have
+undergone no change, though sometimes it too has been affected. The
+altering agent, however, and the originative source of the process
+are in the growing thing and in that which is being 'altered': for
+the efficient cause is in these. No doubt the food, which has come
+in, may sometimes expand as well as the body that has consumed it
+(that is so, e.g. if, after having come in, a food is converted into
+wind), but when it has undergone this change it has passedaway: and
+the efficient cause is not in the food. 
+
+We have now developed the difficulties sufficiently and must therefore
+try to find a solution of the problem. Our solution must preserve
+intact the three characteristics of growth-that the growing thing
+persists, that it grows by the accession (and diminishes by the departure)
+of something, and further that every perceptible particle of it has
+become either larger or smaller. We must recognize also (a) that the
+growing body is not 'void' and that yet there are not two magnitudes
+in the same place, and (b) that it does not grow by the accession
+of something incorporeal. 
+
+Two preliminary distinctions will prepare us to grasp the cause of
+growth. We must note (i) that the organic parts grow by the growth
+of the tissues (for every organ is composed of these as its constituents);
+and (ii) that flesh, bone, and every such part-like every other thing
+which has its form immersed in matter-has a twofold nature: for the
+form as well as the matter is called 'flesh' or 'bone'. 
+
+Now, that any and every part of the tissue qua form should grow-and
+grow by the accession of something-is possible, but not that any and
+every part of the tissue qua matter should do so. For we must think
+of the tissue after the image of flowing water that is measured by
+one and the same measure: particle after particle comes-to-be, and
+each successive particle is different. And it is in this sense that
+the matter of the flesh grows, some flowing out and some flowing in
+fresh; not in the sense that fresh matter accedes to every particle
+of it. There is, however, an accession to every part of its figure
+or 'form'. 
+
+That growth has taken place proportionally, is more manifest in the
+organic parts-e.g. in the hand. For there the fact that the matter
+is distinct from the form is more manifest than in flesh, i.e. than
+in the tissues. That is why there is a greater tendency to suppose
+that a corpse still possesses flesh and bone than that it still has
+a hand or an arm. 
+
+Hence in one sense it is true that any and every part of the flesh
+has grown; but in another sense it is false. For there has been an
+accession to every part of the flesh in respect to its form, but not
+in respect to its matter. The whole, however, has become larger. And
+this increase is due (a) on the one hand to the accession of something,
+which is called 'food' and is said to be 'contrary' to flesh, but
+(b) on the other hand to the transformation of this food into the
+same form as that of flesh as if, e.g. 'moist' were to accede to 'dry'
+and, having acceded, were to be transformed and to become 'dry'. For
+in one sense 'Like grows by Like', but in another sense 'Unlike grows
+by Unlike'. 
+
+One might discuss what must be the character of that 'whereby' a thing
+grows. Clearly it must be potentially that which is growing-potentially
+flesh, e.g. if it is flesh that is growing. Actually, therefore, it
+must be 'other' than the growing thing. This 'actual other', then,
+has passed-away and come-to-be flesh. But it has not been transformed
+into flesh alone by itself (for that would have been a coming-to-be,
+not a growth): on the contrary, it is the growing thing which has
+come-to-be flesh (and grown) by the food. In what way, then, has the
+food been modified by the growing thing? Perhaps we should say that
+it has been 'mixed' with it, as if one were to pour water into wine
+and the wine were able to convert the new ingredient into wine. And
+as fire lays hold of the inflammable, so the active principle of growth,
+dwelling in the growing thing that which is actually flesh), lays
+hold of an acceding food which is potentially flesh and converts it
+into actual flesh. The acceding food, therefore, must be together
+with the growing thing: for if it were apart from it, the change would
+be a coming-to-be. For it is possible to produce fire by piling logs
+on to the already burning fire. That is 'growth'. But when the logs
+themselves are set on fire, that is 'coming-to-be'. 
+
+'Quantum-in-general' does not come-to-be any more than 'animal' which
+is neither man nor any other of the specific forms of animal: what
+'animal-in-general' is in coming-to-be, that 'quantum-in-general'
+is in growth. But what does come-to-be in growth is flesh or bone-or
+a hand or arm (i.e. the tissues of these organic parts). Such things
+come-to-be, then, by the accession not of quantified-flesh but of
+a quantified-something. In so far as this acceding food is potentially
+the double result e.g. is potentially so-much-flesh-it produces growth:
+for it is bound to become actually both so-much and flesh. But in
+so far as it is potentially flesh only, it nourishes: for it is thus
+that 'nutrition' and 'growth' differ by their definition. That is
+why a body's' nutrition' continues so long as it is kept alive (even
+when it is diminishing), though not its 'growth'; and why nutrition,
+though 'the same' as growth, is yet different from it in its actual
+being. For in so far as that which accedes is potentially 'so much-flesh'
+it tends to increase flesh: whereas, in so far as it is potentially
+'flesh' only, it is nourishment. 
+
+The form of which we have spoken is a kind of power immersed in matter-a
+duct, as it were. If, then, a matter accedes-a matter, which is potentially
+a duct and also potentially possesses determinate quantity the ducts
+to which it accedes will become bigger. But if it is no longer able
+to act-if it has been weakened by the continued influx of matter,
+just as water, continually mixed in greater and greater quantity with
+wine, in the end makes the wine watery and converts it into water-then
+it will cause a diminution of the quantum; though still the form persists.
+
+Part 6
+
+(In discussing the causes of coming-tobe) we must first investigate
+the matter, i.e. the so-called 'elements'. We must ask whether they
+really are clements or not, i.e. whether each of them is eternal or
+whether there is a sense in which they come-to-be: and, if they do
+come-to-be, whether all of them come-to-be in the same manner reciprocally
+out of one another, or whether one amongst them is something primary.
+Hence we must begin by explaining certain preliminary matters, about
+which the statements now current are vague. 
+
+For all (the pluralist philosophers)- those who generate the 'elements'
+as well as those who generate the bodies that are compounded of the
+elements- make use of 'dissociation' and 'association', and of 'action'
+and 'passion'. Now 'association' is 'combination'; but the precise
+meaning of the process we call 'combining' has not been explained.
+Again, (all the monists make use of 'alteration': but) without an
+agent and a patient there cannot be 'altering' any more than there
+can be 'dissociating' and 'associating'. For not only those who postulate
+a plurality of elements employ their reciprocal action and passion
+to generate the compounds: those who derive things from a single element
+are equally compelled to introduce 'acting'. And in this respect Diogenes
+is right when he argues that 'unless all things were derived from
+one, reciprocal action and passion could not have occurred'. The hot
+thing, e.g. would not be cooled and the cold thing in turn be warmed:
+for heat and cold do not change reciprocally into one another, but
+what changes (it is clear) is the substratum. Hence, whenever there
+is action and passion between two things, that which underlies them
+must be a single something. No doubt, it is not true to say that all
+things are of this character: but it is true of all things between
+which there is reciprocal action and passion. 
+
+But if we must investigate 'action-passion' and 'combination', we
+must also investigate 'contact'. For action and passion (in the proper
+sense of the terms) can only occur between things which are such as
+to touch one another; nor can things enter into combination at all
+unless they have come into a certain kind of contact. Hence we must
+give a definite account of these three things- of 'contact', 'combination',
+and 'acting'. 
+
+Let us start as follows. All things which admit of 'combination' must
+be capable of reciprocal contact: and the same is true of any two
+things, of which one 'acts' and the other 'suffers action' in the
+proper sense of the terms. For this reason we must treat of 'contact'
+first. every term which possesses a variety of meaning includes those
+various meanings either owing to a mere coincidence of language, or
+owing to a real order of derivation in the different things to which
+it is applied: but, though this may be taken to hold of 'contact'
+as of all such terms, it is nevertheless true that contact' in the
+proper sense applies only to things which have 'position'. And 'position'
+belongs only to those things which also have a Place': for in so far
+as we attribute 'contact' to the mathematical things, we must also
+attribute 'place' to them, whether they exist in separation or in
+some other fashion. Assuming, therefore, that 'to touch' is-as we
+have defined it in a previous work'-'to have the extremes together',
+only those things will touch one another which, being separate magnitudes
+and possessing position, have their extremes 'together'. And since
+position belongs only to those things which also have a 'place', while
+the primary differentiation of 'place' is the above' and 'the below'
+(and the similar pairs of opposites), all things which touch one another
+will have 'weight' or 'lightness' either both these qualities or one
+or the other of them. But bodies which are heavy or light are such
+as to 'act' and 'suffer action'. Hence it is clear that those things
+are by nature such as to touch one another, which (being separate
+magnitudes) have their extremes 'together' and are able to move, and
+be moved by, one another. 
+
+The manner in which the 'mover' moves the moved' not always the same:
+on the contrary, whereas one kind of 'mover' can only impart motion
+by being itself moved, another kind can do so though remaining itself
+unmoved. Clearly therefore we must recognize a corresponding variety
+in speaking of the 'acting' thing too: for the 'mover' is said to
+'act' (in a sense) and the 'acting' thing to 'impart motion'. Nevertheless
+there is a difference and we must draw a distinction. For not every
+'mover' can 'act', if (a) the term 'agent' is to be used in contrast
+to 'patient' and (b) 'patient' is to be applied only to those things
+whose motion is a 'qualitative affection'-i.e. a quality, like white'
+or 'hot', in respect to which they are moved' only in the sense that
+they are 'altered': on the contrary, to 'impart motion' is a wider
+term than to 'act'. Still, so much, at any rate, is clear: the things
+which are 'such as to impart motion', if that description be interpreted
+in one sense, will touch the things which are 'such as to be moved
+by them'-while they will not touch them, if the description be interpreted
+in a different sense. But the disjunctive definition of 'touching'
+must include and distinguish (a) 'contact in general' as the relation
+between two things which, having position, are such that one is able
+to impart motion and the other to be moved, and (b) 'reciprocal contact'
+as the relation between two things, one able to impart motion and
+the other able to be moved in such a way that 'action and passion'
+are predicable of them. 
+
+As a rule, no doubt, if A touches B, B touches A. For indeed practically
+all the 'movers' within our ordinary experience impart motion by being
+moved: in their case, what touches inevitably must, and also evidently
+does, touch something which reciprocally touches it. Yet, if A moves
+B, it is possible-as we sometimes express it-for A 'merely to touch'
+B, and that which touches need not touch a something which touches
+it. Nevertheless it is commonly supposed that 'touching' must be reciprocal.
+The reason of this belief is that 'movers' which belong to the same
+kind as the 'moved' impart motion by being moved. Hence if anything
+imparts motion without itself being moved, it may touch the 'moved'
+and yet itself be touched by nothing-for we say sometimes that the
+man who grieves us 'touches' us, but not that we 'touch' him.
+
+The account just given may serve to distinguish and define the 'contact'
+which occurs in the things of Nature. 
+
+Part 7
+
+Next in order we must discuss 'action' and 'passion'. The traditional
+theories on the subject are conflicting. For (i) most thinkers are
+unanimous in maintaining (a) that 'like' is always unaffected by 'like',
+because (as they argue) neither of two 'likes' is more apt than the
+other either to act or to suffer action, since all the properties
+which belong to the one belong identically and in the same degree
+to the other; and (b) that 'unlikes', i.e. 'differents', are by nature
+such as to act and suffer action reciprocally. For even when the smaller
+fire is destroyed by the greater, it suffers this effect (they say)
+owing to its 'contrariety' since the great is contrary to the small.
+But (ii) Democritus dissented from all the other thinkers and maintained
+a theory peculiar to himself. He asserts that agent and patient are
+identical, i.e. 'like'. It is not possible (he says) that 'others',
+i.e. 'differents', should suffer action from one another: on the contrary,
+even if two things, being 'others', do act in some way on one another,
+this happens to them not qua 'others' but qua possessing an identical
+property. 
+
+Such, then, are the traditional theories, and it looks as if the statements
+of their advocates were in manifest conflict. But the reason of this
+conflict is that each group is in fact stating a part, whereas they
+ought to have taken a comprehensive view of the subject as a whole.
+For (i) if A and B are 'like'-absolutely and in all respects without
+difference from one another -it is reasonable to infer that neither
+is in any way affected by the other. Why, indeed, should either of
+them tend to act any more than the other? Moreover, if 'like' can
+be affected by 'like', a thing can also be affected by itself: and
+yet if that were so-if 'like' tended in fact to act qua 'like'-there
+would be nothing indestructible or immovable, for everything would
+move itself. And (ii) the same consequence follows if A and B are
+absolutely 'other', i.e. in no respect identical. Whiteness could
+not be affected in any way by line nor line by whiseness-except perhaps
+'coincidentally', viz. if the line happened to be white or black:
+for unless two things either are, or are composed of, 'contraries',
+neither drives the other out of its natural condition. But (iii) since
+only those things which either involve a 'contrariety' or are 'contraries'-and
+not any things selected at random-are such as to suffer action and
+to act, agent and patient must be 'like' (i.e. identical) in kind
+and yet 'unlike' (i.e. contrary) in species. (For it is a law of nature
+that body is affected by body, flavour by flavour, colour by colour,
+and so in general what belongs to any kind by a member of the same
+kind-the reason being that 'contraries' are in every case within a
+single identical kind, and it is 'contraries' which reciprocally act
+and suffer action.) Hence agent and patient must be in one sense identical,
+but in another sense other than (i.e. 'unlike') one another. And since
+(a) patient and agent are generically identical (i.e. 'like') but
+specifically 'unlike', while (b) it is 'contraries' that exhibit this
+character: it is clear that 'contraries' and their 'intermediates'
+are such as to suffer action and to act reciprocally-for indeed it
+is these that constitute the entire sphere of passing-away and coming-to-be.
+
+We can now understand why fire heats and the cold thing cools, and
+in general why the active thing assimilates to itself the patient.
+For agent and patient are contrary to one another, and coming-to-be
+is a process into the contrary: hence the patient must change into
+the agent, since it is only thus that coming-to be will be a process
+into the contrary. And, again, it is intelligible that the advocates
+of both views, although their theories are not the same, are yet in
+contact with the nature of the facts. For sometimes we speak of the
+substratum as suffering action (e.g. of 'the man' as being healed,
+being warmed and chilled, and similarly in all the other cases), but
+at other times we say 'what is cold is 'being warmed', 'what is sick
+is being healed': and in both these ways of speaking we express the
+truth, since in one sense it is the 'matter', while in another sense
+it is the 'contrary', which suffers action. (We make the same distinction
+in speaking of the agent: for sometimes we say that 'the man', but
+at other times that 'what is hot', produces heat.) Now the one group
+of thinkers supposed that agent and patient must possess something
+identical, because they fastened their attention on the substratum:
+while the other group maintained the opposite because their attention
+was concentrated on the 'contraries'. We must conceive the same account
+to hold of action and passion as that which is true of 'being moved'
+and 'imparting motion'. For the 'mover', like the 'agent', has two
+meanings. Both (a) that which contains the originative source of the
+motion is thought to 'impart motion' (for the originative source is
+first amongst the causes), and also (b) that which is last, i.e. immediately
+next to the moved thing and to the coming-to-be. A similar distinction
+holds also of the agent: for we speak not only (a) of the doctor,
+but also (b) of the wine, as healing. Now, in motion, there is nothing
+to prevent the firs; mover being unmoved (indeed, as regards some
+'first' movers' this is actually necessary) although the last mover
+always imparts motion by being itself moved: and, in action, there
+is nothing to prevent the first agent being unaffected, while the
+last agent only acts by suffering action itself. For agent and patient
+have not the same matter, agent acts without being affected: thus
+the art of healing produces health without itself being acted upon
+in any way by that which is being healed. But (b) the food, in acting,
+is itself in some way acted upon: for, in acting, it is simultaneously
+heated or cooled or otherwise affected. Now the art of healing corresponds
+to an 'originative source', while the food corresponds to 'the last'
+(i.e. 'continuous') mover. 
+
+Those active powers, then, whose forms are not embodied in matter,
+are unaffected: but those whose forms are in matter are such as to
+be affected in acting. For we maintain that one and the same 'matter'
+is equally, so to say, the basis of either of the two opposed things-being
+as it were a 'kind'; and that that which can he hot must be made hot,
+provided the heating agent is there, i.e. comes near. Hence (as we
+have said) some of the active powers are unaffected while others are
+such as to be affected; and what holds of motion is true also of the
+active powers. For as in motion 'the first mover' is unmoved, so among
+the active powers 'the first agent' is unaffected. 
+
+The active power is a 'cause' in the sense of that from which the
+process originates: but the end, for the sake of which it takes place,
+is not 'active'. (That is why health is not 'active', except metaphorically.)
+For when the agent is there, the patient he-comes something: but when
+'states' are there, the patient no longer becomes but already is-and
+'forms' (i.e. lends') are a kind of 'state'. As to the 'matter', it
+(qua matter) is passive. Now fire contains 'the hot' embodied in matter:
+but a 'hot' separate from matter (if such a thing existed) could not
+suffer any action. Perhaps, indeed, it is impossible that 'the hot'
+should exist in separation from matter: but if there are any entities
+thus separable, what we are saying would be true of them.
+
+We have thus explained what action and passion are, what things exhibit
+them, why they do so, and in what manner. We must go on to discuss
+how it is possible for action and passion to take place.
+
+Part 8
+
+Some philosophers think that the 'last' agent-the 'agent' in the strictest
+sense-enters in through certain pores, and so the patient suffers
+action. It is in this way, they assert, that we see and hear and exercise
+all our other senses. Moreover, according to them, things are seen
+through air and water and other transparent bodies, because such bodies
+possess pores, invisible indeed owing to their minuteness, but close-set
+and arranged in rows: and the more transparent the body, the more
+frequent and serial they suppose its pores to be. Such was the theory
+which some philosophers (induding Empedocles) advanced in regard to
+the structure of certain bodies. They do not restrict it to the bodies
+which act and suffer action: but 'combination' too, they say, takes
+place 'only between bodies whose pores are in reciprocal symmetry'.
+The most systematic and consistent theory, however, and one that applied
+to all bodies, was advanced by Leucippus and Democritus: and, in maintaining
+it, they took as their starting-point what naturally comes first.
+
+For some of the older philosophers thought that 'what is' must of
+necessity be 'one' and immovable. The void, they argue, 'is not':
+but unless there is a void with a separate being of its own, 'what
+is' cannot be moved-nor again can it be 'many', since there is nothing
+to keep things apart. And in this respect, they insist, the view that
+the universe is not 'continuous' but 'discretes-in-contact' is no
+better than the view that there are 'many' (and not 'one') and a void.
+For (suppose that the universe is discretes-in-contact. Then), if
+it is divisible through and through, there is no 'one', and therefore
+no 'many' either, but the Whole is void; while to maintain that it
+is divisible at some points, but not at others, looks like an arbitrary
+fiction. For up to what limit is it divisible? And for what reason
+is part of the Whole indivisible, i.e. a plenum, and part divided?
+Further, they maintain, it is equally necessary to deny the existence
+of motion. 
+
+Reasoning in this way, therefore, they were led to transcend sense-perception,
+and to disregard it on the ground that 'one ought to follow the argument':
+and so they assert that the universe is 'one' and immovable. Some
+of them add that it is 'infinite', since the limit (if it had one)
+would be a limit against the void. 
+
+There were, then, certain thinkers who, for the reasons we have stated,
+enunciated views of this kind as their theory of 'The Truth'.... Moreover,
+although these opinions appear to follow logically in a dialectical
+discussion, yet to believe them seems next door to madness when one
+considers the facts. For indeed no lunatic seems to be so far out
+of his senses as to suppose that fire and ice are 'one': it is only
+between what is right and what seems right from habit, that some people
+are mad enough to see no difference. 
+
+Leucippus, however, thought he had a theory which harmonized with
+sense-perception and would not abolish either coming-to-be and passing-away
+or motion and the multiplicity of things. He made these concessions
+to the facts of perception: on the other hand, he conceded to the
+Monists that there could be no motion without a void. The result is
+a theory which he states as follows: 'The void is a "not being", and
+no part of "what is" is a "not-being"; for what "is" in the strict
+sense of the term is an absolute plenum. This plenum, however, is
+not "one": on the contrary, it is a many" infinite in number and invisible
+owing to the minuteness of their bulk. The "many" move in the void
+(for there is a void): and by coming together they produce "coming
+to-be", while by separating they produce "passing-away". Moreover,
+they act and suffer action wherever they chance to be in contact (for
+there they are not "one"), and they generate by being put together
+and becoming intertwined. From the genuinely-one, on the other hand,
+there never could have come-to-be a multiplicity, nor from the genuinely-many
+a "one": that is impossible. But' (just as Empedocles and some of
+the other philosophers say that things suffer action through their
+pores, so) 'all "alteration" and all "passion" take place in the way
+that has been explained: breaking-up (i.e. passing-away) is effected
+by means of the void, and so too is growth-solids creeping in to fill
+the void places.' Empedocles too is practically bound to adopt the
+same theory as Leucippus. For he must say that there are certain solids
+which, however, are indivisible-unless there are continuous pores
+all through the body. But this last alternative is impossible: for
+then there will be nothing solid in the body (nothing beside the pores)
+but all of it will be void. It is necessary, therefore, for his 'contiguous
+discretes' to be indivisible, while the intervals between them-which
+he calls 'pores'-must be void. But this is precisely Leucippus' theory
+of action and passion. 
+
+Such, approximately, are the current explanations of the manner in
+which some things 'act' while others 'suffer action'. And as regards
+the Atomists, it is not only clear what their explanation is: it is
+also obvious that it follows with tolerable consistency from the assumptions
+they employ. But there is less obvious consistency in the explanation
+offered by the other thinkers. It is not clear, for instance, how,
+on the theory of Empedocles, there is to be 'passing-away' as well
+as 'alteration'. For the primary bodies of the Atomists-the primary
+constituents of which bodies are composed, and the ultimate elements
+into which they are dissolved-are indivisible, differing from one
+another only in figure. In the philosophy of Empedocles, on the other
+hand, it is evident that all the other bodies down to the 'elements'
+have their coming-to-be and their passingaway: but it is not clear
+how the 'elements' themselves, severally in their aggregated masses,
+come-to-be and pass-away. Nor is it possible for Empedocles to explain
+how they do so, since he does not assert that Fire too (and similarly
+every one of his other 'elements') possesses 'elementary constituents'
+of itself. 
+
+Such an assertion would commit him to doctrines like those which Plato
+has set forth in the Timaeus. For although both Plato and Leucippus
+postulate elementary constituents that are indivisible and distinctively
+characterized by figures, there is this great difference between the
+two theories: the 'indivisibles' of Leucippus (i) are solids, while
+those of Plato are planes, and (ii) are characterized by an infinite
+variety of figures, while the characterizing figures employed by Plato
+are limited in number. Thus the 'comings-to-be' and the 'dissociations'
+result from the 'indivisibles' (a) according to Leucippus through
+the void and through contact (for it is at the point of contact that
+each of the composite bodies is divisible), but (b) according to Plato
+in virtue of contact alone, since he denies there is a void.
+
+Now we have discussed 'indivisible planes' in the preceding treatise.'
+But with regard to the assumption of 'indivisible solids', although
+we must not now enter upon a detailed study of its consequences, the
+following criticisms fall within the compass of a short digression:
+i. The Atomists are committed to the view that every 'indivisible'
+is incapable alike of receiving a sensible property (for nothing can
+'suffer action' except through the void) and of producing one-no 'indivisible'
+can be, e.g. either hard or cold. Yet it is surely a paradox that
+an exception is made of 'the hot'-'the hot' being assigned as peculiar
+to the spherical figure: for, that being so, its 'contrary' also ('the
+cold') is bound to belong to another of the figures. If, however,
+these properties (heat and cold) do belong to the 'indivisibles',
+it is a further paradox that they should not possess heaviness and
+lightness, and hardness and softness. And yet Democritus says 'the
+more any indivisible exceeds, the heavier it is'-to which we must
+clearly add 'and the hotter it is'. But if that is their character,
+it is impossible they should not be affected by one another: the 'slightly-hot
+indivisible', e.g. will inevitably suffer action from one which far
+exceeds it in heat. Again, if any 'indivisible' is 'hard', there must
+also be one which is 'soft': but 'the soft' derives its very name
+from the fact that it suffers a certain action-for 'soft' is that
+which yields to pressure. 
+
+Ii. But further, not only is it paradoxical (i) that no property except
+figure should belong to the 'indivisibles': it is also paradoxical
+(ii) that, if other properties do belong to them, one only of these
+additional properties should attach to each-e.g. that this 'indivisible'
+should be cold and that 'indivisible' hot. For, on that supposition,
+their substance would not even be uniform. And it is equally impossible
+(iii) that more than one of these additional properties should belong
+to the single 'indivisible'. For, being indivisible, it will possess
+these properties in the same point-so that, if it 'suffers action'
+by being chilled, it will also, qua chilled, 'act' or 'suffer action'
+in some other way. And the same line of argument applies to all the
+other properties too: for the difficulty we have just raised confronts,
+as a necessary consequence, all who advocate 'indivisibles' (whether
+solids or planes), since their 'indivisibles' cannot become either
+'rarer' or 'derser' inasmuch as there is no void in them.
+
+Iii. It is a further paradox that there should be small 'indivisibles',
+but not large ones. For it is natural enough, from the ordinary point
+of view, that the larger bodies should be more liable to fracture
+than the small ones, since they (viz. the large bodies) are easily
+broken up because they collide with many other bodies. But why should
+indivisibility as such be the property of small, rather than of large,
+bodies? 
+
+Iv. Again, is the substance of all those solids uniform, or do they
+fall into sets which differ from one another-as if, e.g. some of them,
+in their aggregated bulk, were 'fiery', others earthy'? For (i) if
+all of them are uniform in substance, what is it that separated one
+from another? Or why, when they come into contact, do they not coalesce
+into one, as drops of water run together when drop touches drop (for
+the two cases are precisely parallel)? On the other hand (ii) if they
+fall into differing sets, how are these characterized? It is clear,
+too, that these, rather than the 'figures', ought to be postulated
+as 'original reals', i.e. causes from which the phenomena result.
+Moreover, if they differed in substance, they would both act and suffer
+action on coming into reciprocal contact. 
+
+V. Again, what is it which sets them moving? For if their 'mover'
+is other than themselves, they are such as to 'suffer action'. If,
+on the other hand, each of them sets itself in motion, either (a)
+it will be divisible ('imparting motion' qua this, 'being moved' qua
+that), or (b) contrary properties will attach to it in the same respect-i.e.
+'matter' will be identical in-potentiality as well as numerically-identical.
+
+As to the thinkers who explain modification of property through the
+movement facilitated by the pores, if this is supposed to occur notwithstanding
+the fact that the pores are filled, their postulate of pores is superfluous.
+For if the whole body suffers action under these conditions, it would
+suffer action in the same way even if it had no pores but were just
+its own continuous self. Moreover, how can their account of 'vision
+through a medium' be correct? It is impossible for (the visual ray)
+to penetrate the transparent bodies at their 'contacts'; and impossible
+for it to pass through their pores if every pore be full. For how
+will that differ from having no pores at all? The body will be uniformly
+'full' throughout. But, further, even if these passages, though they
+must contain bodies, are 'void', the same consequence will follow
+once more. And if they are 'too minute to admit any body', it is absurd
+to suppose there is a 'minute' void and yet to deny the existence
+of a 'big' one (no matter how small the 'big' may be), or to imagine
+'the void' means anything else than a body's place-whence it clearly
+follows that to every body there will correspond a void of equal cubic
+capacity. 
+
+As a general criticism we must urge that to postulate pores is superfluous.
+For if the agent produces no effect by touching the patient, neither
+will it produce any by passing through its pores. On the other hand,
+if it acts by contact, then-even without pores-some things will 'suffer
+action' and others will 'act', provided they are by nature adapted
+for reciprocal action and passion. Our arguments have shown that it
+is either false or futile to advocate pores in the sense in which
+some thinkers conceive them. But since bodies are divisible through
+and through, the postulate of pores is ridiculous: for, qua divisible,
+a body can fall into separate parts. 
+
+Part 9
+
+Let explain the way in which things in fact possess the power of generating,
+and of acting and suffering action: and let us start from the principle
+we have often enunciated. For, assuming the distinction between (a)
+that which is potentially and (b) that which is actually such-and-such,
+it is the nature of the first, precisely in so far as it is what it
+is, to suffer action through and through, not merely to be susceptible
+in some parts while insusceptible in others. But its susceptibility
+varies in degree, according as it is more or less; such-and such,
+and one would be more justified in speaking of 'pores' in this connexion:
+for instance, in the metals there are veins of 'the susceptible' stretching
+continuously through the substance. 
+
+So long, indeed, as any body is naturally coherent and one, it is
+insusceptible. So, too, bodies are insusceptible so long as they are
+not in contact either with one another or with other bodies which
+are by nature such as to act and suffer action. (To illustrate my
+meaning: Fire heats not only when in contact, but also from a distance.
+For the fire heats the air, and the air-being by nature such as both
+to act and suffer action-heats the body.) But the supposition that
+a body is 'susceptible in some parts, but insusceptible in others'
+(is only possible for those who hold an erroneous view concerning
+the divisibility of magnitudes. For us) the following account results
+from the distinctions we established at the beginning. For (i) if
+magnitudes are not divisible through and through-if, on the contrary,
+there are indivisible solids or planes-then indeed no body would be
+susceptible through and through :but neither would any be continuous.
+Since, however, (ii) this is false, i.e. since every body is divisible,
+there is no difference between 'having been divided into parts which
+remain in contact' and 'being divisible'. For if a body 'can be separated
+at the contacts' (as some thinkers express it), then, even though
+it has not yet been divided, it will be in a state of dividedness-since,
+as it can be divided, nothing inconceivable results. And (iii) the
+suposition is open to this general objection-it is a paradox that
+'passion' should occur in this manner only, viz. by the bodies being
+split. For this theory abolishes 'alteration': but we see the same
+body liquid at one time and solid at another, without losing its continuity.
+It has suffered this change not by 'division' and composition', nor
+yet by 'turning' and 'intercontact' as Democritus asserts; for it
+has passed from the liquid to the solid state without any change of
+'grouping' or 'position' in the constituents of its substance. Nor
+are there contained within it those 'hard' (i.e. congealed) particles
+'indivisible in their bulk': on the contrary, it is liquid-and again,
+solid and congealed-uniformly all through. This theory, it must be
+added, makes growth and diminution impossible also. For if there is
+to be opposition (instead of the growing thing having changed as a
+whole, either by the admixture of something or by its own transformation),
+increase of size will not have resulted in any and every part.
+
+So much, then, to establish that things generate and are generated,
+act and suffer action, reciprocally; and to distinguish the way in
+which these processes can occur from the (impossible) way in which
+some thinkers say they occur. 
+
+Part 10
+
+But we have still to explain 'combination', for that was the third
+of the subjects we originally proposed to discuss. Our explanation
+will proceed on the same method as before. We must inquire: What is
+'combination', and what is that which can 'combine'? Of what things,
+and under what conditions, is 'combination' a property? And, further,
+does 'combination' exist in fact, or is it false to assert its existence?
+
+For, according to some thinkers, it is impossible for one thing to
+be combined with another. They argue that (i) if both the 'combined'
+constituents persist unaltered, they are no more 'combined' now than
+they were before, but are in the same condition: while (ii) if one
+has been destroyed, the constituents have not been 'combined'-on the
+contrary, one constituent is and the other is not, whereas 'combination'
+demands uniformity of condition in them both: and on the same principle
+(iii) even if both the combining constituents have been destroyed
+as the result of their coalescence, they cannot 'have been combined'
+since they have no being at all. 
+
+What we have in this argument is, it would seem, a demand for the
+precise distinction of 'combination' from coming-to-be and passingaway
+(for it is obvious that 'combination', if it exists, must differ from
+these processes) and for the precise distinction of the 'combinable'
+from that which is such as to come-to-be and pass-away. As soon, therefore,
+as these distinctions are clear, the difficulties raised by the argument
+would be solved. 
+
+Now (i) we do not speak of the wood as 'combined' with the fire, nor
+of its burning as a 'combining' either of its particles with one another
+or of itself with the fire: what we say is that 'the fire is coming-to-be,
+but the wood is 'passing-away'. Similarly, we speak neither (ii) of
+the food as 'combining' with the body, nor (iii) of the shape as 'combining'
+with the wax and thus fashioning the lump. Nor can body 'combine'
+with white, nor (to generalize) 'properties' and 'states' with 'things':
+for we see them persisting unaltered. But again (iv) white and knowledge
+cannot be 'combined' either, nor any other of the 'adjectivals'. (Indeed,
+this is a blemish in the theory of those who assert that 'once upon
+a time all things were together and combined'. For not everything
+can 'combine' with everything. On the contrary, both of the constituents
+that are combined in the compound must originally have existed in
+separation: but no property can have separate existence.)
+
+Since, however, some things are-potentially while others are-actually,
+the constituents combined in a compound can 'be' in a sense and yet
+'not-be'. The compound may he-actually other than the constituents
+from which it has resulted; nevertheless each of them may still he-potentially
+what it was before they were combined, and both of them may survive
+undestroyed. (For this was the difficulty that emerged in the previous
+argument: and it is evident that the combining constituents not only
+coalesce, having formerly existed in separation, but also can again
+be separated out from the compound.) The constituents, therefore,
+neither (a) persist actually, as 'body' and 'white' persist: nor (b)
+are they destroyed (either one of them or both), for their 'power
+of action' is preserved. Hence these difficulties may be dismissed:
+but the problem immediately connected with them-whether combination
+is something relative to perception' must be set out and discussed.
+
+When the combining constituents have been divided into parts so small,
+and have been juxtaposed in such a manner, that perception fails to
+discriminate them one from another, have they then 'been combined
+Or ought we to say 'No, not until any and every part of one constituent
+is juxtaposed to a part of the other'? The term, no doubt, is applied
+in the former sense: we speak, e.g. of wheat having been 'combined'
+with barley when each grain of the one is juxtaposed to a grain of
+the other. But every body is divisible and therefore, since body 'combined'
+with body is uniform in texture throughout, any and every part of
+each constituent ought to be juxtaposed to a part of the other.
+
+No body, however, can be divided into its 'least' parts: and 'composition'
+is not identical with 'combination', but other than it. From these
+premises it clearly follows (i) that so long as the constituents are
+preserved in small particles, we must not speak of them as 'combined'.
+(For this will be a 'composition' instead of a 'blending' or 'combination':
+nor will every portion of the resultant exhibit the same ratio between
+its constituents as the whole. But we maintain that, if 'combination'
+has taken place, the compound must be uniform in texture throughout-any
+part of such a compound being the same as the whole, just as any part
+of water is water: whereas, if 'combination' is 'composition of the
+small particles', nothing of the kind will happen. On the contrary,
+the constituents will only be 'combined' relatively to perception:
+and the same thing will be 'combined' to one percipient, if his sight
+is not sharp, (but not to another,) while to the eye of Lynceus nothing
+will be 'combined'.) It clearly follows (ii) that we must not speak
+of the constituents as 'combined in virtue of a division such that
+any and every part of each is juxtaposed to a part of the other: for
+it is impossible for them to be thus divided. Either, then, there
+is no 'combination', or we have still to explain the manner in which
+it can take place. 
+
+Now, as we maintain, some things are such as to act and others such
+as to suffer action from them. Moreover, some things-viz. those Which
+have the same matter-'reciprocate', i.e. are such as to act upon one
+another and to suffer action from one another; while other things,
+viz. agents which have not the same matter as their patients, act
+without themselves suffering action. Such agents cannot 'combine'-that
+is why neither the art of healing nor health produces health by 'combining'
+with the bodies of the patients. Amongst those things, however, which
+are reciprocally active and passive, some are easily-divisible. Now
+(i) if a great quantity (or a large bulk) of one of these easily-divisible
+'reciprocating' materials be brought together with a little (or with
+a small piece) of another, the effect produced is not 'combination',
+but increase of the dominant: for the other material is transformed
+into the dominant. (That is why a drop of wine does not 'combine'
+with ten thousand gallons of water: for its form is dissolved, and
+it is changed so as to merge in the total volume of water.) On the
+other hand (ii) when there is a certain equilibrium between their
+'powers of action', then each of them changes out of its own nature
+towards the dominant: yet neither becomes the other, but both become
+an intermediate with properties common to both. 
+
+Thus it is clear that only those agents are 'combinable' which involve
+a contrariety-for these are such as to suffer action reciprocally.
+And, further, they combine more freely if small pieces of each of
+them are juxtaposed. For in that condition they change one another
+more easily and more quickly; whereas this effect takes a long time
+when agent and patient are present in bulk. 
+
+Hence, amongst the divisible susceptible materials, those whose shape
+is readily adaptable have a tendency to combine: for they are easily
+divided into small particles, since that is precisely what 'being
+readily adaptable in shape' implies. For instance, liquids are the
+most 'combinable' of all bodies-because, of all divisible materials,
+the liquid is most readily adaptable in shape, unless it be viscous.
+Viscous liquids, it is true, produce no effect except to increase
+the volume and bulk. But when one of the constituents is alone susceptible-or
+superlatively susceptible, the other being susceptible in a very slight
+degree-the compound resulting from their combination is either no
+greater in volume or only a little greater. This is what happens when
+tin is combined with bronze. For some things display a hesitating
+and ambiguous attitude towards one another-showing a slight tendency
+to combine and also an inclination to behave as 'receptive matter'
+and 'form' respectively. The behaviour of these metals is a case in
+point. For the tin almost vanishes, behaving as if it were an immaterial
+property of the bronze: having been combined, it disappears, leaving
+no trace except the colour it has imparted to the bronze. The same
+phenomenon occurs in other instances too. 
+
+It is clear, then, from the foregoing account, that 'combination'
+occurs, what it is, to what it is due, and what kind of thing is 'combinable'.
+The phenomenon depends upon the fact that some things are such as
+to be (a) reciprocally susceptible and (b) readily adaptable in shape,
+i.e. easily divisible. For such things can be 'combined' without its
+being necessary either that they should have been destroyed or that
+they should survive absolutely unaltered: and their 'combination'
+need not be a 'composition', nor merely 'relative to perception'.
+On the contrary: anything is 'combinable' which, being readily adaptable
+in shape, is such as to suffer action and to act; and it is 'combinable
+with' another thing similarly characterized (for the 'combinable'
+is relative to the 'combinable'); and 'combination' is unification
+of the 'combinables', resulting from their 'alteration'.
+
+----------------------------------------------------------------------
+
+BOOK II
+
+Part 1 
+
+We have explained under what conditions 'combination', 'contact',
+and 'action-passion' are attributable to the things which undergo
+natural change. Further, we have discussed 'unqualified' coming-to-be
+and passing-away, and explained under what conditions they are predicable,
+of what subject, and owing to what cause. Similarly, we have also
+discussed 'alteration', and explained what 'altering' is and how it
+differs from coming-to-be and passing-away. But we have still to investigate
+the so-called 'elements' of bodies. 
+
+For the complex substances whose formation and maintenance are due
+to natural processes all presuppose the perceptible bodies as the
+condition of their coming-to-be and passing-away: but philosophers
+disagree in regard to the matter which underlies these perceptible
+bodies. Some maintain it is single, supposing it to be, e.g. Air or
+Fire, or an 'intermediate' between these two (but still a body with
+a separate existence). Others, on the contrary, postulate two or more
+materials-ascribing to their 'association' and 'dissociation', or
+to their 'alteration', the coming-to-be and passing-away of things.
+(Some, for instance, postulate Fire and Earth: some add Air, making
+three: and some, like Empedocles, reckon Water as well, thus postulating
+four.) 
+
+Now we may agree that the primary materials, whose change (whether
+it be 'association and dissociation' or a process of another kind)
+results in coming-to-be and passingaway, are rightly described as
+'originative sources, i.e. elements'. But (i) those thinkers are in
+error who postulate, beside the bodies we have mentioned, a single
+matter-and that corporeal and separable matter. For this 'body' of
+theirs cannot possibly exist without a 'perceptible contrariety':
+this 'Boundless', which some thinkers identify with the 'original
+real', must be either light or heavy, either cold or hot. And (ii)
+what Plato has written in the Timaeus is not based on any precisely-articulated
+conception. For he has not stated clearly whether his 'Omnirecipient"
+exists in separation from the 'elements'; nor does he make any use
+of it. He says, indeed, that it is a substratum prior to the so-called
+'elements'-underlying them, as gold underlies the things that are
+fashioned of gold. (And yet this comparison, if thus expressed, is
+itself open to criticism. Things which come-to-be and pass-away cannot
+be called by the name of the material out of which they have come-tobe:
+it is only the results of 'alteration' which retain the name of the
+substratum whose 'alterations' they are. However, he actually says'
+that the truest account is to affirm that each of them is "gold"'.)
+Nevertheless he carries his analysis of the 'elements'-solids though
+they are-back to 'planes', and it is impossible for 'the Nurse' (i.e.
+the primary matter) to be identical with 'the planes'. 
+
+Our own doctrine is that although there is a matter of the perceptible
+bodies (a matter out of which the so-called 'clements' come-to-be),
+it has no separate existence, but is always bound up with a contrariety.
+A more precise account of these presuppositions has been given in
+another work': we must, however, give a detailed explanation of the
+primary bodies as well, since they too are similarly derived from
+the matter. We must reckon as an 'originative source' and as 'primary'
+the matter which underlies, though it is inseparable from, the contrary
+qualities: for the hot' is not matter for 'the cold' nor 'the cold'
+for 'the hot', but the substratum is matter for them both. We therefore
+have to recognize three 'originative sources': firstly that which
+potentially perceptible body, secondly the contrarieties (I mean,
+e.g. heat and cold), and thirdly Fire, Water, and the like. Only 'thirdly',
+however: for these bodies change into one another (they are not immutable
+as Empedocles and other thinkers assert, since 'alteration' would
+then have been impossible), whereas the contrarieties do not change.
+
+Nevertheless, even so the question remains: What sorts of contrarieties,
+and how many of them, are to be accounted 'originative sources' of
+body? For all the other thinkers assume and use them without explaining
+why they are these or why they are just so many. 
+
+Part 2
+
+Since, then, we are looking for 'originative sources' of perceptible
+body; and since 'perceptible' is equivalent to 'tangible', and 'tangible'
+is that of which the perception is touch; it is clear that not all
+the contrarieties constitute 'forms' and 'originative sources' of
+body, but only those which correspond to touch. For it is in accordance
+with a contrariety-a contrariety, moreover, of tangible qualities-that
+the primary bodies are differentiated. That is why neither whiteness
+(and blackness), nor sweetness (and bitterness), nor (similarly) any
+quality belonging to the other perceptible contrarieties either, constitutes
+an 'element'. And yet vision is prior to touch, so that its object
+also is prior to the object of touch. The object of vision, however,
+is a quality of tangible body not qua tangible, but qua something
+else-qua something which may well be naturally prior to the object
+of touch. 
+
+Accordingly, we must segregate the tangible differences and contrarieties,
+and distinguish which amongst them are primary. Contrarieties correlative
+to touch are the following: hot-cold, dry-moist, heavy-light, hard-soft,
+viscous-brittle, rough-smooth, coarse-fine. Of these (i) heavy and
+light are neither active nor susceptible. Things are not called 'heavy'
+and 'light' because they act upon, or suffer action from, other things.
+But the 'elements' must be reciprocally active and susceptible, since
+they 'combine' and are transformed into one another. On the other
+hand (ii) hot and cold, and dry and moist, are terms, of which the
+first pair implies power to act and the second pair susceptibility.
+'Hot' is that which 'associates' things of the same kind (for 'dissociating',
+which people attribute to Fire as its function, is 'associating' things
+of the same class, since its effect is to eliminate what is foreign),
+while 'cold' is that which brings together, i.e. 'associates', homogeneous
+and heterogeneous things alike. And moise is that which, being readily
+adaptable in shape, is not determinable by any limit of its own: while
+'dry' is that which is readily determinable by its own limit, but
+not readily adaptable in shape. 
+
+From moist and dry are derived (iii) the fine and coarse, viscous
+and brittle, hard and soft, and the remaining tangible differences.
+For (a) since the moist has no determinate shape, but is readily adaptable
+and follows the outline of that which is in contact with it, it is
+characteristic of it to be 'such as to fill up'. Now 'the fine' is
+'such as to fill up'. For the fine' consists of subtle particles;
+but that which consists of small particles is 'such as to fill up',
+inasmuch as it is in contact whole with whole-and 'the fine' exhibits
+this character in a superlative degree. Hence it is evident that the
+fine derives from the moist, while the coarse derives from the dry.
+Again (b) the viscous' derives from the moist: for 'the viscous' (e.g.
+oil) is a 'moist' modified in a certain way. 'The brittle', on the
+other hand, derives from the dry: for 'brittle' is that which is completely
+dry-so completely, that its solidification has actually been due to
+failure of moisture. Further (c) 'the soft' derives from the moist.
+For 'soft' is that which yields to pressure by retiring into itself,
+though it does not yield by total displacement as the moist does-which
+explains why the moist is not 'soft', although 'the soft' derives
+from the moist. 'The hard', on the other hand, derives from the dry:
+for 'hard' is that which is solidified, and the solidified is dry.
+
+The terms 'dry' and 'moist' have more senses than one. For 'the damp',
+as well as the moist, is opposed to the dry: and again 'the solidified',
+as well as the dry, is opposed to the moist. But all these qualities
+derive from the dry and moist we mentioned first.' For (i) the dry
+is opposed to the damp: i.e. 'damp' is that which has foreign moisture
+on its surface ('sodden' being that which is penetrated to its core),
+while 'dry' is that which has lost foreign moisture. Hence it is evident
+that the damp will derive from the moist, and 'the dry' which is opposed
+to it will derive from the primary dry. Again (ii) the 'moist' and
+the solidified derive in the same way from the primary pair. For 'moist'
+is that which contains moisture of its-own deep within it ('sodden'
+being that which is deeply penetrated by foreign mosture), whereas
+'solidigied' is that which has lost this inner moisture. Hence these
+too derive from the primary pair, the 'solidified' from the dry and
+the 'solidified' from the dry the 'liquefiable' from the moist.
+
+It is clear, then, that all the other differences reduce to the first
+four, but that these admit of no further reduction. For the hot is
+not essentially moist or dry, nor the moist essentially hot or cold:
+nor are the cold and the dry derivative forms, either of one another
+or of the hot and the moist. Hence these must be four. 
+
+Part 3
+
+The elementary qualities are four, and any four terms can be combined
+in six couples. Contraries, however, refuse to be coupled: for it
+is impossible for the same thing to be hot and cold, or moist and
+dry. Hence it is evident that the 'couplings' of the elementary qualities
+will be four: hot with dry and moist with hot, and again cold with
+dry and cold with moist. And these four couples have attached themselves
+to the apparently 'simple' bodies (Fire, Air, Water, and Earth) in
+a manner consonant with theory. For Fire is hot and dry, whereas Air
+is hot and moist (Air being a sort of aqueous vapour); and Water is
+cold and moist, while Earth is cold and dry. Thus the differences
+are reasonably distributed among the primary bodies, and the number
+of the latter is consonant with theory. For all who make the simple
+bodies 'elements' postulate either one, or two, or three, or four.
+Now (i) those who assert there is one only, and then generate everything
+else by condensation and rarefaction, are in effect making their 'originative
+sources' two, viz. the rare and the dense, or rather the hot and the
+cold: for it is these which are the moulding forces, while the 'one'
+underlies them as a 'matter'. But (ii) those who postulate two from
+the start-as Parmenides postulated Fire and Earth-make the intermediates
+(e.g. Air and Water) blends of these. The same course is followed
+(iii) by those who advocate three. (We may compare what Plato does
+in Me Divisions': for he makes 'the middle' a blend.) Indeed, there
+is practically no difference between those who postulate two and those
+who postulate three, except that the former split the middle 'element'
+into two, while the latter treat it as only one. But (iv) some advocate
+four from the start, e.g. Empedocles: yet he too draws them together
+so as to reduce them to the two, for he opposes all the others to
+Fire. 
+
+In fact, however, fire and air, and each of the bodies we have mentioned,
+are not simple, but blended. The 'simple' bodies are indeed similar
+in nature to them, but not identical with them. Thus the 'simple'
+body corresponding to fire is 'such-as-fire, not fire: that which
+corresponds to air is 'such-as-air': and so on with the rest of them.
+But fire is an excess of heat, just as ice is an excess of cold. For
+freezing and boiling are excesses of heat and cold respectively. Assuming,
+therefore, that ice is a freezing of moist and cold, fire analogously
+will be a boiling of dry and hot: a fact, by the way, which explains
+why nothing comes-to-be either out of ice or out of fire.
+
+The 'simple' bodies, since they are four, fall into two pairs which
+belong to the two regions, each to each: for Fire and Air are forms
+of the body moving towards the 'limit', while Earth and Water are
+forms of the body which moves towards the 'centre'. Fire and Earth,
+moreover, are extremes and purest: Water and Air, on the contrary
+are intermediates and more like blends. And, further, the members
+of either pair are contrary to those of the other, Water being contrary
+to Fire and Earth to Air; for the qualities constituting Water and
+Earth are contrary to those that constitute Fire and Air. Nevertheless,
+since they are four, each of them is characterized par excellence
+a single quality: Earth by dry rather than by cold, Water by cold
+rather than by moist, Air by moist rather than by hot, and Fire by
+hot rather than by dry. 
+
+Part 4
+
+It has been established before' that the coming-to-be of the 'simple'
+bodies is reciprocal. At the same time, it is manifest, even on the
+evidence of perception, that they do come-to-be: for otherwise there
+would not have been 'alteration, since 'alteration' is change in respect
+to the qualities of the objects of touch. Consequently, we must explain
+(i) what is the manner of their reciprocal transformation, and (ii)
+whether every one of them can come to-be out of every one-or whether
+some can do so, but not others. 
+
+Now it is evident that all of them are by nature such as to change
+into one another: for coming-to-be is a change into contraries and
+out of contraries, and the 'elements' all involve a contrariety in
+their mutual relations because their distinctive qualities are contrary.
+For in some of them both qualities are contrary-e.g. in Fire and Water,
+the first of these being dry and hot, and the second moist and cold:
+while in others one of the qualities (though only one) is contrary-e.g.
+in Air and Water, the first being moist and hot, and the second moist
+and cold. It is evident, therefore, if we consider them in general,
+that every one is by nature such as to come-to-be out of every one:
+and when we come to consider them severally, it is not difficult to
+see the manner in which their transformation is effected. For, though
+all will result from all, both the speed and the facility of their
+conversion will differ in degree. 
+
+Thus (i) the process of conversion will be quick between those which
+have interchangeable 'complementary factors', but slow between those
+which have none. The reason is that it is easier for a single thing
+to change than for many. Air, e.g. will result from Fire if a single
+quality changes: for Fire, as we saw, is hot and dry while Air is
+hot and moist, so that there will be Air if the dry be overcome by
+the moist. Again, Water will result from Air if the hot be overcome
+by the cold: for Air, as we saw, is hot and moist while Water is cold
+and moist, so that, if the hot changes, there will be Water. So too,
+in the same manner, Earth will result from Water and Fire from Earth,
+since the two 'elements' in both these couples have interchangeable
+'complementary factors'. For Water is moist and cold while Earth is
+cold and dry-so that, if the moist be overcome, there will be Earth:
+and again, since Fire is dry and hot while Earth is cold and dry,
+Fire will result from Earth if the cold pass-away. 
+
+It is evident, therefore, that the coming-to-be of the 'simple' bodies
+will be cyclical; and that this cyclical method of transformation
+is the easiest, because the consecutive 'clements' contain interchangeable
+'complementary factors'. On the other hand (ii) the transformation
+of Fire into Water and of Air into Earth, and again of Water and Earth
+into Fire and Air respectively, though possible, is more difficult
+because it involves the change of more qualities. For if Fire is to
+result from Water, both the cold and the moist must pass-away: and
+again, both the cold and the dry must pass-away if Air is to result
+from Earth. So' too, if Water and Earth are to result from Fire and
+Air respectively-both qualities must change. 
+
+This second method of coming-to-be, then, takes a longer time. But
+(iii) if one quality in each of two 'elements' pass-away, the transformation,
+though easier, is not reciprocal. Still, from Fire plus Water there
+will result Earth and Air, and from Air plus Earth Fire and Water.
+For there will be Air, when the cold of the Water and the dry of the
+Fire have passed-away (since the hot of the latter and the moist of
+the former are left): whereas, when the hot of the Fire and the moist
+of the Water have passed-away, there will be Earth, owing to the survival
+of the dry of the Fire and the cold of the Water. So, too, in the
+same Way, Fire and Water will result from Air plus Earth. For there
+will be Water, when the hot of the Air and the dry of the Earth have
+passed-away (since the moist of the former and the cold of the latter
+are left): whereas, when the moist of the Air and the cold of the
+Earth have passed-away, there will be Fire, owing to the survival
+of the hot of the Air and the dry of the Earth-qualities essentially
+constitutive of Fire. Moreover, this mode of Fire's coming-to-be is
+confirmed by perception. For flame is par excellence Fire: but flame
+is burning smoke, and smoke consists of Air and Earth. 
+
+No transformation, however, into any of the 'simple' bodies can result
+from the passingaway of one elementary quality in each of two 'elements'
+when they are taken in their consecutive order, because either identical
+or contrary qualities are left in the pair: but no 'simple' body can
+be formed either out of identical, or out of contrary, qualities.
+Thus no 'simple' body would result, if the dry of Fire and the moist
+of Air were to pass-away: for the hot is left in both. On the other
+hand, if the hot pass-away out both, the contraries-dry and moist-are
+left. A similar result will occur in all the others too: for all the
+consecutive 'elements' contain one identical, and one contrary, quality.
+Hence, too, it clearly follows that, when one of the consecutive 'elements'
+is transformed into one, the coming-to-be is effected by the passing-away
+of a single quality: whereas, when two of them are transformed into
+a third, more than one quality must have passedaway. 
+
+We have stated that all the 'elements' come-to-be out of any one of
+them; and we have explained the manner in which their mutual conversion
+takes place. Let us nevertheless supplement our theory by the following
+speculations concerning them. 
+
+Part 5
+
+If Water, Air, and the like are a 'matter' of which the natural bodies
+consist, as some thinkers in fact believe, these 'clements' must be
+either one, or two, or more. Now they cannot all of them be one-they
+cannot, e.g. all be Air or Water or Fire or Earth-because 'Change
+is into contraries'. For if they all were Air, then (assuming Air
+to persist) there will be 'alteration' instead of coming-to-be. Besides,
+nobody supposes a single 'element' to persist, as the basis of all,
+in such a way that it is Water as well as Air (or any other 'element')
+at the same time. So there will be a certain contrariety, i.e. a differentiating
+quality: and the other member of this contrariety, e.g. heat, will
+belong to some other 'element', e.g. to Fire. But Fire will certainly
+not be 'hot Air'. For a change of that kind (a) is 'alteration', and
+(b) is not what is observed. Moreover (c) if Air is again to result
+out of the Fire, it will do so by the conversion of the hot into its
+contrary: this contrary, therefore, will belong to Air, and Air will
+be a cold something: hence it is impossible for Fire to be 'hot Air',
+since in that case the same thing will be simultaneously hot and cold.
+Both Fire and Air, therefore, will be something else which is the
+same; i.e. there will be some 'matter', other than either, common
+to both. 
+
+The same argument applies to all the 'elements', proving that there
+is no single one of them out of which they all originate. But neither
+is there, beside these four, some other body from which they originate-a
+something intermediate, e.g. between Air and Water (coarser than Air,
+but finer than Water), or between Air and Fire (coarser than Fire,
+but finer than Air). For the supposed 'intermediate' will be Air and
+Fire when a pair of contrasted qualities is added to it: but, since
+one of every two contrary qualities is a 'privation', the 'intermediate'
+never can exist-as some thinkers assert the 'Boundless' or the 'Environing'
+exists-in isolation. It is, therefore, equally and indifferently any
+one of the 'elements', or else it is nothing. 
+
+Since, then, there is nothing-at least, nothing perceptible-prior
+to these, they must be all. That being so, either they must always
+persist and not be transformable into one another: or they must undergo
+transformation-either all of them, or some only (as Plato wrote in
+the Timacus).' Now it has been proved before that they must undergo
+reciprocal transformation. It has also been proved that the speed
+with which they come-to-be, one out of another, is not uniform-since
+the process of reciprocal transformation is relatively quick between
+the 'elements' with a 'complementary factor', but relatively slow
+between those which possess no such factor. Assuming, then, that the
+contrariety, in respect to which they are transformed, is one, the
+elements' will inevitably be two: for it is 'matter' that is the 'mean'
+between the two contraries, and matter is imperceptible and inseparable
+from them. Since, however, the 'elements' are seen to be more than
+two, the contrarieties must at the least be two. But the contrarieties
+being two, the 'elements' must be four (as they evidently are) and
+cannot be three: for the couplings' are four, since, though six are
+possible, the two in which the qualities are contrary to one another
+cannot occur. 
+
+These subjects have been discussed before:' but the following arguments
+will make it clear that, since the 'elements' are transformed into
+one another, it is impossible for any one of them-whether it be at
+the end or in the middle-to be an 'originative source' of the rest.
+There can be no such 'originative element' at the ends: for all of
+them would then be Fire or Earth, and this theory amounts to the assertion
+that all things are made of Fire or Earth. Nor can a 'middle-element'
+be such an originative source'-as some thinkers suppose that Air is
+transformed both into Fire and into Water, and Water both into Air
+and into Earth, while the 'end-elements' are not further transformed
+into one another. For the process must come to a stop, and cannot
+continue ad infinitum in a straight line in either direction, since
+otherwise an infinite number of contrarieties would attach to the
+single 'element'. Let E stand for Earth, W for Water, A for Air, and
+F for Fire. Then (i) since A is transformed into F and W, there will
+be a contrariety belonging to A F. Let these contraries be whiteness
+and blackness. Again (ii) since A is transformed into W, there will
+be another contrariety: for W is not the same as F. Let this second
+contrariety be dryness and moistness, D being dryness and M moistness.
+Now if, when A is transformed into W, the 'white' persists, Water
+will be moist and white: but if it does not persist, Water will be
+black since change is into contraries. Water, therefore, must be either
+white or black. Let it then be the first. On similar grounds, therefore,
+D (dryness) will also belong to F. Consequently F (Fire) as well as
+Air will be able to be transformed into Water: for it has qualities
+contrary to those of Water, since Fire was first taken to be black
+and then to be dry, while Water was moist and then showed itself white.
+Thus it is evident that all the 'elements' will be able to be transformed
+out of one another; and that, in the instances we have taken, E (Earth)
+also will contain the remaining two 'complementary factors', viz.
+the black and the moist (for these have not yet been coupled).
+
+We have dealt with this last topic before the thesis we set out to
+prove. That thesis-viz. that the process cannot continue ad infinitum-will
+be clear from the following considerations. If Fire (which is represented
+by F) is not to revert, but is to be transformed in turn into some
+other 'element' (e.g. into Q), a new contrariety, other than those
+mentioned, will belong to Fire and Q: for it has been assumed that
+Q is not the same as any of the four, E W A and F. Let K, then, belong
+to F and Y to Q. Then K will belong to all four, E W A and F: for
+they are transformed into one another. This last point, however, we
+may admit, has not yet been proved: but at any rate it is clear that
+if Q is to be transformed in turn into yet another 'element', yet
+another contrariety will belong not only to Q but also to F (Fire).
+And, similarly, every addition of a new 'element' will carry with
+it the attachment of a new contrariety to the preceding elements'.
+Consequently, if the 'elements' are infinitely many, there will also
+belong to the single 'element' an infinite number of contrarieties.
+But if that be so, it will be impossible to define any 'element':
+impossible also for any to come-to-be. For if one is to result from
+another, it will have to pass through such a vast number of contrarieties-and
+indeed even more than any determinate number. Consequently (i) into
+some 'elements' transformation will never be effected-viz. if the
+intermediates are infinite in number, as they must be if the 'elements'
+are infinitely many: further (ii) there will not even be a transformation
+of Air into Fire, if the contrarieties are infinitely many: moreover
+(iii) all the 'elements' become one. For all the contrarieties of
+the 'elements' above F must belong to those below F, and vice versa:
+hence they will all be one. 
+
+Part 6
+
+As for those who agree with Empedocles that the 'elements' of body
+are more than one, so that they are not transformed into one another-one
+may well wonder in what sense it is open to them to maintain that
+the 'elements' are comparable. Yet Empedocles says 'For these are
+all not only equal...' 
+
+If it is meant that they are comparable in their amount, all the 'comparables'
+must possess an identical something whereby they are measured. If,
+e.g. one pint of Water yields ten of Air, both are measured by the
+same unit; and therefore both were from the first an identical something.
+On the other hand, suppose (ii) they are not 'comparable in their
+amount' in the sense that so-much of the one yields so much of the
+other, but comparable in 'power of action (a pint of Water, e.g. having
+a power of cooling equal to that of ten pints of Air); even so, they
+are 'comparable in their amount', though not qua 'amount' but qua
+Iso-much power'. There is also (iii) a third possibility. Instead
+of comparing their powers by the measure of their amount, they might
+be compared as terms in a 'correspondence': e.g. 'as x is hot, so
+correspondingly y is white'. But 'correspondence', though it means
+equality in the quantum, means similarity in a quale. Thus it is manifestly
+absurd that the 'simple' bodies, though they are not transformable,
+are comparable not merely as 'corresponding', but by a measure of
+their powers; i.e. that so-much Fire is comparable with many times-that-amount
+of Air, as being 'equally' or 'similarly' hot. For the same thing,
+if it be greater in amount, will, since it belongs to the same kind,
+have its ratio correspondingly increased. 
+
+A further objection to the theory of Empedocles is that it makes even
+growth impossible, unless it be increase by addition. For his Fire
+increases by Fire: 'And Earth increases its own frame and Ether increases
+Ether." These, however, are cases of addition: but it is not by addition
+that growing things are believed to increase. And it is far more difficult
+for him to account for the coming-to-be which occurs in nature. For
+the things which come-to-be by natural process all exhibit, in their
+coming-to-be, a uniformity either absolute or highly regular: while
+any exceptions any results which are in accordance neither with the
+invariable nor with the general rule are products of chance and luck.
+Then what is the cause determining that man comes-to-be from man,
+that wheat (instead of an olive) comes-to-be from wheat, either invariably
+or generally? Are we to say 'Bone comes-to-be if the "elements" be
+put together in such-and such a manner'? For, according to his own
+estatements, nothing comes-to-be from their 'fortuitous consilience',
+but only from their 'consilience' in a certain proportion. What, then,
+is the cause of this proportional consilience? Presumably not Fire
+or Earth. But neither is it Love and Strife: for the former is a cause
+of 'association' only, and the latter only of 'dissociation'. No:
+the cause in question is the essential nature of each thing-not merely
+to quote his words) 'a mingling and a divorce of what has been mingled'.
+And chance, not proportion, 'is the name given to these occurrences':
+for things can be 'mingled' fortuitously. 
+
+The cause, therefore, of the coming-to-be of the things which owe
+their existence to nature is that they are in such-and-such a determinate
+condition: and it is this which constitutes, the 'nature' of each
+thing-a 'nature' about which he says nothing. What he says, therefore,
+is no explanation of 'nature'. Moreover, it is this which is both
+'the excellence' of each thing and its 'good': whereas he assigns
+the whole credit to the 'mingling'. (And yet the 'elements' at all
+events are 'dissociated' not by Strife, but by Love: since the 'elements'
+are by nature prior to the Deity, and they too are Deities.)
+
+Again, his account of motion is vague. For it is not an adequate explanation
+to say that 'Love and Strife set things moving, unless the very nature
+of Love is a movement of this kind and the very nature of Strife a
+movement of that kind. He ought, then, either to have defined or to
+have postulated these characteristic movements, or to have demonstrated
+them-whether strictly or laxly or in some other fashion. Moreover,
+since (a) the 'simple' bodies appear to move 'naturally' as well as
+by compulsion, i.e. in a manner contrary to nature (fire, e.g. appears
+to move upwards without compulsion, though it appears to move by compulsion
+downwards); and since (b) what is 'natural' is contrary to that which
+is due to compulsion, and movement by compulsion actually occurs;
+it follows that 'natural movement' can also occur in fact. Is this,
+then, the movement that Love sets going? No: for, on the contrary,
+the 'natural movement' moves Earth downwards and resembles 'dissociation',
+and Strife rather than Love is its cause-so that in general, too,
+Love rather than Strife would seem to be contrary to nature. And unless
+Love or Strife is actually setting them in motion, the 'simple' bodies
+themselves have absolutely no movement or rest. But this is paradoxical:
+and what is more, they do in fact obviously move. For though Strife
+'dissociated', it was not by Strife that the 'Ether' was borne upwards.
+On the contrary, sometimes he attributes its movement to something
+like chance ('For thus, as it ran, it happened to meet them then,
+though often otherwise"), while at other times he says it is the nature
+of Fire to be borne upwards, but 'the Ether' (to quote his words)
+'sank down upon the Earth with long roots'. With such statements,
+too, he combines the assertion that the Order of the World is the
+same now, in the reign of Strife, as it was formerly in the reign
+of Love. What, then, is the 'first mover' of the 'elements'? What
+causes their motion? Presumably not Love and Strife: on the contrary,
+these are causes of a particular motion, if at least we assume that
+'first mover' to be an originative source'. 
+
+An additional paradox is that the soul should consist of the 'elements',
+or that it should be one of them. How are the soul's 'alterations'
+to take Place? How, e.g. is the change from being musical to being
+unmusical, or how is memory or forgetting, to occur? For clearly,
+if the soul be Fire, only such modifications will happen to it as
+characterize Fire qua Fire: while if it be compounded out of the elements',
+only the corporeal modifications will occur in it. But the changes
+we have mentioned are none of them corporeal. 
+
+Part 7
+
+The discussion of these difficulties, however, is a task appropriate
+to a different investigation:' let us return to the 'elements' of
+which bodies are composed. The theories that 'there is something common
+to all the "elements"', and that they are reciprocally transformed',
+are so related that those who accept either are bound to accept the
+other as well. Those, on the other hand, who do not make their coming-to-be
+reciprocal-who refuse to suppose that any one of the 'elements' comes-to-be
+out of any other taken singly, except in the sense in which bricks
+come-to-be out of a wall-are faced with a paradox. How, on their theory,
+are flesh and bones or any of the other compounds to result from the
+'elements' taken together? 
+
+Indeed, the point we have raised constitutes a problem even for those
+who generate the 'elements' out of one another. In what manner does
+anything other than, and beside, the 'elements' come-to-be out of
+them? Let me illustrate my meaning. Water can come-to-be out of Fire
+and Fire out of Water; for their substralum is something common to
+them both. But flesh too, presumably, and marrow come-to-be out of
+them. How, then, do such things come to-be? For (a) how is the manner
+of their coming-to-be to be conceived by those who maintain a theory
+like that of Empedocles? They must conceive it as composition-just
+as a wall comes-to-be out of bricks and stones: and the 'Mixture',
+of which they speak, will be composed of the 'elements', these being
+preserved in it unaltered but with their small particles juxtaposed
+each to each. That will be the manner, presumably, in which flesh
+and every other compound results from the 'elements'. Consequently,
+it follows that Fire and Water do not come-to-be 'out of any and every
+part of flesh'. For instance, although a sphere might come-to-be out
+of this part of a lump of wax and a pyramid out of some other part,
+it was nevertheless possible for either figure to have come-to-be
+out of either part indifferently: that is the manner of coming-to-be
+when 'both Fire and Water come-to-be out of any and every part of
+flesh'. Those, however, who maintain the theory in question, are not
+at liberty to conceive that 'both come-to-be out of flesh' in that
+manner, but only as a stone and a brick 'both come-to-be out of a
+wall'-viz. each out of a different place or part. Similarly (b) even
+for those who postulate a single matter of their 'elements' there
+is a certain difficulty in explaining how anything is to result from
+two of them taken together-e.g. from 'cold' and hot', or from Fire
+and Earth. For if flesh consists of both and is neither of them, nor
+again is a 'composition' of them in which they are preserved unaltered,
+what alternative is left except to identify the resultant of the two
+'elements' with their matter? For the passingaway of either 'element'
+produces either the other or the matter. 
+
+Perhaps we may suggest the following solution. (i) There are differences
+of degree in hot and cold. Although, therefore, when either is fully
+real without qualification, the other will exist potentially; yet,
+when neither exists in the full completeness of its being, but both
+by combining destroy one another's excesses so that there exist instead
+a hot which (for a 'hot') is cold and a cold which (for a 'cold')
+is hot; then what results from these two contraries will be neither
+their matter, nor either of them existing in its full reality without
+qualification. There will result instead an 'intermediate': and this
+'intermediate', according as it is potentially more hot than cold
+or vice versa, will possess a power-of-heating that is double or triple
+its power-of-cooling, or otherwise related thereto in some similar
+ratio. Thus all the other bodies will result from the contraries,
+or rather from the 'elements', in so far as these have been 'combined':
+while the elements' will result from the contraries, in so far as
+these 'exist potentially' in a special sense-not as matter 'exists
+potentially', but in the sense explained above. And when a thing comes-to-be
+in this manner, the process is cobination'; whereas what comes-to-be
+in the other manner is matter. Moreover (ii) contraries also 'suffer
+action', in accordance with the disjunctively-articulated definition
+established in the early part of this work.' For the actually-hot
+is potentially-cold and the actually cold potentially-hot; so that
+hot and cold, unless they are equally balanced, are transformed into
+one another (and all the other contraries behave in a similar way).
+It is thus, then, that in the first place the 'elements' are transformed;
+and that (in the second place) out of the 'elements' there come-to-be
+flesh and bones and the like-the hot becoming cold and the cold becoming
+hot when they have been brought to the 'mean'. For at the 'mean' is
+neither hot nor cold. The 'mean', however, is of considerable extent
+and not indivisible. Similarly, it is qua reduced to a 'mean' condition
+that the dry and the moist, as well as the contraries we have used
+as examples, produce flesh and bone and the remaining compounds.
+
+Part 8
+
+All the compound bodies-all of which exist in the region belonging
+to the central body-are composed of all the 'simple' bodies. For they
+all contain Earth because every 'simple' body is to be found specially
+and most abundantly in its own place. And they all contain Water because
+(a) the compound must possess a definite outline and Water, alone
+of the 'simple' bodies, is readily adaptable in shape: moreover (b)
+Earth has no power of cohesion without the moist. On the contrary,
+the moist is what holds it together; for it would fall to pieces if
+the moist were eliminated from it completely. 
+
+They contain Earth and Water, then, for the reasons we have given:
+and they contain Air and Fire, because these are contrary to Earth
+and Water (Earth being contrary to Air and Water to Fire, in so far
+as one Substance can be 'contrary' to another). Now all compounds
+presuppose in their coming-to-be constituents which are contrary to
+one another: and in all compounds there is contained one set of the
+contrasted extremes. Hence the other set must be contained in them
+also, so that every compound will include all the 'simple' bodies.
+
+Additional evidence seems to be furnished by the food each compound
+takes. For all of them are fed by substances which are the same as
+their constituents, and all of them are fed by more substances than
+one. Indeed, even the plants, though it might be thought they are
+fed by one substance only, viz. by Water, are fed by more than one:
+for Earth has been mixed with the Water. That is why farmers too endeavour
+to mix before watering. Although food is akin to the matter, that
+which is fed is the 'figure'-i.e. the 'form' taken along with the
+matter. This fact enables us to understand why, whereas all the 'simple'
+bodies come-to-be out of one another, Fire is the only one of them
+which (as our predecessors also assert) 'is fed'. For Fire alone-or
+more than all the rest-is akin to the 'form' because it tends by nature
+to be borne towards the limit. Now each of them naturally tends to
+be borne towards its own place; but the 'figure'-i.e. the 'form'-Of
+them all is at the limits. 
+
+Thus we have explained that all the compound bodies are composed of
+all the 'simple' bodies. 
+
+Part 9
+
+Since some things are such as to come-to-be and pass-away, and since
+coming-to-be in fact occurs in the region about the centre, we must
+explain the number and the nature of the 'originative sources' of
+all coming-to-be alike: for a grasp of the true theory of any universal
+facilitates the understanding of its specific forms. 
+
+The 'originative sources', then, of the things which come-to-be are
+equal in number to, and identical in kind with, those in the sphere
+of the eternal and primary things. For there is one in the sense of
+'matter', and a second in the sense of 'form': and, in addition, the
+third 'originative source' must be present as well. For the two first
+are not sufficient to bring things into being, any more than they
+are adequate to account for the primary things. 
+
+Now cause, in the sense of material origin, for the things which are
+such as to come-to-be is 'that which can be-and-not-be': and this
+is identical with'that which can come-to-be-and-pass-away', since
+the latter, while it is at one time, at another time is not. (For
+whereas some things are of necessity, viz. the eternal things, others
+of necessity are not. And of these two sets of things, since they
+cannot diverge from the necessity of their nature, it is impossible
+for the first not to he and impossible for the second to he. Other
+things, however, can both be and not he.) Hence coming-to-be and passing-away
+must occur within the field of 'that which can be-and not-be'. This,
+therefore, is cause in the sense of material origin for the things
+which are such as to come-to-be; while cause, in the sense of their
+'end', is their 'figure' or 'form'-and that is the formula expressing
+the essential nature of each of them. 
+
+But the third 'originative source' must be present as well-the cause
+vaguely dreamed of by all our predecessors, definitely stated by none
+of them. On the contrary (a) some amongst them thought the nature
+of 'the Forms' was adequate to account for coming-to-be. Thus Socrates
+in the Phaedo first blames everybody else for having given no explanation;
+and then lays it down; that 'some things are Forms, others Participants
+in the Forms', and that 'while a thing is said to "be" in virtue of
+the Form, it is said to "come-to-be" qua sharing in," to "pass-away"
+qua "losing," the 'Form'. Hence he thinks that 'assuming the truth
+of these theses, the Forms must be causes both of coming-to-be and
+of passing-away'. On the other hand (b) there were others who thought
+'the matter' was adequate by itself to account for coming-to-be, since
+'the movement originates from the matter'. 
+
+Neither of these theories, however, is sound. For (a) if the Forms
+are causes, why is their generating activity intermittent instead
+of perpetual and continuous-since there always are Participants as
+well as Forms? Besides, in some instances we see that the cause is
+other than the Form. For it is the doctor who implants health and
+the man of science who implants science, although 'Health itself'
+and 'Science itself' are as well as the Participants: and the same
+principle applies to everything else that is produced in accordance
+with an art. On the other hand (b) to say that 'matter generates owing
+to its movement' would be, no doubt, more scientific than to make
+such statements as are made by the thinkers we have been criticizing.
+For what 'alters' and transfigures plays a greater part in bringing,
+things into being; and we are everywhere accustomed, in the products
+of nature and of art alike, to look upon that which can initiate movement
+as the producing cause. Nevertheless this second theory is not right
+either. 
+
+For, to begin with, it is characteristic of matter to suffer action,
+i.e. to be moved: but to move, i.e. to act, belongs to a different
+'power'. This is obvious both in the things that come-to-be by art
+and in those that come to-be by nature. Water does not of itself produce
+out of itself an animal: and it is the art, not the wood, that makes
+a bed. Nor is this their only error. They make a second mistake in
+omitting the more controlling cause: for they eliminate the essential
+nature, i.e. the 'form'. And what is more, since they remove the formal
+cause, they invest the forces they assign to the 'simple' bodies-the
+forces which enable these bodies to bring things into being-with too
+instrumental a character. For 'since' (as they say) 'it is the nature
+of the hot to dissociate, of the cold to bring together, and of each
+remaining contrary either to act or to suffer action', it is out of
+such materials and by their agency (so they maintain) that everything
+else comes-to-be and passes-away. Yet (a) it is evident that even
+Fire is itself moved, i.e. suffers action. Moreover (b) their procedure
+is virtually the same as if one were to treat the saw (and the various
+instruments of carpentry) as 'the cause' of the things that come-to-be:
+for the wood must be divided if a man saws, must become smooth if
+he planes, and so on with the remaining tools. Hence, however true
+it may be that Fire is active, i.e. sets things moving, there is a
+further point they fail to observe-viz. that Fire is inferior to the
+tools or instruments in the manner in which it sets things moving.
+
+Part 10
+
+As to our own theory-we have given a general account of the causes
+in an earlier work,' we have now explained and distinguished the 'matter'
+and the 'form'. Further, since the change which is motion has been
+proved' to be eternal, the continuity of the occurrence of coming-to-be
+follows necessarily from what we have established: for the eternal
+motion, by causing 'the generator' to approach and retire, will produce
+coming-to-be uninterruptedly. At the same time it is clear that we
+were right when, in an earlier work,' we called motion (not coming-to-be)
+'the primary form of change'. For it is far more reasonable that what
+is should cause the coming-to-be of what is not, than that what is
+not should cause the being of what is. Now that which is being moved
+is, but that which is coming-to-be is not: hence, also, motion is
+prior to coming-to-be. 
+
+We have assumed, and have proved, that coming-to-be and passing-away
+happen to things continuously; and we assert that motion causes coming-to-be.
+That being so, it is evident that, if the motion be single, both processes
+cannot occur since they are contrary to one another: for it is a law
+of nature that the same cause, provided it remain in the same condition,
+always produces the same effect, so that, from a single motion, either
+coming-to-be or passing-away will always result. The movements must,
+on the contrary, be more than one, and they must be contrasted with
+one another either by the sense of their motion or by its irregularity:
+for contrary effects demand contraries as their causes. 
+
+This explains why it is not the primary motion that causes coming-to-be
+and passingaway, but the motion along the inclined circle: for this
+motion not only possesses the necessary continuity, but includes a
+duality of movements as well. For if coming-to-be and passing-away
+are always to be continuous, there must be some body always being
+moved (in order that these changes may not fail) and moved with a
+duality of movements (in order that both changes, not one only, may
+result). Now the continuity of this movement is caused by the motion
+of the whole: but the approaching and retreating of the moving body
+are caused by the inclination. For the consequence of the inclination
+is that the body becomes alternately remote and near; and since its
+distance is thus unequal, its movement will be irregular. Therefore,
+if it generates by approaching and by its proximity, it-this very
+same body-destroys by retreating and becoming remote: and if it generates
+by many successive approaches, it also destroys by many successive
+retirements. For contrary effects demand contraries as their causes;
+and the natural processes of passing-away and coming-to-be occupy
+equal periods of time. Hence, too, the times-i.e. the lives-of the
+several kinds of living things have a number by which they are distinguished:
+for there is an Order controlling all things, and every time (i.e.
+every life) is measured by a period. Not all of them, however, are
+measured by the same period, but some by a smaller and others by a
+greater one: for to some of them the period, which is their measure,
+is a year, while to some it is longer and to others shorter.
+
+And there are facts of observation in manifest agreement with our
+theories. Thus we see that coming-to-be occurs as the sun approaches
+and decay as it retreats; and we see that the two processes occupy
+equal times. For the durations of the natural processes of passing-away
+and coming-to-be are equal. Nevertheless it Often happens that things
+pass-away in too short a time. This is due to the 'intermingling'
+by which the things that come-to-be and pass-away are implicated with
+one another. For their matter is 'irregular', i.e. is not everywhere
+the same: hence the processes by which they come-to-be must be 'irregular'
+too, i.e. some too quick and others too slow. Consequently the phenomenon
+in question occurs, because the 'irregular' coming-to-be of these
+things is the passing-away of other things. 
+
+Coming-to-be and passing-away will, as we have said, always be continuous,
+and will never fail owing to the cause we stated. And this continuity
+has a sufficient reason on our theory. For in all things, as we affirm,
+Nature always strives after 'the better'. Now 'being' (we have explained
+elsewhere the exact variety of meanings we recognize in this term)
+is better than 'not-being': but not all things can possess 'being',
+since they are too far removed from the 'originative source. 'God
+therefore adopted the remaining alternative, and fulfilled the perfection
+of the universe by making coming-to-be uninterrupted: for the greatest
+possible coherence would thus be secured to existence, because that
+'coming-to-be should itself come-to-be perpetually' is the closest
+approximation to eternal being. 
+
+The cause of this perpetuity of coming-to-be, as we have often said,
+is circular motion: for that is the only motion which is continuous.
+That, too, is why all the other things-the things, I mean, which are
+reciprocally transformed in virtue of their 'passions' and their 'powers
+of action' e.g. the 'simple' bodiesimitate circular motion. For when
+Water is transformed into Air, Air into Fire, and the Fire back into
+Water, we say the coming-to-be 'has completed the circle', because
+it reverts again to the beginning. Hence it is by imitating circular
+motion that rectilinear motion too is continuous. 
+
+These considerations serve at the same time to explain what is to
+some people a baffling problem-viz. why the 'simple' bodies, since
+each them is travelling towards its own place, have not become dissevered
+from one another in the infinite lapse of time. The reason is their
+reciprocal transformation. For, had each of them persisted in its
+own place instead of being transformed by its neighbour, they would
+have got dissevered long ago. They are transformed, however, owing
+to the motion with its dual character: and because they are transformed,
+none of them is able to persist in any place allotted to it by the
+Order. 
+
+It is clear from what has been said (i) that coming-to-be and passing-away
+actually occur, (ii) what causes them, and (iii) what subject undergoes
+them. But (a) if there is to be movement (as we have explained elsewhere,
+in an earlier work') there must be something which initiates it; if
+there is to be movement always, there must always be something which
+initiates it; if the movement is to be continuous, what initiates
+it must be single, unmoved, ungenerated, and incapable of 'alteration';
+and if the circular movements are more than one, their initiating
+causes must all of them, in spite of their plurality, be in some way
+subordinated to a single 'originative source'. Further (b) since time
+is continuous, movement must be continuous, inasmuch as there can
+be no time without movement. Time, therefore, is a 'number' of some
+continuous movement-a 'number', therefore, of the circular movement,
+as was established in the discussions at the beginning. But (c) is
+movement continuous because of the continuity of that which is moved,
+or because that in which the movement occurs (I mean, e.g. the place
+or the quality) is continuous? The answer must clearly be 'because
+that which is moved is continuous'. (For how can the quality be continuous
+except in virtue of the continuity of the thing to which it belongs?
+But if the continuity of 'that in which' contributes to make the movement
+continuous, this is true only of 'the place in which'; for that has
+'magnitude' in a sense.) But (d) amongst continuous bodies which are
+moved, only that which is moved in a circle is 'continuous' in such
+a way that it preserves its continuity with itself throughout the
+movement. The conclusion therefore is that this is what produces continuous
+movement, viz. the body which is being moved in a circle; and its
+movement makes time continuous. 
+
+Part 11
+
+Wherever there is continuity in any process (coming-to-be or 'alteration'
+or any kind of change whatever) we observe consecutiveness', i.e.
+this coming-to-be after that without any interval. Hence we must investigate
+whether, amongst the consecutive members, there is any whose future
+being is necessary; or whether, on the contrary, every one of them
+may fail to come-to-be. For that some of them may fail to occur, is
+clear. (a) We need only appeal to the distinction between the statements
+'x will be' and 'x is about to which depends upon this fact. For if
+it be true to say of x that it 'will be', it must at some time be
+true to say of it that 'it is': whereas, though it be true to say
+of x now that 'it is about to occur', it is quite possible for it
+not to come-to-be-thus a man might not walk, though he is now 'about
+to' walk. And (b) since (to appeal to a general principle) amongst
+the things which 'are' some are capable also of 'not-being', it is
+clear that the same ambiguous character will attach to them no less
+when they are coming-to-be: in other words, their coming-to-be will
+not be necessary. 
+
+Then are all the things that come-to-be of this contingent character?
+Or, on the contrary, is it absolutely necessary for some of them to
+come-to-be? Is there, in fact, a distinction in the field of 'coming-to-be'
+corresponding to the distinction, within the field of 'being', between
+things that cannot possibly 'not-be' and things that can 'not-be'?
+For instance, is it necessary that solstices shall come-to-be, i.e.
+impossible that they should fail to be able to occur? 
+
+Assuming that the antecedent must have come-to-be if the consequent
+is to be (e.g. that foundations must have come-to-be if there is to
+be a house: clay, if there are to be foundations), is the converse
+also true? If foundations have come-to-be, must a house come-to-be?
+The answer seems to be that the necessary nexus no longer holds, unless
+it is 'necessary' for the consequent (as well as for the antecedent)
+to come-to-be-'necessary' absolutely. If that be the case, however,
+'a house must come to-be if foundations have come-to-be', as well
+as vice versa. For the antecedent was assumed to be so related to
+the consequent that, if the latter is to be, the antecedent must have
+come-tobe before it. If, therefore, it is necessary that the consequent
+should come-to-be, the antecedent also must have come-to-be: and if
+the antecedent has come-to-be, then the consequent also must come-to-be-not,
+however, because of the antecedent, but because the future being of
+the consequent was assumed as necessary. Hence, in any sequence, when
+the being of the consequent is necessary, the nexus is reciprocal-in
+other words, when the antecedent has come-to-be the consequent must
+always come-to-be too. 
+
+Now (i) if the sequence of occurrences is to proceed ad infinitum
+'downwards', the coming to-be of any determinate 'this' amongst the
+later members of the sequence will not be absolutely, but only conditionally,
+necessary. For it will always be necessary that some other member
+shall have come-to-be before 'this' as the presupposed condition of
+the necessity that 'this' should come-to-be: consequently, since what
+is 'infinite' has no 'originative source', neither will there be in
+the infinite sequence any 'primary' member which will make it 'necessary'
+for the remaining members to come-to-be. 
+
+Nor again (ii) will it be possible to say with truth, even in regard
+to the members of a limited sequence, that it is 'absolutely necessary'
+for any one of them to come-to-be. We cannot truly say, e.g. that
+'it is absolutely necessary for a house to come-to-be when foundations
+have been laid': for (unless it is always necessary for a house to
+be coming-to-be) we should be faced with the consequence that, when
+foundations have been laid, a thing, which need not always be, must
+always be. No: if its coming-to-be is to be 'necessary', it must be
+'always' in its coming-to-be. For what is 'of necessity' coincides
+with what is 'always', since that which 'must be' cannot possibly
+'not-be'. Hence a thing is eternal if its 'being' is necessary: and
+if it is eternal, its 'being' is necessary. And if, therefore, the
+'coming-to-be' of a thing is necessary, its 'coming-to-be' is eternal;
+and if eternal, necessary. 
+
+It follows that the coming-to-be of anything, if it is absolutely
+necessary, must be cyclical-i.e. must return upon itself. For coming
+to-be must either be limited or not limited: and if not limited, it
+must be either rectilinear or cyclical. But the first of these last
+two alternatives is impossible if coming-to-be is to be eternal, because
+there could not be any 'originative source' whatever in an infinite
+rectilinear sequence, whether its members be taken 'downwards' (as
+future events) or 'upwards' (as past events). Yet coming-to-be must
+have an 'originative source' (if it is to be necessary and therefore
+eternal), nor can it be eternal if it is limited. Consequently it
+must be cyclical. Hence the nexus must be reciprocal. By this I mean
+that the necessary occurrence of 'this' involves the necessary occurrence
+of its antecedent: and conversely that, given the antecedent, it is
+also necessary for the consequent to come-to-be. And this reciprocal
+nexus will hold continuously throughout the sequence: for it makes
+no difference whether the reciprocal nexus, of which we are speaking,
+is mediated by two, or by many, members. 
+
+It is in circular movement, therefore, and in cyclical coming-to-be
+that the 'absolutely necessary' is to be found. In other words, if
+the coming-to-be of any things is cyclical, it is 'necessary' that
+each of them is coming-to-be and has come-to-be: and if the coming-to-be
+of any things is 'necessary', their coming-to-be is cyclical.
+
+The result we have reached is logically concordant with the eternity
+of circular motion, i.e. the eternity of the revolution of the heavens
+(a fact which approved itself on other and independent evidence),'
+since precisely those movements which belong to, and depend upon,
+this eternal revolution 'come-to-be' of necessity, and of necessity
+'will be'. For since the revolving body is always setting something
+else in motion, the movement of the things it moves must also be circular.
+Thus, from the being of the 'upper revolution' it follows that the
+sun revolves in this determinate manner; and since the sun revolves
+thus, the seasons in consequence come-to-be in a cycle, i.e. return
+upon themselves; and since they come-to-be cyclically, so in their
+turn do the things whose coming-to-be the seasons initiate.
+
+Then why do some things manifestly come to-be in this cyclical fashion
+(as, e.g. showers and air, so that it must rain if there is to be
+a cloud and, conversely, there must be a cloud if it is to rain),
+while men and animals do not 'return upon themselves' so that the
+same individual comes-to-be a second time (for though your coming-to-be
+presupposes your father's, his coming-to-be does not presuppose yours)?
+Why, on the contrary, does this coming-to-be seem to constitute a
+rectilinear sequence? 
+
+In discussing this new problem, we must begin by inquiring whether
+all things 'return upon themselves' in a uniform manner; or whether,
+on the contrary, though in some sequences what recurs is numerically
+the same, in other sequences it is the same only in species. In consequence
+of this distinction, it is evident that those things, whose 'substance'-that
+which is undergoing the process-is imperishable, will be numerically,
+as well as specifically, the same in their recurrence: for the character
+of the process is determined by the character of that which undergoes
+it. Those things, on the other hand, whose 'substance' is perish,
+able (not imperishable) must 'return upon themselves' in the sense
+that what recurs, though specifically the same, is not the same numerically.
+That why, when Water comes-to-be from Air and Air from Water, the
+Air is the same 'specifically', not 'numerically': and if these too
+recur numerically the same, at any rate this does not happen with
+things whose 'substance' comes-to-be-whose 'substance' is such that
+it is essentially capable of not-being. 
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.

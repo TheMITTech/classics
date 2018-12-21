@@ -1,0 +1,1484 @@
+
+<BASE HREF="http://classics.mit.edu/Sophocles/trachinae.pl.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Sophocles/trachinae.pl.txt"><font color=blue>classics.mit.edu/Sophocles/trachinae.pl.txt</font></a>.<br>
+<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Sophocles/trachinae.pl.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
+<html><body><pre>
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Sophocles/trachinae.html
+
+The Trachiniae
+By Sophocles
+
+
+Translated by R. C. Jebb
+
+----------------------------------------------------------------------
+
+Dramatis Personae
+
+DEIANEIRA
+NURSE
+HYLLUS, son of HERACLES and DEIANEIRA
+MESSENGER
+LICHAS, the herald of HERACLES
+HERACLES
+AN OLD MAN
+CHORUS OF TRACHINIAN MAIDENS
+
+----------------------------------------------------------------------
+
+At Trachis, before the house of HERACLES. Enter DEIANEIRA from the
+house, accompanied by the NURSE.
+
+----------------------------------------------------------------------
+
+DEIANEIRA There is a saying among men, put forth of old, that thou
+canst not rightly judge whether a mortal's lot is good or evil, ere
+he die. But I, even before I have passed to the world of death, know
+well that my life is sorrowful and bitter; I, who in the house of
+my father Oeneus, while yet I dwelt at Pleuron, had such fear of bridals
+as never vexed any maiden of Aetolia. For my wooer was a river-god,
+Achelous, who in three shapes was ever asking me from my sire,- coming
+now as a bull in bodily form, now as serpent with sheeny coils, now
+with trunk of man and front of ox, while from a shaggy beard the streams
+of fountain-water flowed abroad. With the fear of such a suitor before
+mine eyes, I was always praying in my wretchedness that I might die,
+or ever I should come near to such a bed. 
+
+But at last, to my joy, came the glorious son of Zeus and Alcmena;
+who dosed with him in combat, and delivered me. How the fight was
+waged, I cannot clearly tell, I know not; if there be any one who
+watched that sight without terror, such might speak: I, as I sat there,
+was distraught with dread, lest beauty should bring me sorrow at the
+last. But finally the Zeus of battles ordained well,- if well indeed
+it be: for since I have been joined to Heracles as his chosen bride,
+fear after fear hath haunted me on his account; one night brings a
+trouble, and the next night, in turn, drives it out. And then children
+were born to us; whom he has seen only as the husbandman sees his
+distant field, which he visits at seedtime, and once again at harvest.
+Such was the life that kept him journeying to and fro, in the service
+of a certain master. 
+
+But now, when he hath risen above those trials,- now it is that my
+anguish is sorest. Ever since he slew the valiant Iphitus, we have
+been dwelling here in Trachis, exiles from our home, and the guests
+of stranger; but where he is, no one knows; I only know that he is
+gone, and hath pierced my heart with cruel pangs for him. I am almost
+sure that some evil hath befallen him; it is no short space that hath
+passed, but ten long months, and then five more,- and still no message
+from him. Yes, there has been some dread mischance;- witness that
+tablet which he left with me ere he went forth: oft do I pray to the
+gods that I may not have received it for my sorrow. 
+
+NURSE Deianeira, my mistress, many a time have I marked thy bitter
+tears and lamentations, as thou bewailedst the going forth of Heracles;
+but now,- if it be meet to school the free-born with the counsels
+of a slave, and if I must say what behoves thee,- why, when thou art
+so rich in sons, dost thou send no one of them to seek thy lord;-
+Hyllus, before all, who might well go on that errand, if he cared
+that there should be tidings of his father's welfare? Lo! there he
+comes, speeding towards the house with timely step; if, then, thou
+deemest that I speak in season, thou canst use at once my counsel,
+and the man.  (HYLLUS comes in from the side.)  
+
+DEIANEIRA My child, my son, wise words may fall, it seems, from humble
+lips; this woman is a slave, but hath spoken in the spirit of the
+free. 
+
+HYLLUS How, mother? Tell me, if it may be told. 
+
+DEIANEIRA It brings thee shame, she saith, that, when thy father
+hath been so long a stranger, thou hast not sought to learn where
+he is. 
+
+HYLLUS Nay, I know,- if rumour can be trusted. 
+
+DEIANEIRA And in what region, my child, doth rumour place him?
+
+HYLLUS Last year, they say, through all the months, he toiled as
+bondman to Lydian woman. 
+
+DEIANEIRA If he bore that, then no tidings can surprise.
+
+HYLLUS Well, he has been delivered from that, as I hear.
+
+DEIANEIRA Where, then, is he reported to be now,- alive or dead?
+
+HYLLUS He is waging or planning a war, they say, upon Euboea, the
+realm of Eurytus. 
+
+DEIANEIRA Knowest thou, my son, that he hath left with me sure oracles
+touching that land? 
+
+HYLLUS What are they, mother? I know not whereof thou speakest.
+
+DEIANEIRA That either he shall meet his death, or, having achieved
+this task, shall have rest thenceforth, for all his days to come.
+
+So, my child, when his fate is thus trembling in the scale, wilt thou
+not go to succour him? For we are saved, if he find safety, or we
+perish with him. 
+
+HYLLUS Ay, I will go, my mother; and, had I known the import of these
+prophecies, I had been there long since; but, as it was, my father's
+wonted fortune suffered me not to feel fear for him, or to be anxious
+overmuch. Now that I have the knowledge, I will spare no pains to
+learn the whole truth in this matter. 
+
+DEIANEIRA Go, then, my son; be the seeker ne'er so late, he is rewarded
+if he learn tidings of joy.  (HYLLUS departs as the CHORUS OF TRACHINIAN
+MAIDENS enters. They are free-born young women of Trachis who are
+friends and confidantes of DEIANEIRA. She remains during their opening
+choral song.)  
+
+CHORUS  (singing, strophe 1)
+
+Thou whom Night brings forth at the moment when she is despoiled
+of her starry crown, and lays to rest in thy splendour, tell me, pray
+thee, O Sun-god, tell me where abides Alcmena's son? Thou glorious
+lord of flashing light, say, is he threading the straits of the sea,
+or hath he found an abode on either continent? Speak, thou who seest
+as none else can see! 
+
+(antistrophe 1)
+
+For Deianeira, as I hear, hath ever an aching heart; she, the battle-prize
+of old, is now like some bird lorn of its mate; she can never lull
+her yearning, nor stay her tears; haunted by a sleepless fear for
+her absent lord, she pines on her anxious, widowed couch, miserable
+in her foreboding of mischance. 
+
+(strophe 2)
+
+As one may see billow after billow driven over the wide deep by the
+tireless south-wind or the north, so the trouble of his life, stormy
+as the Cretan sea, now whirls back the son of Cadmus, now lifts him
+to honour. But some god ever saves him from the house of death, and
+suffers him not to fail. 
+
+(antistrophe 2)
+
+Lady, I praise not this thy mood; with all reverence will I speak,
+yet in reproof. Thou dost not well, I say, to kill fair hope by fretting;
+remember that the son of Cronus himself, the all-disposing king, hath
+not appointed a painless lot for mortals. Sorrow and joy come round
+to all, as the Bear moves in his circling paths. 
+
+(epode)
+
+Yea, starry night abides not with men, nor tribulation, nor wealth;
+in a moment it is gone from us, and another hath his turn of gladness,
+and of bereavement. So would I wish thee also, the Queen, to keep
+that prospect ever in thy thoughts; for when hath Zeus been found
+so careless of his children? 
+
+DEIANEIRA Ye have heard of my trouble, I think, and that hath brought
+you here; but the anguish which consumes my heart- ye are strangers
+to that; and never may ye learn it by suffering! Yes, the tender plant
+grows in those sheltered regions of its own! and the Sun-god's heat
+vexes it not, nor rain, nor any wind; but it rejoices in its sweet,
+untroubled being, til such time as the maiden is called a wife, and
+finds her portion of anxious thoughts in the night, brooding on danger
+to husband or to children. Such an one could understand the burden
+of my cares; she could judge them by her own. 
+
+Well, I have had many a sorrow to weep for ere now; but I am going
+to speak of one more grievous than them all. 
+
+When Heracles my lord was going from home on his last journey, he
+left in the house an ancient tablet, inscribed with tokens which he
+had never brought himself to explain to me before, many as were the
+ordeals to which he had gone forth. He had always departed as if to
+conquer, not to die. But now, as if he were a doomed man, he told
+me what portion of his substance I was to take for my dower, and how
+he would have his sons share their father's land amongst them. And
+he fixed the time; saying that, when a year and three months should
+have passed since he had left the country, then he was fated to die;
+or, if he should have survived that term, to live thenceforth an untroubled
+life. 
+
+Such, he said, was the doom ordained by the gods to be accomplished
+in the toils of Heracles; as the ancient oak at Dodona had spoken
+of yore, by the mouth of the two Peleiades. And this is the precise
+moment when the fulfilment of that word becomes due; so that I start
+up from sweet slumber, my friends, stricken with terror at the thought
+that I must remain widowed of the noblest among men. 
+
+LEADER OF THE CHORUS Hush- no more ill-omened words; I see a man
+approaching, who wears a wreath, as if for joyous tidings.  (A MESSENGER
+enters.)  
+
+MESSENGER Queen Deianeira, I shall be the first of messengers to
+free thee from fear. Know that Alcmena's son lives and triumphs, and
+from battle brings the first-fruits to the gods of this land.
+
+DEIANEIRA What news is this, old man, that thou hast told me?
+
+MESSENGER That thy lord, admired of all, will soon come to thy house,
+restored to thee in his victorious might. 
+
+DEIANEIRA What citizen or stranger hath told thee this?
+
+MESSENGER In the meadow, summer haunt of oxen, Lichas the herald
+is proclaiming it to many: from him I heard it, and flew hither, that
+I might be the first to give thee these tidings, and so might reap
+some guerdon from thee, and win thy grace. 
+
+DEIANEIRA And why is he not here, if he brings good news?
+
+MESSENGER His task, lady, is no easy one; all the Malian folk have
+thronged around him with questions, and he cannot move forward: each
+and all are bent on learning what they desire, and will not release
+him until they are satisfied. Thus their eagerness detains him against
+his will; but thou shalt presently see him face to face.
+
+DEIANEIRA O Zeus, who rulest the meads of Oeta, sacred from the scythe,
+at last, though late, thou hast given us joy! Uplift your voices,
+ye women within the house and ye beyond our gates, since now we are
+gladdened by the light of this message, that hath risen on us beyond
+my hope! 
+
+LEADER OF ONE SEMI-CHORUS  (singing) Let the maidens raise a joyous
+strain for the house, with songs of triumph at the hearth; and, amidst
+them, let the shout of the men go up with one accord for Apollo of
+the bright quiver, our Defender! And at the same time, ye maidens,
+lift up a paean, cry aloud to his sister, the Ortygian Artemis, smiter
+of deer, goddess of the twofold torch, and to the Nymphs her neighbours!
+
+LEADER OF OTHER SEMI-CHORUS My spirit soars; I will not reject the
+wooing of the flute.- O thou sovereign of my soul! Lo, the ivy's spell
+begins to work upon me! Euoe!- even now it moves me to whirl in the
+swift dance of Bachanals! 
+
+CHORUS Praise, praise unto the Healer! 
+
+LEADER OF WHOLE CHORUS See, dear lady, see! Behold, these tidings
+are taking shape before thy gaze. 
+
+DEIANEIRA I see it, dear maidens; my watching eyes had not failed
+to note yon company.   (Enter LICHAS, followed by Captive Maidens.
+Conspicuous among them is IOLE.)  -All hail to the herald, whose coming
+hath been so long delayed!- if indeed thou bringest aught that can
+give joy. 
+
+LICHAS We are happy in our return, and happy in thy greeting, lady,
+which befits the deed achieved; for when a man hath fair fortune,
+he needs must win good welcome. 
+
+DEIANEIRA O best of friends, tell me first what first I would know,-
+shall I receive Heracles alive? 
+
+LICHAS I, certainly, left him alive and well,- in vigorous health,
+unburdened by disease. 
+
+DEIANEIRA Where, tell me- at home, or on foreign soil? 
+
+LICHAS There is a headland of Euboea, where to Cenaean Zeus he consecrates
+altars, and the tribute of fruitful ground. 
+
+DEIANEIRA In payment of a vow, or at the bidding of an oracle?
+
+LICHAS For a vow, made when he was seeking to conquer and despoil
+the country of these women who are before thee. 
+
+DEIANEIRA And these- who are they, I pray thee, and whose daughters?
+They deserve pity, unless their plight deceives me. 
+
+LICHAS These are captives whom he chose out for himself and for the
+gods, when he sacked the city of Eurytus. 
+
+DEIANEIRA Was it the war against that city which kept him away so
+long, beyond all forecast, past all count of days? 
+
+LICHAS Not so: the greater part of the time he was detained in Lydia,-
+no free man, as he declares, but sold into bondage. No offence should
+attend on the word, lady, when the deed is found to be of Zeus. So
+he passed a whole year, as he himself avows, in thraldom to Omphale
+the barbarian. And so stung was he by that reproach, he bound himself
+by a solemn oath that he would one day enslave, with wife and child,
+the man who had brought that calamity upon him. Nor did he speak the
+word in vain; but, when he bad been purged, gathered an alien host,
+and went against the city of Eurytus. That man, he said, alone of
+mortals, had a share in causing his misfortune. For when Heracles,
+an old friend, came to his house and hearth, Eurytus heaped on him
+the taunts of a bitter tongue and spiteful soul,- saying, 'Thou hast
+unerring arrows in thy hands, and yet my sons surpass thee in the
+trial of archery'; 'Thou art a slave,' he cried, 'a free man's broken
+thrall': and at a banquet, when his guest was full of wine, he thrust
+him from his doors. 
+
+Wroth thereat, when afterward Iphitus came to the hill of Tiryns,
+in search for horses that had strayed, Heracles seized a moment when
+the man's wandering thoughts went not with his wandering gaze, and
+hurled him from a tower-like summit. But in anger at that deed, Zeus
+our lord, Olympian sire of all, sent him forth into bondage, and spared
+not, because, this once, he had taken a life by guile. Had he wreaked
+his vengeance openly, Zeus would surely have pardoned him the righteous
+triumph; for the gods, too, love not insolence. 
+
+So those men, who waxed so proud with bitter speech, are themselves
+in the mansions of the dead, all of them, and their city is enslaved;
+while the women whom thou beholdest, fallen from happiness to misery,
+come here to thee; for such was thy lord's command, which I, his faithful
+servant, perform. He himself, thou mayest be sure,- so soon as he
+shall have offered holy sacrifice for his victory to Zeus from whom
+he sprang,- will be with thee. After all the fair tidings that have
+been told, this, indeed, is the sweetest word to hear. 
+
+LEADER OF THE CHORUS Now, O Queen, thy joy is assured; part is with
+thee, and thou hast promise of the rest. 
+
+DEIANEIRA Yea, have I not the fullest reason to rejoice at these
+tidings of my lord's happy fortune? To such fortune, such joy must
+needs respond. And yet a prudent mind can see room for misgiving lest
+he who prospers should one day suffer reverse. A strange pity hath
+come over me, friends, at the sight of these ill-fated exiles, homeless
+and fatherless in a foreign land; once the daughters, perchance, of
+free-born sires, but now doomed to the life of slaves. O Zeus, who
+turnest the tide of battle, never may I see child of mine thus visited
+by thy hand; nay, if such visitation is to be, may it not fall while
+Deianeira lives! Such dread do I feel, beholding these.  (To IOLE)
+Ah, hapless girl, say, who art thou? A maiden, or a mother? To judge
+by thine aspect, an innocent maiden, and of a noble race. Lichas,
+whose daughter is this stranger? Who is her mother, who her sire?
+Speak, I pity her more than all the rest, when I behold her; as she
+alone shows due feeling for her plight. 
+
+LICHAS How should I know? Why should'st thou ask me? Perchance the
+off, spring of not the meanest in yonder land. 
+
+DEIANEIRA Can she be of royal race? Had Eurytus a daughter?
+
+LICHAS I know not; indeed, I asked not many questions. 
+
+DEIANEIRA And thou hast not heard her name from any of her companions?
+
+LICHAS No, indeed, I went through my task in silence. 
+
+DEIANEIRA Unhappy girl, let me, at least, hear it from thine own
+mouth. It is indeed distressing not to know thy name.  (IOLE maintains
+her silence.)  
+
+LICHAS It will be unlike her former behaviour, then, I can tell thee,
+if she opens her lips: for she hath not uttered one word, but hath
+ever been travailing with the burden of her sorrow, and weeping bitterly,
+poor girl, since she left her wind-swept home. Such a state is grievous
+for herself, but claims our forbearance. 
+
+DEIANEIRA Then let her be left in peace, and pass under our roof
+as she wishes; her present woes must not be crowned with fresh pains
+at my hands; she hath enough already.-Now let us all go in, that thou
+mayest start speedily on thy journey, while I make all things ready
+in the house.  (LICHAS leads the captives into the house. DEIANEIRA
+starts to follow them, but the MESSENGER, who has been present during
+the entire scene, detains her. He speaks as he moves nearer to her.)
+
+MESSENGER Ay, but first tarry here a brief space, that thou mayest
+learn, apart from yonder folk, whom thou art taking to thy hearth,
+and mayest gain the needful knowledge of things which have not been
+told to thee. Of these I am in full possession. 
+
+DEIANEIRA What means this? Why wouldest thou stay my departure?
+
+MESSENGER Pause and listen. My former story was worth thy hearing,
+and so will this one be, methinks. 
+
+DEIANEIRA Shall I call those others back? Or wilt thou speak before
+me and these maidens? 
+
+MESSENGER To thee and these I can speak freely; never mind the others.
+
+DEIANEIRA Well, they are gone;- so thy story can proceed.
+
+MESSENGER Yonder man was not speaking the straight-forward truth
+in aught that he has just told. He has given false tidings now, or
+else his former report was dishonest. 
+
+DEIANEIRA How sayest thou? Explain thy whole drift clearly; thus
+far, thy words are riddles to me. 
+
+MESSENGER I heard this man declare, before many witnesses, that for
+this maiden's sake Heracles overthrew Eurytus and the proud towers
+of Oechalia; Love, alone of the gods, wrought on him to do those deeds
+of arms,- not the toilsome servitude to Omphale in Lydia, nor the
+death to which Iphitus was hurled. But now the herald has thrust Love
+out of sight, and tells different tale. 
+
+Well, when he could not persuade her sire to give him the maiden for
+his paramour, he devised some petty complaint as a pretext, and made
+war upon her land,- that in which, as he said, this Eurytus bore sway,-
+and slew the prince her father, and sacked her city. And now, as thou
+seest, he comes sending her to this house not in careless fashion,
+lady, nor like slave:-no, dream not of that,- it is not likely, if
+his heart is kindled with desire. 
+
+I resolved, therefore, O Queen, to tell thee all that I had heard
+from yonder man. Many others were listening to it, as I was, in the
+public place where the Trachinians were assembled; and they can convict
+him. If my words are unwelcome, I am grieved; but nevertheless I have
+spoken out the truth. 
+
+DEIANEIRA Ah me unhappy! In what plight do I stand? What secret bane
+have received beneath my roof? Hapless that I am! Is she nameless,
+then, as her convoy sware? 
+
+MESSENGER Nay, illustrious by name as by birth; she is the daughter
+of Eurytus, and was once called Iole; she of whose parentage Lichas
+could say nothing, because, forsooth, he asked no questions.
+
+LEADER OF THE CHORUS Accursed, above other evil-doers, be the man
+whom deeds of treachery dishonour! 
+
+DEIANEIRA Ah, maidens, what am I to do? These latest tidings have
+bewildered me! 
+
+LEADER Go and inquire from Lichas; perchance he will tell the truth,
+if thou constrain him to answer. 
+
+DEIANEIRA Well, I will go; thy counsel is not amiss. 
+
+MESSENGER And I, shall I wait here? Or what is thy pleasure?
+
+DEIANEIRA Remain;- here he comes from the house of his own accord,
+without summons from me.  (Enter LICHAS)  
+
+LICHAS Lady, what message shall I bear to Heracles? Give me thy commands,
+for, as thou seest, I am going. 
+
+DEIANEIRA How hastily thou art rushing away, when thy visit had been
+so long delayed,- before we have had time for further talk.
+
+LICHAS Nay, if there be aught that thou would'st ask, I am at thy
+service. 
+
+DEIANEIRA Wilt thou indeed give me the honest truth? 
+
+LICHAS Yes, be great Zeus my witness,- in anything that I know,
+
+DEIANEIRA Who is the woman, then, whom thou hast brought?
+
+LICHAS She is Euboean; but of what birth, I cannot say.
+
+MESSENGER Sirrah, look at me:- to whom art thou speaking, think'st
+thou? 
+
+LICHAS And thou- what dost thou mean by such a question?
+
+MESSENGER Deign to answer me, if thou comprehendest. 
+
+LICHAS To the royal Deianeira, unless mine eyes deceive me,- daughter
+of Oeneus, wife of Heracles, and my queen. 
+
+MESSENGER The very word that I wished to hear from thee:- thou sayest
+that she is thy queen? 
+
+LICHAS Yes, as in duty bound. 
+
+MESSENGER Well, then, what art thou prepared to suffer, if found
+guilty of failing in that duty? 
+
+LICHAS Failing in duty? What dark saying is this? 
+
+MESSENGER 'Tis none; the darkest words are thine own. 
+
+LICHAS I will go, I was foolish to hear thee so long. 
+
+MESSENGER No, not till thou hast answered a brief question.
+
+LICHAS Ask what thou wilt; thou art not taciturn. 
+
+MESSENGER That captive, whom thou hast brought home- thou knowest
+whom mean? 
+
+LICHAS Yes; but why dost thou ask? 
+
+MESSENGER Well, saidst thou not that thy prisoner- she, on whom thy
+gaze now turns so vacantly- was Iole, daughter of Eurytus?
+
+LICHAS Said it to whom? Who and where is the man that will be thy
+witness to hearing this from me? 
+
+MESSENGER To many of our own folk thou saidst it: in the public gathering
+of Trachinians, a great crowd heard thus much from thee.
+
+LICHAS Ay- said they heard-but 'tis one thing to report a fancy,
+and another to make the story good. 
+
+MESSENGER A fancy! Didst thou not say on thine oath that thou wast
+bringing her us a bride for Heracles? 
+
+LICHAS I? bringing a bride?- In the name of the gods, dear mistress,
+tell me who this stranger may be? 
+
+MESSENGER One who heard from thine own lips that the conquest of
+the whole city was due to love for this girl: the Lydian woman was
+not its destroyer, but the passion which this maid has kindled.
+
+LICHAS Lady, let this fellow withdraw: to prate with the brainsick
+befits not sane man. 
+
+DEIANEIRA Nay, I implore thee by Zeus whose lightnings go forth over
+the high glens of Oeta, do not cheat me of the truth! For she to whom
+thou wilt speak is not ungenerous, nor hath she yet to learn that
+the human heart is inconstant to its joys. They are not wise, then,
+who stand forth to buffet against Love; for Love rules the gods as
+he will, and me; and why not another woman, such as I am? So I am
+mad indeed, if I blame my husband, because that distemper hath seized
+him; or this woman, his partner in a thing which is no shame to them,
+and no wrong to me. Impossible! No; if he taught thee to speak falsely,
+'tis not a noble lesson that thou art learning; or if thou art thine
+own teacher in this, thou wilt be found cruel when it is thy wish
+to prove kind. Nay, tell me the whole truth. To a free-born man, the
+name of liar cleaves as a deadly brand. If thy hope is to escape detection,
+that, too, is vain; there are many to whom thou hast spoken, who will
+tell me. 
+
+And if thou art afraid, thy fear is mistaken. Not to learn the truth,-that,
+indeed, would pain me; but to know it- what is there terrible in that?
+Hath not Heracles wedded others ere now,- ay, more than living man,-
+and no one of them hath bad harsh word or taunt from me; nor shall
+this girl, though her whole being should be absorbed in her passion;
+for indeed I felt a profound pity when I beheld her, because her beauty
+hath wrecked her life, and she, hapless one, all innocent, hath brought
+her fatherland to ruin and to bondage. 
+
+Well, those things must go with wind and stream.- To thee I say,-deceive
+whom thou wilt, but ever speak the truth to me. 
+
+LEADER Hearken to her good counsel, and hereafter thou shalt have
+no cause to complain of this lady; our thanks, too, will be thine.
+
+LICHAS Nay, then, dear mistress,- since I see that thou thinkest
+as mortals should think, and canst allow for weakness,- I will tell
+thee the whole truth, and hide it not. Yes, it is even as yon man
+saith. This girl inspired that overmastering love which long ago smote
+through the soul of Heracles; for this girl's sake the desolate Oechalia,
+her home, was made the prey of his spear. And he,- it is just to him
+to say so,- never denied this,- never told me to conceal it. But I,
+lady, fearing to wound thy heart by such tidings, have sinned, if
+thou count this in any sort a sin. 
+
+Now, however, that thou knowest the whole story, for both your sakes,-
+for his, and not less for thine own,- bear with the woman, and be
+content that the words which thou hast spoken regarding her should
+bind thee still. For he, whose strength is victorious in all else,
+hath been utterly vanquished by his passion for this girl.
+
+DEIANEIRA Indeed, mine own thoughts move me to act thus. Trust me,
+I will not add a new affliction to my burdens by waging a fruitless
+fight against the gods. 
+
+But let us go into the house, that thou mayest receive my messages;
+and, since gifts should be meetly recompensed with gifts,- that thou
+mayest take these also. It is not right that thou shouldest go back
+with empty hands, after coming with such a goodly train.  (Exit MESSENGER,
+as LICHAS and DEIANEIRA go into the house.)  
+
+CHORUS  (singing, strophe)
+
+Great and mighty is the victory which the Cyprian queen ever bears
+away. I stay not now to speak of the gods; I spare to tell how she
+beguiled the son of Cronus, and Hades, the lord of darkness, or Poseidon,
+shaker of the earth. 
+
+But, when this bride was to be won, who were the valiant rivals that
+entered the contest for her hand? Who went forth to the ordeal of
+battle, to the fierce blows and the blinding dust? 
+
+(antistrophe)
+
+One was a mighty river-god, the dread form of a horned and four-legged
+bull, Achelous, from Oeniadae: the other came from Thebe, dear to
+Bacchus, with curved bow, and spears, and brandished club, the son
+of Zeus: who then met in combat, fain to win a bride: and the Cyprian
+goddess of nuptial joy was there with them, sole umpire of their strife.
+
+(epode)
+
+Then was there clatter of fists and clang of bow, and the noise of
+bull's horns therewith; then were there close-locked grapplings, and
+deadly blows from the forehead, and loud deep cries from both.
+
+Meanwhile, she, in her delicate beauty, sat on the side of a hill
+that could be seen afar, awaiting the husband that should be hers.
+
+So the battle rages, as I have told; but the fair bride who is the
+prize of the strife abides the end in piteous anguish. And suddenly
+she is parted from her mother, as when a heifer is taken from its
+dam.  (DEIANEIRA enters from the house alone, carrying in her arms
+a casket containing a robe.)  
+
+DEIANEIRA Dear friends, while our visitor is saying his farewell
+to the captive girls in the house, I have stolen forth to you,- partly
+to tell you what these hands have devised, and partly to crave your
+sympathy with my sorrow. 
+
+A maiden,- or, methinks, no longer a maiden, but a mistress,- hath
+found her way into my house, as a freight comes to a mariner,- a merchandise
+to make shipwreck of my peace. And now we twain are to share the same
+marriage-bed, the same embrace. Such is the reward that Heracles hath
+sent me,- he whom I called true and loyal,- for guarding his home
+through all that weary time. I have no thought of anger against him,
+often as he is vexed with this distemper. But then to live with her,
+sharing the same union- what woman could endure it? For I see that
+the flower of her age is blossoming, while mine is fading; and the
+eyes of men love to cull the bloom of youth, but they turn aside from
+the old. This, then, is my fear,- lest Heracles, in name my spouse,
+should be the younger's mate. 
+
+But, as I said, anger ill beseems a woman of understanding. I will
+tell you, friends, the way by which I hope to find deliverance and
+relief. I had a gift, given to me long ago by a monster of olden time,
+aid stored in an urn of bronze; a gift which, while yet a girl, I
+took up from the shaggy-breasted Nessus,- from his life-blood, as
+he lay dying; Nessus, who used to carry men in his arms across the
+deep waters of the Evenus, using no oar to waft them, nor sail of
+ship. 
+
+I, too, was carried on his shoulders,- when, by my father's sending,
+first went forth with Heracles as his wife; and when I was in mid-stream,
+he touched me with wanton hands. I shrieked; the son of Zeus turned
+quickly round, and shot a feathered arrow; it whizzed through his
+breast to the lungs; and, in his mortal faintness, thus much the Centaur
+spake:- 
+
+'Child of aged Oeneus, thou shalt have at least this profit of my
+ferrying,- if thou wilt hearken,-because thou wast the last whom I
+conveyed. If thou gatherest with thy hands the blood clotted round
+my wound, at the place where the Hydra, Lerna's monstrous growth,
+hath tinged the arrow with black gall,- this shall be to thee a charm
+for the soul of Heracles, so that he shall never look upon any woman
+to love her more than thee.' 
+
+I bethought me of this, my friends- for, after his death, I had kept
+it carefully locked up in a secret place; and I have anointed this
+robe, doing everything to it as he enjoined while he lived. The work
+is finished. May deeds of wicked daring be ever far from my thoughts,
+and from my knowledge,- as I abhor the women who attempt them! But
+if in any wise I may prevail against this girl by love-spells and
+charms used on Heracles, the means to that end are ready;-unless,
+indeed, I seem to be acting rashly: if so, I will desist forthwith.
+
+LEADER Nay, if these measures give any ground of confidence, we think
+that thy design is not amiss. 
+
+DEIANEIRA Well, the ground stands thus,- there is a fair promise;
+but I have not yet essayed the proof. 
+
+LEADER Nay, knowledge must come through action; thou canst have no
+test which is not fanciful, save by trial. 
+
+DEIANEIRA Well, we shall know presently:- for there I see the man
+already at the doors; and he will soon be going.- Only may my secret
+be well kept by you! While thy deeds are hidden, even though they
+be not seemly, thou wilt never be brought to shame.  (LICHAS enters
+from the house.)  
+
+LICHAS What are thy commands? Give me my charge, daughter of Oeneus;
+for already I have tarried over long. 
+
+DEIANEIRA Indeed, I have just been seeing to this for thee, Lichas,
+while thou wast speaking to the stranger maidens in the house;- that
+thou shouldest take for me this long robe, woven by mine own hand,
+a gift to mine absent lord. 
+
+And when thou givest it, charge him that he, and no other, shall be
+the first to wear it; that it shall not be seen by the light of the
+sun, nor by the sacred precinct, nor by the fire at the hearth, until
+he stand forth, conspicuous before all eyes, and show it to the gods
+on a day when bulls are slain. 
+
+For thus had I vowed,- that if I should ever see or hear that he had
+come safely home, I would duly clothe him in this robe, and so present
+him to the gods, newly radiant at their altar in new garb.
+
+As proof, thou shalt carry a token, which he will quickly recognise
+within the circle of this seal. 
+
+Now go thy way; and, first, remember the rule that messengers should
+not be meddlers; next, so bear thee that my thanks may be joined to
+his doubling the grace which thou shalt win. 
+
+LICHAS Nay, if I ply this herald-craft of Hermes with any sureness,
+I will never trip in doing thine errand: I will not fail to deliver
+this casket as it is, and to add thy words in attestation of thy gift.
+
+DEIANEIRA Thou mayest be going now; for thou knowest well how things
+are with us in the house. 
+
+LICHAS I know, and will report, that all hath prospered.
+
+DEIANEIRA And then thou hast seen the greeting given to the stranger
+maiden-thou knowest how I welcomed her? 
+
+LICHAS So that my heart was filled with wondering joy. 
+
+DEIANEIRA What more, then, is there for thee to tell? I am afraid
+that it would be too soon to speak of the longing on my part, before
+we know if I am longed for there.  (LICHAS departs with the casket
+and DEIANEIRA retires into the house.)  
+
+CHORUS  (Singing, strophe 1)
+
+O ye who dwell by the warm springs between haven and crag, and by
+Oeta's heights; O dwellers by the land-locked waters of the Malian
+sea, on the shore sacred to the virgin-goddess of the golden shafts,
+where the Greeks meet in famous council at the Gates; 
+
+(antistrophe 1)
+
+Soon shall the glorious voice of the flute go up for you again, resounding
+with no harsh strain of grief, but with such music as the lyre maketh
+to the gods! For the son whom Alcmena bore to Zeus is hastening homeward,
+with the trophies of all prowess. 
+
+(strophe 2)
+
+He was lost utterly to our land, a wanderer over sea, while we waited
+through twelve long months, and knew nothing; and his loving wife,
+sad dweller with sad thoughts, was ever pining amid her tears. But
+now the War-god, roused to fury, hath delivered her from the days
+of her mourning. 
+
+(antistrophe 2)
+
+May he come, may he come! Pause not the many-oared ship that carries
+him, till he shall have reached this town, leaving the island altar
+where, as rumour saith, he is sacrificing! Thence may he come, full
+of desire, steeped in love by the specious device of the robe, on
+which Persuasion hath spread her sovereign charm!  (DEIANEIRA comes
+out of the house in agitation.)  
+
+DEIANEIRA Friends, how I fear that I may have gone too far in all
+that I have been doing just now! 
+
+LEADER What hath happened, Deianeira, daughter of Oeneus?
+
+DEIANEIRA I know not; but feel a misgiving that I shall presently
+be found to have wrought a great mischief, the issue of a fair hope.
+
+LEADER It is nothing, surely, that concerns thy gift to Heracles?
+
+DEIANEIRA Yea, even so. And henceforth I would say to all, act not
+with zeal, if ye act without light. 
+
+LEADER Tell us the cause of thy fear, if it may be told.
+
+DEIANEIRA A thing hath come to pass, my friends, such that, if I
+declare it, ye will hear a marvel whereof none could have dreamed.
+
+That with which I was lately anointing the festal robe,- a white tuft
+of fleecy sheep's wool,- hath disappeared,- not consumed by anything
+in the house, but self-devoured and self-destroyed, as it crumbled
+down from the surface of a stone. But I must tell the story More at
+length, that thou mayest know exactly how this thing befell.
+
+I neglected no part of the precepts which the savage Centaur gave
+me, when the bitter barb was rankling in his side: they were in my
+memory, like the graven words which no hand may wash from a tablet
+of bronze. Now these were his orders, and I obeyed them:-to keep this
+unguent in secret place, always remote from fire and from the sun's
+warm ray, until I should apply it, newly spread, where I wished. So
+had I done. And now, when the moment for action had come, I performed
+the anointing privily in the house, with a tuft of soft wool which
+I had plucked from a sheep of our home-flock; then I folded up my
+gift, and laid it, unvisited by sunlight, within its casket, as ye
+saw. 
+
+But as I was going back into the house, I beheld a thing too wondrous
+for words, and passing the wit of man to understand. I happened to
+have thrown the shred of wool, with which I bad been preparing the
+robe, into the full blaze of the sunshine. As it grew warm, it shrivelled
+all away, and quickly crumbled to powder on the ground, like nothing
+so much as the dust shed from a saw's teeth where men work timber.
+In such a state it lies as it fell. And from the earth, where it was
+strewn, clots of foam seethed up, as when the rich juice of the blue
+fruit from the vine of Bacchus is poured upon the ground.
+
+So I know not, hapless one, whither to turn my thoughts; I only see
+that I have done a fearful deed. Why or wherefore should the monster,
+in his death-throes, have shown good will to me, on whose account
+he was dying? Impossible! No, he was cajoling me, in order to slay
+the man who had smitten him: and I gain the knowledge of this too
+late, when it avails no more. Yes, I alone- unless my foreboding prove
+false- I, wretched one, must destroy him! For I know that the arrow
+which made the wound did scathe even to the god Cheiron; and it kills
+all beasts that it touches. And since 'tis this same black venom in
+the blood that hath passed out through the wound of Nessus, must it
+not kill my lord also? I ween it must. 
+
+Howbeit, I am resolved that, if he is to fall, at the same time I
+also shall be swept from life; for no woman could bear to live with
+an evil name, if she rejoices that her nature is not evil.
+
+LEADER Mischief must needs be feared; but it is not well to doom
+our hope before the event. 
+
+DEIANEIRA Unwise counsels leave no room even for a hope which can
+lend courage. 
+
+LEADER Yet towards those who have erred unwittingly, men's anger
+is softened; and so it should be towards thee. 
+
+DEIANEIRA Nay, such words are not for one who has borne a part in
+the ill deed, but only for him who has no trouble at his own door.
+
+LEADER 'Twere well to refrain from further speech, unless thou would'st
+tell aught to thine own son; for he is at hand, who went erewhile
+to seek his sire.  (Enter HYLLUS)  
+
+HYLLUS O mother, would that one of three things had befallen thee!
+Would that thou wert dead,- or, if living, no mother of mine,- or
+that some new and better spirit had passed into thy bosom.
+
+DEIANEIRA Ah, my son, what cause have I given thee to abhor me?
+
+HYLLUS I tell thee that thy husband- yea, my sire-bath been done
+to death by thee this day 
+
+DEIANEIRA Oh, what word hath passed thy lips, my child!
+
+HYLLUS A word that shall not fail of fulfilment; for who may undo
+that which bath come to pass? 
+
+DEIANEIRA What saidst thou, my son? Who is thy warranty for charging
+me with a deed so terrible? 
+
+HYLLUS I have seen my father's grievous fate with mine own eyes;
+I speak not from hearsay. 
+
+DEIANEIRA And where didst thou find him,- where didst thou stand
+at his side? 
+
+HYLLUS If thou art to hear it, then must all be told. 
+After sacking the famous town of Eurytus, he went his way with the
+trophies and first-fruits of victory. There is a sea-washed headland
+of Euboea, Cape Cenaeum, where he dedicated altars and a sacred grove
+to the Zeus of his fathers; and there I first beheld him, with the
+joy of yearning love. 
+
+He was about to celebrate a great sacrifice, when his own herald,
+Lichas, came to him from home, bearing thy gift, the deadly robe;
+which he put on, according to thy precept; and then began his offering
+with twelve bulls, free from blemish, the firstlings of the spoil;
+but altogether he brought a hundred victims, great or small, to the
+altar. 
+
+At first, hapless one, he prayed with serene soul, rejoicing in his
+comely garb. But when the blood-fed flame began to blaze from the
+holy offerings and from the resinous pine, a sweat broke forth upon
+his flesh, and the tunic clung to his sides, at every joint, close-glued,
+as if by a craftsman's hand; there came a biting pain that racked
+his bones; and then the venom, as of some deadly, cruel viper, began
+to devour him. 
+
+Thereupon he shouted for the unhappy Lichas,- in no wise to blame
+for thy crime,- asking what treason had moved him to bring that robe;
+but he, all-unknowing, hapless one, said that he had brought the gift
+from thee alone, as it had been sent. When his master heard it, as
+a piercing spasm clutched his lungs, he caught him by the foot, where
+the ankle turns in the socket, and hurled him at a surf-beaten rock
+in the sea; and he made the white brain to ooze from the hair, as
+the skull was dashed to splinters, and blood scattered therewith.
+
+But all the people lifted up a cry of awe-struck grief, seeing that
+one was frenzied, and the other slain; and no one dared to come before
+the man. For the pain dragged him to earth, or made him leap into
+the air, with yells and shrieks, till the cliffs rang around, steep
+headlands of Locris, and Euboean capes. 
+
+But when he was spent with oft throwing himself on the ground in his
+anguish, and oft making loud lament,- cursing his fatal marriage with
+thee, the vile one, and his alliance with Oeneus,- saying how he had
+found in it the ruin of his life,- then from out of the shrouding
+altar-smoke, he lifted up his wildly-rolling eyes, and saw me in the
+great crowd, weeping. He turned his gaze on me, and called me: 'O
+son, draw near; do not fly from my trouble, even though thou must
+share my death. Come, bear me forth, and set me, if thou canst, in
+a place where no man shall see me; or, if thy pity forbids that, at
+least convey me with all speed out of this land, and let me not die
+where I am.' 
+
+That command sufficed; we laid him in mid-ship, and brought him-but
+hardly brought him- to this shore, moaning in his torments. And ye
+shall presently behold him, alive, or lately dead. 
+
+Such, mother, are the designs and deeds against my sire whereof thou
+hast been found guilty. May avenging justice and the Erinys visit
+thee for them! Yes, if it be right, that is my prayer: and right it
+is,- for I have seen thee trample on the right, by slaying the noblest
+man in all the world, whose like thou shalt see nevermore!  (DEIANEIRA
+moves towards the house.)  
+
+LEADER  (to DEIANEIRA) Why dost thou depart in silence? Knowest thou
+not that such silence pleads for thine accuser?  (DEIANEIRA goes in
+the house.)  
+
+HYLLUS Let her depart. A fair wind speed her far from my sight! Why
+should the name of mother bring her a semblance of respect, when she
+is all unlike a mother in her deeds? No, let her go,- farewell to
+her; and may such joy as she gives my sire become her own!  (Exit
+HYLLUS, into the house.)  
+
+CHORUS  (singing, strophe 1)
+
+See, maidens, how suddenly the divine word of the old prophecy hath
+come upon us, which said that, when the twelfth year should have run
+through its full tale of months, it should end the series of toils
+for the true-born son of Zeus! And that promise is wafted surely to
+its fulfilment. For how shall he who beholds not the light have toilsome
+servitude any more beyond the grave? 
+
+(antistrophe 1)
+
+If a cloud of death is around him, and the doom wrought by the Centaur's
+craft is stinging his sides, where cleaves the venom which Thanatos
+begat and the gleaming serpent nourished, how can he look upon tomorrow's
+sun,- when that appalling Hydra-shape holds him in its grip, and those
+murderous goads, prepared by the wily words of black-haired Nessus,
+have started into fury, vexing him with tumultuous pain?
+
+(strophe 2)
+
+Of such things this hapless lady had no foreboding; but she saw great
+mischief swiftly coming on her home from the new marriage. Her own
+hand applied the remedy; but for the issues of a stranger's counsel,
+given at a fatal meeting,- for these, I ween, she makes despairing
+lament, shedding the tender dew of plenteous tears. And the coming
+fate foreshadows a great misfortune, contrived by guile.
+
+(antistrophe 2)
+
+Our streaming tears break forth: alas, a plague is upon him more
+piteous than any suffering that foemen ever brought upon that glorious
+hero. 
+
+Ah, thou dark steel of the spear foremost in battle, by whose might
+yonder bride was lately borne so swiftly from Oechalia's heights!
+But the Cyprian goddess, ministering in silence, hath been plainly
+proved the doer of these deeds. 
+
+LEADER OF ONE SEMI-CHORUS Is it fancy, or do I hear some cry of grief
+just passing through the house? What is this? 
+
+LEADER OF OTHER SEMI-CHORUS No uncertain sound, but a wail of anguish
+from within: the house hath some new trouble. 
+
+LEADER OF WHOLE CHORUS And mark how sadly, with what a cloud upon
+her brow, that aged woman approaches, to give us tidings.  (Enter
+NURSE, from the house.)  
+
+NURSE Ah, my daughters, great, indeed, were the sorrows that we were
+to reap from the gift sent to Heracles! 
+
+LEADER Aged woman, what new mischance hast thou to tell?
+
+NURSE Deianeira hath departed on the last of all her journeys, departed
+without stirring foot. 
+
+LEADER Thou speakest not of death? 
+
+NURSE My tale is told. 
+
+LEADER Dead, hapless one? 
+
+NURSE Again thou hearest it. 
+
+CHORUS Hapless, lost one! Say, what was the manner of her death?
+
+NURSE Oh, a cruel deed was there! 
+
+CHORUS Speak, woman, how hath she met her doom? 
+
+NURSE By her own hand hath she died. 
+
+CHORUS What fury, what pangs of frenzy have cut her off by the edge
+of a dire weapon? How contrived she this death, following death,-
+all wrought by her alone? 
+
+NURSE By the stroke of the sword that makes sorrow. 
+
+CHORUS Sawest thou that violent deed, poor helpless one?
+
+NURSE I saw it; yea, I was standing near. 
+
+CHORUS Whence came it? How was it done? Oh, speak 
+
+NURSE 'Twas the work of her own mind and her own hand. 
+
+CHORUS What dost thou tell us? 
+
+NURSE The sure truth. 
+
+CHORUS The first-born, the first-born of that new bride is a dread
+Erinys for this house! 
+
+NURSE Too true; and, hadst thou been an eye-witness of the action,
+verily thy pity would have been yet deeper. 
+
+LEADER And could a woman's hand dare to do such deeds? 
+
+NURSE Yea, with dread daring; thou shalt hear, and then thou wilt
+bear me witness. 
+
+When she came alone into the house, and saw her son preparing a deep
+litter in the court, that he might go back with it to meet his sire,
+then she hid herself where none might see; and, falling before the
+altars, she wailed aloud that they were left desolate; and, when she
+touched any-household thing that she had been wont to use, poor lady,
+in the past, her tears would flow; or when, roaming hither and thither
+through the house, she beheld the form of any well-loved servant,
+she wept, hapless one, at that sight, crying aloud upon her own fate,
+and that of the household which would thenceforth be in the power
+of others. 
+
+But when she ceased from this, suddenly I beheld her rush into the
+chamber of Heracles. From a secret place of espial, I watched her;
+and saw her spreading coverings on the couch of her lord. When she
+had done this, she sprang thereon, and sat in the middle of the bed;
+her tears burst forth in burning streams, and thus she spake: 'Ah,
+bridal bed and bridal chamber mine, farewell now and for ever; never
+more shall ye receive me to rest upon this couch.' She said no more,
+but with a vehement hand loosed her robe, where the gold-wrought brooch
+lay above her breast, baring all her left side and arm. Then I ran
+with all my strength, and warned her son of her intent. But lo, in
+the space between my going and our return, she had driven a two-edged
+sword through her side to the heart. 
+
+At that sight, her son uttered a great cry; for he knew, alas, that
+in his anger he had driven her to that deed; and he had learned, too
+late, from the servants in the house that she had acted without knowledge,
+by the prompting of the Centaur. And now the youth, in his misery,
+bewailed her with all passionate lament; he knelt, and showered kisses
+on her lips; he threw himself at her side upon the ground, bitterly
+crying that he had rashly smitten her with a slander,- weeping that
+he must now live bereaved of both alike,- of mother and of sire.
+
+Such are the fortunes of this house. Rash indeed, is he who reckons
+on the morrow, or haply on days beyond it; for to-morrow is not, until
+to-day is safely past. 
+
+CHORUS  (singing, strophe 1)
+
+Which woe shall I bewail first, which misery is the greater? Alas,
+'tis hard for me to tell. 
+
+(antistrophe 1)
+
+One sorrow may be seen in the house; for one we wait with foreboding:
+and suspense hath a kinship with pain. 
+
+(strophe 2)
+
+Oh that some strong breeze might come with wafting power unto our
+hearth, to bear me far from this land, lest I die of terror, when
+look but once upon the mighty son of Zeus! 
+
+For they say that he is approaching the house in torments from which
+there is no deliverance, a wonder of unutterable woe. 
+
+(antistrophe 2)
+
+Ah, it was not far off, but close to us, that woe of which my lament
+gave warning, like the nightingale's piercing note! 
+
+Men of an alien race are coming yonder. And how, then, are they bringing
+him? In sorrow, as for some loved one, they move on their mournful,
+noiseless march. 
+
+Alas, he is brought in silence! What are we to think; that he is dead,
+or sleeping?  (Enter HYLLUS and an OLD MAN, with attendants,bearing
+HERACLES upon a litter.)  
+
+HYLLUS Woe is me for thee, my father, woe is me for thee, wretched
+that I am! Whither shall I turn? What can I do? Ah me! 
+
+OLD MAN  (whispering) Hush, my son! Rouse not the cruel pain that
+infuriates thy sire! He lives, though prostrated. Oh, put a stern
+restraint upon thy lips! 
+
+HYLLUS How sayest thou, old man- is he alive? 
+
+OLD MAN  (whispering) Thou must not awake the slumberer! Thou must
+not rouse and revive the dread frenzy that visits him, my son!
+
+HYLLUS Nay, I am crushed with this weight of misery- there is madness
+in my heart! 
+
+HERACLES  (awaking) O Zeus, to what land have I come? Who are these
+among whom I lie, tortured with unending agonies? Wretched, wretched
+that I am! Oh, that dire pest is gnawing me once more! 
+
+OLD MAN  (to HYLLUS) Knew I not how much better it was that thou
+shouldest keep silence, instead of scaring slumber from his brain
+and eyes? 
+
+HYLLUS Nay, I cannot be patient when I behold this misery.
+
+HERACLES O thou Cenaean rock whereon mine altars rose, what a cruel
+reward hast thou won me for those fair offerings,- be Zeus my witness!
+Ah, to what ruin hast thou brought me, to what ruin! Would that I
+had never beheld thee for thy sorrow! Then had I never come face to
+face with this fiery madness, which no spell can soothe! Where is
+the charmer, where is the cunning healer, save Zeus alone, that shall
+lull this plague to rest? I should marvel, if he ever came within
+my ken! 
+
+(strophe 1)
+
+Ah! 
+Leave me, hapless one, to my rest- leave me to my last rest!
+
+(strophe 2)
+
+Where art thou touching me? Whither wouldst thou turn me? Thou wilt
+kill me, thou wilt kill me! If there be any pang that slumbers, thou
+hast aroused it! 
+
+It hath seized me,- oh, the pest comes again!- Whence are ye, most
+ungrateful of all the Greeks? I wore out my troublous days in ridding
+Greece of pests, on the deep and in all forests; and now, when I am
+stricken, will no man succour me with merciful fire of sword?
+
+(antistrophe 1)
+
+Oh, will no one come and sever the head, at one fierce stroke, from
+this wretched body? Woe, woe is me! 
+
+OLD MAN Son of Heracles, this task exceeds my strength,- help thou,-
+for strength is at thy command, too largely to need my aid in his
+relief. 
+
+HYLLUS My hands are helping; but no resource, in myself or from another,
+avails me to make his life forget its anguish:- such is the doom appointed
+by Zeus! 
+
+HERACLES (strophe 3)
+
+O my son, where art thou? Raise me,- take hold of me,- thus thus!
+Alas, my destiny! 
+
+(antistrophe 2)
+
+Again, again the cruel pest leaps forth to rend me, the fierce plague
+with which none may cope! 
+
+O Pallas, Pallas, it tortures me again! Alas, my son, pity thy sire,-
+draw a blameless sword, and smite beneath my collar-bone, and heal
+this pain wherewith thy godless mother hath made me wild! So may I
+see her fall,- thus, even thus, as she hath destroyed me!
+
+(antistrophe 3)
+
+Sweet Hades, brother of Zeus, give me rest, give me rest,- end my
+woe by a swiftly-sped doom! 
+
+LEADER OF THE CHORUS I shudder, friends, to hear these sorrows of
+our lord; what a man is here, and what torments afflict him!
+
+HERACLES Ah, fierce full oft, and grievous not in name alone, have
+been the labours of these hands, the burdens borne upon these shoulders!
+But no toil ever laid on me by the wife of Zeus or by the hateful
+Eurystheus was like unto this thing which the daughter of Oeneus,
+fair and false, hath fastened upon my back,- this woven net of the
+Furies, in which I perish! Glued to my sides, it hath eaten my flesh
+to the inmost parts; it is ever with me, sucking the channels of my
+breath; already it hath drained my fresh lifeblood, and my whole body
+is wasted, a captive to these unutterable bonds. 
+
+Not the warrior on the battle-field, not the Giants' earth-born host,
+nor the might of savage beasts, hath ever done unto me thus,- not
+Hellas, nor the land of the alien, nor any land to which I have come
+as a deliverer: no, a woman, a weak woman, born not to the strength
+of man, all alone hath vanquished me, without stroke of sword
+
+Son, show thyself my son indeed, and do not honour a mother's name
+above a sire's: bring forth the woman that bare thee, and give her
+with thine own hands into my hand, that I may know of a truth which
+sight grieves thee most,- my tortured frame, or hers, when she suffers
+her righteous doom! 
+
+Go, my son, shrink not- and show thy pity for me, whom many might
+deem pitiful,- for me, moaning and weeping like a girl;- and the man
+lives not who can say that he ever saw me do thus before; no, without
+complaining I still went whither mine evil fortune led. But now, alas,
+the strong man hath been found a woman. 
+
+Approach, stand near thy sire, and see what a fate it is that hath
+brought me to this pass; for I will lift the veil. Behold! Look, all
+of you, on this miserable body; see how wretched, how piteous is my
+plight! 
+
+Ah, woe is me! 
+The burning throe of torment is there anew, it darts through my sides-
+I must wrestle once more with that cruel, devouring plague!
+
+O thou lord of the dark realm, receive me! Smite me, O fire of Zeus!
+Hurl down thy thunderbolt, O King, send it, O father, upon my head!
+For again the pest is consuming me; it hath blazed forth, it hath
+started into fury! O hands, my hands, O shoulders and breast and trusty
+arms, ye, now in this plight, are the same whose force of old subdued
+the dweller in Nemea, the scourge of herdsmen, the lion, a creature
+that no man might approach or confront; ye tamed the Lernaean Hydra,
+and that monstrous host of double form, man joined to steed, a race
+with whom none may commune, violent, lawless, of surpassing might;
+ye tamed the Erymanthian beast, and the three-headed whelp of Hades
+underground, a resistless terror, offspring of the dread Echidna;
+ye tamed the dragon that guarded the golden fruit in the utmost places
+of the earth. 
+
+These toils and countless others have I proved, nor hath any man vaunted
+a triumph over my prowess. But now, with joints unhinged and with
+flesh torn to shreds, I have become the miserable prey of an unseen
+destroyer,- I, who am called the son of noblest mother,- I, whose
+reputed sire is Zeus, lord of the starry sky. 
+
+But ye may be sure of one thing:- though I am as nought, though I
+cannot move a step, yet she who hath done this deed shall feel my
+heavy hand even now: let her but come, and she shall learn to proclaim
+this message unto all, that in my death, as in my life, I chastised
+the wicked! 
+
+LEADER Ah, hapless Greece, what mourning do I forsee for her, if
+she must lose this man 
+
+HYLLUS Father, since thy pause permits an answer, hear me, afflicted
+though thou art. I will ask thee for no more than is my due. Accept
+my counsels, in a calmer mood than that to which this anger stings
+thee: else thou canst not learn how vain is thy desire for vengeance,
+and how causeless thy resentment. 
+
+HERACLES Say what thou wilt, and cease; in this my pain I understand
+nought of all thy riddling words. 
+
+HYLLUS I come to tell thee of my mother,- how it is now with her,
+and how she sinned unwittingly. 
+
+HERACLES Villain! What- hast thou dared to breathe her name again
+in my hearing,- the name of the mother who hath slain thy sire?
+
+HYLLUS Yea, such is her state that silence is unmeet. 
+
+HERACLES Unmeet, truly, in view of her past crimes. 
+
+HYLLUS And also of her deeds this day,- as thou wilt own.
+
+HERACLES Speak,- but give heed that thou be not found a traitor.
+
+HYLLUS These are my tidings. She is dead, lately slain.
+
+HERACLES By whose hand? A wondrous message, from a prophet of ill-omened
+voice! 
+
+HYLLUS By her own hand, and no stranger's. 
+
+HERACLES Alas, ere she died by mine, as she deserved! 
+
+HYLLUS Even thy wrath would be turned, couldst thou hear all.
+
+HERACLES A strange preamble; but unfold thy meaning. 
+
+HYLLUS The sum is this;- she erred, with a good intent.
+
+HERACLES Is it a good deed, thou wretch, to have slain thy sire?
+
+HYLLUS Nay, she thought to use a love-charm for thy heart, when she
+saw the new bride in the house; but missed her aim. 
+
+HERACLES And what Trachinian deals in spells so potent?
+
+HYLLUS Nessus the Centaur persuaded her of old to inflame thy desire
+with such a charm. 
+
+HERACLES Alas, alas, miserable that I am! Woe is me, I am lost,-
+undone, undone! No more for me the light of day! Alas, now I see in
+what a plight stand! Go, my son,- for thy father's end hath come,-
+summon, I pray thee, all thy brethren; summon, too, the hapless Alcmena,
+in vain the bride of Zeus,- that ye may learn from my dying lips what
+oracles know. 
+
+HYLLUS Nay, thy mother is not here; as it chances, she hath her abode
+at Tiryns by the sea. Some of thy children she hath taken to live
+with her there, and others, thou wilt find, are dwelling in Thebe's
+town. But we who are with thee, my father, will render all service
+that is needed, at thy bidding. 
+
+HERACLES Hear, then, thy task: now is the time to show what stuff
+is in thee, who art called my son. 
+
+It was foreshown to me by my Sire of old that I should perish by no
+creature that had the breath of life, but by one that had passed to
+dwell with Hades. So I have been slain by this savage Centaur, the
+living by the dead, even as the divine will had been foretold.
+
+And I will show thee how later oracles tally therewith, confirming
+the old prophecy. I wrote them down in the grove of the Selli, dwellers
+on the hills, whose couch is on the ground; they were given by my
+Father's oak of many tongues; which said that, at the time which liveth
+and now is, my release from the toils laid upon me should be accomplished.
+And I looked for prosperous days; but the meaning, it seems, was only
+that should die; for toil comes no more to the dead. 
+
+Since, then, my son, those words are clearly finding their fulfilment,
+thou, on thy part, must lend me thine aid. Thou must not delay, and
+so provoke me to bitter speech: thou must consent and help with a
+good grace, as one who hath learned that best of laws, obedience to
+a sire. 
+
+HYLLUS Yea, father,- though I fear the issue to which our talk hath
+brought me,- I will do thy good pleasure. 
+
+HERACLES First of all, lay thy right hand in mine. 
+
+HYLLUS For what purpose dost thou insist upon his pledge?
+
+HERACLES Give thy hand at once- disobey me not! 
+
+HYLLUS Lo, there it is: thou shalt not be gainsaid. 
+
+HERACLES Now, swear by the head of Zeus my sire! 
+
+HYLLUS To do what deed? May this also be told? 
+
+HERACLES To perform for me the task that I shall enjoin.
+
+HYLLUS I swear it, with Zeus for witness of the oath. 
+
+HERACLES And pray that, if thou break this oath, thou mayest suffer.
+
+HYLLUS I shall not suffer, for I shall keep it:- yet so I pray.
+
+HERACLES Well, thou knowest the summit of Oeta, sacred to Zeus?
+
+HYLLUS Ay; I have often stood at his altar on that height.
+
+HERACLES Thither, then, thou must carry me up with thine own hands,
+aided by what friends thou wilt; thou shalt lop many a branch from
+the deep-rooted oak, and hew many a faggot also from the sturdy stock
+of the wild-olive; thou shalt lay my body thereupon, and kindle it
+with flaming pine-torch. 
+
+And let no tear of mourning be seen there; no, do this without lament
+and without weeping, if thou art indeed my son. But if thou do it
+not, even from the world below my curse and my wrath shall wait on
+thee for ever. 
+
+HYLLUS Alas, my father, what hast thou spoken? How hast thou dealt
+with me! 
+
+HERACLES I have spoken that which thou must perform; if thou wilt
+not, then get thee some other sire, and be called my son no more!
+
+HYLLUS Woe, woe is me! What a deed dost thou require of me, my father,-that
+I should become thy murderer, guilty of thy blood! 
+
+HERACLES Not so, in truth, but healer of my sufferings, sole physician
+of my pain! 
+
+HYLLUS And how, by enkindling thy body, shall I heal it?
+
+HERACLES Nay, if that thought dismay thee, at least perform the rest.
+
+HYLLUS The service of carrying thee shall not be refused.
+
+HERACLES And the heaping of the pyre, as I have bidden?
+
+HYLLUS Yea, save that I will not touch it with mine own hand. All
+else will I do, and thou shalt have no hindrance on my part.
+
+HERACLES Well, so much shall be enough.- But add one small boon to
+thy large benefits. 
+
+HYLLUS Be the boon never so large, it shall be granted.
+
+HERACLES Knowest thou, then, the girl whose sire was Eurytus?
+
+HYLLUS It is of Iole that thou speakest, if I mistake not.
+
+HERACLES Even so. This, in brief, is the charge that I give thee,
+my son. When am dead, if thou wouldest show a pious remembrance of
+thine oath unto thy father, disobey me not, but take this woman to
+be thy wife. Let no other espouse her who hath lain at my side, but
+do thou, O my son, make that marriage-bond thine own. Consent: after
+loyalty in great matters, to rebel in less is to cancel the grace
+that bad been won. 
+
+HYLLUS Ah me, it is not well to be angry with a sick man: but who
+could bear to see him in such a mind? 
+
+HERACLES Thy words show no desire to do my bidding. 
+
+HYLLUS What! When she alone is to blame for my mother's death, and
+for thy present plight besides? Lives there the man who would make
+such choice, unless he were maddened by avenging fiends?
+
+Better were it, father, that I too should die, rather than live united
+to the worst of our foes! 
+
+HERACLES He will render no reverence, it seems, to my dying prayer.-
+Nay, be sure that the curse of the gods will attend thee for disobedience
+to my voice. 
+
+HYLLUS Ah, thou wilt soon show, methinks, how distempered thou art!
+
+HERACLES Yea, for thou art breaking the slumber of my plague.
+
+HYLLUS Hapless that I am! What perplexities surround me!
+
+HERACLES Yea, since thou deignest not to hear thy sire.
+
+HYLLUS But must I learn, then, to be impious, my father?
+
+HERACLES 'Tis not impiety, if thou shalt gladden my heart.
+
+HYLLUS Dost thou command me, then, to do this deed, as a clear duty?
+
+HERACLES I command thee,- the gods bear me witness! 
+
+HYLLUS Then will I do it, and refuse not,- calling upon the gods
+to witness thy deed. I can never be condemned for loyalty to thee,
+my father. 
+
+HERACLES Thou endest well; and to these words, my son, quickly add
+the gracious deed, that thou mayest lay me on the pyre before any
+pain returns to rend or sting me. 
+
+Come, make haste and lift me! This, in truth, is rest from troubles;
+this is the end, the last end, of Heracles! 
+
+HYLLUS Nothing, indeed, hinders the fulfilment of thy wish, since
+thy command constrains us, my father. 
+
+HERACLES  (chanting) Come, then, ere thou arouse this plague, O my
+stubborn soul, give me a curb as of steel on lips set like stone to
+stone, and let no cry escape them; seeing that the deed which thou
+art to do, though done perforce, is yet worthy of thy joy!
+
+HYLLUS  (chanting) Lift him, followers! And grant me full forgiveness
+for this; but mark the great cruelty of the gods in the deeds that
+are being done. They beget children, they are hailed as fathers, and
+yet they can look upon such sufferings.  (The attendants raise HERACLES
+on the litter and move slowly off, as HYLLUS chants to the CHORUS
+in the closing lines.)  No man foresees the future; but the present
+is fraught with mourning for us, and with shame for the powers above,
+and verily with anguish beyond compare for him who endures this doom.
+
+Maidens, come ye also, nor linger at the house; ye who have lately
+seen a dread death, with sorrows manifold and strange: and in all
+this there is nought but Zeus. 
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.
+</pre></body></html>

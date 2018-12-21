@@ -1,0 +1,1865 @@
+
+<BASE HREF="http://classics.mit.edu/Sophocles/ajax.pl.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Sophocles/ajax.pl.txt"><font color=blue>classics.mit.edu/Sophocles/ajax.pl.txt</font></a>.<br>
+<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Sophocles/ajax.pl.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
+<html><body><pre>
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Sophocles/ajax.html
+
+Ajax
+By Sophocles
+
+
+Translated by R. C. Trevelyan
+
+----------------------------------------------------------------------
+
+Dramatis Personae
+
+ATHENA
+ODYSSEUS
+AJAX
+CHORUS OF SALAMINIANS
+TECMESSA, concubine of AJAX
+MESSENGER
+TEUCER, half-brother of AJAX
+MENELAUS
+AGAMEMNON
+Mute Persons
+EURYSACES, child of AJAX and TECMESSA
+Attendants, Heralds, etc.
+
+----------------------------------------------------------------------
+
+Before the tent of AJAX in the Greek camp at Troy. It is dawn. ODYSSEUS
+is discovered examining the ground before the tent. ATHENA appears
+from above.
+
+----------------------------------------------------------------------
+
+ATHENA Son of Laertes, ever do I behold thee 
+Scheming to snatch some vantage o'er thy foes. 
+And now among the tents that guard the ships 
+Of Ajax, camped at the army's outmost verge, 
+Long have I watched thee hunting in his trail, 
+And scanning his fresh prints, to learn if now 
+He be within or forth. Skilled in the chase 
+Thou seemest, as a keen-nosed Spartan hound. 
+For the man but now has passed within, his face 
+And slaughterous hands streaming with sweat and blood. 
+No further need for thee to peer about 
+Inside these doors. But say what eager quest 
+Is thine, that I who know may give thee light. 
+
+ODYSSEUS Voice of Athena, dearest of Gods to me, 
+How clearly, though thou be invisible, 
+Do I hear thy call, and seize it with my soul, 
+As when a bronze-mouthed Tyrrhene trumpet sounds! 
+Rightly thou judgest that on a foe's trail, 
+Broad-shielded Ajax, I range to and fro. 
+Him, and no other, I have long been tracking. 
+This very night against us he has wrought 
+A deed incredible, if in truth 'tis he. 
+For we know nothing sure, but drift in doubt. 
+Gladly I assumed the burden of this task. 
+For not long since we found that our whole spoil 
+Had been destroyed, both herds and flocks, slaughtered 
+By some man's hand, their guardians dead beside them. 
+Now 'tis on him that all men lay this guilt: 
+And a scout who had seen him swiftly bounding 
+Across the plain alone with reeking sword, 
+Informed me and bore witness. I forthwith, 
+Darting in hot chase, now pick out his tracks, 
+But now, bewildered, know not whose they are. 
+Timely thou comest. As in past days, so 
+In days to come I am guided by thy hand. 
+
+ATHENA I know it, Odysseus: so on the path betimes 
+A sentinel friendly to thy chase I came. 
+
+ODYSSEUS Dear mistress, do I labour to good purpose? 
+
+ATHENA Know 'twas by yonder man these deeds were wrought.
+
+ODYSSEUS And why did he so brandish a frenzied hand? 
+
+ATHENA In grievous wrath for Achilles' panoply. 
+
+ODYSSEUS Why then upon the flocks did he make this onslaught?
+
+ATHENA Your blood he deemed it was that stained his hand.
+
+ODYSSEUS Was this outrage designed against the Greeks? 
+
+ATHENA He had achieved it too, but for my vigilance. 
+
+ODYSSEUS What bold scheme could inspire such reckless daring?
+
+ATHENA By night he meant to steal on you alone. 
+
+ODYSSEUS Did he come near us? Did he reach his goal? 
+
+ATHENA He stood already at the two chiefs' doors. 
+
+ODYSSEUS What then withheld his eager hand from bloodshed?
+
+ATHENA 'Twas I restrained him, casting on his eyes 
+O'ermastering notions of that baneful ecstasy, 
+That turned his rage on flocks and mingled droves 
+Of booty yet unshared, guarded by herdsmen. 
+Then plunging amid the thronging horns he slew, 
+Smiting on all sides; and one while he fancied 
+The Atreidae were the captives he was slaughtering, 
+Now 'twas some other chief on whom he fell. 
+And I, while thus he raved in maniac throes, 
+Urged him on, drove him into the baleful toils. 
+Thereafter, when he had wearied of such labours, 
+He bound with thongs such oxen as yet lived, 
+With all the sheep, and drove them to his tents, 
+As though his spoil were men, not horned cattle. 
+Now lashed together in the hut he tortures them. 
+But to thee too will I expose this madness, 
+That seeing thou mayst proclaim it to all the Greeks. 
+Boldly await him here, nor apprehend 
+Mischance; for I will turn aside his eyes, 
+Foiling his vision lest he see thy face.  (She calls to AJAX within
+the tent.)  Hearken, thou who art pinioning with cords 
+The wrists of captives; hither, I bid thee, come. 
+Thou, Ajax, hear me: come to thy tent's door. 
+
+ODYSSEUS What dost thou, Athena? Do not summon him forth.
+
+ATHENA Abide in silence. Earn not the name of coward. 
+
+ODYSSEUS Nay, by the Gods, let him remain within. 
+
+ATHENA What dost thou dread? Was he not once a man? 
+
+ODYSSEUS Yes, and to me a foeman, and still is. 
+
+ATHENA To mock foes, is not that the sweetest mockery? 
+
+ODYSSEUS I am content he should remain indoors. 
+
+ATHENA To look upon a madman art thou afeard? 
+
+ODYSSEUS Had he been sane, no fear had made me shrink. 
+
+ATHENA Even now he shall not see thee, near as thou art.
+
+ODYSSEUS How so, if still with the same eyes he sees? 
+
+ATHENA His orbs will I make dark, though vision is theirs.
+
+ODYSSEUS Well, all is possible, when 'tis a god contrives.
+
+ATHENA Stand then silent, abiding as thou art. 
+
+ODYSSEUS Stay I must; yet I fain would be far hence. 
+
+ATHENA Ho, Ajax! Once again I summon thee. 
+So slight is thy regard for thine ally?  (AJAX appears in the tent
+door, with a blood-stained scourge in his hand.)  
+
+AJAX Oh hail, Athena! Hail thou Zeus-born maid! 
+Nobly hast thou stood by me. Now will I crown thee 
+With trophies all of gold for this rich conquest. 
+
+ATHENA Thy words are welcome. But now tell me this: 
+Hast thou dyed well thy sword in the Argive host? 
+
+AJAX Such vaunt is mine. I disclaim not that glory. 
+
+ATHENA Against the Atreidae didst thou arm thy hand? 
+
+AJAX So that Ajax nevermore shall they insult. 
+
+ATHENA The men are dead, if rightly I take thy meaning.
+
+AJAX Yes, dead. Now let them rob me of my arms. 
+
+ATHENA 'Tis well. And what then of Laertes' son? 
+In what plight does he stand? Or has he escaped thee? 
+
+AJAX Wouldst thou know where is that accursed fox? 
+
+ATHENA Even so-Odysseus, thine old adversary. 
+
+AJAX Goddess, a most dear captive in my tent 
+He sits. I do not mean him to die yet. 
+
+ATHENA Till thou hast done what, gained what further vantage?
+
+AJAX Till bound fast to a pillar beneath my roof- 
+
+ATHENA What evil wilt thou inflict on the poor wretch? 
+
+AJAX His back the scourge must crimson ere he dies. 
+
+ATHENA Nay, do not torture so the wretched man. 
+
+AJAX Athena, in all else will I do thy will; 
+But his shall be no other doom than this. 
+
+ATHENA Thou then, since thy delight is to act thus, 
+Smite, spare not, abate nought of thy intent. 
+
+AJAX To my work I return: and thus I charge thee, 
+As now, so always fight thou upon my side.  (AJAX goes back into the
+tent.)  
+
+ATHENA Seest thou, Odysseus, how great the strength of gods?
+
+Whom couldst thou find more prudent than this man, 
+Or whom in act more valiant, when need called? 
+
+ODYSSEUS I know none nobler; and I pity him 
+In his misery, albeit he is my foe, 
+Since he is yoked fast to an evil doom. 
+My own lot I regard no less than his. 
+For I see well, nought else are we but mere 
+Phantoms, all we that live, mere fleeting shadows. 
+
+ATHENA Warned therefore by his fate, never do thou 
+Thyself utter proud words against the gods; 
+Nor swell with insolence, if thou shouldst vanquish 
+Some rival by main strength or by wealth's power. 
+For a day can bring all mortal greatness low, 
+And a day can lift it up. But the gods love 
+The wise of heart, the froward they abhor.  (ATHENA vanishes and ODYSSEUS
+departs. The CHORUS OF SALAMINIANS enters.)  
+
+CHORUS  (singing) Son of Telamon, lord of Salamis' isle,
+
+On its wave-washed throne mid the breaking sea, 
+I rejoice when fair are thy fortunes: 
+But whene'er thou art smitten by the stroke of Zeus, 
+Or the vehement blame of the fierce-tongued Greeks, 
+Then sore am I grieved, and for fear I quake, 
+As a fluttering dove with a scared eye. 
+Even so by rumour murmuring loud 
+Of the night late-spent our ears are assailed. 
+'Tis a tale of shame, how thou on the plains 
+Where the steeds roam wild, didst ruin the Danaan 
+Flocks and herds, 
+Our spear-won booty as yet unshared, 
+With bright sword smiting and slaughtering. 
+Such now are the slanders Odysseus forges 
+And whispers abroad into all men's ears, 
+Winning easy belief: so specious the tale 
+He is spreading against thee; and each new hearer 
+Rejoices more than he who told, 
+Exulting in thy degradation. 
+For the shaft that is aimed at the noble of soul 
+Smites home without fail: but whoe'er should accuse me 
+Of such misdeeds, no faith would he win. 
+'Tis the stronger whom creeping jealousy strikes. 
+Yet small men reft of help from the mighty 
+Can ill be trusted to guard their walls. 
+Best prosper the lowly in league with the great; 
+And the great have need to be served by the less. 
+But none to the knowledge of such plain truths 
+May lead minds witless and froward. 
+Even such are the men who murmur against thee: 
+And vainly without thine aid, O King, 
+We strive to repel their accusing hate. 
+For whene'er they are safe from the scorn of thy glance,
+
+They chatter and screech like bids in a flock: 
+But smitten with dread of the powerful vulture, 
+Doubtless at once, should'st thou but appear, 
+They will cower down dumbly in silence. 
+
+(strophe)
+
+Was it the Tauric Olympian Artemis, 
+(Oh, the dread rumour of woe, 
+Parent of my grievous shame!) 
+Who drove thee forth to slaughter the herds of the people,
+
+In wrath perchance for some unpaid-for victory, 
+Whether defrauded of glorious spoil, or offerings 
+Due for a stag that was slain? 
+Or did the bronze-clad Demon of battle, aggrieved 
+On him who scorned the might of his succouring spear, 
+Plot revenge by nightly deception? 
+
+(antistrophe)
+
+Ne'er of itself had thy heart, son of Telamon, 
+Strayed into folly so far 
+As to murder flocks and herds. 
+Escape from heaven-sent madness is none: yet Apollo 
+And Zeus avert these evil rumours of the Greeks. 
+But should the story be false, these crafty slanders 
+Spread by the powerful kings, 
+And by the child of the infamous Sisyphid line, 
+No more, my master, thus in the tent by the sea 
+Hide thy countenance, earning an ill fame. 
+
+(epode)
+
+Nay, but arise from thy seat, where'er so long wrapt in
+
+Brooding pause from the battle thou hast lurked: arise, 
+Heaven-high kindle the flame of death. 
+But the insolence of thy foes boldly 
+Thus wanders abroad in the wind-swept glens. 
+Meanwhile all men mocking 
+With venomous tongues taunt thee: 
+But grief in my heart wanes not.  (TECMESSA enters. The following
+lines between TECMESSA and the CHORUS are chanted responsively.)
+
+TECMESSA Liegemen of Ajax, ship-companions, 
+Ye children of earth-sprung Erechthid race, 
+Lamentation is now our portion, to whom 
+Dear is the far-off house of Telamon, 
+Now that the stern and terrible Ajax 
+Lies whelmed by a storm 
+Of turbid wildering fury. 
+
+CHORUS To what evil change from the day's woe now 
+Has night given birth? 
+Thou daughter of Phrygian Teleutas, speak; 
+For a constant love has valiant Ajax 
+Borne thee, his spear-won prisoner bride. 
+Then hide from us nought that thou knowest. 
+
+TECMESSA How to utter a tale of unspeakable things! 
+For disastrous as death is the hap you will hear. 
+In the darkness of night madness has seized 
+Our glorious Ajax: he is ruined and lost. 
+Hereof in the tent may proof be seen; 
+Sword-slain victims in their own blood bathed, 
+By his hand sacrificially slaughtered. 
+
+CHORUS (strophe)
+
+What tidings of the fiery warrior tellest thou, 
+Not to be borne, nor yet to be disputed, 
+Rumoured abroad by the chiefs of the Danaan host, 
+Mightily still spreading and waxing! 
+Woe's me! I dread the horror to come. Yea, to a public death doomed
+
+Will he die, if in truth his be the hand that wielded 
+The red sword that in frenzy hath slain the herds and mounted herdsmen.
+
+TECMESSA Ah me! Thence was it, thence that he came to me
+
+Leading his captive flock from the pastures! 
+Thereof in the tent some did he slaughter, 
+Others hewed he asunder with slashing sword; 
+Then he caught up amain two white-footed rams, 
+Sliced off from the one both the head and the tongue, 
+And flings them away; 
+But the other upright to a pillar he binds, 
+Then seizing a heavy horse-harnessing thong 
+He smites with the whistling doubled lash, 
+Uttering fierce taunts which an evil fiend 
+No mere mortal could have taught him. 
+
+CHORUS (antistrophe)
+
+'Tis time that now each with shamefully muffled head 
+Forth from the camp should creep with stealthy footsteps.
+
+Nay, on the ship let us muster, and benched at the oars 
+Over the waves launch her in swift flight. 
+Such angry threats sound in our ears hurled by the brother princes,
+
+The Atreidae: and I quake, fearing a death by stoning, 
+The dread portion of all who would share our hapless master's ruin.
+
+TECMESSA Yet hope we: for ceased is the lightning's flash:
+
+His rage dies down like a fierce south-wind. 
+But now, grown sane, new misery is his; 
+For on woes self-wrought he gazes aghast, 
+Wherein no hand but his own had share; 
+And with anguish his soul is afflicted. 
+
+LEADER OF THE CHORUS Nay, if 'tis ceased, there is good cause to
+hope. 
+Once 'tis past, of less moment is his frenzy. 
+
+TECMESSA And which, were the choice thine, wouldst thou prefer,
+
+To afflict thy friends and feel delight thyself, 
+Or to share sorrow, grieving with their grief? 
+
+LEADER The twofold woe, lady, would be the greater. 
+
+TECMESSA Then we, though plagued no more, are undone now.
+
+LEADER What mean thy words? Their sense is dark to me. 
+
+TECMESSA Yonder man, while his spirit was diseased, 
+Himself had joy in his own evil plight, 
+Though to us, who were sane, he brought distress. 
+But now, since he has respite from his plague, 
+He with sore grief is utterly cast down, 
+And we likewise, no less than heretofore. 
+Are there not here two woes instead of one? 
+
+LEADER Yes truly. And I fear, from some god came 
+This stroke; how else? if, now his frenzy is ceased, 
+His mind has no more ease than when it raged. 
+
+TECMESSA 'Tis even as I said, rest well assured. 
+
+LEADER But how did this bane first alight upon him? 
+To us who share thy grief show what befell. 
+
+TECMESSA Thou shalt hear all, as though thou hadst been present.
+
+In the middle of the night, when the evening braziers 
+No longer flared, he took a two-edged sword, 
+And fain would sally upon an empty quest. 
+But I rebuked him, saying: "What doest thou, 
+Ajax? Why thus uncalled wouldst thou go forth? 
+No messenger has summoned thee, no trumpet 
+Roused thee. Nay, the whole camp is sleeping still." 
+But curtly he replied in well-worn phrase: 
+"Woman, silence is the grace of woman." 
+Thus schooled, I yielded; and he rushed out alone. 
+What passed outside the tent, I cannot tell. 
+But in he came, driving lashed together 
+Bulls, and shepherd dogs, and fleecy prey. 
+Some he beheaded, the wrenched-back throats of some 
+He slit, or cleft their chines; others he bound 
+And tortured, as though men they were, not beasts. 
+Last, darting through the doors, as to some phantom 
+He tossed words, now against the Atreidae, now 
+Taunting Odysseus, piling up huge jeers 
+Of how he had gone and wreaked his scorn upon them. 
+Soon he rushed back within the tent, where slowly 
+And hardly to his reason he returned. 
+And gazing round on the room filled with havoc, 
+He struck his head and cried out; then amidst 
+The wrecks of slaughtered sheep a wreck he fell, 
+And sat clutching his hair with tight-clenched nails. 
+There first for a long while he crouched speechless; 
+Then did he threaten me with fearful threats, 
+If I revealed not all that had befallen him, 
+Asking what meant the plight wherein he lay. 
+And I, friends, terror-stricken, told him all 
+That had been done, so far as I had knowledge. 
+Forthwith he broke forth into bitter wailing, 
+Such as I ne'er had heard from him before 
+For always had he held that such laments 
+Befitted cowards only, and low-souled men: 
+But uttering no shrill cries, he would express 
+His grief in low groans, as of a moaning bull. 
+But now prostrate beneath so great a woe, 
+Not tasting food nor drink, he sits among 
+The sword-slain beasts, motionless where he sank. 
+And plainly he meditates some baleful deed, 
+For so portend his words and lamentations. 
+But, O friends!-'twas for this cause I came forth- 
+Enter and help, if help at all you can: 
+For by friends' words men so bestead are won. 
+
+LEADER Child of Teleutas, fearful are thy tidings, 
+That our prince has been maddened by his griefs. 
+
+AJAX  (within) Alas! Woe, woe! 
+
+TECMESSA Soon, I fear, worse will follow. Heard you not?
+
+'Twas Ajax. Oh, how dreadful was that cry. 
+
+AJAX Alas! Woe, woe! 
+
+LEADER He seems either still frenzied, or else grieving
+
+For his past frenzies, now he sees their work. 
+
+AJAX Alas! My son, my son! 
+
+TECMESSA Woe's me! Eurysaces, 'tis for thee he calls. 
+What can he purpose?-Where art thou?-Ah, woe! 
+
+AJAX Teucer, come!-Where is Teucer? Will he never 
+Come back from cattle-raiding?-while I perish! 
+
+LEADER He seems in his right mind. But open the doors. 
+Perhaps even the sight of me may sober him.  (She opens the doors
+of the tent. AJAX is revealed sitting among the slain beasts.)
+
+TECMESSA See, I have opened. You may now behold 
+What he has done, and in what plight he lies. 
+
+AJAX  (chanting) Alas! 
+My shipmates and friends, you that alone to me 
+Loyal and true remain, of all friends alone, 
+Behold how great a billow lately rising from the storm of blood
+
+Surging around engulphs me! 
+
+LEADER Ah me, too true, it seems, was thy report. 
+This sight reveals the work of no sane mind. 
+
+AJAX  (chanting) Alas! 
+My mates, skilled and tried in brave seamanship, 
+Ye who embarking drove the wave-cleaving oar, 
+In you, in you alone I see a help and refuge from despair.
+
+Smite me, and spill my blood too. 
+
+LEADER Keep silence from dread words; nor curing ill 
+By ill, so swell the misery of this curse. 
+
+AJAX  (chanting) Behold now the bold, the man stout of heart,
+
+Who ne'er shrank in fight against foes-behold 
+How I have spent my rage on beasts that feared no harm! 
+Ah me, the mockery! To what shame am I brought low 
+
+TECMESSA Ajax, my master, I entreat thee, speak not so.
+
+AJAX  (chanting) Away hence, I command thee! Take thyself elsewhere.
+
+Aiai! Aiai! 
+
+LEADER Oh, by the Gods, we pray thee, yield to wisdom's voice.
+
+AJAX  (chanting) Oh, wretch that I was to allow 
+Those cursed foes to slip from my hands, and assaulting 
+Horned kine and goodly flocks, madly to spill 
+Their life in streams of dark blood! 
+
+LEADER Why still be afflicted, now the deed is done past cure?
+
+Never can these things be as though they had not been. 
+
+AJAX  (chanting) Thou all-spying knave, of all deeds of shame
+
+The prompt, easy tool, Odysseus the wise! 
+Villain, of all the camp the most foul and vile! 
+Huge laughter doubtless shakes thee now for sheer delight.
+
+LEADER As God appoints, so every man laughs or laments.
+
+AJAX  (chanting) Would I might meet him, crushed and broken though
+I be. 
+Alas! Woe, woe! 
+
+LEADER Speak no proud words. Seest thou not to what woe thou art
+sunk? 
+
+AJAX  (chanting) O Zeus, of my fathers the sire, 
+Might I but kill that hateful and crafty dissembler, 
+Yea, and those two brother kings, partners in pride, 
+Then last myself too perish! 
+
+TECMESSA If thus thou prayest, pray therewith for me, that
+
+Die with thee. Why, when thou art dead, should I live on?
+
+AJAX  (chanting) Alas! 
+Shadow that art my light! 
+Erebus, oh to me verily bright as day! 
+Receive, receive me your habitant. 
+Receive me now no more worthy to seek help of the gods, 
+Nor any more from fellow mortal men to claim kindness: 
+No, but she the strong 
+Zeus-born deity 
+Miserably tortures me. 
+Whither should I then flee? 
+Whither seek for rest? 
+Since my former glory is gone, my friends, 
+With yonder victims, yonder spoils by frenzy won, 
+Since all the host with swords uplifted 
+Sternly would slay me, 
+
+TECMESSA Ah, woe is me! from such a noble warrior 
+To hear such words as once he ne'er had deigned to speak!
+
+AJAX  (chanting) Alas! 
+Billowy paths of foam, 
+Eddying caves, and ye coppices by the shore, 
+A weary, weary time tarrying here 
+Beneath the walls of Troy me have you kept, but from this hour
+
+Alive you shall not keep me. Truth I speak: let none doubt it.
+
+O Scamander's wave, 
+Stream whose neighbouring flow 
+Oft have the Argives blest, 
+Never, nevermore 
+Me shall you behold, 
+Me (a proud word will I utter now) 
+Whose peer in battle Troy has never seen yet come 
+From Hellas' land: but now dishonoured 
+Thus am I prostrate. 
+
+LEADER In truth I know not how to restrain thy speech, nor yet
+
+To suffer it; so grievous is thy couch of woe. 
+
+AJAX Aiai! Who ever would have thought my name 
+Would harmonise so aptly with my woes? 
+For now well may I wail that sound out twice, 
+Yea thrice; such woeful destinies are mine, 
+Whose father from this land of Ida won 
+Fame's noblest guerdon over the whole host, 
+And crowned with praises only sailed back home; 
+But I, his son, who to the self-same Troy 
+Came after him, in might no less than he, 
+Nor rendering meaner service by my deeds, 
+Dishonoured by the Argives perish thus. 
+Yet this methinks I know for truth, were now 
+Achilles living and called on to adjudge 
+As the award of valour his own arms, 
+No man's hand would have grasped them before mine. 
+But now the Atreidae to a scheming knave 
+Have dealt them, thrusting by my valiant deeds. 
+And if these eyes, these wits had not in frenzy 
+Swerved from my purpose, never would they thus 
+Pervert judgment against another man. 
+But the irresistible fierce-eyed goddess, even 
+As I was arming my right hand to slay them, 
+Foiled me, smiting me with a maddening plague, 
+So that I stained my hand butchering these cattle. 
+Thus my foes mock me, escaped beyond my reach, 
+Through no goodwill of mine: but if a god 
+Thwart vengeance, even the base may escape the nobler. 
+And what should I now do, who manifestly 
+To Heaven am hateful; whom the Greeks abhor, 
+Whom every Trojan hates, and this whole land? 
+Shall I desert the beached ships, and abandoning 
+The Atreidae, sail home o'er the Aegean sea? 
+With what face shall I appear before my father 
+Telamon? How will he find heart to look 
+On me, stripped of my championship in war, 
+That mighty crown of fame that once was his? 
+No, that I dare not. Shall I then assault 
+Troy's fortress, and alone against them all 
+Achieve some glorious exploit and then die? 
+No, I might gratify the Atreidae thus. 
+That must not be. Some scheme let me devise 
+Which may prove to my aged sire that I, 
+His son, at least by nature am no coward. 
+For 'tis base for a man to crave long life 
+Who endures never-varying misery. 
+What joy can be in day that follows day, 
+Bringing us close then snatching us from death? 
+As of no worth would I esteem that man 
+Who warms himself with unsubstantial hopes. 
+Nobly to live, or else nobly to die 
+Befits proud birth. There is no more to say. 
+
+LEADER The word thou hast uttered, Ajax, none shall call
+
+Bastard, but the true offspring of thy soul. 
+Yet pause. Let those who love thee overrule 
+Thy resolution. Put such thoughts aside. 
+
+TECMESSA O my lord Ajax, of all human ills 
+Greatest is fortune's wayward tyranny. 
+Of a free father was I born the child, 
+One rich and great as any Phrygian else. 
+Now am I a slave; for so the gods, or rather 
+Thy warrior's hand, would have it. Therefore since 
+I am thy bedfellow, I wish thee well, 
+And I entreat thee by domestic Zeus, 
+And by the embraces that have made me thine, 
+Doom me not to the cruel taunts of those 
+Who hate thee, left a bond-slave in strange hands. 
+For shouldst thou perish and forsake me in death, 
+That very day assuredly I to 
+Shall be seized by the Argives, with thy son 
+To endure henceforth the portion of a slave. 
+Then one of my new masters with barbed words 
+Shall wound me scoffing: "See the concubine 
+Of Ajax, who was mightiest of the host, 
+What servile tasks are hers who lived so daintily!" 
+Thus will men speak, embittering my hard lot, 
+But words of shame for thee and for thy race. 
+Nay, piety forbid thee to forsake 
+Thy father in his drear old age-thy mother 
+With her sad weight of years, who many a time 
+Prays to the gods that thou come home alive. 
+And pity, O king, thy son, who without thee 
+To foster his youth, must live the orphaned ward 
+Of loveless guardians. Think how great a sorrow 
+Dying thou wilt bequeath to him and me. 
+For I have nothing left to look to more 
+Save thee. By thy spear was my country ravaged; 
+And by another stroke did fate lay low 
+My mother and my sire to dwell with Hades. 
+Without thee then what fatherland were mine? 
+What wealth? On thee alone rests all my hope. 
+O take thought for me too. Do we not owe 
+Remembrance, where we have met with any joy? 
+For kindness begets kindness evermore 
+But he who from whose mind fades the memory 
+Of benefits, noble is he no more. 
+
+LEADER Ajax, would that thy soul would feel compassion,
+
+As mine does; so wouldst thou approve her words. 
+
+AJAX Verily my approval shall she win, 
+If only she find heart to do my bidding. 
+
+TECMESSA Dear Ajax, in all things will I obey. 
+
+AJAX Then bring me here my son, for I would see him. 
+
+TECMESSA Nay, but I sent him from me in my fears. 
+
+AJAX During my late affliction, is that thy meaning? 
+
+TECMESSA Lest by ill chance he should meet thee and so perish.
+
+AJAX Yes, that would have been worthy of my fate. 
+
+TECMESSA That at least I was watchful to avert. 
+
+AJAX I praise thine act and the foresight thou hast shown.
+
+TECMESSA Since that is so, what shall I do to serve thee?
+
+AJAX Let me speak to him and behold his face. 
+
+TECMESSA He is close by in the attendants' charge. 
+
+AJAX Why is his coming then so long delayed? 
+
+TECMESSA  (calling) My son, thy father calls thee.-Bring him thither
+
+Whichever of you is guiding the child's steps. 
+
+AJAX Is the man coming? Has he heard thy call? 
+
+TECMESSA See, he is here already with the child.  (An attendant enters,
+leading the child, EURYSACES.)  
+
+AJAX Lift him up, lift him hither. He will not shrink 
+In terror at sight of yonder new-spilt blood, 
+If he be rightly mine, his father's son. 
+Early must he be broken to his sire's 
+Stern rugged code, and grow like-natured with him. 
+O son, mayst thou prove happier than thy father, 
+In all else like him, and thou'lt prove not base. 
+Yet even now might I envy thee herein, 
+That of these woes thou hast no sense at all. 
+For the life that is unconscious is most sweet- 
+Until we learn what joy and sorrow are. 
+But that once learnt, then midst thy father's foes 
+Thou must show what thou art, and of what breed. 
+Till then be nurtured on soft airs, cherishing 
+Thy tender life, and be thy mother's joy. 
+None of the Greeks, I know, will do thee wrong 
+With cruel outrage, even though I be gone. 
+So trusty a guardian will I leave thee, Teucer, 
+Who will not stint his loving care, though now 
+He is gone far away, in chase of foes. 
+But you, my warriors, comrades in seafaring, 
+On you too I impose this task of love; 
+And fail not to announce my will to Teucer, 
+That to my home he take the child and show him 
+To Telamon and my mother Eriboea, 
+That henceforth he may comfort their old age. 
+And charge him that no game-steward make my arms 
+A prize for the Greeks-nor he who ruined me. 
+But this take thou, my son Eurysaces; 
+Hold it and wield it by its firm-stitched thong, 
+This sevenfold spear-proof shield, whence comes thy name.
+
+But else with me my arms shall be interred.  (Speaking now to TECMESSA)
+Come, take the child hence quickly, and bolt the doors:
+
+And let there be no weeping and lamenting 
+Before the hut. Women love tears too well. 
+Close quickly. It is not for a skilful leech 
+To drone charms o'er a wound that craves the knife. 
+
+LEADER I am fearful, listening to this eager mood. 
+The sharp edge of thy tongue, I like it not. 
+
+TECMESSA O my lord Ajax, what art thou purposing? 
+
+AJAX Question me not. To be discreet is best. 
+
+TECMESSA Ah me, heavy is my heart. Now by thy child, 
+By the gods, I entreat, forsake us not. 
+
+AJAX Vex me no further. Know'st thou not that I 
+To the gods owe no duty any more? 
+
+TECMESSA Utter no proud words. 
+
+AJAX Speak to those who listen. 
+
+TECMESSA Wilt thou not heed? 
+
+AJAX Too much thou hast spoken already. 
+
+TECMESSA Yes, through my fears, O king. 
+
+AJAX Close the doors quickly. 
+
+TECMESSA For the gods' love, relent. 
+
+AJAX 'Tis a foolish hope, 
+If thou shouldst now propose to school my mood.  (The doors are closed
+upon AJAX. TECMESSA goes out with EURYSACES.)  
+
+CHORUS  (singing, strophe 1)
+
+O famed Salamis, thou amidst 
+Breaking surges abidest ever 
+Blissful, a joy to the eyes of all men. 
+But I the while long and wearily tarrying 
+Through countless months still encamped on the fields of Ida
+
+In misery here have made my couch, 
+By time broken and worn, 
+In dread waiting the hour 
+When I shall enter at last the terrible shadow abode of Hades.
+
+(antistrophe 1)
+
+Now dismays me a new despair, 
+This incurable frenzy (woe, ah 
+Woe's me!) cast by the gods on Ajax, 
+Whom thou of old sentest forth from thy shores, a strong
+
+And valiant chief; but now, to his friends a sore grief,
+
+Devouring his lonely heart he sits. 
+His once glorious deeds 
+Are now fallen and scorned, 
+Fallen to death without love from the loveless and pitiless sons of
+Atreus. 
+
+(strophe 2)
+
+His mother, 'tis most like, burdened with many days, 
+And whitened with old age, when she shall hear how frenzy
+
+Has smitten his soul to ruin, 
+Ailinon! ailinon! 
+Will break forth her despair, not as the nightingale's 
+Plaintive, tender lament, no, but in passion's wailing 
+Shrill-toned cries; and with fierce strokes 
+Wildly smiting her bosom, 
+In grief's anguish her hands will rend her grey locks. 
+
+(antistrophe 2)
+
+Yea, better Hell should hide one who is sick in soul, 
+Though there be none than he sprung from a nobler lineage
+
+Of the war-weary Greeks, yet 
+Strayed from his inbred mood 
+Now amidst alien thoughts dwells he a stranger. 
+Hapless father! alas, bitter the tale that waits thee, 
+Thy son's grievous affliction. 
+No life save his alone 
+Of Aeacid kings such a curse has ever haunted.  (AJAX enters, carrying
+a sword. As he speaks, TECMESSA also enters.)  
+
+AJAX All things the long and countless lapse of time 
+Brings forth. displays, then hides once more in gloom. 
+Nought is too strange to look for; but the event 
+May mock the sternest oath, the firmest will. 
+Thus I, who late so strong, so stubborn seemed 
+Like iron dipped, yet now grow soft with pity 
+Before this woman, whom I am loath to leave 
+Midst foes a widow with this orphaned child. 
+But I will seek the meadows by the shore: 
+There will I wash and purge these stains, if so 
+I may appease Athena's heavy wrath. 
+Then will I find some lonely place, where I 
+May hide this sword, beyond all others cursed, 
+Buried where none may see it, deep in earth. 
+May night and Hades keep it there below. 
+For from that hour my hand accepted it, 
+The gift of Hector, deadliest of my foes, 
+Nought from the Greeks towards me hath sped well. 
+So now I find that ancient proverb true, 
+Foes' gifts are no gifts: profit bring they none. 
+Therefore henceforth I study to obey 
+The Gods, and reverence the sons of Atreus. 
+Our rulers are they: we must yield. How else? 
+For to authority yield all things most dread 
+And mighty. Thus must Winter's snowy feet 
+Give place to Summer with her wealth of fruits; 
+And from her weary round doth Night withdraw, 
+That Day's white steeds may kindle heaven with light. 
+After fierce tempest calm will ever lull 
+The moaning sea; and Sleep, that masters all, 
+Binds life awhile, yet loosens soon the bond. 
+And who am I that I should not learn wisdom? 
+Of all men I, whom proof hath taught of late 
+How so far only should we hate our foes 
+As though we soon might love them, and so far 
+Do a friend service, as to one most like 
+Some day to prove our foe; since oftenest men 
+In friendship but a faithless haven find. 
+Thus well am I resolved.  (To TECMESSA)  Thou, woman, pass
+
+Within, and pray the gods that all things so 
+May be accomplished as my heart desires. 
+And you, friends, heed my wishes as she doth; 
+And when he comes, bid Teucer he must guard 
+My rights at need, and withal stand your friend. 
+For now I go whither I needs must pass. 
+Do as I bid. Soon haply you shall hear, 
+With me, for all this misery, 'tis most well.  (AJAX departs. TECMESSA
+goes into the tent.)  
+
+CHORUS  (singing, strophe)
+
+I thrill with rapture, flutter on wings of ecstasy. 
+Io, Io, Pan, Pan! 
+O Pan, Pan! from the stony ridge, 
+Snow-bestrewn of Cyllene's height 
+Appear roving across the waters, 
+O dance-ordering king of gods, 
+That thou mayst join me in flinging free 
+Fancy measures of Nysa and of Cnossus. 
+Yea for the dance I now am eager. 
+And over the far Icarian billows come, O king Apollo, 
+From Delos in haste, come thou, 
+Thy kindly power here in our midst revealing. 
+
+(antistrophe)
+
+Ares hath lifted horror and anguish from our eyes. 
+Io, Io! Now again, 
+Now, O Zeus, can the bright and blithe 
+Glory of happier days return 
+To our swift-voyaging ships, for now 
+Hath Ajax wholly forgot his grief, 
+And all rites due to the gods he now 
+Fain would meetly perform with loyal worship. 
+Mighty is time to dwindle all things. 
+Nought would I call too strange for belief, when Ajax thus beyond
+hope 
+Hath learnt to repent his proud feuds, 
+And lay aside anger against the Atreidae.  (A MESSENGER enters.)
+
+MESSENGER My friends, these tiding I would tell you first:
+
+Teucer is present, from the Mysian heights 
+But now returned, and in the central camp 
+By all the Greeks at once is being reviled. 
+As he drew near they knew him from afar, 
+Then gathering around him one and all 
+With taunts assailed him from this side and that, 
+Calling him kinsman of that maniac, 
+That plotter against the host, saying that nought 
+Should save him; stoned and mangled he must die. 
+And so they had come to such a pitch that swords 
+Plucked from their sheaths stood naked in men's hands. 
+Yet when the strife ran highest, it was stayed 
+By words from the elders and so reconciled. 
+But where is Ajax? I must speak with him. 
+He whom it most concerns must be told all. 
+
+LEADER OF THE CHORUS He is not within, but has just now gone forth
+
+With a new purpose yoked to a new mood. 
+
+MESSENGER Alas! Alas! 
+Then too late on this errand was I sped 
+By him who sent me; or I have proved too slow. 
+
+LEADER What urgent need has been neglected here? 
+
+MESSENGER Teucer forbade that Ajax should go forth 
+Outside his hut, till he himself should come. 
+
+LEADER Well, he is gone. To wisest purpose now 
+His mind is turned, to appease heaven's wrath. 
+
+MESSENGER These words of thine are filled with utter folly,
+
+If there was truth in Calchas' prophecy. 
+
+LEADER What prophecy? And what know you of this thing? 
+
+MESSENGER Thus much I know, for by chance I was present.
+
+Leaving the circle of consulting chiefs 
+Where sat the Atreidae, Calchas went aside, 
+And with kind purpose grasping Teucer's hand 
+Enjoined him that by every artifice 
+He should restrain Ajax within his tents 
+This whole day, and not leave him to himself, 
+If he wished ever to behold him alive. 
+For on this day alone, such were his words, 
+Would the wrath of divine Athena vex him. 
+For the overweening and unprofitable 
+Fall crushed by heaven-sent calamities 
+(So the seer spoke), whene'er one born a man 
+Has conceived thoughts too high for man's estate: 
+And this man, when he first set forth from home, 
+Showed himself foolish, when his father spoke to him 
+Wisely: "My son, seek victory by the spear; 
+But seek it always with the help of heaven." 
+Then boastfully and witlessly he answered: 
+"Father, with heaven's help a mere man of nought 
+Might win victory: but I, albeit without 
+Their aid, trust to achieve a victor's glory." 
+Such was his proud vaunt. Then a second time 
+Answering divine Athena, when she urged him 
+To turn a slaughterous hand upon his foes, 
+He gave voice to this dire, blasphemous boast: 
+"Goddess, stand thou beside the other Greeks. 
+Where I am stationed, no foe shall break through." 
+By such words and such thoughts too great for man 
+Did he provoke Athena's pitiless wrath. 
+But if he lives through this one day, perchance, 
+Should heaven be willing, we may save him yet. 
+So spoke the seer; and Teucer from his seat 
+No sooner risen, sent me with this mandate 
+For you to observe. But if we have been forestalled, 
+That man lives not, or Calchas is no prophet. 
+
+LEADER  (calling) Woful Tecmessa, woman born to sorrow,
+
+Come forth and hear this man who tells of a peril 
+That grazes us too close for our mind's ease.  (TECMESSA enters from
+the tent.)  
+
+TECMESSA Why alas do you break my rest again 
+After brief respite from relentless woes? 
+
+LEADER Give hearing to this messenger, who brings 
+Tidings that grieve me of how Ajax fares. 
+
+TECMESSA Ah me, what sayest thou, man? Are we undone? 
+
+MESSENGER I know not of thy fortune; but for Ajax, 
+If he be gone abroad, my mind misgives. 
+
+TECMESSA Yes, he is gone. I am racked to know thy meaning.
+
+MESSENGER Teucer commands you to keep him within doors,
+
+And not to let him leave his tent alone. 
+
+TECMESSA And where is Teucer, and why speaks he thus? 
+
+MESSENGER He has but now returned, and he forebodes 
+That this going-forth will prove fatal to Ajax. 
+
+TECMESSA Woe's me, alas! From whom has he learned this?
+
+MESSENGER From the seer, Thestor's son, this very day, 
+Which is fraught either with his death or life. 
+
+TECMESSA Ah me, my friends, avert this threatening doom
+
+Speed some of you to hasten Teucer hither: 
+Others go search the bays, some west, some east, 
+And track my lord's ill-omened going-forth. 
+Yes, now I know I have been deceived by him, 
+And from his former favour quite cast out. 
+Alas, child, what shall I do? Sit still I must not: 
+But far as I have strength I too will go. 
+Let us start quickly-'tis no time for loitering, 
+If we would save one who is in haste to die. 
+
+LEADER I am ready, as not words alone shall prove, 
+But speed of act and foot to make words good.  (The CHORUS, TECMESSA
+and MESSENGER go out. The scene changes to a lonely place by the sea-shore.
+Bushes and under- brush are in the background. AJAX enters alone.)
+
+AJAX The slayer stands so that his edge may cleave 
+Most surely (if there be leisure for such thought), 
+Being the gift of Hector, of all friends 
+Most unloved, and most hateful to my sight. 
+Then it is planted in Troy's hostile soil, 
+New-sharpened on the iron-biting whet. 
+And heedfully have I planted it, that so 
+With a swift death it prove to me most kind. 
+Thus have I made all ready. Next be thou 
+The first, O Zeus, to aid me, as is right. 
+It is no mighty boon that I shall crave. 
+Send some announcer of the evil news 
+To Teucer, that he first may lift me up, 
+When I have fallen upon this reeking sword, 
+Lest ere he come some enemy should espy me 
+And cast me forth to dogs and birds a prey. 
+This, O Zeus, I entreat thee, and likewise call 
+On Hermes, guide to the underworld, to lay me 
+Asleep without a struggle, at one swift bound, 
+When I have thrust my heart through with this sword. 
+Next I call on those maidens ever-living 
+And ever watchful of all human miseries, 
+The dread swift-striding Erinyes, that they mark 
+How by the Atreidae I have been destroyed: 
+And these vile men by a vile doom utterly 
+May they cut off, even as they see me here. 
+Come, O ye swift avenging Erinyes, 
+Spare not, touch with affliction the whole host. 
+And thou, whose chariot mounts up the steep sky, 
+Thou Sun, when on the land where I was born 
+Thou shalt look down, check thy gold-spangled rein, 
+And announce my disasters and my doom 
+To my aged sire and her who nurtured me. 
+She, woful woman, when she hears these tidings 
+Will wail out a loud dirge through all the town. 
+But I waste labour with this idle moan. 
+The act must now be done, and that with speed. 
+O Death, Death, come now and look upon me.- 
+No, 'tis there I shall meet and speak to thee. 
+But thee, bright daylight which I now behold, 
+And Helios in his chariot I accost 
+For this last time of all, and then no more. 
+O sunlight! O thou hallowed soil, my own 
+Salamis, stablished seat of my sire's hearth, 
+And famous Athens, with thy kindred race, 
+And you, ye springs and streams, and Trojan plains, 
+Farewell, all ye who have sustained my life. 
+This is the last word Ajax speaks to you. 
+All else in Hades to the dead will I say.  (He falls on his sword.
+His body lies partially concealed by the underbrush. SEMI-CHORUS 1
+enters.)  
+
+SEMI-CHORUS 1  (chanting) 'Tis toil on toil, and toil again.
+
+Where! where! 
+Where have not my footsteps been? 
+And still no place reveals the secret of my search. 
+But hark! 
+There again I hear a sound.  (SEMI-CHORUS 2 enters.)  
+
+SEMI-CHORUS 2  (chanting) 'Tis we, the ship-companions of your voyage.
+
+SEMI-CHORUS 1  (chanting) Well how now? 
+
+SEMI-CHORUS 2  (chanting) We have searched the whole coast westward
+from the ship. 
+
+SEMI-CHORUS 1  (chanting) You have found nought? 
+
+SEMI-CHORUS 2  (chanting) A deal of toil, but nothing more to see.
+
+SEMI-CHORUS 1  (chanting) Neither has he been found along the path
+
+That leads from the eastern glances of the sun. 
+
+CHORUS  (singing, strophe)
+
+From whom, oh from whom? what hard son of the waves, 
+Plying his weary task without thought of sleep, 
+Or what Olympian nymph of hill or stream that flows 
+Down to the Bosporus' shore, 
+Might I have tidings of my lord 
+Wandering somewhere seen 
+Fierce of mood? Grievous it is 
+When I have toiled so long, and ranged far and wide 
+Thus to fail, thus to have sought in vain. 
+Still the afflicted hero nowhere may I find.  (TECMESSA enters and
+discovers the body.)  
+
+TECMESSA Alas, woe, woe! 
+
+CHORUS  (chanting) Whose cry was it that broke from yonder copse?
+
+TECMESSA Alas, woe is me! 
+
+LEADER OF THE CHORUS It is the hapless spear-won bride I see,
+
+Tecmessa, steeped in that wail's agony. 
+
+TECMESSA I am lost, destroyed, made desolate, my friends.
+
+LEADER What is it? Speak. 
+
+TECMESSA Ajax, our master, newly slaughtered lies 
+Yonder, a hidden sword sheathed in his body. 
+
+CHORUS  (chanting) Woe for my lost hopes of home! 
+Woe's me, thou hast slain me, my king, 
+Me thy shipmate, hapless man! 
+Woful-souled woman too! 
+
+TECMESSA Since thus it is with him, 'tis mine to wail. 
+
+LEADER By whose hand has he wrought this luckless deed?
+
+TECMESSA By his own hand, 'tis evident. This sword 
+Whereon he fell, planted in earth, convicts him. 
+
+CHORUS  (chanting) Woe for my blind folly! Lone in thy blood thou
+liest, from friends' help afar. 
+And I the wholly witless, the all unwary, 
+Forbore to watch thee. Where, where 
+Lieth the fatally named, intractable Ajax? 
+
+TECMESSA None must behold him. I will shroud him wholly
+
+In this enfolding mantle; for no man 
+Who loved him could endure to see him thus 
+Through nostrils and through red gash spouting up 
+The darkened blood from his self-stricken wound. 
+Ah me, what shall I do? What friend shall lift thee? 
+Where is Teucer? Timely indeed would he now come, 
+To compose duly his slain brother's corpse. 
+O hapless Ajax, who wast once so great, 
+Now even thy foes might dare to mourn thy fall. 
+
+CHORUS  (chanting, antistrophe)
+
+'Twas fate's will, alas, 'twas fate then for thou 
+Stubborn of soul at length to work out a dark 
+Doom of ineffable miseries. Such the dire 
+Fury of passionate hate 
+I heard thee utter fierce of mood 
+Railing at Atreus' sons 
+Night by night, day by day. 
+Verily then it was the sequence of woes 
+First began, when as the prize of worth 
+Fatally was proclaimed the golden panoply. 
+
+TECMESSA Alas, woe, woe! 
+
+CHORUS  (chanting) A loyal grief pierces thy heart, I know.
+
+TECMESSA Alas, woe, woe! 
+
+CHORUS  (chanting) Woman, I marvel not that thou shouldst wail
+
+And wail again, reft of a friend so dear. 
+
+TECMESSA 'Tis thine to surmise, mine to feel, too surely.
+
+CHORUS  (chanting) 'Tis even so. 
+
+TECMESSA Ah, my child, to what bondage are we come, 
+Seeing what cruel taskmasters will be ours. 
+
+CHORUS  (chanting) Ah me, at what dost thou hint? 
+What ruthless, unspeakable wrong 
+From the Atreidae fearest thou? 
+But may heaven avert that woe! 
+
+TECMESSA Ne'er had it come to this save by heaven's will.
+
+CHORUS  (chanting) Yes, too great to be borne this heaven-sent burden.
+
+TECMESSA Yet such the woe which the dread child of Zeus,
+
+Pallas, has gendered for Odysseus' sake. 
+
+CHORUS  (chanting) Doubtless the much-enduring hero in his dark spy's
+soul exults mockingly, 
+And laughs with mighty laughter at these agonies 
+Of a frenzied spirit. Shame! Shame! 
+Sharers in glee at the tale are the royal Atreidae. 
+
+TECMESSA Well, let them mock and glory in his ruin. 
+Perchance, though while he lived they wished not for him,
+
+They yet shall wail him dead, when the spear fails them.
+
+Men of ill judgment oft ignore the good 
+That lies within their hands, till they have lost it. 
+More to their grief he died than to their joy, 
+And to his own content. All his desire 
+He now has won, that death for which he longed. 
+Why then should they deride him? 'Tis the gods 
+Must answer for his death, not these men, no. 
+Then let Odysseus mock him with empty taunts. 
+Ajax is no more with them; but has gone, 
+Leaving to me despair and lamentation. 
+
+TEUCER  (from without) Alas, woe, woe! 
+
+LEADER OF THE CHORUS Keep silence! Is it Teucer's voice I hear
+
+Lifting a dirge over this tragic sight?  (TEUCER enters.)
+
+TEUCER O brother Ajax, to mine eyes most dear, 
+Can it be thou hast fared as rumour tells? 
+
+LEADER Yes, he is dead, Teucer: of that be sure. 
+
+TEUCER Alas, how then can I endure my fate! 
+
+LEADER Since thus it is... 
+
+TEUCER O wretched, wretched me! 
+
+LEADER Thou hast cause to moan. 
+
+TEUCER O swift and cruel woe! 
+
+LEADER Too cruel, Teucer! 
+
+TEUCER Woe is me! But say- 
+His child-where shall I find him? Tell me where. 
+
+LEADER Alone within the tent. 
+
+TEUCER  (to TECMESSA) Then with all speed 
+Go, bring him thither, lest some foe should snatch him 
+Like a whelp from a lioness bereaved. 
+Away! See it done quickly! All men are wont 
+To insult over the dead, once they lie low.  (TECMESSA departs.)
+
+LEADER Yes, Teucer, while he lived, did he not charge thee
+
+To guard his son from harm, as now thou dost? 
+
+TEUCER O sight most grievous to me of all sights 
+That ever I have looked on with my eyes! 
+And hatefullest of all paths to my soul 
+This path that now has led me to thy side, 
+O dearest Ajax, when I heard thy fate, 
+While seeking thee I tracked thy footsteps out. 
+For a swift rumour, as from some god, ran 
+Through the Greek host that thou wast dead and gone. 
+While yet far off I heard it, and groaned deep 
+In anguish; now I see, and my life dies. 
+Ay me! 
+Uncover. Let me behold woe's very worst.  (The cover is lifted from
+the body.)  O ghastly sight! victim of ruthless courage!
+
+What miseries hast thou dying sown for me! 
+Whither, among what people, shall I go, 
+Who in thy troubles failed to give thee succour? 
+Oh doubtless Telamon, thy sire and mine, 
+With kind and gracious face is like to greet me, 
+Returned without thee: how else?-he who is wont 
+Even at good news to smile none the sweeter. 
+What will he keep back? What taunt not hurl forth 
+Against the bastard of a spear-won slave, 
+Him who through craven cowardice betrayed 
+Thee, beloved Ajax-or by guile, that so 
+I might inherit thy kingdom and thy house. 
+So will he speak, a passionate man, grown peevish 
+In old age, quick to wrath without a cause. 
+Then shall I be cast off, a banished man, 
+Proclaimed no more a freeman but a slave. 
+Such is the home that waits me; while at Troy 
+My foes are many, my well-wishers few. 
+All this will be my portion through thy death. 
+Ah me, what shall I do? How draw thee, brother, 
+From this fell sword, on whose bright murderous point 
+Thou hast breathed out thy soul? See how at last 
+Hector, though dead, was fated to destroy thee! 
+Consider, I pray, the doom of these two men. 
+Hector, with that same girdle Ajax gave him 
+Was lashed fast to Achilles' chariot rail 
+And mangled till he had gasped forth his life. 
+And 'twas from him that Ajax had this gift, 
+The blade by which he perished and lies dead. 
+Was it not some Erinys forged this sword, 
+And Hades the grim craftsman wrought that girdle? 
+I at least would maintain that the gods plan 
+These things and all things ever for mankind. 
+But whosoever's judgment likes not this, 
+Let him uphold his doctrine as I mine. 
+
+LEADER Speak no more, but take counsel how to inter 
+Our dear lord, and what now it were best to say: 
+For 'tis a foe I see. Perchance he comes 
+To mock our misery, villain that he is. 
+
+TEUCER What chieftain of the host do you behold? 
+
+LEADER Menelaus, for whose sake we voyaged hither. 
+
+TEUCER 'Tis he. I know him well, now he is near.  (MENELAUS enters
+with his retinue.)  
+
+MENELAUS You, Sir, I warn you, raise not yonder corpse 
+For burial, but leave it as it lies. 
+
+TEUCER For what cause do you waste such swelling words?
+
+MENELAUS 'Tis my will, and his will who rules the host.
+
+TEUCER Let us know then what pretext you allege. 
+
+MENELAUS We hoped that we had brought this man from home
+
+To be a friend and champion for the Greeks: 
+But a worse than Phrygian foe on trial we found him. 
+Devising death for the whole host, by night 
+He sallied forth against us, armed for slaughter. 
+And had not some god baffled this exploit, 
+Ours would have been the lot which now is his: 
+While we lay slain by a most shameful doom, 
+He would have still been living. But his outrage, 
+Foiled by a god, has fallen on sheep and herds. 
+Wherefore there lives no man so powerful 
+That he shall lay this corpse beneath a tomb; 
+But cast forth somewhere upon the yellow sands 
+It shall become food for the sea-shore birds. 
+Then lift not up your voice in threatening fury. 
+If while he lived we could not master him, 
+Yet in death will we rule him, in your despite, 
+Guiding him with our hands, since in his life 
+At no time would he hearken to my words. 
+Yet 'tis a sign of wickedness, when a subject 
+Deigns not to obey those placed in power above him. 
+For never can the laws be prosperously 
+Stablished in cities where awe is not found; 
+Nor may a camp be providently ruled 
+Without the shield of dread and reverence. 
+Yea, though a man be grown to mighty bulk, 
+Let him look lest some slight mischance o'erthrow him. 
+He with whom awe and reverence abide, 
+Doubt not, will flourish in security. 
+But where outrage and licence are not checked, 
+Be sure that state, though sped by prosperous winds, 
+Some day at last will founder in deep seas. 
+Yes, fear should be established in due season. 
+Dream not that we can act as we desire, 
+Yet avoid payment of the price in pain. 
+Well, fortune goes by turns. This man was fiery 
+And insolent once: 'tis mine now to exult. 
+I charge thee, bury him not, lest by that act 
+Thou thyself shouldst be digging thine own grave, 
+
+LEADER Menelaus, do not first lay down wise precepts, 
+Then thyself offer outrage to the dead. 
+
+TEUCER  (to the CHORUS) Never, friends, shall I marvel any more,
+
+If one of low birth acts injuriously, 
+When they who are accounted nobly born 
+Can utter such injurious calumnies.  (To MENELAUS)  Come, once more
+speak. You say you brought him hither? 
+Took him to be a champion of the Greeks? 
+Did he not sail as his own master, freely? 
+How are you his chieftain? How have you the right 
+To lord it o'er the folk he brought from home? 
+As Sparta's lord you came, not as our master. 
+In no way was it your prerogative 
+To rule him, any more than he could you. 
+As vassal of others you sailed hither, not 
+As captain of us all, still less of Ajax. 
+Go, rule those whom you may rule: chastise them 
+With proud words. But this man, though you forbid me, 
+Aye, and your fellow-captain, by just right 
+Will I lay in his grave, scorning your threats. 
+It was not for the sake of your lost wife 
+He came to Troy, like your toil-broken serfs, 
+But for the sake of oaths that he had sworn, 
+Not for yours. What cared he for nobodies? 
+Then come again and bring more heralds hither, 
+And the captain of the host. For such as you 
+I would not turn my head, for all your bluster. 
+
+LEADER Such speech I like not, either, in peril's midst:
+
+For harsh words rankle, be they ne'er so just. 
+
+MENELAUS This bowman, it seems, has pride enough to spare.
+
+TEUCER Yes, 'tis no mean craft I have made my own. 
+
+MENELAUS How big would be your boasts, had you a shield!
+
+TEUCER Shieldless, I would outmatch you panoplied. 
+
+MENELAUS How terrible a courage dwells within your tongue!
+
+TEUCER He may be bold of heart whose side right favours.
+
+MENELAUS Is it right that my assassin should be honoured?
+
+TEUCER Assassin? How strange, if, though slain, you live!
+
+MENELAUS Heaven saved me: I was slain in his intent. 
+
+TEUCER Do not dishonour then the gods who saved you. 
+
+MENELAUS What, I rebel against the laws of heaven? 
+TEUCER, 
+Yes, if you come to rob the dead of burial. 
+
+MENELAUS My own foes! How could I endure such wrong? 
+
+TEUCER Did Ajax ever confront you as your foe? 
+
+MENELAUS He loathed me, and I him, as well you know. 
+
+TEUCER Because to defraud him you intrigued for votes. 
+
+MENELAUS It was the judges cast him, and not I. 
+
+TEUCER Much secret villainy you could make seem fair. 
+
+MENELAUS That saying will bring someone into trouble. 
+
+TEUCER Not greater trouble than we mean to inflict. 
+
+MENELAUS My one last word: this man must not have burial.
+
+TEUCER Then hear my answer: burial he shall have. 
+
+MENELAUS Once did I see a fellow bold of tongue, 
+Who had urged a crew to sail in time of storm; 
+Yet no voice had you found in him, when winds 
+Began to blow; but hidden beneath his cloak 
+The mariners might trample on him at will. 
+And so with you and your fierce railleries, 
+Perchance a great storm, though from a little cloud 
+Its breath proceed, shall quench your blatant outcry. 
+
+TEUCER And I once saw a fellow filled with folly, 
+Who gloried scornfully in his neighbour's woes. 
+So it came to pass that someone like myself, 
+And of like mood, beholding him spoke thus. 
+"Man, act not wickedly towards the dead; 
+Or, if thou dost, be sure that thou wilt rue it." 
+Thus did he monish that infatuate man. 
+And lo! yonder I see him; and as I think, 
+He is none else but thou. Do I speak riddles? 
+
+MENELAUS I go. It were disgrace should any know 
+I had fallen to chiding where I might chastise. 
+
+TEUCER Begone then. For to me 'twere worst disgrace 
+That I should listen to a fool's idle blustering.  (MENELAUS and his
+retinue depart.)  
+
+CHORUS  (chanting) Soon mighty and fell will the strife be begun.
+
+But speedily now, Teucer, I pray thee, 
+Seek some fit place for his hollow grave, 
+Which men's memories evermore shall praise, 
+As he lies there mouldering at rest.  (TECMESSA enters with EURYSACES.)
+
+TEUCER Look yonder, where the child and wife of Ajax 
+Are hastening hither in good time to tend 
+The funeral rites of his unhappy corpse. 
+My child, come hither. Stand near and lay thy hand 
+As a suppliant on thy father who begat thee. 
+And kneel imploringly with locks of hair 
+Held in thy hand-mine, and hers, and last thine- 
+The suppliant's treasure. But if any Greek 
+By violence should tear thee from this corpse, 
+For that crime from the land may he be cast 
+Unburied, and his whole race from the root 
+Cut off, even as I sever this lock. 
+There, take it, boy, and keep it. Let none seek 
+To move thee; but still kneel there and cling fast. 
+And you, like men, no women, by his side 
+Stand and defend him till I come again, 
+When I have dug his grave, though all forbid.  (TEUCER goes out.)
+
+CHORUS  (singing, strophe 1)
+
+When will this agony draw to a close? 
+When will it cease, the last of our years of exile? 
+Years that bring me labour accurst of hurtling spears, 
+Woe that hath no respite or end, 
+But wide-spread over the plains of Troy 
+Works sorrow and shame for Hellas' sons. 
+
+(antistrophe 1)
+
+Would he had vanished away from the earth, 
+Rapt to the skies, or sunk to devouring Hades, 
+He who first revealed to the Greeks the use of arms 
+Leagued in fierce confederate war! 
+Ah, toils eternally breeding toils! 
+Yea, he was the fiend who wrought man's ruin. 
+
+(strophe 2)
+
+The wretch accurst, what were his gifts? 
+Neither the glad, festival wreath, 
+Nor the divine, mirth-giving wine-cup; 
+No music of flutes, soothing and sweet: 
+Slumber by night, blissful and calm, 
+None he bequeathed us. 
+And love's joys, alas! love did he banish from me. 
+Here couching alone neglected, 
+With hair by unceasing dews drenched evermore, we curse 
+Thy shores, O cruel Ilium. 
+
+(antistrophe 2)
+
+Erewhile against terror by night, javelin or sword, firm was our
+trust: 
+He was our shield, valiant Ajax. 
+But now a malign demon of fate 
+Claims him. Alas! When, when again 
+Shall joy befall me? 
+Oh once more to stand, where on the wooded headland 
+The ocean is breaking, under 
+The shadow of Sunium's height; thence could I greet from far
+
+The divine city of Athens.  (TEUCER enters, followed by AGAMEMNON
+and his retinue.)  
+
+TEUCER In haste I come; for the captain of the host, 
+Agamemnon, I have seen hurrying hither. 
+To a perverse tongue now will he give rein. 
+
+AGAMEMNON Is it you, they tell me, have dared to stretch your lips
+
+In savage raillery against us, unpunished? 
+'Tis you I mean, the captive woman's son. 
+Verily of well-born mother had you been bred, 
+Superb had been your boasts and high your strut, 
+Since you, being nought, have championed one who is nought,
+
+Vowing that no authority is ours 
+By sea or land to rule the Greeks or you. 
+Are not these monstrous taunts to hear from slaves? 
+What was this man whose praise you vaunt so loudly? 
+Whither went he, or where stood he, where I was not? 
+Among the Greeks are there no men but he? 
+In evil hour, it seems, did we proclaim 
+The contest for Achilles' panoply, 
+If come what may Teucer is to call us knaves, 
+And if you never will consent, though worsted, 
+To accept the award that seemed just to most judges, 
+But either must keep pelting us with foul words, 
+Or stab us craftily in your rage at losing. 
+Where such discords are customary, never 
+Could any law be stablished and maintained, 
+If we should thrust the rightful winners by, 
+And bring the rearmost to the foremost place. 
+But such wrong must be checked. 'Tis not the big 
+Broad-shouldered men on whom we most rely; 
+No, 'tis the wise who are masters everywhere. 
+An ox, however large of rib, may yet 
+Be kept straight on the road by a little whip. 
+And this corrective, I perceive, will soon 
+Descend on you, unless you acquire some wisdom, 
+Who, though this man is dead, a mere shade now, 
+Can wag your insolent lips so freely and boldly. 
+Come to your senses: think what you are by birth. 
+Bring hither someone else, a man born free, 
+Who in your stead may plead your cause before us. 
+For when you speak, the sense escapes me quite: 
+I comprehend not your barbarian tongue. 
+
+LEADER OF THE CHORUS Would that you both might learn wisdom and temperance.
+
+There is no better counsel I can give you. 
+
+TEUCER Alas! how soon gratitude to the dead 
+Proves treacherous and vanishes from men's minds, 
+If for thee, Ajax, this man has no more 
+The least word of remembrance, he for whom oft 
+Toiling in battle thou didst risk thy life. 
+But all that is forgotten and flung aside. 
+Thou who but now wast uttering so much folly, 
+Hast thou no memory left, how in that hour 
+When, pent within your lines, you were already 
+No more than men of nought, routed in battle, 
+He alone stood forth to save you, while the flames 
+Were blazing round the stern-decks of the ships 
+Already, and while Hector, leaping high 
+Across the trench, charged down upon the hulls? 
+Who checked this ruin? Was it not he, who nowhere 
+So much as stood beside thee, so thou sayest? 
+Would you deny he acted nobly there? 
+Or when again chosen by lot, unbidden, 
+Alone in single combat he met Hector? 
+For no runaway's lot did he cast in, 
+No lump of clammy earth, but such that first 
+It should leap lightly from the crested helm? 
+His were these exploits; and beside him stood 
+I the slave, the barbarian mother's son. 
+Wretch, with what face can you fling forth such taunts? 
+Know you not that of old your father's father 
+Was Pelops, a barbarian, and a Phrygian? 
+That your sire Atreus set before his brother 
+A feast most impious of his own children's flesh? 
+And from a Cretan mother you were born, 
+Whom when her father found her with a paramour, 
+He doomed her for dumb fishes to devour. 
+Being such, do you reproach me with my lineage? 
+Telamon is the father who begat me, 
+Who, as the foremost champion of the Greeks, 
+Won as his bride my mother, a princes 
+By birth, Laomedon's daughter: a chosen spoil 
+She had been given him by Alcmena's son. 
+Thus of two noble parents nobly born, 
+How should I shame one of my blood, whom now, 
+Laid low by such calamity, you would thrust 
+Unburied forth, and feel no shame to say it? 
+But of this be sure: wheresoever you may cast him, 
+Us three also with him will you cast forth. 
+For it beseems me in his cause to die 
+In sight of all, rather than for the sake 
+Of your wife-or your brother's should I say? 
+Look then not to my interest, but your own. 
+For if you assail me, you shall soon wish rather 
+To have been a coward than too bold against me.  (ODYSSEUS enters.)
+
+LEADER In good time, King Odysseus, hast thou come, 
+If 'tis thy purpose not to embroil but reconcile. 
+
+ODYSSEUS What is it, friends? Far off I heard high words
+
+From the Atreidae over this hero's corpse. 
+
+AGAMEMNON Royal Odysseus, but now from this man 
+We have been listening to most shameful taunts. 
+
+ODYSSEUS How shameful? I could find excuse for one 
+Who, when reviled, retorts with bitter words. 
+
+AGAMEMNON Yes, I repaid his vile deeds with reviling. 
+
+ODYSSEUS What has he done thee whereby thou art wronged?
+
+AGAMEMNON He says he will not leave yon corpse unhonoured
+
+By sepulture, but will bury it in my spite. 
+
+ODYSSEUS May now a friend speak out the truth, yet still
+
+As ever ply his oar in stroke with thine? 
+
+AGAMEMNON Speak: I should be witless else; for thee 
+Of all the Greeks I count the greatest friend. 
+
+ODYSSEUS Then listen. For the gods' sake venture not 
+Thus ruthlessly to cast forth this man unburied: 
+And in no wise let violence compel thee 
+To such deep hate that thou shouldst tread down justice.
+
+Once for me too this man was my worst foe, 
+From that hour when I won Achilles' arms; 
+Yet, though he was such towards me, I would not so 
+Repay him with dishonour as to deny 
+That of all Greeks who came to Troy, no hero 
+So valiant save Achilles have I seen. 
+So it is not just thou shouldst dishonour him. 
+Not him wouldst thou be wronging, but the laws 
+Of heaven. It is not righteousness to outrage 
+A brave man dead, not even though thou hate him. 
+
+AGAMEMNON Thou, Odysseus, champion him thus against me?
+
+ODYSSEUS Yes; but I hated him while hate was honourable.
+
+AGAMEMNON Shouldst thou not also trample on him when dead?
+
+ODYSSEUS Atreides, glory not in dishonouring triumphs. 
+
+AGAMEMNON 'Tis hard for a king to act with piety. 
+
+ODYSSEUS Yet not hard to respect a friend's wise counsel.
+
+AGAMEMNON A good man should obey those who bear rule. 
+
+ODYSSEUS Relent. 'Tis no defeat to yield to friends. 
+
+AGAMEMNON Reflect who it is to whom thou dost this grace.
+
+ODYSSEUS This man was once my foe, yet was he noble. 
+
+AGAMEMNON Can it be thou wilt reverence a dead foe? 
+
+ODYSSEUS His worth with me far outweighs enmity. 
+
+AGAMEMNON Unstable of impulse are such men as thou. 
+
+ODYSSEUS Many are friends now and hereafter foes. 
+
+AGAMEMNON Do you then praise such friends as worth the winning?
+
+ODYSSEUS I am not wont to praise a stubborn soul. 
+
+AGAMEMNON Cowards you would have us show ourselves this day.
+
+ODYSSEUS Not so, but just men before all the Greeks. 
+
+AGAMEMNON You bid me then permit these funeral rites? 
+
+ODYSSEUS Even so: for I myself shall come to this. 
+
+AGAMEMNON Alike in all things each works for himself. 
+
+ODYSSEUS And for whom should I work, if not myself? 
+
+AGAMEMNON Let it be known then as your doing, not mine.
+
+ODYSSEUS So be it. At least you will have acted nobly. 
+
+AGAMEMNON Nay, but of this be certain, that to thee 
+Willingly would I grant a greater boon. 
+Yet he, in that world as in this, shall be 
+Most hateful to me. But act as you deem fit.  (AGAMEMNON and his retinue
+go out.)  
+
+LEADER After such proof, Odysseus, a fool only 
+Could say that inborn wisdom was not thine. 
+
+ODYSSEUS Let Teucer know that I shall be henceforth 
+His friend, no less than I was once his foe. 
+And I will join in burying this dead man, 
+And share in all due rites, omitting none 
+Which mortal men to noblest heroes owe. 
+
+TEUCER Noble Odysseus, for thy words I praise thee 
+Without stint. Wholly hast thou belied my fears. 
+Thou, his worst foe among the Greeks, hast yet 
+Alone stood by him staunchly, nor thought fit 
+To glory and exult over the dead, 
+Like that chief crazed with arrogance, who came, 
+He and his brother, hoping to cast forth 
+The dead man shamefully without burial. 
+May therefore the supreme Olympian Father, 
+The remembering Fury and fulfilling Justice 
+Destroy these vile men vilely, even as they 
+Sought to cast forth this hero unjustly outraged. 
+But pardon me, thou son of old Laertes, 
+That I must scruple to allow thine aid 
+In these rites, lest I so displease the dead. 
+In all else share our toil; and wouldst thou bring 
+Any man from the host, we grudge thee not. 
+What else remains, I will provide. And know 
+That thou towards us hast acted generously. 
+
+ODYSSEUS It was my wish. But if my help herein 
+Pleases you not, so be it, I depart.  (ODYSSEUS goes out.)
+
+TEUCER 'Tis enough. Too long is the time we have wasted
+
+In talk. Haste some with spades to the grave: 
+Speedily hollow it. Some set the cauldron 
+On high amid wreathing flames ready filled 
+For pious ablution. 
+Then a third band go, fetch forth from the tent 
+All the armour he once wore under his shield. 
+Thou too, child, lovingly lay thy hand 
+On thy father's corpse, and with all thy strength 
+Help me to lift him: for the dark blood-tide 
+Still upward is streaming warm through the arteries. 
+All then who openly now would appear 
+Friends to the dead, come, hasten forwards. 
+To our valiant lord this labour is due. 
+We have served none nobler among men. 
+
+CHORUS  (chanting) Unto him who has seen may manifold knowledge
+
+Come; but before he sees, no man 
+May divine what destiny awaits him. 
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.
+</pre></body></html>

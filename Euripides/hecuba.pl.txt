@@ -1,0 +1,1350 @@
+
+<BASE HREF="http://classics.mit.edu/Euripides/hecuba.pl.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Euripides/hecuba.pl.txt"><font color=blue>classics.mit.edu/Euripides/hecuba.pl.txt</font></a>.<br>
+<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Euripides/hecuba.pl.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
+<html><body><pre>
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Euripides/hecuba.html
+
+Hecuba
+By Euripides
+
+
+Translated by E. P. Coleridge
+
+----------------------------------------------------------------------
+
+Dramatis Personae
+
+THE GHOST OF POLYDORUS, son of HECUBA and Priam, King of
+Troy
+HECUBA, wife of Priam
+CHORUS OF CAPTIVE TROJAN WOMEN
+POLYXENA, daughter of HECUBA and Priam
+ODYSSEUS
+TALTHYBIUS, herald of AGAMEMNON
+MAID OF HECUBA
+AGAMEMNON
+POLYMESTOR, King of the Thracian Chersonese
+
+----------------------------------------------------------------------
+
+Before AGAMEMNON'S tent in the Greek camp upon the shore of the Thracian
+Chersonese. The GHOST OF POLYDORUS appears.
+
+----------------------------------------------------------------------
+
+GHOST Lo! I am come from out the charnel-house and gates of gloom,
+where Hades dwells apart from gods, I Polydorus, a son of Hecuba the
+daughter of Cisseus and of Priam. Now my father, when Phrygia's capital
+was threatened with destruction by the spear of Hellas, took alarm
+and conveyed me secretly from the land of Troy unto Polymestor's house,
+his friend in Thrace, who sows these fruitful plains of Chersonese,
+curbing by his might a nation delighting in horses. And with me my
+father sent great store of gold by stealth, that, if ever Ilium's
+walls should fall, his children that survived might not want for means
+to live. I was the youngest of Priam's sons; and this it was that
+caused my stealthy removal from the land; for my childish arm availed
+not to carry weapons or to wield the spear. So long then as the bulwarks
+of our land stood firm, and Troy's battlements abode unshaken, and
+my brother Hector prospered in his warring, I, poor child, grew up
+and flourished, like some vigorous shoot, at the court of the Thracian,
+my father's friend. But when Troy fell and Hector lost his life and
+my father's hearth was rooted up, and himself fell butchered at the
+god-built altar by the hands of Achilles' murderous son; then did
+my father's friend slay me his helpless guest for the sake of the
+gold, and thereafter cast me into the swell of the sea, to keep the
+gold for himself in his house. And there I lie one time upon the strand,
+another in the salt sea's surge, drifting ever up and down upon the
+billows, unwept, unburied; but now am I hovering o'er the head of
+my dear mother Hecuba, a disembodied spirit, keeping my airy station
+these three days, ever since my poor mother came from Troy to linger
+here in Chersonese. Meantime all the Achaeans sit idly here in their
+ships at the shores of Thrace; for the son of Peleus, even Achilles,
+appeared above his tomb and stayed the whole host of Hellas, as they
+were making straight for home across the sea, demanding to have my
+sister Polyxena offered at his tomb, and to receive his guerdon. And
+he will obtain this prize, nor will they that are his friends refuse
+the gift; and on this very day is fate leading my sister to her doom.
+So will my mother see two children dead at once, me and that ill-fated
+maid. For I, to win a grave, ah me! will appear amid the rippling
+waves before her bond-maid's feet. Yes! I have won this boon from
+the powers below, that I should find tomb and fall into my mother's
+hands; so shall I get my heart's desire; wherefore I will go and waylay
+aged Hecuba, for yonder she passeth on her way from the shelter of
+Agamemnon's tent, terrified at my spectre. Woe is thee! ah, mother
+mine! from a palace dragged to face a life of slavery! how sad thy
+lot, as sad as once 'twas blest! Some god is now destroying thee,
+setting this in the balance to outweigh thy former bliss.  (The GHOST
+vanishes. HECUBA enters from the tent of AGAMEMNON, supported by her
+attendants, captive Trojan women.)  
+
+HECUBA  (chanting) Guide these aged steps, my servants, forth before
+the house; support your fellow-slave, your queen of yore, ye maids
+of Troy. Take hold upon my aged hand, support me, guide me, lift me
+up; and I will lean upon your bended arm as on a staff and quicken
+my halting footsteps onwards. O dazzling light of Zeus! O gloom of
+night! why am I thus scared by fearful visions of the night? O earth,
+dread queen, mother of dreams that flit on sable wings! I am seeking
+to avert the vision of the night, the sight of horror which I saw
+so clearly in my dreams touching my son, who is safe in Thrace, and
+Polyxena my daughter dear. Ye gods of this land! preserve my son,
+the last and only anchor of my house, now settled in Thrace, the land
+of snow, safe in the keeping of his father's friend. Some fresh disaster
+is in store, a new strain of sorrow will be added to our woe. Such
+ceaseless thrills of terror never wrung my heart before. Oh! where,
+ye Trojan maidens, can I find inspired Helenus or Cassandra, that
+they may read me my dream? For I saw a dappled hind mangled by a wolf's
+bloody fangs, torn from my knees by force in piteous wise. And this
+too filled me with affright; o'er the summit of his tomb appeared
+Achilles' phantom, and for his guerdon he would have one of the luckless
+maids of Troy. Wherefore, I implore you, powers divine, avert this
+horror from my daughter, from my child.  (The CHORUS OF CAPTIVE TROJAN
+WOMEN enters.)  
+
+CHORUS  (singing) Hecuba, I have hastened away to thee, leaving my
+master's tent, where the lot assigned me as his appointed slave, in
+the day that was driven from the city of Ilium, hunted by Achaeans
+thence at the point of the spear; no alleviation bring I for thy sufferings;
+nay have laden myself with heavy news, and am a herald of sorrow to
+thee, lady. 'Tis said the Achaeans have determined in full assembly
+to offer thy daughter in sacrifice to Achilles; for thou knowest how
+one day he appeared standing on his tomb in golden harness, and stayed
+the sea-borne barques, though they had their sails already hoisted,
+with this pealing cry, "Whither away so fast, ye Danai, leaving my
+tomb without its prize?" Thereon arose a violent dispute with stormy
+altercation, and opinion was divided in the warrior host of Hellas,
+some being in favour of offering the sacrifice at the tomb, others
+dissenting. There was Agamemnon, all eagerness in thy interest, because
+of his love for the frenzied prophetess; but the two sons of Theseus,
+scions of Athens, though supporting different proposals, yet agreed
+on the same decision, which was to crown Achilles' tomb with fresh-spilt
+blood; for they said they never would set Cassandra's love before
+Achilles' valour. Now the zeal of the rival disputants was almost
+equal, until that shifty, smooth-mouthed varlet, the son of Laertes,
+whose tongue is ever at the service of the mob, persuaded the army
+not to put aside the best of all the Danai for want of a bond-maid's
+sacrifice, nor have it said by any of the dead that stand beside Persephone,
+"The Danai have left the plains of Troy without one thought of gratitude
+for their brethren who died for Hellas." Odysseus will be here in
+an instant, to drag the tender maiden from thy breast and tear her
+from thy aged arms. To the temples, to the altars with thee! at Agamemnon's
+knees throw thyself as a suppliant! Invoke alike the gods in heaven
+and those beneath the earth. For either shall thy prayers avail to
+spare thee the loss of thy unhappy child, or thou must live to see
+thy daughter fall before the tomb, her crimson blood spurting in deep
+dark jets from her neck with gold encircled.  (THE following lines
+between HECUBA and POLYXENA are chanted responsively.)  
+
+HECUBA Woe, woe is me! What words, or cries, or lamentations can
+I utter? Ah me! for the sorrows of my closing years! for slavery too
+cruel to brook or bear! Woe, woe is me! What champion have I? Sons,
+and city-where are they? Aged Priam is no more; no more my children
+now. Which way am I to go, or this or that? Whither shall I turn my
+steps? Where is any god or power divine to succour me? Ah, Trojan
+maids! bringers of evil tidings! messengers of woe! ye have made an
+end, an utter end of me; life on earth has no more charm for me. Ah!
+luckless steps, lead on, guide your aged mistress to yon tent.  (calling)
+My child, come forth; come forth, thou daughter of the queen of sorrows;
+listen to thy mother's voice, my child, that thou mayst know the hideous
+rumour I now hear about thy life.  (POLYXENA enters from the tent.)
+
+POLYXENA O mother, mother mine! why dost thou call so loud? what
+news is it thou hast proclaimed, scaring me, like a cowering bird,
+from my chamber by this alarm? 
+
+HECUBA Alas, my daughter! 
+
+POLYXENA Why this ominous address? it bodeth sorrow for me.
+
+HECUBA Woe for thy life! 
+
+POLYXENA Tell all, hide it no longer. Ah mother! how I dread, ay
+dread the import of thy loud laments. 
+
+HECUBA Ah my daughter! a luckless mother's child! 
+
+POLYXENA Why dost thou tell me this? 
+
+HECUBA The Argives with one consent are eager for thy sacrifice to
+the son of Peleus at his tomb. 
+
+POLYXENA Ah! mother mine! how canst thou speak of such a horror?
+Yet tell me all, yes all, O mother dear! 
+
+HECUBA 'Tis a rumour ill-boding I tell, my child; they bring me word
+that sentence is passed upon thy life by the Argives' vote.
+
+POLYXENA Alas, for thy cruel sufferings! my persecuted mother! woe
+for thy life of grief! What grievous outrage some fiend hath sent
+on thee, hateful, horrible! No more shall I thy daughter share thy
+bondage, hapless youth on hapless age attending. For thou, alas! wilt
+see thy hapless child torn from thy arms, as a calf of the hills is
+torn from its mother, and sent beneath the darkness of the earth with
+severed throat for Hades, where with the dead shall I be laid, ah
+me! For thee I weep with plaintive wail, mother doomed to a life of
+sorrow! for my own life, its ruin and its outrage, never a tear I
+shed; nay, death is become to me a happier lot than life.
+
+LEADER OF THE CHORUS See where Odysseus comes in haste, to announce
+some fresh command to thee, Hecuba.  (ODYSSEUS enters, with his attendants.)
+
+ODYSSEUS Lady, methinks thou knowest already the intention of the
+host, and the vote that has been passed; still will I declare it.
+It is the Achaeans' will to sacrifice thy daughter Polyxena at the
+mound heaped o'er Achilles' grave; and they appoint me to take the
+maid and bring her thither, while the son of Achilles is chosen to
+preside o'er the sacrifice and act as priest. Dost know then what
+to do? Be not forcibly torn from her, nor match thy might 'gainst
+mine; recognize the limits of thy strength, and the presence of thy
+troubles. Even in adversity 'tis wise to yield to reason's dictates.
+
+HECUBA Ah me! an awful trial is nigh, it seems, fraught with mourning,
+rich in tears. Yes, I too escaped death where death had been my due,
+and Zeus destroyed me not but is still preserving my life, that I
+may witness in my misery fresh sorrows surpassing all before. Still
+if the bond may ask the free of things that grieve them not nor wrench
+their heart-strings, 'tis well that thou shouldst make an end and
+hearken to my questioning. 
+
+ODYSSEUS Granted; put thy questions; that short delay I grudge thee
+not. 
+
+HECUBA Dost remember the day thou camest to spy on Ilium, disguised
+in rags and tatters, while down thy cheek ran drops of blood?
+
+ODYSSEUS Remember it! yes; 'twas no slight impression it made upon
+my heart. 
+
+HECUBA Did Helen recognize thee and tell me only? 
+
+ODYSSEUS I well remember the awful risk I ran. 
+
+HECUBA Didst thou embrace my knees in all humility? 
+
+ODYSSEUS Yea, so that my hand grew dead and cold upon thy robe.
+
+HECUBA What saidst thou then, when in my power? 
+
+ODYSSEUS Doubtless I found plenty to say, to save my life.
+
+HECUBA Was it I that saved and sent thee forth again? 
+
+ODYSSEUS Thou didst, and so I still behold the light of day.
+
+HECUBA Art not thou then playing a sorry part to plot against me
+thus, after the kind treatment thou didst by thy own confession receive
+from me, showing me no gratitude but all the ill thou canst? A thankless
+race! all ye who covet honour from the mob for your oratory. Oh that
+ye were unknown to me ye who harm your friends and think no more of
+it, if ye can but say a word to win the mob. But tell me, what kind
+of cleverness did they think it, when against this child they passed
+their bloody vote? Was it duty led them to slay a human victim at
+the tomb, where sacrifice of oxen more befits? or does Achilles, if
+claiming the lives of those who slew him as his recompense, show his
+justice by marking her out for death? No! she at least ne'er injured
+him. He should have demanded Helen as a victim at his tomb, for she
+it was that proved his ruin, bringing him to Troy; or if some captive
+of surpassing beauty was to be singled out for doom, this pointed
+not to us; for the daughter of Tyndareus was fairer than all womankind,
+and her injury to him was proved no les than ours. Against the justice
+of his plea I pit this argument. Now hear the recompense due from
+thee to me at my request. On thy own confession, thou didst fall at
+my feet and embrace my hand and aged cheek; I in my turn now do the
+same to thee, and claim the favour then bestowed; and I implore thee,
+tear not my child from my arms, nor slay her. There be dead enough;
+she is my only joy, in her I forget my sorrows; My one comfort she
+in place of many a loss, my city and my nurse, my staff and journey's
+guide. 'Tis never right that those in power should use it out of season,
+or when prosperous suppose they will be always so. For I like them
+was prosperous once, but now my life is lived, and one day robbed
+me of all my bliss. Friend, by thy beard, have some regard and pity
+for me; go to Achaea's host, and talk them over, saying how hateful
+a thing it is to slay women whom at first ye spared out of pity, after
+dragging them from the altars. For amongst you the self-same law holds
+good for bond and free alike respecting bloodshed; such influence
+as thine will persuade them even though thy words are weak; for the
+same argument, when proceeding from those of no account, has not the
+same force as when it is uttered by men of mark. 
+
+LEADER Human nature is not so stony-hearted as to hear thy plaintive
+tale and catalogue of sorrows, without shedding a tear. 
+
+ODYSSEUS O Hecuba! be schooled by me, nor in thy passion count him
+a foe who speaketh wisely. Thy life I am prepared to save, for the
+service I received; I say no otherwise. But what I said to all, I
+will not now deny, that after Troy's capture I would give thy daughter
+to the chiefest of our host because he asked a victim. For herein
+is a source of weakness to most states, whene'er a man of brave and
+generous soul receives no greater honour than his inferiors. Now Achilles,
+lady, deserves honour at our hands, since for Hellas he died as nobly
+as a mortal can. Is not this a foul reproach to treat a man as a friend
+in life, but, when he is gone from us, to treat him so no more? How
+now? what will they say, if once more there comes gathering of the
+host and a contest with the foe? "Shall we fight or nurse our lives,
+seeing the dead have no honours?" For myself, indeed, though in life
+my daily store were scant, yet would it be all-sufficient, but as
+touching a tomb I should wish mine to be an object of respect, for
+this gratitude has long to run. Thou speakest of cruel sufferings;
+hear my answer. Amongst us are aged dames and grey old men no less
+miserable than thou, and brides of gallant husbands reft, o'er whom
+this Trojan dust has closed. Endure these sorrows; for us, if we are
+wrong in resolving to honour the brave, we shall bring upon ourselves
+a charge of ignorance; but as for you barbarians, regard not your
+friends as such and pay no homage to your gallant dead, that Hellas
+may prosper and ye may reap the fruits of such policy. 
+
+LEADER Alas! how cursed is slavery alway in its nature, forced by
+the might of the stronger to endure unseemly treatment. 
+
+HECUBA Daughter, my pleading to avert thy bloody death was wasted
+idly on the air; do thou, if in aught endowed with greater power to
+move than thy mother, make haste to use it, uttering every pleading
+note like the tuneful nightingale, to save thy soul from death. Throw
+thyself at Odysseus' knees to move his pity, and try to move him.
+Here is thy plea: he to hath children, so that he can feel for thy
+sad fate. 
+
+POLYXENA Odysseus, I see thee hiding thy right hand beneath thy robe
+and turning away thy face, that I may not touch thy beard. Take heart;
+thou art safe from the suppliant's god in my case, for I will follow
+thee, alike because I must and because it is my wish to die; for were
+I loth, a coward should I show myself, a woman faint of heart. Why
+should I prolong my days? I whose sire was king of all the Phrygians?-my
+chiefest pride in life, Then was I nursed on fair fond hopes to be
+a bride for kings, the centre of keen jealousy amongst suitors, to
+see whose home I would make my own; and o'er each dame of Ida I was
+queen; ah me! a maiden marked amid her fellows, equal to a goddess,
+save for death alone, but now slave! That name first makes me long
+for death, so strange it sounds; and then maybe my lot might give
+me to some savage master, one that would buy me for money,-me the
+sister of Hector and many another chief,-who would make me knead him
+bread within his halls, or sweep his house or set me working at the
+loom, leading a life of misery; while some slave, bought I know not
+whence, will taint my maiden charms, once deemed worthy of royalty.
+No, never! Here I close my eyes upon the light, free as yet, and dedicate
+myself to Hades. Lead me hence, Odysseus, and do thy worst, for I
+see naught within my reach to make me hope or expect with any confidence
+that I am ever again to be happy. Mother mine! seek not to hinder
+me by word or deed, but join in my wish for death ere I meet with
+shameful treatment undeserved. For whoso is not used to taste of sorrow's
+cup, though he bears it, yet it galls him when he puts his neck within
+the yoke; far happier would he be dead than alive, for life of honour
+reft is toil and trouble. 
+
+LEADER A wondrous mark, most clearly stamped, doth noble birth imprint
+on men, and the name goeth still further where it is deserved.
+
+HECUBA A noble speech, my daughter! but there is sorrow linked with
+its noble sentiments. 
+
+Odysseus, if ye must pleasure the son of Peleus, and avoid reproach,
+slay not this maid, but lead me to Achilles' pyre and torture me unsparingly:
+'twas I that bore Paris, whose fatal shaft laid low the son of Thetis.
+
+ODYSSEUS 'Tis not thy death, old dame, Achilles' wraith hath demanded
+of the Achaeans, but hers. 
+
+HECUBA At least then slaughter me with my child; so shall there be
+a double draught of blood for the earth and the dead that claims this
+sacrifice. 
+
+ODYSSEUS The maiden's death suffices; no need to add a second to
+the first; would we needed not e'en this! 
+
+HECUBA Die with my daughter I must and will. 
+
+ODYSSEUS How so? I did not know I had a master. 
+
+HECUBA I will cling to her like ivy to an oak. 
+
+ODYSSEUS Not if thou wilt hearken to those who are wiser than thyself.
+
+HECUBA Be sure I will never willingly relinquish my child.
+
+ODYSSEUS Well, be equally sure I will never go away and leave her
+here. 
+
+POLYXENA Mother, hearken to me; and thou, son of Laertes, make allowance
+for a parent's natural wrath. My poor mother, fight not with our masters.
+Wilt thou be thrown down, be roughly thrust aside and wound thy aged
+skin, and in unseemly wise be torn from me by youthful arms? This
+wilt thou suffer; do not so, for 'tis not right for thee. Nay, dear
+mother mine give me thy hand beloved, and let me press thy cheek to
+mine; for never, nevermore, but now for the last time shall I behold
+the dazzling sun-god's orb. My last farewells now take! O mother,
+mother mine! beneath the earth I pass. 
+
+HECUBA O my daughter, I am still to live and be a slave.
+
+POLYXENA Unwedded I depart, never having tasted the married joys
+that were my due! 
+
+HECUBA Thine, my daughter, is a piteous lot, and sad is mine also.
+
+POLYXENA There in Hades' courts shall I be laid apart from thee.
+
+HECUBA Ah me, what shall I do? where shall I end my life?
+
+POLYXENA Daughter of a free-born sire, a slave I am to die.
+
+HECUBA Not one of all my fifty children left! 
+
+POLYXENA What message can I take for thee to Hector or thy aged lord?
+
+HECUBA Tell them that of all women I am the most miserable.
+
+POLYXENA Ah! bosom and breasts that fed me with sweet food!
+
+HECUBA Woe is thee, my child, for this untimely fate! 
+
+POLYXENA Farewell, my mother! farewell, Cassandra! 
+
+HECUBA "Fare well!" others do, but not thy mother, no! 
+
+POLYXENA Thou too, my brother Polydorus, who art in Thrace, the home
+of steeds! 
+
+HECUBA Aye, if he lives, which much I doubt; so luckless am I every
+way. 
+
+POLYXENA Oh yes, he lives; and, when thou diest, he will close thine
+eyes. 
+
+HECUBA I am dead; sorrow has forestalled death here. 
+
+POLYXENA Come veil my head, Odysseus, and take me hence; for now,
+ere falls the fatal blow, my heart is melted by my mother's wailing,
+and hers no less by mine. O light of day! for still may I call thee
+by thy name, though now my share in thee is but the time I take to
+go 'twixt this and the sword at Achilles' tomb.  (ODYSSEUS and his
+attendants lead POLYXENA away.)  
+
+HECUBA Woe is me! I faint; my limbs sink under me. O my daughter,
+embrace thy mother, stretch out thy hand, give it me again; leave
+me not childless! Ah, friends! 'tis my death-blow. Oh! to see that
+Spartan woman, Helen, sister of the sons of Zeus, in such a plight;
+for her bright eyes have caused the shameful fall of Troy's once prosperous
+town.  (HECUBA sinks fainting to the ground.)  
+
+CHORUS  (singing, strophe 1)
+
+O breeze from out the deep arising, that waftest swift galleys, ocean's
+coursers, across the surging main! whither wilt thou bear me the child
+of sorrow? To whose house shall I be brought, to be his slave and
+chattel? to some haven in the Dorian land, or in Phthia, where men
+say Apidanus, father of fairest streams, makes fat and rich the tilth?
+
+(antistrophe 1)
+
+or to an island home, sent on a voyage of misery by oars that sweep
+the brine, leading a wretched existence in halls where the first-created
+palm and the bay-tree put forth their sacred shoots for dear Latona,
+memorial fair of her divine travail? and there with the maids of Delos
+shall I hymn the golden snood and bow of Artemis their goddess?
+
+(strophe 2)
+
+Or in the city of Pallas, the home of Athena of the beauteous chariot,
+shall I upon her saffron robe yoke horses to the car, embroidering
+them on my web in brilliant varied shades, or the race of Titans,
+whom Zeus the son of Cronos lays to their unending sleep with bolt
+of flashing flame? 
+
+(antistrophe 2)
+
+Woe is me for my children! woe for my ancestors, and my country which
+is falling in smouldering ruin 'mid the smoke, sacked by the Argive
+spear! while I upon a foreign shore am called a slave for-sooth, leaving
+Asia, Europe's handmaid, and receiving in its place deadly marriage-bower.
+(The herald, TALTHYBIUS, enters.)  
+
+TALTHYBIUS Where can I find Hecuba, who once was queen of Ilium,
+ye Trojan maidens? 
+
+LEADER OF THE CHORUS There she lies near thee, Talthybius, stretched
+full length upon the ground, wrapt in her robe. 
+
+TALTHYBIUS Great Zeus! what can I say? that thine eye is over man?
+or that we hold this false opinion all to no purpose, thinking there
+is any race of gods, when it is chance that rules the mortal sphere?
+Was not this the queen of wealthy Phrygia, the wife of Priam highly
+blest? And now her city is utterly o'erthrown by the foe, and she,
+a slave in her old age, her children dead, lies stretched upon the
+ground, soiling her hair, poor lady in the dust. Well, well; old as
+I am, may death be my lot before I am caught in any foul mischance.
+Arise, poor queen! lift up thyself and raise that hoary head.
+
+HECUBA  (stirring) Ah! who art thou that wilt not let my body rest?
+why disturb me in my anguish, whosoe'er thou art? 
+
+TALTHYBIUS 'Tis I, Talthybius, who am here, the minister of the Danai;
+Agamemnon has sent me for thee, lady. 
+
+HECUBA  (rising) Good friend, art come because the Achaeans are resolved
+to slay me to at the grave? How welcome would thy tidings be! Let
+us hasten and lose no time; prithee, lead the way, old sir.
+
+TALTHYBIUS I am come to fetch thee to bury thy daughter's corpse,
+lady; and those that send me are the two sons of Atreus and the Achaean
+host. 
+
+HECUBA Ah! what wilt thou say? Art thou not come, as I had thought,
+to fetch me to my doom, but to announce ill news? Lost, lost, my child!
+snatched from thy mother's arms! and I am childless now, at least
+as touches thee; ah, woe is me! 
+
+How did ye end her life? was any mercy shown? or did ye deal ruthlessly
+with her as though your victim were a foe, old man? Speak, though
+thy words must be pain to me. 
+
+TALTHYBIUS Lady, thou art bent on making mine a double meed of tears
+in pity for thy child; for now too as I tell the sad tale a tear will
+wet my eye, as it did at the tomb when she was dying. 
+
+All Achaea's host was gathered there in full array before the tomb
+to see thy daughter offered; and the son of Achilles took Polyxena
+by the hand and set her on the top of the mound, while I stood near;
+and a chosen band of young Achaeans followed to hold thy child and
+prevent her struggling. Then did Achilles' son take in his hands a
+brimming cup of gold and poured an offering to his dead sire, making
+a sign to me to proclaim silence throughout the Achaean host. So I
+stood at his side and in their midst proclaimed, "Silence, ye Achaeans!
+hushed be the people all! peace! be still! "Therewith I hushed the
+host. Then spake he, "Son of Peleus, father mine, accept the offering
+I pour thee to appease thy spirit, strong to raise the dead; and come
+to drink the black blood of a virgin pure, which I and the host are
+offering thee; oh! be propitious to us; grant that we may loose our
+prows and the cables of our ships, and, meeting with prosperous voyage
+from Ilium, all to our country come." So he; and all the army echoed
+his prayer. Then seizing his golden sword by the hilt he drew it from
+its scabbard, signing the while to the picked young Argive warriors
+to hold the maid. But she, when she was ware thereof, uttered her
+voice and said: "O Argives, who have sacked my city! of my free will
+I die; let none lay hand on me; for bravely will I yield my neck.
+Leave me free, I do beseech; so slay me, that death may find me free;
+for to be called a slave amongst the dead fills my royal heart with
+shame." Thereat the people shouted their applause, and king Agamemnon
+bade the young men loose the maid. So they set her free, as soon as
+they heard this last command from him whose might was over all. And
+she, hearing her captors' words took her robe and tore it open from
+the shoulder to the waist, displaying a breast and bosom fair as a
+statue's; then sinking on her knee, one word she spake more piteous
+than all the rest, "Young prince, if 'tis my breast thou'dst strike,
+lo! here it is, strike home! or if at my neck thy sword thou'lt aim,
+behold! that neck is bared." 
+
+Then he, half glad, half sorry in his pity for the maid, cleft with
+the steel the channels of her breath, and streams of blood gushed
+forth; but she, e'en in death's agony, took good heed to fall with
+maiden grace, hiding from gaze of man what modest maiden must. Soon
+as she had breathed her last through the fatal gash, each Argive set
+his hand to different tasks, some strewing leaves o'er the corpse
+in handfuls, others bringing pine-logs and heaping up a pyre; and
+he, who brought nothing, would hear from him who did such taunts as
+these, "Stand'st thou still, ignoble wretch, with never a robe or
+ornament to bring for the maiden? Wilt thou give naught to her that
+showed such peerless bravery and spirit?" 
+
+Such is the tale I tell about thy daughter's death, and I regard thee
+as blest beyond all mothers in thy noble child, yet crossed in fortune
+more than all. 
+
+LEADER Upon the race of Priam and my city some fearful curse hath
+burst; 'tis sent by God, and we must bear it. 
+
+HECUBA O my daughter! 'mid this crowd of sorrows I know not where
+to turn my gaze; for if I set myself to one, another will not give
+me pause; while from this again a fresh grief summons me, finding
+a successor to sorrow's throne. No longer now can I efface from my
+mind the memory of thy sufferings sufficiently to stay my tears; yet
+hath the story of thy noble death taken from the keenness of my grief.
+Is it not then strange that poor land, when blessed by heaven with
+a lucky year, yields a good crop, while that which is good, if robbed
+of needful care, bears but little increase; yet 'mongst men the knave
+is never other than a knave, the good man aught but good, never changing
+for the worse because of misfortune, but ever the same? Is then the
+difference due to birth or bringing up? Good training doubtless gives
+lessons in good conduct, and if a man have mastered this, he knows
+what is base by the standard of good. Random shafts of my soul's shooting
+these, I know.  (To TALTHYBIUS)  Go thou and proclaim to the Argives
+that they touch not my daughter's body but keep the crowd away. For
+when countless host is gathered, the mob knows no restraint, and the
+unruliness of sailors exceeds that of fire, all abstinence from evil
+being counted evil.  (TALTHYBIUS goes out., Addressing a servant)
+My aged handmaid, take a pitcher and dip it in the salt sea and bring
+hither thereof, that I for the last time may wash my child, a virgin
+wife, a widowed maid, and lay her out,-as she deserves, ah! whence
+can I? impossible! but as best I can; and what will that be? I will
+collect adornment from the captives, my companions in these tents,
+if haply any of them escaping her master's eye have some secret store
+from her old home.  (The MAID departs.)  O towering halls, O home
+so happy once, O Priam, rich in store of fairest wealth, most blest
+of sires, and I no less, the grey-haired mother of thy race, how are
+we brought to naught, stripped of our former pride! And spite of all
+we vaunt ourselves, one on the riches of his house, another be, cause
+he has an honoured name amongst his fellow-citizens! But these things
+are naught; in vain are all our thoughtful schemes, in vain our vaunting
+words. He is happiest who meets no sorrow in his daily walk.  (HECUBA
+enters the tent.)  
+
+CHORUS  (singing, strophe)
+
+Woe and tribulation were made my lot in life, soon as ever Paris
+felled his beams of pine in Ida's woods, to sail across the heaving
+main in quest of Helen's hand, fairest bride on whom the sun-god turns
+his golden eye. 
+
+(antistrophe)
+
+For here beginneth trouble's cycle, and, worse than that, relentless
+fate; and from one man's folly came a universal curse, bringing death
+to the land of Simois, with trouble from an alien shore. The strife
+the shepherd decided on Ida 'twixt three daughters of the blessed
+gods, 
+
+(epode)
+
+brought as its result war and bloodshed and the ruin of my home;
+and many a Spartan maiden too is weeping bitter tears in her halls
+on the banks of fair Eurotas, and many a mother whose sons are slain,
+is smiting her hoary head and tearing her cheeks, making her nails
+red in the furrowed gash. 
+
+MAID (entering excitedly, attended by bearers bringing in a covered
+corpse) Oh! where, ladies, is Hecuba, our queen of sorrow, who far
+surpasses all in tribulation, men and women both alike? None shall
+wrest the crown from her. 
+
+LEADER OF THE CHORUS What now, thou wretched bird of boding note?
+Thy evil tidings never seem to rest. 
+
+MAID 'Tis to Hecuba I bring my bitter news; no easy task is it for
+mortal lips to speak smooth words in sorrow's hour. 
+
+LEADER Lo! she is coming even now from the shelter of the tent appearing
+just in time to hear thee speak.  (HECUBA comes out of the tent.)
+
+MAID Alas for thee! most hapless queen, ruined beyond all words of
+mine to tell; robbed of the light of life; of children, husband, city
+reft; hopelessly undone! 
+
+HECUBA This is no news but insult; I have heard it all before. But
+why art thou come, bringing hither to me the corpse of Polyxena, on
+whose burial Achaea's host was reported to be busily engaged?
+
+MAID  (aside) She little knows what I have to tell, but mourns Polyxena,
+not grasping her new sorrows. 
+
+HECUBA Ah! woe is me! thou art not surely bringing hither mad Cassandra,
+the prophetic maid? 
+
+MAID She lives, of whom thou speakest; but the dead thou dost not
+weep is here.  (Uncovering the corpse)  Mark well the body now laid
+bare; is not this a sight to fill thee with wonder, and upset thy
+hopes? 
+
+HECUBA Ah me! 'tis the corpse of my son Polydorus I behold, whom
+he of Thrace was keeping safe for me in his halls. Alas! this is the
+end of all; my life is o'er.  (Chanting)  O my son, my son, alas for
+thee! a frantic strain I now begin; thy fate I learnt, a moment gone,
+from some foul fiend. 
+
+MAID What! so thou knewest thy son's fate, poor lady. 
+
+HECUBA  (chanting) I cannot, cannot credit this fresh sight I see.
+Woe succeeds to woe; time will never cease henceforth to bring me
+groans and tears. 
+
+LEADER Alas poor lady, our sufferings are cruel indeed.
+
+HECUBA  (chanting) O my son, child of a luckless mother, what was
+the manner of thy death? what lays thee dead at my feet? Who did the
+deed? 
+
+MAID I know not. On the sea-shore I found him. 
+
+HECUBA  (chanting) Cast up on the smooth sand, or thrown there after
+the murderous blow? 
+
+MAID The waves had washed him ashore. 
+
+HECUBA  (chanting) Alas! alas! I read aright the vision I saw in
+my sleep, nor did the phantom dusky-winged escape my ken, even the
+vision I saw concerning my son, who is now no more within the bright
+sunshine. 
+
+LEADER Who slew him then? Can thy dream-lore tell us that?
+
+HECUBA  (chanting) 'Twas my own, own friend, the knight of Thrace,
+with whom his aged sire had placed the boy in hiding. 
+
+LEADER O horror! what wilt thou say? did he slay him to get the gold?
+
+HECUBA  (chanting) O awful crime! O deed without a name! beggaring
+wonder! impious! intolerable! Where are now the laws 'twixt guest
+and host? Accursed monster! how hast thou mangled his flesh, slashing
+the poor child's limbs with ruthless sword, lost to all sense of pity!
+
+LEADER Alas for thee! how some deity, whose hand is heavy on thee,
+hath sent thee troubles beyond all other mortals! But yonder I see
+our lord and master Agamemnon coming; so let us be still henceforth,
+my friends.  (AGAMEMNON enters.)  
+
+AGAMEMNON Hecuba, why art thou delaying to come and bury thy daughter?
+for it was for this that Talthybius brought me thy message begging
+that none of the Argives should touch thy child. And so I granted
+this, and none is touching her, but this long delay of thine fills
+me with wonder. Wherefore am I come to send thee hence; for our part
+there is well performed; if herein there be any place for "well."
+(He sees the body.)  Ha! what man is this I see near the tents, some
+Trojan's corpse? 'tis not an Argive's body; that the garments it is
+clad in tell me. 
+
+HECUBA  (aside) Unhappy one! in naming thee I name myself; O Hecuba,
+what shall do? throw myself here at Agamemnon's knees, or bear my
+sorrows in silence? 
+
+AGAMEMNON Why dost thou turn thy back towards me and weep, refusing
+to say, what has happened, or who this is? 
+
+HECUBA  (aside) But should he count me as a slave and foe and spurn
+me from his knees, I should but add to my anguish. 
+
+AGAMEMNON I am no prophet born; wherefore, if I be not told, I cannot
+learn the current of thy thoughts. 
+
+HECUBA  (aside) Can it be that in estimating this man's feelings
+I make him out too ill-disposed, when he is not really so?
+
+AGAMEMNON If thy wish really is that I should remain in ignorance,
+we are of one mind; for I have no wish myself to listen.
+
+HECUBA  (aside) Without his aid I shall not be able to avenge my
+children. Why do still ponder the matter? I must do and dare whether
+I win or lose.  (Turning to AGAMEMNON)  O Agamemnon! by thy knees,
+by thy beard and conquering hand I implore thee. 
+
+AGAMEMNON What is thy desire? to be set free? that is easily done.
+
+HECUBA Not that; give me vengeance on the wicked, and evermore am
+I willing to lead a life of slavery. 
+
+AGAMEMNON Well, but why dost thou call me to thy aid? 
+
+HECUBA 'Tis a matter thou little reckest of, O king. Dost see this
+corpse, for whom my tears now flow? 
+
+AGAMEMNON I do; but what is to follow, I cannot guess. 
+
+HECUBA He was my child in days gone by; I bore him in my womb.
+
+AGAMEMNON Which of thy sons is he, poor sufferer? 
+
+HECUBA Not one of Priam's race who fell 'neath Ilium's walls.
+
+AGAMEMNON Hadst thou any son besides those, lady? 
+
+HECUBA Yes, him thou seest here, of whom, methinks, I have small
+gain. 
+
+AGAMEMNON Where then was he, when his city was being destroyed?
+
+HECUBA His father, fearful of his death, conveyed him out of Troy.
+
+AGAMEMNON Where did he place him apart from all the sons he then
+had? 
+
+HECUBA Here in this very land, where his corpse was found.
+
+AGAMEMNON With Polymestor, the king of this country? 
+
+HECUBA Hither was he sent in charge of gold, most bitter trust!
+
+AGAMEMNON By whom was he slain? what death o'ertook him?
+
+HECUBA By whom but by this man? His Thracian host slew him.
+
+AGAMEMNON The wretch! could he have been so eager for the treasure?
+
+HECUBA Even so; soon as ever he heard of the Phrygians' disaster.
+
+AGAMEMNON Where didst find him? or did some one bring his corpse?
+
+HECUBA This maid, who chanced upon it on the sea-shore.
+
+AGAMEMNON Was she seeking it, or bent on other tasks? 
+
+HECUBA She had gone to fetch water from the sea to wash Polyxena.
+
+AGAMEMNON It seems then his host slew him and cast his body out to
+sea. 
+
+HECUBA Aye, for the waves to toss, after mangling him thus.
+
+AGAMEMNON Woe is thee for thy measureless troubles! 
+
+HECUBA I am ruined; no evil now is left, O Agamemnon. 
+
+AGAMEMNON Look you! what woman was ever born to such misfortune?
+
+HECUBA There is none, unless thou wouldst name misfortune herself.
+But hear my reason for throwing myself at thy knees. If my treatment
+seems to thee deserved, I will be content; but, if otherwise, help
+me to punish this most godless host, that hath wrought a deed most
+damned, fearless alike of gods in heaven or hell; who, though full
+oft he had shared my board and been counted first of all my guest-friends
+and after meeting with every kindness he could claim and receiving
+my consideration, slew my son, and bent though he was on murder, deigned
+not to bury him but cast his body forth to sea. 
+
+I may be a slave and weak as well, but the gods are strong, and custom
+too which prevails o'er them, for by custom it is that we believe
+in them and set up bounds of right and wrong for our lives. Now if
+this principle, when referred to thee, is to be set at naught, and
+they are to escape punishment who murder guests or dare to plunder
+the temples of gods, then is all fairness in things human at an end.
+Deem this then a disgrace and show regard for me, have pity on me,
+and, like an artist standing back from his picture, look on me and
+closely scan my piteous state. I was once queen, but now I am thy
+slave; a happy mother once, but now childless and old alike, reft
+of city, utterly forlorn, the most wretched woman living. Ah! woe
+is me! whither wouldst thou withdraw thy steps from me?  (as AGAMEMNON
+is turning away)  My efforts then will be in vain, ah me! ah me! Why,
+oh! why do we mortals toil, as needs we must, and seek out all other
+sciences, but persuasion, the only real mistress of mankind, we take
+no furthur pains to master completely by offering to pay for the knowledge,
+so that any man might upon occasion convince his fellows as he pleased
+and gain his point as well? How shall anyone hereafter hope for prosperity?
+All those my sons are gone from me, and I, their mother, am led away
+into captivity to suffer shame, while yonder I see the smoke leaping
+up o'er my city. Further-though perhaps this were idly urged, to plead
+thy love, still will I put the case:-at thy side lies my daughter,
+Cassandra, the maid inspired, as the Phrygians call her. How then,
+king, wilt thou acknowledge those nights of rapture, or what return
+shall she my daughter or I her mother have for all the love she has
+lavished on her lord? For from darkness and the endearments of the
+night mortals reap by far their keenest joys. Hearken then; dost see
+this corpse? By doing him a service thou wilt do it to a kinsman of
+thy bride's. One thing only have I yet to urge. Oh! would I had a
+voice in arms, in hands, in hair and feet, placed there by the arts
+of Daedalus or some god, that all together they might with tears embrace
+thy knees, bringing a thousand pleas to bear on thee! O my lord and
+master, most glorious light of Hellas, listen, stretch forth a helping
+hand to this aged woman, for all she is a thing of naught; still do
+so. For 'tis ever a good man's duty to succour the right, and to punish
+evil-doers wherever found. 
+
+LEADER 'Tis strange how each extreme doth meet in human life! Custom
+determines even our natural ties, making the most bitter foes friends,
+and regarding as foes those who formerly were friends. 
+
+AGAMEMNON Hecuba, I feel compassion for thee and thy son and thy
+ill-fortune, as well as for thy suppliant gesture, and I would gladly
+see yon impious host pay thee this forfeit for the sake of heaven
+and justice, could I but find some way to help thee without appearing
+to the army to have plotted the death of the Thracian king for Cassandra's
+sake. For on one point I am assailed by perplexity; the army count
+this man their friend, the dead their foe; that he is dear to thee
+is a matter apart, wherein the army has no share. Reflect on this;
+for though thou find'st me ready to share thy toil and quick to lend
+my aid, yet the risk of being reproached by the Achaeans makes me
+hesitate. 
+
+HECUBA Ah! there is not in the world a single man free; for he is
+either a slave to money or to fortune, or else the people in their
+thousands or the fear of public prosecution prevents him from following
+the dictates of his heart. 
+
+But since thou art afraid, deferring too much to the rabble, I will
+rid thee of that fear. Thus; be privy to my plot if I devise mischief
+against this murderer, but refrain from any share in it. And if there
+break out among the Achaeans any uproar or attempt at rescue, when
+the Thracian is suffering his doom, check it, though without seeming
+to do so for my sake. For what remains, take heart; I will arrange
+everything well. 
+
+AGAMEMNON How? what wilt thou do? wilt take a sword in thy old hand
+and slay the barbarian, or hast thou drugs or what to help thee? Who
+will take thy part? whence wilt thou procure friends? 
+
+HECUBA Sheltered beneath these tents is a host of Trojan women.
+
+AGAMEMNON Dost mean the captives, the booty of the Hellenes?
+
+HECUBA With their help will I punish my murderous foe. 
+
+AGAMEMNON How are women to master men? 
+
+HECUBA Numbers are a fearful thing, and joined to craft a desperate
+foe. 
+
+AGAMEMNON True; still I have a mean opinion of the female race.
+
+HECUBA What? did not women slay the sons of Aegyptus, and utterly
+clear Lemnos of men? But let it be even thus; put an end to our conference,
+and send this woman for me safely through the host. And do thou  (To
+servant)  draw near my Thracian friend and say, "Hecuba, once queen
+of Ilium, summons thee, on thy own business no less than hers, thy
+children too, for they also must hear what she has to say."  (The
+servant goes out.)  Defer awhile, Agamemnon, the burial of Polyxena
+lately slain, that brother and sister may be laid on the same pyre
+and buried side by side, a double cause of sorrow to their mother.
+
+AGAMEMNON So shall it be; yet had the host been able to sail, I could
+not have granted thee this boon; but, as it is, since the god sends
+forth no favouring breeze, we needs must abide, seeing, as we do,
+that sailing cannot be. Good luck to thee! for this is the interest
+alike of citizen and state, that the wrong-doer be punished and the
+good man prosper.  (AGAMEMNON departs as HECUBA withdraws into the
+tent.)  
+
+CHORUS  (singing, strophe 1)
+
+No more, my native Ilium, shalt thou be counted among the towns ne'er
+sacked; so thick a cloud of Hellene troops is settling all around,
+wasting thee with the spear; shorn art thou of thy coronal of towers,
+and fouled most piteously with filthy soot; no more, ah me! shall
+tread thy streets. 
+
+(antistrophe 1)
+
+'Twas in the middle of the night my ruin came, in the hour when sleep
+steals sweetly o'er the eyes after the feast is done. My husband,
+the music o'er, and the sacrifice that sets the dance afoot now ended,
+was lying in our bridal-chamber, his spear hung on a peg; with never
+a thought of the sailor-throng encamped upon the Trojan shores;
+
+(strophe 2)
+
+and I was braiding my tresses 'neath a tight-drawn snood before my
+golden mirror's countless rays, that I might lay me down to rest;
+when lo! through the city rose a din, and a cry went ringing down
+the streets of Troy, "Ye sons of Hellas, when, oh! when will ye sack
+the citadel of Ilium, and seek your homes?" 
+
+(antistrophe 2)
+
+Up sprang I from my bed, with only a mantle about me, like Dorian
+maid, and sought in vain, ah me! to station myself at the holy hearth
+of Artemis; for, after seeing my husband slain, I was hurried away
+o'er the broad sea; with many a backward look at my city, when the
+ship began her homeward voyage and parted me from Ilium's strand;
+till alas! for very grief I fainted, 
+
+(epode)
+
+cursing Helen the sister of the Dioscuri, and Paris the baleful shepherd
+of Ida; for 'twas their marriage, which was no marriage but a curse
+by some demon sent, that robbed me of my country and drove me from
+my home. Oh! may the sea's salt flood neer carry her home again; and
+may she never set foot in her father's halls!  (HECUBA comes out of
+the tent as POLYMESTOR, his children and guards enter.)  
+
+POLYMESTOR My dear friend Priam, and thou no less, Hecuba, I weep
+to see thee and thy city thus, and thy daughter lately slain. Alas!
+there is naught to be relied on; fair fame is insecure, nor is there
+any guarantee that weal will not be turned to woe. For the gods confound
+our fortunes, tossing them to and fro, and introduce confusion, that
+our perplexity may make us worship them. But what boots it to bemoan
+these things, when it brings one no nearer to heading the trouble?
+If thou art blaming me at all for my absence, stay a moment; I was
+away in the very heart of Thrace when thou wast brought hither; but
+on my return, just as I was starting from my home for the same purpose,
+thy maid fell in with me, and gave me thy message, which brought me
+here at once. 
+
+HECUBA Polymestor, I am holden in such wretched plight that I blush
+to meet thine eye; for my present evil case makes me ashamed to face
+thee who didst see me in happier days, and I cannot look on thee with
+unfaltering gaze. Do not then think it ill-will on my part, Polymestor;
+there is another cause as well, I mean the custom which forbids women
+to meet men's gaze. 
+
+POLYMESTOR No wonder, surely. But what need hast thou of me? Why
+didst send for me to come hither from my house? 
+
+HECUBA I wish to tell thee and thy children a private matter of my
+own; prithee, bid thy attendants withdraw from the tent.
+
+POLYMESTOR  (to his Attendants) Retire; this desert spot is safe
+enough.  (The guards go out; to HECUBA)  Thou art my friend, and this
+Achaean host is well-disposed to me. But thou must tell me how prosperity
+is to succour its unlucky friends; for ready am I to do so.
+
+HECUBA First tell me of the child Polydorus, whom thou art keeping
+in thy halls, received from me and his father; is he yet alive? The
+rest will I ask thee after that. 
+
+POLYMESTOR Yes, thou still hast a share in fortune there.
+
+HECUBA Well said, dear friend! how worthy of thee! 
+
+POLYMESTOR What next wouldst learn of me? 
+
+HECUBA Hath he any recollection of me his mother? 
+
+POLYMESTOR Aye, he was longing to steal away hither to thee.
+
+HECUBA Is the gold safe, which he brought with him from Troy?
+
+POLYMESTOR Safe under lock and key in my halls. 
+
+HECUBA There keep it, but covet not thy neighbour's goods.
+
+POLYMESTOR Not I; God grant me luck of what I have, lady!
+
+HECUBA Dost know what I wish to say to thee and thy children?
+
+POLYMESTOR Not yet; thy words maybe will declare it. 
+
+HECUBA May it grow as dear to thee as thou now art to me!
+
+POLYMESTOR What is it that I and my children are to learn?
+
+HECUBA There be ancient vaults filled full of gold by Priam's line.
+
+POLYMESTOR Is it this thou wouldst tell thy son? 
+
+HECUBA Yes, by thy lips, for thou art a righteous man. 
+
+POLYMESTOR What need then of these children's presence?
+
+HECUBA 'Tis better they should know it, in case of thy death.
+
+POLYMESTOR True; 'tis also the wiser way. 
+
+HECUBA Well, dost thou know where stands the shrine of Trojan Athena?
+
+POLYMESTOR Is the gold there? what is there to mark it?
+
+HECUBA A black rock rising above the ground. 
+
+POLYMESTOR Is there aught else thou wouldst tell me about the place?
+
+HECUBA I wish to keep safe the treasure I brought from Troy.
+
+POLYMESTOR Where can it be? inside thy dress, or hast thou it hidden?
+
+HECUBA 'Tis safe amid a heap of spoils within these tents.
+
+POLYMESTOR Where? This is the station built by the Achaeans to surround
+their fleet. 
+
+HECUBA The captive women have huts of their own. 
+
+POLYMESTOR It is safe to enter? are there no men about?
+
+HECUBA There are no Achaeans within; we are alone. Enter then the
+tent, for the Argives are eager to set sail from Troy for home; and,
+when thou hast accomplished all that is appointed thee, thou shalt
+return with thy children to that bourn where thou hast lodged my son.
+(HECUBA leads POLYMESTOR and his children into the tent.)
+
+CHORUS  (chanting) Not yet hast thou paid the penalty, but maybe
+thou yet wilt; like one who slips and falls into the surge with no
+haven near, so shalt thou lose thy own life for the life thou hast
+taken. For where the rights of justice and the law of heaven are one,
+there is ruin fraught with death and doom. Thy hopes of this journey
+shall cheat thee, for it hath led thee, unhappy wretch! to the halls
+of death; and to no warrior's hand shalt thou resign thy life.
+
+POLYMESTOR  (within the tent) O horror! I am blinded of the light
+of my eyes, ah me! 
+
+LEADER OF THE CHORUS Heard ye, friends, that Thracian's cry of woe?
+
+POLYMESTOR  (within) O horror! horror! my children! O the cruel blow.
+
+LEADER Friends, new ills are brought to pass in yonder tent.
+
+POLYMESTOR  (within) Nay, ye shall never escape for all your hurried
+flight; for with my fist will I burst open the inmost recesses of
+this hall. 
+
+LEADER Hark! how he launches ponderous blows! Shall we force an entry?
+The crisis calls on us to aid Hecuba and the Trojan women.  (HECUBA
+enters, calling back into the tent.)  
+
+HECUBA Strike on, spare not, burst the doors! thou shalt ne'er replace
+bright vision in thy eyes nor ever see thy children, whom I have slain,
+alive again. 
+
+LEADER What! hast thou foiled the Thracian, and is the stranger in
+thy power, mistress mine? is all thy threat now brought to pass?
+
+HECUBA A moment, and thou shalt see him before the tent, his eyes
+put out, with random step advancing as a blind man must; yea, and
+the bodies of his two children whom I with my brave daughters of Troy
+did slay; he hath paid me his forfeit; look where he cometh from the
+tent. I will withdraw out of his path and stand aloof from the hot
+fury of this Thracian, my deadly foe.  (POLYMESTOR rushes out. Blood
+is streaming from his eyes.)  
+
+POLYMESTOR  (chanting) Woe is me! whither can I go, where halt, or
+whither turn? shall crawl upon my hands like a wild four-footed beast
+on their track? Which path shall I take first, this or that, eager
+as I am to clutch those Trojan murderesses that have destroyed me?
+Out upon ye, cursed daughters of Phrygia! to what corner have ye fled
+cowering before me? O sun-god, would thou couldst heal my bleeding
+orbs, ridding me of my blindness! 
+
+Ha! hush! I catch their stealthy footsteps here. Where can I dart
+on them and gorge me on their flesh and bones, making for myself wild
+beasts' meal, exacting vengeance in requital of their outrage on me?
+Ah, woe is me! whither am I rushing, leaving my babes unguarded for
+hell-hounds to mangle, to be murdered and ruthlessly cast forth upon
+the hills, a feast of blood for dogs? Where shall I stay or turn my
+steps? where rest? like a ship that lies anchored at sea, so gathering
+close my linen robe I rush to that chamber of death, to guard my babes.
+
+LEADER Woe is thee! what grievous outrage hath been wreaked on thee!
+fearful penalty for thy foul deed hath the deity imposed, whoe'er
+he is whose hand is heavy upon thee. 
+
+POLYMESTOR  (chanting) Woe is me! Ho! my Thracian spearmen, clad
+in mail, a race of knights whom Ares doth inspire! Ho! Achaeans! sons
+of Atreus ho! to you I loudly call; come hither, in God's name come!
+Doth any hearken, or will no man help me? Why do ye delay? Women,
+captive women have destroyed me. A fearful fate is mine; ah me my
+hideous outrage! Whither can I turn or go? Shall I take wings and
+soar aloft to the mansions of the sky, where Orion and Sirius dart
+from their eyes a flash as of fire, or shall I, in my misery, plunge
+to Hades' murky flood? 
+
+LEADER 'Tis a venial sin, when a man, suffering from evils too heavy
+to bear, rids himself of a wretched existence.  (AGAMEMNON and his
+retinue enter.)  
+
+AGAMEMNON Hearing a cry I am come hither; for Echo, child of the
+mountain-rock, hath sent her voice loud-ringing through the host,
+causing a tumult. Had I not known that Troy's towers were levelled
+by the might of Hellas, this uproar had caused no slight terror.
+
+POLYMESTOR Best of friends! for by thy voice I know thee, Agamemnon,
+dost see my piteous state? 
+
+AGAMEMNON What! hapless Polymestor, who hath stricken thee? who hath
+reft thine eves of sight, staining the pupils with blood? who hath
+slain these children? whoe'er he was, fierce must have been his wrath
+against thee and thy children. 
+
+POLYMESTOR Hecuba, helped by the captive women, hath destroyed me;
+no! not destroyed, far worse than that. 
+
+AGAMEMNON  (addressing HECUBA) What hast thou to say? Was it thou
+that didst this deed, as he avers? thou, Hecuba, that hast ventured
+on this inconceivable daring? 
+
+POLYMESTOR Ha! what is that? is she somewhere near? show me, tell
+me where, that I may grip her in my hands and rend her limb from limb,
+bespattering her with gore. 
+
+AGAMEMNON Ho! madman, what wouldst thou? 
+
+POLYMESTOR By heaven I entreat thee, let me vent on her the fury
+of my arm. 
+
+AGAMEMNON Hold! banish that savage spirit from thy heart and plead
+thy cause, that after hearing thee and her in turn I may fairly decide
+what reason there is for thy present sufferings. 
+
+POLYMESTOR I will tell my tale. There was a son of Priam, Polydorus,
+the youngest, a child by Hecuba, whom his father Priam sent to me
+from Troy to bring up in my halls, suspecting no doubt the fall of
+Troy. Him I slew; but hear my reason for so doing, to show how cleverly
+and wisely I had planned. My fear was that if that child were left
+to be thy enemy, he would re-people Troy and settle it afresh; and
+the Achaeans, knowing that a son of Priam survived, might bring another
+expedition against the Phrygian land and harry and lay waste these
+plains of Thrace hereafter, for the neighbours of Troy to experience
+the very troubles we were lately suffering, O king. Now Hecuba, having
+discovered the death of her son, brought me hither on this pretext,
+saying she would tell me of hidden treasure stored up in Ilium by
+the race of Priam; and she led me apart with my children into the
+tent, that none but I might hear her news. So I sat me down on a couch
+in their midst to rest; for there were many of the Trojan maidens
+seated there, some on my right hand, some on my left, as it had been
+beside a friend; and they were praising the weaving of our Thracian
+handiwork, looking at this robe as they held it up to the light; meantime
+others examined my Thracian spear and so stripped me of the protection
+of both. And those that were young mothers were dandling my children
+in their arms, with loud admiration, as they passed them on from hand
+to hand to remove them far from their father; and then after their
+smooth speeches  (wouldst thou believe it?)  in an instant snatching
+daggers from some secret place in their dress they stab my children;
+whilst others, like foes, seized me hand and foot; and if I tried
+to raise my head, anxious to help my babes, they would clutch me by
+the hair; while if I stirred my hands, I could do nothing, poor wretch!
+for the numbers of the women. At last they wrought a fearful deed,
+worse than what had gone before; for they took their brooches and
+stabbed the pupils of my hapless eyes, making them gush with blood,
+and then fled through the chambers; up I sprang like a wild beast
+in pursuit of the shameless murderesses, searching along each wall
+with hunter's care, dealing buffets, spreading ruin. This then is
+what I have suffered because of my zeal for thee, O Agamemnon, for
+slaying an enemy of thine. But to spare thee a lengthy speech; if
+any of the men of former times have spoken ill of women, if any doth
+so now, or shall do so hereafter, all this in one short sentence will
+say; for neither land or sea produces a race so pestilent, as whosoever
+hath had to do with them knows full well. 
+
+LEADER Curb thy bold tongue, and do not, because of thy own woes,
+thus embrace the whole race of women in one reproach; for though some
+of us, and those a numerous class, deserve to be disliked, there are
+others amongst us who rank naturally amongst the good. 
+
+HECUBA Never ought words to have outweighed deeds in this world,
+Agamemnon. No! if a man's deeds had been good, so should his words
+have been; if, on the other hand, evil, his words should have betrayed
+their unsoundness, instead of its being possible at times to give
+a fair complexion to injustice. There are, 'tis true, clever persons,
+who have made a science of this, but their cleverness cannot last
+for ever; a miserable end awaits them; none ever yet escaped. This
+is a warning I give thee at the outset. Now will I turn to this fellow,
+and will give thee thy answer, thou who sayest it was to save Achaea
+double toil and for Agamemnon's sake that thou didst slay my son.
+Nay, villain, in the first place how could the barbarian race ever
+be friends with Hellas? Impossible, ever. Again, what interest hadst
+thou to further by thy zeal? was it to form some marriage, or on the
+score of kin, or, prithee, why? or was it likely that they would sail
+hither again and destroy thy country's crops? Whom dost thou expect
+to persuade into believing that? Wouldst thou but speak the truth,
+it was the gold that slew my son, and thy greedy spirit. Now tell
+me this; why, when Troy was victorious, when her ramparts still stood
+round her, when Priam was alive, and Hector's warring prospered, why
+didst thou not, if thou wert really minded to do Agamemnon a service,
+then slay the child, for thou hadst him in thy palace 'neath thy care,
+or bring him with thee alive to the Argives? Instead of this, when
+our sun was set and the smoke of our city showed it was in the enemy's
+power, thou didst murder the guest who had come to thy hearth. Furthermore,
+to prove thy villainly, hear this; if thou wert really a friend to
+those Achaeans, thou shouldst have brought the gold, which thou sayst
+thou art keeping not for thyself but for Agamemnon, and given it to
+them, for they were in need and had endured a long exile from their
+native land. Whereas not even now canst thou bring thyself to part
+with it, but persistest in keeping it in thy palace. Again, hadst
+thou kept my son safe and sound, as thy duty was, a fair renown would
+have been thy reward, for it is in trouble's hour that the good most
+clearly show their friendship; though prosperity of itself in every
+case finds friends. Wert thou in need of money and he prosperous,
+that son of mine would have been as a mighty treasure for thee to
+draw upon; but now thou hast him no longer to be thy friend, and the
+benefit of the gold is gone from thee, thy children too are dead,
+and thyself art in this sorry plight. 
+
+To thee, Agamemnon, I say, if thou help this man, thou wilt show thy
+worthlessness; for thou wilt be serving one devoid of honour or piety,
+a stranger to the claims of good faith, a wicked host; while I shall
+say thou delightest in evil-doers, being such an one thyself; but
+I rail not at my masters. 
+
+LEADER Look you! how a good cause ever affords men an opening for
+a good speech. 
+
+AGAMEMNON To be judge in a stranger's troubles goes much against
+my grain, but still I must; yea, for to take this matter in hand and
+then put it from me is a shameful course. My opinion, that thou mayst
+know it, is that it was not for the sake of the Achaeans or me that
+thou didst slay thy guest, but to keep that gold in thy own house.
+In thy trouble thou makest a case in thy own interests. Maybe amongst
+you 'tis a light thing to murder guests, but with us in Hellas 'tis
+a disgrace. How can I escape reproach if I judge the not guilty? I
+cannot do it. Nay, since thou didst dare thy horrid crime, endure
+as well its painful consequence. 
+
+POLYMESTOR Woe is me! worsted by a woman and a slave, I am, it seems,
+to suffer by unworthy hands. 
+
+HECUBA Is it not just for thy atrocious crime? 
+
+POLYMESTOR Ah, my children! ah, my blinded eyes! woe is me!
+
+HECUBA Dost thou grieve? what of me? thinkst thou I grieve not for
+my son? 
+
+POLYMESTOR Thou wicked wretch! thy delight is in mocking me.
+
+HECUBA I am avenged on thee; have I not cause for joy? 
+
+POLYMESTOR The joy will soon cease, in the day when ocean's flood-
+
+HECUBA Shall convey me to the shores of Hellas? 
+
+POLYMESTOR Nay, but close o'er thee when thou fallest from the masthead.
+
+HECUBA Who will force me to take the leap? 
+
+POLYMESTOR Of thy own accord wilt thou climb the ship's mast.
+
+HECUBA With wings upon my back, or by what means? 
+
+POLYMESTOR Thou wilt become a dog with bloodshot eyes. 
+
+HECUBA How knowest thou of my transformation? 
+
+POLYMESTOR Dionysus, our Thracian prophet, told me so. 
+
+HECUBA And did he tell thee nothing of thy present trouble?
+
+POLYMESTOR No; else hadst thou never caught me thus by guile.
+
+HECUBA Shall I die or live, and so complete my life on earth?
+
+POLYMESTOR Die shalt thou; and to thy tomb shall be given a name-
+
+HECUBA Recalling my form, or what wilt thou tell me? 
+
+POLYMESTOR "The hapless hound's grave," a mark for mariners."
+
+HECUBA 'Tis naught to me, now that thou hast paid me forfeit.
+
+POLYMESTOR Further, thy daughter Cassandra must die. 
+
+HECUBA I scorn the prophecy! I give it to thee to keep for thyself.
+
+POLYMESTOR Her shall the wife of Agamemnon, grim keeper of his palace,
+slay. 
+
+HECUBA Never may the daughter of Tyndareus do such a frantic deed!
+
+POLYMESTOR And she shall slay this king as well, lifting high the
+axe. 
+
+AGAMEMNON Ha! sirrah, art thou mad? art so eager to find sorrow?
+
+POLYMESTOR Kill me, for in Argos there awaits thee a murderous bath.
+
+AGAMEMNON Ho! servants, hale him from my sight 
+
+POLYMESTOR Ha! my words gall thee? 
+
+AGAMEMNON Stop his mouth! 
+
+POLYMESTOR Close it now; for I have spoken. 
+
+AGAMEMNON Haste and cast him upon some desert island, since his mouth
+is full of such exceeding presumption. Go thou, unhappy Hecuba, and
+bury thy two corpses; and you, Trojan women, to your masters' tents
+repair, for lo! I perceive a breeze just rising to waft us home. God
+grant we reach our country and find all well at home, released from
+troubles here!  (POLYMESTOR is dragged away by AGAMEMNON'S guards.)
+
+CHORUS  (chanting) Away to the harbour and the tents, my friends,
+to prove the toils of slavery! for such is fate's relentless hest.
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.
+</pre></body></html>

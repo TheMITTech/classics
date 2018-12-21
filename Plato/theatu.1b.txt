@@ -1,0 +1,2261 @@
+
+<BASE HREF="http://classics.mit.edu/Plato/theatu.1b.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Plato/theatu.1b.txt"><font color=blue>classics.mit.edu/Plato/theatu.1b.txt</font></a>.<br>
+<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Plato/theatu.1b.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
+<html><body><pre>
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Plato/theatu.html
+
+Theaetetus
+By Plato
+
+
+Translated by Benjamin Jowett
+
+Persons of the Dialogue
+SOCRATES
+THEODORUS
+THEAETETUS
+
+Scene
+Euclid and Terpsion meet in front of Euclid's house in Megara; they
+enter the house, and the dialogue is read to them by a servant.
+----------------------------------------------------------------------
+
+Euclid. Have you only just arrived from the country, Terpsion?
+
+Terpsion. No, I came some time ago: and I have been in the Agora looking
+for you, and wondering that I could not find you. 
+
+Euc. But I was not in the city. 
+
+Terp. Where then? 
+
+Euc. As I was going down to the harbour, I met Theaetetus-he was being
+carried up to Athens from the army at Corinth. 
+
+Terp. Was he alive or dead? 
+
+Euc. He was scarcely alive, for he has been badly wounded; but he
+was suffering even more from the sickness which has broken out in
+the army. 
+
+Terp. The dysentery, you mean? 
+
+Euc. Yes. 
+
+Terp. Alas! what a loss he will be! 
+
+Euc. Yes, Terpsion, he is a noble fellow; only to-day I heard some
+people highly praising his behaviour in this very battle.
+
+Terp. No wonder; I should rather be surprised at hearing anything
+else of him. But why did he go on, instead of stopping at Megara?
+
+Euc. He wanted to get home: although I entreated and advised him to
+remain he would not listen to me; so I set him on his way, and turned
+back, and then I remembered what Socrates had said of him, and thought
+how remarkably this, like all his predictions, had been fulfilled.
+I believe that he had seen him a little before his own death, when
+Theaetetus was a youth, and he had a memorable conversation with him,
+which he repeated to me when I came to Athens; he was full of admiration
+of his genius, and said that he would most certainly be a great man,
+if he lived. 
+
+Terp. The prophecy has certainly been fulfilled; but what was the
+conversation? can you tell me? 
+
+Euc. No, indeed, not offhand; but I took notes of it as soon as I
+got home; these I filled up from memory, writing them out at leisure;
+and whenever I went to Athens, I asked Socrates about any point which
+I had forgotten, and on my return I made corrections; thus I have
+nearly the whole conversation written down. 
+
+Terp. I remember-you told me; and I have always been intending to
+ask you to show me the writing, but have put off doing so; and now,
+why should we not read it through?-having just come from the country,
+I should greatly like to rest. 
+
+Euc. I too shall be very glad of a rest, for I went with Theaetetus
+as far as Erineum. Let us go in, then, and, while we are reposing,
+the servant shall read to us. 
+
+Terp. Very good. 
+
+Euc. Here is the roll, Terpsion; I may observe that I have introduced
+Socrates, not as narrating to me, but as actually conversing with
+the persons whom he mentioned-these were, Theodorus the geometrician
+(of Cyrene), and Theaetetus. I have omitted, for the sake of convenience,
+the interlocutory words "I said," "I remarked," which he used when
+he spoke of himself, and again, "he agreed," or "disagreed," in the
+answer, lest the repetition of them should be troublesome.
+
+Terp. Quite right, Euclid. 
+
+Euc. And now, boy, you may take the roll and read. 
+
+Euclid's servant reads. 
+
+Socrates. If I cared enough about the Cyrenians, Theodorus, I would
+ask you whether there are any rising geometricians or philosophers
+in that part of the world. But I am more interested in our own Athenian
+youth, and I would rather know who among them are likely to do well.
+I observe them as far as I can myself, and I enquire of any one whom
+they follow, and I see that a great many of them follow you, in which
+they are quite right, considering your eminence in geometry and in
+other ways. Tell me then, if you have met with any one who is good
+for anything. 
+
+Theodorus. Yes, Socrates, I have become acquainted with one very remarkable
+Athenian youth, whom I commend to you as well worthy of your attention.
+If he had been a beauty I should have been afraid to praise him, lest
+you should suppose that I was in love with him; but he is no beauty,
+and you must not be offended if I say that he is very like you; for
+he has a snub nose and projecting eyes, although these features are
+less marked in him than in you. Seeing, then, that he has no personal
+attractions, I may freely say, that in all my acquaintance, which
+is very large, I never knew anyone who was his equal in natural gifts:
+for he has a quickness of apprehension which is almost unrivalled,
+and he is exceedingly gentle, and also the most courageous of men;
+there is a union of qualities in him such as I have never seen in
+any other, and should scarcely have thought possible; for those who,
+like him, have quick and ready and retentive wits, have generally
+also quick tempers; they are ships without ballast, and go darting
+about, and are mad rather than courageous; and the steadier sort,
+when they have to face study, prove stupid and cannot remember. Whereas
+he moves surely and smoothly and successfully in the path of knowledge
+and enquiry; and he is full of gentleness, flowing on silently like
+a river of oil; at his age, it is wonderful. 
+
+Soc. That is good news; whose son is he? 
+
+Theod. The name of his father I have forgotten, but the youth himself
+is the middle one of those who are approaching us; he and his companions
+have been anointing themselves in the outer court, and now they seem
+to have finished, and are towards us. Look and see whether you know
+him. 
+
+Soc. I know the youth, but I do not know his name; he is the son of
+Euphronius the Sunian, who was himself an eminent man, and such another
+as his son is, according to your account of him; I believe that he
+left a considerable fortune. 
+
+Theod. Theaetetus, Socrates, is his name; but I rather think that
+the property disappeared in the hands of trustees; notwithstanding
+which he is wonderfully liberal. 
+
+Soc. He must be a fine fellow; tell him to come and sit by me.
+
+Theod. I will. Come hither, Theaetetus, and sit by Socrates.
+
+Soc. By all means, Theaetetus, in order that I may see the reflection
+of myself in your face, for Theodorus says that we are alike; and
+yet if each of us held in his hands a lyre, and he said that they
+were, tuned alike, should we at once take his word, or should we ask
+whether he who said so was or was not a musician? 
+
+Theaetetus. We should ask. 
+
+Soc. And if we found that he was, we should take his word; and if
+not, not? 
+
+Theaet. True. 
+
+Soc. And if this supposed, likeness of our faces is a matter of any
+interest to us we should enquire whether he who says that we are alike
+is a painter or not? 
+
+Theaet. Certainly we should. 
+
+Soc. And is Theodorus a painter? 
+
+Theaet. I never heard that he was. 
+
+Soc. Is he a geometrician? 
+
+Theaet. Of course he is, Socrates. 
+
+Soc. And is he an astronomer and calculator and musician, and in general
+an educated man? 
+
+Theaet. I think so. 
+
+Soc. If, then, he remarks on a similarity in our persons, either by
+way of praise or blame, there is no particular reason why we should
+attend to him. 
+
+Theaet. I should say not. 
+
+Soc. But if he praises the virtue or wisdom which are the mental endowments
+of either of us, then he who hears the praises will naturally desire
+to examine him who is praised: and he again should be willing to exhibit
+himself. 
+
+Theaet. Very true, Socrates. 
+
+Soc. Then now is the time, my dear Theaetetus, for me to examine,
+and for you to exhibit; since although Theodorus has praised many
+a citizen and stranger in my hearing, never did I hear him praise
+any one as he has been praising you. 
+
+Theaet. I am glad to hear it, Socrates; but what if he was only in
+jest? 
+
+Soc. Nay, Theodorus is not given to jesting; and I cannot allow you
+to retract your consent on any such pretence as that. If you do, he
+will have to swear to his words; and we are perfectly sure that no
+one will be found to impugn him. Do not be shy then, but stand to
+your word. 
+
+Theaet. I suppose I must, if you wish it. 
+
+Soc. In the first place, I should like to ask what you learn of Theodorus:
+something of geometry, perhaps? 
+
+Theaet. Yes. 
+
+Soc. And astronomy and harmony and calculation? 
+
+Theaet. I do my best. 
+
+Soc. Yes, my boy, and so do I: and my desire is to learn of him, or
+of anybody who seems to understand these things. And I get on pretty
+well in general; but there is a little difficulty which I want you
+and the company to aid me in investigating. Will you answer me a question:
+"Is not learning growing wiser about that which you learn?"
+
+Theaet. Of course. 
+
+Soc. And by wisdom the wise are wise? 
+
+Theaet. Yes. 
+
+Soc. And is that different in any way from knowledge? 
+
+Theaet. What? 
+
+Soc. Wisdom; are not men wise in that which they know? 
+
+Theaet. Certainly they are. 
+
+Soc. Then wisdom and knowledge are the same? 
+
+Theaet. Yes. 
+
+Soc. Herein lies the difficulty which I can never solve to my satisfaction-What
+is knowledge? Can we answer that question? What say you? which of
+us will speak first? whoever misses shall sit down, as at a game of
+ball, and shall be donkey, as the boys say; he who lasts out his competitors
+in the game without missing, shall be our king, and shall have the
+right of putting to us any questions which he pleases. .. Why is there
+no reply? I hope, Theodorus, that I am not betrayed into rudeness
+by my love of conversation? I only want to make us talk and be friendly
+and sociable. 
+
+Theod. The reverse of rudeness, Socrates: but I would rather that
+you would ask one of the young fellows; for the truth is, that I am
+unused to your game of question and answer, and I am too old to learn;
+the young will be more suitable, and they will improve more than I
+shall, for youth is always able to improve. And so having made a beginning
+with Theaetetus, I would advise you to go on with him and not let
+him off. 
+
+Soc. Do you hear, Theaetetus, what Theodorus says? The philosopher,
+whom you would not like to disobey, and whose word ought to be a command
+to a young man, bids me interrogate you. Take courage, then, and nobly
+say what you think that knowledge is. 
+
+Theaet. Well, Socrates, I will answer as you and he bid me; and if
+make a mistake, you will doubtless correct me. 
+
+Soc. We will, if we can. 
+
+Theaet. Then, I think that the sciences which I learn from Theodorus-geometry,
+and those which you just now mentioned-are knowledge; and I would
+include the art of the cobbler and other craftsmen; these, each and
+all of, them, are knowledge. 
+
+Soc. Too much, Theaetetus, too much; the nobility and liberality of
+your nature make you give many and diverse things, when I am asking
+for one simple thing. 
+
+Theaet. What do you mean, Socrates? 
+
+Soc. Perhaps nothing. I will endeavour, however, to explain what I
+believe to be my meaning: When you speak of cobbling, you mean the
+art or science of making shoes? 
+
+Theaet. Just so. 
+
+Soc. And when you speak of carpentering, you mean the art of making
+wooden implements? 
+
+Theaet. I do. 
+
+Soc. In both cases you define the subject matter of each of the two
+arts? 
+
+Theaet. True. 
+
+Soc. But that, Theaetetus, was not the point of my question: we wanted
+to know not the subjects, nor yet the number of the arts or sciences,
+for we were not going to count them, but we wanted to know the nature
+of knowledge in the abstract. Am I not right? 
+
+Theaet. Perfectly right. 
+
+Soc. Let me offer an illustration: Suppose that a person were to ask
+about some very trivial and obvious thing-for example, What is clay?
+and we were to reply, that there is a clay of potters, there is a
+clay of oven-makers, there is a clay of brick-makers; would not the
+answer be ridiculous? 
+
+Theaet. Truly. 
+
+Soc. In the first place, there would be an absurdity in assuming that
+he who asked the question would understand from our answer the nature
+of "clay," merely because we added "of the image-makers," or of any
+other workers. How can a man understand the name of anything, when
+he does not know the nature of it? 
+
+Theaet. He cannot. 
+
+Soc. Then he who does not know what science or knowledge is, has no
+knowledge of the art or science of making shoes? 
+
+Theaet. None. 
+
+Soc. Nor of any other science? 
+
+Theaet. No. 
+
+Soc. And when a man is asked what science or knowledge is, to give
+in answer the name of some art or science is ridiculous; for the -question
+is, "What is knowledge?" and he replies, "A knowledge of this or that."
+
+Theaet. True. 
+
+Soc. Moreover, he might answer shortly and simply, but he makes an
+enormous circuit. For example, when asked about the day, he might
+have said simply, that clay is moistened earth-what sort of clay is
+not to the point. 
+
+Theaet. Yes, Socrates, there is no difficulty as you put the question.
+You mean, if I am not mistaken, something like what occurred to me
+and to my friend here, your namesake Socrates, in a recent discussion.
+
+Soc. What was that, Theaetetus? 
+
+Theaet. Theodorus was writing out for us something about roots, such
+as the roots of three or five, showing that they are incommensurable
+by the unit: he selected other examples up to seventeen-there he stopped.
+Now as there are innumerable roots, the notion occurred to us of attempting
+to include them all under one name or class. 
+
+Soc. And did you find such a class? 
+
+Theaet. I think that we did; but I should like to have your opinion.
+
+Soc. Let me hear. 
+
+Theaet. We divided all numbers into two classes: those which are made
+up of equal factors multiplying into one another, which we compared
+to square figures and called square or equilateral numbers;-that was
+one class. 
+
+Soc. Very good. 
+
+Theaet. The intermediate numbers, such as three and five, and every
+other number which is made up of unequal factors, either of a greater
+multiplied by a less, or of a less multiplied by a greater, and when
+regarded as a figure, is contained in unequal sides;-all these we
+compared to oblong figures, and called them oblong numbers.
+
+Soc. Capital; and what followed? 
+
+Theaet. The lines, or sides, which have for their squares the equilateral
+plane numbers, were called by us lengths or magnitudes; and the lines
+which are the roots of (or whose squares are equal to) the oblong
+numbers, were called powers or roots; the reason of this latter name
+being, that they are commensurable with the former 
+(i.e., with the so-called lengths or magnitudes) not in linearmeasurement,
+but in the value of the superficial content of their squares; and
+the same about solids. 
+
+Soc. Excellent, my boys; I think that you fully justify the praises
+of Theodorus, and that he will not be found guilty of false witness.
+
+Theaet. But I am unable, Socrates, to give you a similar answer about
+knowledge, which is what you appear to want; and therefore Theodorus
+is a deceiver after all. 
+
+Soc. Well, but if some one were to praise you for running, and to
+say that he never met your equal among boys, and afterwards you were
+beaten in a race by a grown-up man, who was a great runner-would the
+praise be any the less true? 
+
+Theaet. Certainly not. 
+
+Soc. And is the discovery of the nature of knowledge so small a matter,
+as just now said? Is it not one which would task the powers of men
+perfect in every way? 
+
+Theaet. By heaven, they should be the top of all perfection!
+
+Soc. Well, then, be of good cheer; do not say that Theodorus was mistaken
+about you, but do your best to ascertain the true nature of knowledge,
+as well as of other things. 
+
+Theaet. I am eager enough, Socrates, if that would bring to light
+the truth. 
+
+Soc. Come, you made a good beginning just now; let your own answer
+about roots be your model, and as you comprehended them all in one
+class, try and bring the many sorts of knowledge under one definition.
+
+Theaet. I can assure you, Socrates, that I have tried very often,
+when the report of questions asked by you was brought to me; but I
+can neither persuade myself that I have a satisfactory answer to give,
+nor hear of any one who answers as you would have him; and I cannot
+shake off a feeling of anxiety. 
+
+Soc. These are the pangs of labour, my dear Theaetetus; you have something
+within you which you are bringing to the birth. 
+
+Theaet. I do not know, Socrates; I only say what I feel.
+
+Soc. And have you never heard, simpleton, that I am the son of a midwife,
+brave and burly, whose name was Phaenarete? 
+
+Theaet. Yes, I have. 
+
+Soc. And that I myself practise midwifery? 
+
+Theaet. No, never. 
+
+Soc. Let me tell you that I do though, my friend: but you must not
+reveal the secret, as the world in general have not found me out;
+and therefore they only say of me, that I am the strangest of mortals
+and drive men to their wits' end. Did you ever hear that too?
+
+Theaet. Yes. 
+
+Soc. Shall I tell you the reason? 
+
+Theaet. By all means. 
+
+Soc. Bear in mind the whole business of the mid-wives, and then you
+will see my meaning better:-No woman, as you are probably aware, who
+is still able to conceive and bear, attends other women, but only
+those who are past bearing. 
+
+Theaet. Yes; I know. 
+
+Soc. The reason of this is said to be that Artemis-the goddess of
+childbirth-is not a mother, and she honours those who are like herself;
+but she could not allow the barren to be mid-wives, because human
+nature cannot know the mystery of an art without experience; and therefore
+she assigned this office to those who are too old to bear.
+
+Theaet. I dare say. 
+
+Soc. And I dare say too, or rather I am absolutely certain, that the
+mid-wives know better than others who is pregnant and who is not?
+
+Theaet. Very true. 
+
+Soc. And by the use of potions and incantations they are able to arouse
+the pangs and to soothe them at will; they can make those bear who
+have a difficulty in bearing, and if they think fit they can smother
+the embryo in the womb. 
+
+Theaet. They can. 
+
+Soc. Did you ever remark that they are also most cunning matchmakers,
+and have a thorough knowledge of what unions are likely to produce
+a brave brood? 
+
+Theaet. No, never. 
+
+Soc. Then let me tell you that this is their greatest pride, more
+than cutting the umbilical cord. And if you reflect, you will see
+that the same art which cultivates and gathers in the fruits of the
+earth, will be most likely to know in what soils the several plants
+or seeds should be deposited. 
+
+Theaet. Yes, the same art. 
+
+Soc. And do you suppose that with women the case is otherwise?
+
+Theaet. I should think not. 
+
+Soc. Certainly not; but mid-wives are respectable women who have a
+character to lose, and they avoid this department of their profession,
+because they are afraid of being called procuresses, which is a name
+given to those who join together man and woman in an unlawful and
+unscientific way; and yet the true midwife is also the true and only
+matchmaker. 
+
+Theaet. Clearly. 
+
+Soc. Such are the mid-wives, whose task is a very important one but
+not so important as mine; for women do not bring into the world at
+one time real children, and at another time counterfeits which are
+with difficulty distinguished from them; if they did, then the, discernment
+of the true and false birth would be the crowning achievement of the
+art of midwifery-you would think so? 
+
+Theaet. Indeed I should. 
+
+Soc. Well, my art of midwifery is in most respects like theirs; but
+differs, in that I attend men and not women; and look after their
+souls when they are in labour, and not after their bodies: and the
+triumph of my art is in thoroughly examining whether the thought which
+the mind of the young man brings forth is a false idol or a noble
+and true birth. And like the mid-wives, I am barren, and the reproach
+which is often made against me, that I ask questions of others and
+have not the wit to answer them myself, is very just-the reason is,
+that the god compels-me to be a midwife, but does not allow me to
+bring forth. And therefore I am not myself at all wise, nor have I
+anything to show which is the invention or birth of my own soul, but
+those who converse with me profit. Some of them appear dull enough
+at first, but afterwards, as our acquaintance ripens, if the god is
+gracious to them, they all make astonishing progress; and this in
+the opinion of others as well as in their own. It is quite dear that
+they never learned anything from me; the many fine discoveries to
+which they cling are of their own making. But to me and the god they
+owe their delivery. And the proof of my words is, that many of them
+in their ignorance, either in their self-conceit despising me, or
+falling under the influence of others, have gone away too soon; and
+have not only lost the children of whom I had previously delivered
+them by an ill bringing up, but have stifled whatever else they had
+in them by evil communications, being fonder of lies and shams than
+of the truth; and they have at last ended by seeing themselves, as
+others see them, to be great fools. Aristeides, the son of Lysimachus,
+is one of them, and there are many others. The truants often return
+to me, and beg that I would consort with them again-they are ready
+to go to me on their knees and then, if my familiar allows, which
+is not always the case, I receive them, and they begin to grow again.
+Dire are the pangs which my art is able to arouse and to allay in
+those who consort with me, just like the pangs of women in childbirth;
+night and day they are full of perplexity and travail which is even
+worse than that of the women. So much for them. And there are -others,
+Theaetetus, who come to me apparently having nothing in them; and
+as I know that they have no need of my art, I coax them into marrying
+some one, and by the grace of God I can generally tell who is likely
+to do them good. Many of them I have given away to Prodicus, and many
+to other inspired sages. I tell you this long story, friend Theaetetus,
+because I suspect, as indeed you seem to think yourself, that you
+are in labour-great with some conception. Come then to me, who am
+a midwife's son and myself a midwife, and do your best to answer the
+questions which I will ask you. And if I abstract and expose your
+first-born, because I discover upon inspection that the conception
+which you have formed is a vain shadow, do not quarrel with me on
+that account, as the manner of women is when their first children
+are taken from them. For I have actually known some who were ready
+to bite me when I deprived them of a darling folly; they did not perceive
+that I acted from good will, not knowing that no god is the enemy
+of man-that was not within the range of their ideas; neither am I
+their enemy in all this, but it would be wrong for me to admit falsehood,
+or to stifle the truth. Once more, then, Theaetetus, I repeat my old
+question, "What is knowledge?"-and do not say that you cannot tell;
+but quit yourself like a man, and by the help of God you will be able
+to tell. 
+
+Theaet. At any rate, Socrates, after such an exhortation I should
+be ashamed of not trying to do my best. Now he who knows perceives
+what he knows, and, as far as I can see at present, knowledge is perception.
+
+Soc. Bravely said, boy; that is the way in which you should express
+your opinion. And now, let us examine together this conception of
+yours, and see whether it is a true birth or a mere, wind-egg:-You
+say that knowledge is perception? 
+
+Theaet. Yes. 
+
+Soc. Well, you have delivered yourself of a very important doctrine
+about knowledge; it is indeed the opinion of Protagoras, who has another
+way of expressing it, Man, he says, is the measure of all things,
+of the existence of things that are, and of the non-existence of things
+that are not:-You have read him? 
+
+Theaet. O yes, again and again. 
+
+Soc. Does he not say that things are to you such as they appear to
+you, and to me such as they appear to me, and that you and I are men?
+
+Theaet. Yes, he says so. 
+
+Soc. A wise man is not likely to talk nonsense. Let us try to understand
+him: the same wind is blowing, and yet one of us may be cold and the
+other not, or one may be slightly and the other very cold?
+
+Theaet. Quite true. 
+
+Soc. Now is the wind, regarded not in relation to us but absolutely,
+cold or not; or are we to say, with Protagoras, that the wind is cold
+to him who is cold, and not to him who is not? 
+
+Theaet. I suppose the last. 
+
+Soc. Then it must appear so to each of them? 
+
+Theaet. Yes. 
+
+Soc. And "appears to him" means the same as "he perceives."
+
+Theaet. True. 
+
+Soc. Then appearing and perceiving coincide in the case of hot and
+cold, and in similar instances; for things appear, or may be supposed
+to be, to each one such as he perceives them? 
+
+Theaet. Yes. 
+
+Soc. Then perception is always of existence, and being the same as
+knowledge is unerring? 
+
+Theaet. Clearly. 
+
+Soc. In the name of the Graces, what an almighty wise man Protagoras
+must have been! He spoke these things in a parable to the common herd,
+like you and me, but told the truth, his Truth, in secret to his own
+disciples. 
+
+Theaet. What do you mean, Socrates? 
+
+Soc. I am about to speak of a high argument, in which all things are
+said to be relative; you cannot rightly call anything by any name,
+such as great or small, heavy or light, for the great will be small
+and the heavy light-there is no single thing or quality, but out of
+motion and change and admixture all things are becoming relatively
+to one another, which "becoming" is by us incorrectly called being,
+but is really becoming, for nothing ever is, but all things are becoming.
+Summon all philosophers-Protagoras, Heracleitus, Empedocles, and the
+rest of them, one after another, and with the exception of Parmenides
+they will agree with you in this. Summon the great masters of either
+kind of poetry-Epicharmus, the prince of Comedy, and Homer of Tragedy;
+when the latter sings of 
+
+Ocean whence sprang the gods, and mother Tethys, does he not mean
+that all things are the offspring, of flux and motion? 
+
+Theaet. I think so. 
+
+Soc. And who could take up arms against such a great army having Homer
+for its general, and not appear ridiculous? 
+
+Theaet. Who indeed, Socrates? 
+
+Soc. Yes, Theaetetus; and there are plenty of other proofs which will
+show that motion is the source of what is called being and becoming,
+and inactivity of not-being and destruction; for fire and warmth,
+which are supposed to be the parent and guardian of all other things,
+are born of movement and friction, which is a kind of motion;-is not
+this the origin of fire? 
+
+Theaet. It is. 
+
+Soc. And the race of animals is generated in the same way?
+
+Theaet. Certainly. 
+
+Soc. And is not the bodily habit spoiled by rest and idleness, but
+preserved for a long time by motion and exercise? 
+
+Theaet. True. 
+
+Soc. And what of the mental habit? Is not the soul informed, and improved,
+and preserved by study and attention, which are motions; but when
+at rest, which in the soul only means want of attention and study,
+is uninformed, and speedily forgets whatever she has learned?
+
+Theaet. True. 
+
+Soc. Then motion is a good, and rest an evil, to the soul as well
+as to the body? 
+
+Theaet. Clearly. 
+
+Soc. I may add, that breathless calm, stillness and the like waste
+and impair, while wind and storm preserve; and the palmary argument
+of all, which I strongly urge, is the golden chain in Homer, by which
+he means the sun, thereby indicating that so long as the sun and the
+heavens go round in their orbits, all things human and divine are
+and are preserved, but if they were chained up and their motions ceased,
+then all things would be destroyed, and, as the saying is, turned
+upside down. 
+
+Theaet. I believe, Socrates, that you have truly explained his meaning.
+
+Soc. Then now apply his doctrine to perception, my good friend, and
+first of all to vision; that which you call white colour is not in
+your eyes, and is not a distinct thing which exists out of them. And
+you must not assign any place to it: for if it had position it would
+be, and be at rest, and there would be no process of becoming.
+
+Theaet. Then what is colour? 
+
+Soc. Let us carry the principle which has just been affirmed, that
+nothing is self-existent, and then we shall see that white, black,
+and every other colour, arises out of the eye meeting the appropriate
+motion, and that what we call a colour is in each case neither the
+active nor the passive element, but something which passes between
+them, and is peculiar to each percipient; are you quite certain that
+the several colours appear to a dog or to any animal whatever as they
+appear to you? 
+
+Theaet. Far from it. 
+
+Soc. Or that anything appears the same to you as to another man? Are
+you so profoundly convinced of this? Rather would it not be true that
+it never appears exactly the same to you, because you are never exactly
+the same? 
+
+Theaet. The latter. 
+
+Soc. And if that with which I compare myself in size, or which I apprehend
+by touch, were great or white or hot, it could not become different
+by mere contact with another unless it actually changed; nor again,
+if the comparing or apprehending subject were great or white or hot,
+could this, when unchanged from within become changed by any approximation
+or affection of any other thing. The fact is that in our ordinary
+way of speaking we allow ourselves to be driven into most ridiculous
+and wonderful contradictions, as Protagoras and all who take his line
+of argument would remark. 
+
+Theaet. How? and of what sort do you mean? 
+
+Soc. A little instance will sufficiently explain my meaning: Here
+are six dice, which are more by a half when compared with four, and
+fewer by a half than twelve-they are more and also fewer. How can
+you or any one maintain the contrary? 
+
+Theaet. Very true. 
+
+Soc. Well, then, suppose that Protagoras or some one asks whether
+anything can become greater or more if not by increasing, how would
+you answer him, Theaetetus? 
+
+Theaet. I should say "No," Socrates, if I were to speak my mind in
+reference to this last question, and if I were not afraid of contradicting
+my former answer. 
+
+Soc. Capital excellent! spoken like an oracle, my boy! And if you
+reply "Yes," there will be a case for Euripides; for our tongue will
+be unconvinced, but not our mind. 
+
+Theaet. Very true. 
+
+Soc. The thoroughbred Sophists, who know all that can be known about
+the mind, and argue only out of the superfluity of their wits, would
+have had a regular sparring-match over this, and would -have knocked
+their arguments together finely. But you and I, who have no professional
+aims, only desire to see what is the mutual relation of these principles-whether
+they are consistent with each or not. 
+
+Theaet. Yes, that would be my desire. 
+
+Soc. And mine too. But since this is our feeling, and there is plenty
+of time, why should we not calmly and patiently review our own thoughts,
+and thoroughly examine and see what these appearances in us really
+are? If I am not mistaken, they will be described by us as follows:-first,
+that nothing can become greater or less, either in number or magnitude,
+while remaining equal to itself-you would agree? 
+
+Theaet. Yes. 
+
+Soc. Secondly, that without addition or subtraction there is no increase
+or diminution of anything, but only equality. 
+
+Theaet. Quite true. 
+
+Soc. Thirdly, that what was not before cannot be afterwards, without
+becoming and having become. 
+
+Theaet. Yes, truly. 
+
+Soc. These three axioms, if I am not mistaken, are fighting with one
+another in our minds in the case of the dice, or, again, in such a
+case as this-if I were to say that I, who am of a certain height and
+taller than you, may within a year, without gaining or losing in height,
+be not so tall-not that I should have lost, but that you would have
+increased. In such a case, I am afterwards what I once was not, and
+yet I have not become; for I could not have become without becoming,
+neither could I have become less without losing somewhat of my height;
+and I could give you ten thousand examples of similar contradictions,
+if we admit them at all. I believe that you follow me, Theaetetus;
+for I suspect that you have thought of these questions before now.
+
+Theaet. Yes, Socrates, and I am amazed when I think of them; by the
+Gods I am! and I want to know what on earth they mean; and there are
+times when my head quite swims with the contemplation of them.
+
+Soc. I see, my dear Theaetetus, that Theodorus had a true insight
+into your nature when he said that you were a philosopher, for wonder
+is the feeling of a philosopher, and philosophy begins in wonder.
+He was not a bad genealogist who said that Iris (the messenger of
+heaven) is the child of Thaumas (wonder). But do you begin to see
+what is the explanation of this perplexity on the hypothesis which
+we attribute to Protagoras? 
+
+Theaet. Not as yet. 
+
+Soc. Then you will be obliged to me if I help you to unearth the hidden
+"truth" of a famous man or school. 
+
+Theaet. To be sure, I shall be very much obliged. 
+
+Soc. Take a look round, then, and see that none of the uninitiated
+are listening. Now by the uninitiated I mean: the people who believe
+in nothing but what they can grasp in their hands, and who will not
+allow that action or generation or anything invisible can have real
+existence. 
+
+Theaet. Yes, indeed, Socrates, they are very hard and impenetrable
+mortals. 
+
+Soc. Yes, my boy, outer barbarians. Far more ingenious are the brethren
+whose mysteries I am about to reveal to you. Their first principle
+is, that all is motion, and upon this all the affections of which
+we were just now speaking, are supposed to depend: there is nothing
+but motion, which has two forms, one active and the other passive,
+both in endless number; and out of the union and friction of them
+there is generated a progeny endless in number, having two forms,
+sense and the object of sense, which are ever breaking forth and coming
+to the birth at the same moment. The senses are variously named hearing,
+seeing, smelling; there is the sense of heat, cold, pleasure, pain,
+desire, fear, and many more which have names, as well as innumerable
+others which are without them; each has its kindred object each variety
+of colour has a corresponding variety of sight, and so with sound
+and hearing, and with the rest of the senses and the objects akin
+to them. Do you see, Theaetetus, the bearings of this tale on the
+preceding argument? 
+
+Theaet. Indeed I do not. 
+
+Soc. Then attend, and I will try to finish the story. The purport
+is that all these things are in motion, as I was saying, and that
+this motion is of two kinds, a slower and a quicker; and the slower
+elements have their motions in the same place and with reference to
+things near them, and so they beget; but what is begotten is swifter,
+for it is carried to fro, and moves from place to place. Apply this
+to sense:-When the eye and the appropriate object meet together and
+give birth to whiteness and the sensation connatural with it, which
+could not have been given by either of them going elsewhere, then,
+while the sight: is flowing from the eye, whiteness proceeds from
+the object which combines in producing the colour; and so the eye
+is fulfilled with sight, and really sees, and becomes, not sight,
+but a seeing eye; and the object which combined to form the colour
+is fulfilled with whiteness, and becomes not whiteness but a white
+thing, whether wood or stone or whatever the object may be which happens
+to be colour,ed white. And this is true of all sensible objects, hard,
+warm, and the like, which are similarly to be regarded, as I was saying
+before, not as having any absolute existence, but as being all of
+them of whatever kind. generated by motion in their intercourse with
+one another; for of the agent and patient, as existing in separation,
+no trustworthy conception, as they say, can be formed, for the agent
+has no existence until united; with the patient, and the patient has
+no existence until united with the agent; and that which by uniting
+with something becomes an agent, by meeting with some other thing
+is converted into a patient. And from all these considerations, as
+I said at first, there arises a general reflection, that there is
+no one self-existent thing, but everything is becoming and in relation;
+and being must be altogether abolished, although from habit and ignorance
+we are compelled even in this discussion to retain the use of the
+term. But great philosophers tell us that we are not to allow either
+the word "something," or "belonging to something," or "to me," or
+"this," or "that," or any other detaining name to be used, in the
+language of nature all things are being created and destroyed, coming
+into being and passing into new forms; nor can any name fix or detain
+them; he who attempts to fix them is easily refuted. And this should
+be the way of speaking, not only of particulars but of aggregates
+such aggregates as are expressed in the word "man," or "stone," or
+any name of animal or of a class. O Theaetetus, are not these speculations
+sweet as honey? And do you not like the taste of them in the mouth?
+
+Theaet. I do not know what to say, Socrates, for, indeed, I cannot
+make out whether you are giving your own opinion or only wanting to
+draw me out. 
+
+Soc. You forget, my friend, that I neither know, nor profess to know,
+anything of! these matters; you are the person who is in labour, I
+am the barren midwife; and this is why I soothe you, and offer you
+one good thing after another, that you may taste them. And I hope
+that I may at last help to bring your own opinion into the light of
+day: when this has been accomplished, then we will determine whether
+what you have brought forth is only a wind-egg or a real and genuine
+birth. Therefore, keep up your spirits, and answer like a man what
+you think. 
+
+Theaet. Ask me. 
+
+Soc. Then once more: Is it your opinion that nothing is but what becomes?
+the good and the noble, as well; as all the other things which we
+were just now mentioning? 
+
+Theaet. When I hear you discoursing in this style, I think that there
+is a great deal in what you say, and I am very ready to assent. Soc.
+Let us not leave the argument unfinished, then; for there still remains
+to be considered an objection which may be raised about dreams and
+diseases, in particular about madness, and the various illusions of
+hearing and sight, or of other senses. For you know that in all these
+cases the esse-percipi theory appears to be unmistakably refuted,
+since in dreams and illusions we certainly have false perceptions;
+and far from saying that everything is which appears, we should rather
+say that nothing is which appears. 
+
+Theaet. Very true, Socrates. 
+
+Soc. But then, my boy, how can any one contend that knowledge is perception,
+or that to every man what appears is? 
+
+Theaet. I am afraid to say, Socrates, that I have nothing to answer,
+because you rebuked me just now for making this excuse; but I certainly
+cannot undertake to argue that madmen or dreamers think truly, when
+they imagine, some of them that they are gods, and others that they
+can fly, and are flying in their sleep. 
+
+Soc. Do you see another question which can be raised about these phenomena,
+notably about dreaming and waking? 
+
+Theaet. What question? 
+
+Soc. A question which I think that you must often have heard persons
+ask:-How can you determine whether at this moment we are sleeping,
+and all our thoughts are a dream; or whether we are awake, and talking
+to one another in the waking state? 
+
+Theaet. Indeed, Socrates, I do not know how to prove the one any more
+than the other, for in both cases the facts precisely correspond;-and
+there is no difficulty in supposing that during all this discussion
+we have been talking to one another in a dream; and when in a dream
+we seem to be narrating dreams, the resemblance of the two states
+is quite astonishing. 
+
+Soc. You see, then, that a doubt about the reality of sense is easily
+raised, since there may even be a doubt whether we are awake or in
+a dream. And as our time is equally divided between sleeping and waking,
+in either sphere of existence the soul contends that the thoughts
+which are present to our minds at the time are true; and during one
+half of our lives we affirm the truth of the one, and, during the
+other half, of the other; and are equally confident of both.
+
+Theaet. Most true. 
+
+Soc. And may not the same be said of madness and other disorders?
+the difference is only that the times are not equal. 
+
+Theaet. Certainly. 
+
+Soc. And is truth or falsehood to be determined by duration of time?
+
+Theaet. That would be in many ways ridiculous. 
+
+Soc. But can you certainly determine: by any other means which of
+these opinions is true? 
+
+Theaet. I do not think that I can. 
+
+Soc. Listen, then to a statement of the other side of the argument,
+which is made by the champions of appearance. They would say, as I
+imagine-can that which is wholly other than something, have the same
+quality as that from which it differs? and observe, -Theaetetus, that
+the word "other" means not "partially," but "wholly other."
+
+Theaet. Certainly, putting the question as you do, that which is wholly
+other cannot either potentially or in any other way be the same.
+
+Soc. And must therefore be admitted to be unlike? 
+
+Theaet. True. 
+
+Soc. If, then, anything happens to become like or unlike itself or
+another, when it becomes like we call it the same-when unlike, other?
+
+Theaet. Certainly. 
+
+Soc. Were we not saying that there. are agents many and infinite,
+and patients many and infinite? 
+
+Theaet. Yes. 
+
+Soc. And also that different combinations will produce results which
+are not the same, but different? 
+
+Theaet. Certainly. 
+
+Soc. Let us take you and me, or anything as an example:-There is Socrates
+in health, and Socrates sick-Are they like or unlike? 
+
+Theaet. You mean to, compare Socrates in health as a whole, and Socrates
+in sickness as a whole? 
+
+Soc. Exactly; that is my meaning. 
+
+Theaet. I answer, they are unlike. 
+
+Soc. And if unlike, they are other? 
+
+Theaet. Certainly. 
+
+Soc. And would you not say the same of Socrates sleeping and waking,
+or in any of the states which we were mentioning? 
+
+Theaet. I should. 
+
+Soc. All agents have a different patient in Socrates, accordingly
+as he is well or ill. 
+
+Theaet. Of course. 
+
+Soc. And I who am the patient, and that which is the agent, will produce
+something different in each of the two cases? 
+
+Theaet. Certainly. 
+
+Soc. The wine which I drink when I am in health, appears sweet and
+pleasant to me? 
+
+Theaet. True. 
+
+Soc. For, as has been already acknowledged, the patient and agent
+meet together and produce sweetness and a perception of sweetness,
+which are in simultaneous motion, and the perception which comes from
+the patient makes the tongue percipient, and the quality of sweetness
+which arises out of and is moving about the wine, makes the wine,
+both to be and to appear sweet to the healthy tongue. 
+
+Theaet. Certainly; that has been already acknowledged. 
+
+Soc. But when I am sick, the wine really acts upon another and a different
+person? 
+
+Theaet. Yes. 
+
+Soc. The combination of the draught of wine, and the Socrates who
+is sick, produces quite another result; which is the sensation of
+bitterness in the tongue, and the, motion and creation of bitterness
+in and about the wine, which becomes not bitterness but something
+bitter; as I myself become not but percipient? 
+
+Theaet. True. 
+
+Soc. There is no, other object of which I shall ever have the same
+perception, for another object would give another perception, and
+would make the perception other and different; nor can that object
+which affects me, meeting another, subject, produce, the same, or
+become similar, for that too would produce another result from another
+subject, and become different. 
+
+Theaet. True. 
+
+Soc. Neither can by myself, have this sensation, nor the object by
+itself, this quality. 
+
+Theaet. Certainly not. 
+
+Soc. When I perceive I must become percipient of something-there can
+be no such thing as perceiving and perceiving nothing; the object,
+whether it become sweet, bitter, or of any other quality, must have
+relation to a percipient; nothing can become sweet which is sweet
+to no one. 
+
+Theaet. Certainly not. 
+
+Soc. Then the inference is, that we [the agent and patient] are or
+become in relation to one another; there is a law which binds us one
+to the other, but not to any other existence, nor each of us to himself;
+and therefore we can only be bound to one another; so that whether
+a person says that a thing is or becomes, he must say that it is or
+becomes to or of or in relation to something else; but he must not
+say or allow any one else to say that anything is or becomes absolutely:
+-such is our conclusion. 
+
+Theaet. Very true, Socrates. 
+
+Soc. Then, if that which acts upon me has relation to me and to no
+other, I and no other am the percipient of it? 
+
+Theaet. Of course. 
+
+Soc. Then my perception is true to me, being inseparable from my own
+being; and, as Protagoras says, to myself I am judge of what is and-what
+is not to me. 
+
+Theaet. I suppose so. 
+
+Soc. How then, if I never err, and if my mind never trips in the conception
+of being or becoming, can I fail of knowing that which I perceive?
+
+Theaet. You cannot. 
+
+Soc. Then you were quite right in affirming that knowledge is only
+perception; and the meaning turns out to be the same, whether with
+Homer and Heracleitus, and all that company, you say that all is motion
+and flux, or with the great sage Protagoras, that man is the measure
+of all things; or with Theaetetus, that, given these premises, perception
+is knowledge. Am I not right, Theaetetus, and is not this your newborn
+child, of which I have delivered you? What say you? 
+
+Theaet. I cannot but agree, Socrates. 
+
+Soc. Then this is the child, however he may turn out, which you and
+I have with difficulty brought into the world. And now that he is
+born, we must run round the hearth with him, and see whether he is
+worth rearing, or is only a wind-egg and a sham. Is he to be reared
+in any case, and not exposed? or will you bear to see him rejected,
+and not get into a passion if I take away your first-born?
+
+Theod. Theaetetus will not be angry, for he is very good-natured.
+But tell me, Socrates, in heaven's name, is this, after all, not the
+truth? 
+
+Soc. You, Theodorus, are a lover of theories, and now you innocently
+fancy that I am a bag full of them, and can easily pull one out which
+will overthrow its predecessor. But you do not see that in reality
+none of these theories come from me; they all come from him who talks
+with me. I only know just enough to extract them from the wisdom of
+another, and to receive them in a spirit of fairness. And now I shall
+say nothing myself, but shall endeavour to elicit something from our
+young friend. 
+
+Theod. Do as you say, Socrates; you are quite right. 
+
+Soc. Shall I tell you, Theodorus, what amazes me in your acquaintance
+Protagoras? 
+
+Theod. What is it? 
+
+Soc. I am charmed with his doctrine, that what appears is to each
+one, but I wonder that he did not begin his book on Truth with a declaration
+that a pig or a dog-faced baboon, or some other yet stranger monster
+which has sensation, is the measure of all things; then he might have
+shown a magnificent contempt for our opinion of him by informing us
+at the outset that while we were reverencing him like a God for his
+wisdom he was no better than a tadpole, not to speak of his fellow-men-would
+not this have produced an over-powering effect? For if truth is only
+sensation, and no man can discern another's feelings better than he,
+or has any superior right to determine whether his opinion is true
+or false, but each, as we have several times repeated, is to himself
+the sole judge, and everything that he judges is true and right, why,
+my friend, should Protagoras be preferred to the place of wisdom and
+instruction, and deserve to be well paid, and we poor ignoramuses
+have to go to him, if each one is the measure of his own wisdom? Must
+he not be talking ad captandum in all this? I say nothing of the ridiculous
+predicament in which my own midwifery and the whole art of dialectic
+is placed; for the attempt to supervise or refute the notions or opinions
+of others would be a tedious and enormous piece of folly, if to each
+man his own are right; and this must be the case if Protagoras Truth
+is the real truth, and the philosopher is not merely amusing himself
+by giving oracles out of the shrine of his book. 
+
+Theod. He was a friend of mine, Socrates, as you were saying, and
+therefore I cannot have him refuted by my lips, nor can I oppose you
+when I agree with you; please, then, to take Theaetetus again; he
+seemed to answer very nicely. 
+
+Soc. If you were to go into a Lacedaemonian palestra, Theodorus, would
+you have a right to look on at the naked wrestlers, some of them making
+a poor figure, if you did not strip and give them an opportunity of
+judging of your own person? 
+
+Theod. Why not, Socrates, if they would allow me, as I think you will
+in consideration of my age and stiffness; let some more supple youth
+try a fall with you, and do not drag me into the gymnasium.
+
+Soc. Your will is my will, Theodorus, as the proverbial philosophers
+say, and therefore I will return to the sage Theaetetus: Tell me,
+Theaetetus, in reference to what I was saying, are you not lost in
+wonder, like myself, when you find that all of a sudden you are raised
+to the level of the wisest of men, or indeed of the gods?-for you
+would assume the measure of Protagoras to apply to the gods as well
+as men? 
+
+Theaet. Certainly I should, and I confess to you that I am lost in
+wonder. At first hearing, I was quite satisfied with the doctrine,
+that whatever appears is to each one, but now the face of things has
+changed. 
+
+Soc. Why, my dear boy, you are young, and therefore your ear is quickly
+caught and your mind influenced by popular arguments. Protagoras,
+or some one speaking on his behalf, will doubtless say in reply, good
+people, young and old, you meet and harangue, and bring in the gods,
+whose existence of non-existence I banish from writing and speech,
+or you talk about the reason of man being degraded to the level of
+the brutes, which is a telling argument with the multitude, but not
+one word of proof or demonstration do you offer. All is probability
+with you, and yet surely you and Theodorus had better reflect whether
+you are disposed to admit of probability and figures of speech in
+matters of such importance. He or any other mathematician who argued
+from probabilities and likelihoods in geometry, would not be worth
+an ace. 
+
+Theaet. But neither you nor we, Socrates, would be satisfied with
+such arguments. 
+
+Soc. Then you and Theodorus mean to say that we must look at the matter
+in some other way? 
+
+Theaet. Yes, in quite another way. 
+
+Soc. And the way will be to ask whether perception is or is not the
+same as knowledge; for this was the real point of our argument, and
+with a view to this we raised (did we not?) those many strange questions.
+
+Theaet. Certainly. 
+
+Soc. Shall we say that we know every thing which we see and hear?
+for example, shall we say that not having learned, we do not hear
+the language of foreigners when they speak to us? or shall we say
+that we not only hear, but know what they are saying? Or again, if
+we see letters which we do not understand, shall we say that we do
+not see them? or shall we aver that, seeing them, we must know them?
+
+Theaet. We shall say, Socrates, that we know what we actually see
+and hear of them-that is to say, we see and know the figure and colour
+of the letters, and we hear and know the elevation or depression of
+the sound of them; but we do not perceive by sight and hearing, or
+know, that which grammarians and interpreters teach about them.
+
+Soc. Capital, Theaetetus; and about this there shall be no dispute,
+because I want you to grow; but there is another difficulty coming,
+which you will also have to repulse. 
+
+Theaet. What is it? 
+
+Soc. Some one will say, Can a man who has ever known anything, and
+still has and preserves a memory of that which he knows, not know
+that which he remembers at the time when he remembers? I have, I fear,
+a tedious way of putting a simple question, which is only, whether
+a man who has learned, and remembers, can fail to know? 
+
+Theaet. Impossible, Socrates; the supposition is monstrous.
+
+Soc. Am I talking nonsense, then? Think: is not seeing perceiving,
+and is not sight perception? 
+
+Theaet. True. 
+
+Soc. And if our recent definition holds, every man knows that which
+he has seen? 
+
+Theaet. Yes. 
+
+Soc. And you would admit that there is such a thing as memory?
+
+Theaet. Yes. 
+
+Soc. And is memory of something or of nothing? 
+
+Theaet. Of something, surely. 
+
+Soc. Of things learned and perceived, that is? 
+
+Theaet. Certainly. 
+
+Soc. Often a man remembers that which he has seen? 
+
+Theaet. True. 
+
+Soc. And if he closed his eyes, would he forget? 
+
+Theaet. Who, Socrates, would dare to say so? 
+
+Soc. But we must say so, if the previous argument is to be maintained.
+
+Theaet. What do you mean? I am not quite sure that I understand you,
+though I have a strong suspicion that you are right. 
+
+Soc. As thus: he who sees knows, as we say, that which he sees; for
+perception and sight and knowledge are admitted to be the same.
+
+Theaet. Certainly. 
+
+Soc. But he who saw, and has knowledge of that which he saw, remembers,
+when he closes his eyes, that which he no longer sees. 
+
+Theaet. True. 
+
+Soc. And seeing is knowing, and therefore not-seeing is not-knowing?
+
+Theaet. Very true. 
+
+Soc. Then the inference is, that a man may have attained the knowledge,
+of something, which he may remember and yet not know, because he does
+not see; and this has been affirmed by us to be a monstrous supposition.
+
+Theaet. Most true. 
+
+Soc. Thus, then, the assertion that knowledge and perception are one,
+involves a manifest impossibility? 
+
+Theaet. Yes. 
+
+Soc. Then they must be distinguished? 
+
+Theaet. I suppose that they must. 
+
+Soc. Once more we shall have to begin, and ask "What is knowledge?"
+and yet, Theaetetus, what are we going to do? 
+
+Theaet. About what? 
+
+Soc. Like a good-for-nothing cock, without having won the victory,
+we walk away from the argument and crow. 
+
+Theaet. How do you mean? 
+
+Soc. After the manner of disputers, we were satisfied with mere verbal
+consistency, and were well pleased if in this way we could gain an
+advantage. Although professing not to be mere Eristics, but philosophers,
+I suspect that we have unconsciously fallen into the error of that
+ingenious class of persons. 
+
+Theaet. I do not as yet understand you. 
+
+Soc. Then I will try to explain myself: just now we asked the question,
+whether a man who had learned and remembered could fail to know, and
+we showed that a person who had seen might remember when he had his
+eyes shut and could not see, and then he would at the same time remember
+and not know. But this was an impossibility. And so the Protagorean
+fable came to nought, and yours also, who maintained that knowledge
+is the same as perception. 
+
+Theaet. True. 
+
+Soc. And yet, my friend, I rather suspect that the result would have
+been different if Protagoras, who was the father of the first of the
+two-brats, had been alive; he would have had a great deal to say on
+their behalf. But he is dead, and we insult over his orphan child;
+and even the guardians whom he left, and of whom our friend Theodorus
+is one, are unwilling to give any help, and therefore I suppose that
+must take up his cause myself, and see justice done? 
+
+Theod. Not I, Socrates, but rather Callias, the son of Hipponicus,
+is guardian of his orphans. I was too soon diverted from the abstractions
+of dialectic to geometry. Nevertheless, I shall be grateful to you
+if you assist him. 
+
+Soc. Very good, Theodorus; you shall see how I will come to the rescue.
+If a person does not attend to the meaning of terms as they are commonly
+used in argument, he may be involved even in greater paradoxes than
+these. Shall I explain this matter to you or to Theaetetus?
+
+Theod. To both of us, and let the younger answer; he will incur less
+disgrace if he is discomfited. 
+
+Soc. Then now let me ask the awful question, which is this:-Can a
+man know and also not know that which he knows? 
+
+Theod. How shall we answer, Theaetetus? 
+
+Theaet. He cannot, I should say. 
+
+Soc. He can, if you maintain that seeing is knowing. When you are
+imprisoned in a well, as the saying is, and the self-assured adversary
+closes one of your eyes with his hand, and asks whether you can see
+his cloak with the eye which he has closed, how will you answer the
+inevitable man? 
+
+Theaet. I should answer, "Not with that eye but with the other."
+
+Soc. Then you see and do not see the same thing at the same time.
+
+Theaet. Yes, in a certain sense. 
+
+Soc. None of that, he will reply; I do not ask or bid you answer in
+what sense you know, but only whether you know that which you do not
+know. You have been proved to see that which you do not see; and you
+have already admitted that seeing is knowing, and that not-seeing
+is not-knowing: I leave you to draw the inference. 
+
+Theaet. Yes, the inference is the contradictory of my assertion.
+
+Soc. Yes, my marvel, and there might have been yet worse things in
+store for you, if an opponent had gone on to ask whether you can have
+a sharp and also a dull knowledge, and whether you can know near,
+but not at a distance, or know the same thing with more or less intensity,
+and so on without end. Such questions might have been put to you by
+a light-armed mercenary, who argued for pay. He would have lain in
+wait for you, and when you took up the position, that sense is knowledge,
+he would have made an assault upon hearing, smelling, and the other
+senses;-he would have shown you no mercy; and while you were lost
+in envy and admiration of his wisdom, he would have got you into his
+net, out of which you would not have escaped until you had come to
+an understanding about the sum to be paid for your release. Well,
+you ask, and how will Protagoras reinforce his position? Shall I answer
+for him? 
+
+Theaet. By all means. 
+
+Soc. He will repeat all those things which we have been urging on
+his behalf, and then he will close with us in disdain, and say:-The
+worthy Socrates asked a little boy, whether the same man could remember
+and not know the same thing, and the boy said No, because he was frightened,
+and could not see what was coming, and then Socrates made fun of poor
+me. The truth is, O slatternly Socrates, that when you ask questions
+about any assertion of mine, and the person asked is found tripping,
+if he has answered as I should have answered, then I am refuted, but
+if he answers something else, then he is refuted and not I. For do
+you really suppose that any one would admit the memory which a man
+has of an impression which has passed away to be the same with that
+which he experienced at the time? Assuredly not. Or would he hesitate
+to acknowledge that the same man may know and not know the same thing?
+Or, if he is afraid of making this admission, would he ever grant
+that one who has become unlike is the same as before he became unlike?
+Or would he admit that a man is one at all, and not rather many and
+infinite as the changes which take place in him? I speak by the card
+in order to avoid entanglements of words. But, O my good sir, he would
+say, come to the argument in a more generous spirit; and either show,
+if you can, that our sensations are not relative and individual, or,
+if you admit them to be so, prove that this does not involve the consequence
+that the appearance becomes, or, if you will have the word, is, to
+the individual only. As to your talk about pigs and baboons, you are
+yourself behaving like a pig, and you teach your hearers to make sport
+of my writings in the same ignorant manner; but this is not to your
+credit. For I declare that the truth is as I have written, and that
+each of us is a measure of existence and of non-existence. Yet one
+man may be a thousand times better than another in proportion as different
+things are and appear to him. 
+
+And I am far from saying that wisdom and the wise man have no existence;
+but I say that the wise man is he who makes the evils which appear
+and are to a man, into goods which are and appear to him. And I would
+beg you not to my words in the letter, but to take the meaning of
+them as I will explain them. Remember what has been already said,-that
+to the sick man his food appears to be and is bitter, and to the man
+in health the opposite of bitter. Now I cannot conceive that one of
+these men can be or ought to be made wiser than the other: nor can
+you assert that the sick man because he has one impression is foolish,
+and the healthy man because he has another is wise; but the one state
+requires to be changed into the other, the worse into the better.
+As in education, a change of state has to be effected, and the sophist
+accomplishes by words the change which the physician works by the
+aid of drugs. Not that any one ever made another think truly, who
+previously thought falsely. For no one can think what is not, or think
+anything different from that which he feels; and this is always true.
+But as the inferior habit of mind has thoughts of kindred nature,
+so I conceive that a good mind causes men to have good thoughts; and
+these which the inexperienced call true, I maintain to be only better,
+and not truer than others. And, O my dear Socrates, I do not call
+wise men tadpoles: far from it; I say that they are the physicians
+of the human body, and the husbandmen of plants-for the husbandmen
+also take away the evil and disordered sensations of plants, and infuse
+into them good and healthy sensations-aye and true ones; and the wise
+and good rhetoricians make the good instead of the evil to seem just
+to states; for whatever appears to a state to be just and fair, so
+long as it is regarded as such, is just and fair to it; but the teacher
+of wisdom causes the good to take the place of the evil, both in appearance
+and in reality. And in like manner the Sophist who is able to train
+his pupils in this spirit is a wise man, and deserves to be well paid
+by them. And so one man is wiser than another; and no one thinks falsely,
+and you, whether you will or not, must endure to be a measure. On
+these foundations the argument stands firm, which you, Socrates, may,
+if you please, overthrow by an opposite argument, or if you like you
+may put questions to me-a method to which no intelligent person will
+object, quite the reverse. But I must beg you to put fair questions:
+for there is great inconsistency in saying that you have a zeal for
+virtue, and then always behaving unfairly in argument. The unfairness
+of which I complain is that you do not distinguish between mere disputation
+and dialectic: the disputer may trip up his opponent as often as he
+likes, and make fun; but the dialectician will be in earnest, and
+only correct his adversary when necessary, telling him the errors
+into which he has fallen through his own fault, or that of the company
+which he has previously kept. If you do so, your adversary will lay
+the blame of his own confusion and perplexity on himself, and not
+on you; will follow and love you, and will hate himself, and escape
+from himself into philosophy, in order that he may become different
+from what he was. But the other mode of arguing, which is practised
+by the many, will have just the opposite effect upon him; and as he
+grows older, instead of turning philosopher, he will come to hate
+philosophy. I would recommend you, therefore, as I said before, not
+to encourage yourself in this polemical and controversial temper,
+but to find out, in a friendly and congenial spirit, what we really
+mean when we say that all things are in motion, and that to every
+individual and state what appears, is. In this manner you will consider
+whether knowledge and sensation are the same or different, but you
+will not argue, as you were just now doing, from the customary use
+of names and words, which the vulgar pervert in all sorts of ways,
+causing infinite perplexity to one another. Such, Theodorus, is the
+very slight help which I am able to offer to your old friend; had
+he been living, he would have helped himself in a far more gloriose
+style. 
+
+Theod. You are jesting, Socrates; indeed, your defence of him has
+been most valorous. 
+
+Soc. Thank you, friend; and I hope that you observed Protagoras bidding
+us be serious, as the text, "Man is the measure of all things," was
+a solemn one; and he reproached us with making a boy the medium of
+discourse, and said that the boy's timidity was made to tell against
+his argument; he also declared that we made a joke of him.
+
+Theod. How could I fail to observe all that, Socrates? 
+
+Soc. Well, and shall we do as he says? 
+
+Theod. By all means. 
+
+Soc. But if his wishes are to be regarded, you and I must take up
+the argument, and in all seriousness, and ask and answer one another,
+for you see that the rest of us are nothing but boys. In no other
+way can we escape the imputation, that in our fresh analysis of his
+thesis we are making fun with boys. 
+
+Theod. Well, but is not Theaetetus better able to follow a philosophical
+enquiry than a great many men who have long beards? 
+
+Soc. Yes, Theodorus, but not better than you; and therefore please
+not to imagine that I am to defend by every means in my power your
+departed friend; and that you are to defend nothing and nobody. At
+any rate, my good man, do not sheer off until we know whether you
+are a true measure of diagrams, or whether all men are equally measures
+and sufficient for themselves in astronomy and geometry, and the other
+branches of knowledge in which you are supposed to excel them.
+
+Theod. He who is sitting by you, Socrates, will not easily avoid being
+drawn into an argument; and when I said just now that you would excuse
+me, and not, like the Lacedaemonians, compel me to strip and fight,
+I was talking nonsense-I should rather compare you to Scirrhon, who
+threw travellers from the rocks; for the Lacedaemonian rule is "strip
+or depart," but you seem to go about your work more after the fashion
+of Antaeus: you will not allow any one who approaches you to depart
+until you have stripped him, and he has been compelled to try a fall
+with you in argument. 
+
+Soc. There, Theodorus, you have hit off precisely the nature of my
+complaint; but I am even more pugnacious than the giants of old, for
+I have met with no end of heroes; many a Heracles, many a Theseus,
+mighty in words, has broken my head; nevertheless I am always at this
+rough exercise, which inspires me like a passion. Please, then, to
+try a fall with me, whereby you will do yourself good as well as me.
+
+Theod. I consent; lead me whither you will, for I know that you are
+like destiny; no man can escape from any argument which you may weave
+for him. But I am not disposed to go further than you suggest.
+
+Soc. Once will be enough; and now take particular care that we do
+not again unwittingly expose ourselves to the reproach of talking
+childishly. 
+
+Theod. I will do my best to avoid that error. 
+
+Soc. In the first place, let us return to our old objection, and see
+whether we were right in blaming and taking offence at Protagoras
+on the ground that he assumed all to be equal and sufficient in wisdom;
+although he admitted that there was a better and worse, and that in
+respect of this, some who as he said were the wise excelled others.
+
+Theod. Very true. 
+
+Soc. Had Protagoras been living and answered for himself, instead
+of our answering for him, there would have been no need of our reviewing
+or reinforcing the argument. But as he is not here, and some one may
+accuse us of speaking without authority on his behalf, had we not
+better come to a clearer agreement about his meaning, for a great
+deal may be at stake? 
+
+Theod. True. 
+
+Soc. Then let us obtain, not through any third person, but from his
+own statement and in the fewest words possible, the basis of agreement.
+
+Theod. In what way? 
+
+Soc. In this way:-His words are, "What seems to a man, is to him."
+
+Theod. Yes, so he says. 
+
+Soc. And are not we, Protagoras, uttering the opinion of man, or rather
+of all mankind, when we say that every one thinks himself wiser than
+other men in some things, and their inferior in others? In the hour
+of danger, when they are in perils of war, or of the sea, or of sickness,
+do they not look up to their commanders as if they were gods, and
+expect salvation from them, only because they excel them in knowledge?
+Is not the world full of men in their several employments, who are
+looking for teachers and rulers of themselves and of the animals?
+and there are plenty who think that they are able to teach and able
+to rule. Now, in all this is implied that ignorance and wisdom exist
+among them, least in their own opinion. 
+
+Theod. Certainly. 
+
+Soc. And wisdom is assumed by them to be true thought, and ignorance
+to be false opinion. 
+
+Theod. Exactly. 
+
+Soc. How then, Protagoras, would you have us treat the argument? Shall
+we say that the opinions of men are always true, or sometimes true
+and sometimes false? In either case, the result is the same, and their
+opinions are not always true, but sometimes true and sometimes false.
+For tell me, Theodorus, do you suppose that you yourself, or any other
+follower of Protagoras, would contend that no one deems another ignorant
+or mistaken in his opinion? 
+
+Theod. The thing is incredible, Socrates. 
+
+Soc. And yet that absurdity is necessarily involved in the thesis
+which declares man to be the measure of all things. 
+
+Theod. How so? 
+
+Soc. Why, suppose that you determine in your own mind something to
+be true, and declare your opinion to me; let us assume, as he argues,
+that this is true to you. Now, if so, you must either say that the
+rest of us are not the judges of this opinion or judgment of yours,
+or that we judge you always to have a true opinion: But are there
+not thousands upon thousands who, whenever you form a judgment, take
+up arms against you and are of an opposite judgment and opinion, deeming
+that you judge falsely? 
+
+Theod. Yes, indeed, Socrates, thousands and tens of thousands, as
+Homer says, who give me a world of trouble. 
+
+Soc. Well, but are we to assert that what you think is true to you
+and false to the ten thousand others? 
+
+Theod. No other inference seems to be possible. 
+
+Soc. And how about Protagoras himself? If neither he nor the multitude
+thought, as indeed they do not think, that man is the measure of all
+things, must it not follow that the truth of which Protagoras wrote
+would be true to no one? But if you suppose that he himself thought
+this, and that the multitude does not agree with him, you must begin
+by allowing that in whatever proportion the many are more than one,
+in that proportion his truth is more untrue than true. 
+
+Theod. That would follow if the truth is supposed to vary with individual
+opinion. 
+
+Soc. And the best of the joke is, that he acknowledges the truth of
+their opinion who believe his own opinion to be false; for he admits
+that the opinions of all men are true. 
+
+Theod. Certainly. 
+
+Soc. And does he not allow that his own opinion is false, if he admits
+that the opinion of those who think him false is true? 
+
+Theod. Of course. 
+
+Soc. Whereas the other side do not admit that they speak falsely?
+
+Theod. They do not. 
+
+Soc. And he, as may be inferred from his writings, agrees that this
+opinion is also true. 
+
+Theod. Clearly. 
+
+Soc. Then all mankind, beginning with Protagoras, will contend, or
+rather, I should say that he will allow, when he concedes that his
+adversary has a true opinion-Protagoras, I say, will himself allow
+that neither a dog nor any ordinary man is the measure of anything
+which he has not learned-am I not right? 
+
+Theod. Yes. 
+
+Soc. And the truth of Protagoras being doubted by all, will be true
+neither to himself to any one else? 
+
+Theod. I think, Socrates, that we are running my old friend too hard.
+
+Soc. But do not know that we are going beyond the truth. Doubtless,
+as he is older, he may be expected to be wiser than we are. And if
+he could only just get his head out of the world below, he would have
+overthrown both of us again and again, me for talking nonsense and
+you for assenting to me, and have been off and underground in a trice.
+But as he is not within call, we must make the best use of our own
+faculties, such as they are, and speak out what appears to us to be
+true. And one thing which no one will deny is, that there are great
+differences in the understandings of men. 
+
+Theod. In that opinion I quite agree. 
+
+Soc. And is there not most likely to be firm ground in the distinction
+which we were indicating on behalf of Protagoras, viz., that most
+things, and all immediate sensations, such as hot, dry, sweet, are
+only such as they appear; if however difference of opinion is to be
+allowed at all, surely we must allow it in respect of health or disease?
+for every woman, child, or living creature has not such a knowledge
+of what conduces to health as to enable them to cure themselves.
+
+Theod. I quite agree. 
+
+Soc. Or again, in politics, while affirming that just and unjust,
+honourable and disgraceful, holy and unholy, are in reality to each
+state such as the state thinks and makes lawful, and that in determining
+these matters no individual or state is wiser than another, still
+the followers of Protagoras will not deny that in determining what
+is or is not expedient for the community one state is wiser and one
+counsellor better that another-they will scarcely venture to maintain,
+that what a city enacts in the belief that it is expedient will always
+be really expedient. But in the other case, I mean when they speak
+of justice and injustice, piety and impiety, they are confident that
+in nature these have no existence or essence of their own-the truth
+is that which is agreed on at the time of the agreement, and as long
+as the agreement lasts; and this is the philosophy of many who do
+not altogether go along with Protagoras. Here arises a new question,
+Theodorus, which threatens to be more serious than the last.
+
+Theod. Well, Socrates, we have plenty of leisure. 
+
+Soc. That is true, and your remark recalls to my mind an observation
+which I have often made, that those who have passed their days in
+the pursuit of philosophy are ridiculously at fault when they have
+to appear and speak in court. How natural is this! 
+
+Theod. What do you mean? 
+
+Soc. I mean to say, that those who have been trained in philosophy
+and liberal pursuits are as unlike those who from their youth upwards
+have been knocking about in the courts and such places, as a freeman
+is in breeding unlike a slave. 
+
+Theod. In what is the difference seen? 
+
+Soc. In the leisure spoken of by you, which a freeman can always command:
+he has his talk, out in peace, and, like ourselves, he wanders at
+will from one subject to another, and from a second to a third,-if
+the fancy takes him he begins again, as we are doing now, caring not
+whether his words are many or few; his only aim is to attain the truth.
+But the lawyer is always in a hurry; there is the water of the clepsydra
+driving him on, and not allowing him to expatiate at will: and there
+is his adversary standing over him, enforcing his rights; the indictment,
+which in their phraseology is termed the affidavit, is recited at
+the time: and from this he must not deviate. He is a servant, and
+is continually disputing about a fellow servant before his master,
+who is seated, and has the cause in his hands; the trial is never
+about some indifferent matter, but always concerns himself; and often
+the race is for his life. The consequence has been, that he has become
+keen and shrewd; he has learned how to flatter his master in word
+and indulge him in deed; but his soul is small and unrighteous. His
+condition, which has been that of a slave from his youth upwards,
+has deprived him of growth and uprightness and independence; dangers
+and fears, which were too much for his truth and honesty, came upon
+him in early years, when the tenderness of youth was unequal to them,
+and he has been driven into crooked ways; from the first he has practised
+deception and retaliation, and has become stunted and warped. And
+so he has passed out of youth into manhood, having no soundness in
+him; and is now, as he thinks, a master in wisdom. Such is the lawyer,
+Theodorus. Will you have the companion picture of the philosopher,
+who is of our brotherhood; or shall we return to the argument? Do
+not let us abuse the freedom of digression which we claim.
+
+Theod. Nay, Socrates, not until we have finished what we are about;
+for you truly said that we belong to a brotherhood which is free,
+and are not the servants of the argument; but the argument is our
+servant, and must wait our leisure. Who is our judge? Or where is
+the spectator having any right to censure or control us, as he might
+the poets? 
+
+Soc. Then, as this is your wish, I will describe the leaders; for
+there is no use in talking about the inferior sort. In the first place,
+the lords of philosophy have never, from their youth upwards, known
+their way to the Agora, or the dicastery, or the council, or any other
+political assembly; they neither see nor hear the laws or decrees,
+as they are called, of the state written or recited; the eagerness
+of political societies in the attainment of office-clubs, and banquets,
+and revels, and singing-maidens,-do not enter even into their dreams.
+Whether any event has turned out well or ill in the city, what disgrace
+may have descended to any one from his ancestors, male or female,
+are matters of which the philosopher no more knows than he can tell,
+as they say, how many pints are contained in the ocean. Neither is
+he conscious of his ignorance. For he does not hold aloof in order;
+that he may gain a reputation; but the truth is, that the outer form
+of him only is in the city: his mind, disdaining the littlenesses
+and nothingnesses of human things, is "flying all abroad" as Pindar
+says, measuring earth and heaven and the things which are under and
+on the earth and above the heaven, interrogating the whole nature
+of each and all in their entirety, but not condescending to anything
+which is within reach. 
+
+Theod. What do you mean, Socrates? 
+
+Soc. I will illustrate my meaning, Theodorus, by the jest which the
+clever witty Thracian handmaid is said to have made about Thales,
+when he fell into a well as he was looking up at the stars. She said,
+that he was so eager to know what was going on in heaven, that he
+could not see what was before his feet. This is a jest which is equally
+applicable to all philosophers. For the philosopher is wholly unacquainted
+with his next-door neighbour; he is ignorant, not only of what he
+is doing, but he hardly knows whether he is a man or an animal; he
+is searching into the essence of man, and busy in enquiring what belongs
+to such a nature to do or suffer different from any other;-I think
+that you understand me, Theodorus? 
+
+Theod. I do, and what you say is true. 
+
+Soc. And thus, my friend, on every occasion, private as well as public,
+as I said at first, when he appears in a law-court, or in any place
+in which he has to speak of things which are at his feet and before
+his eyes, he is the jest, not only of Thracian handmaids but of the
+general herd, tumbling into wells and every sort of disaster through
+his inexperience. His awkwardness is fearful, and gives the impression
+of imbecility. When he is reviled, he has nothing personal to say
+in answer to the civilities of his adversaries, for he knows no scandals
+of any one, and they do not interest him; and therefore he is laughed
+at for his sheepishness; and when others are being praised and glorified,
+in the simplicity of his heart he cannot help going into fits of laughter,
+so that he seems to be a downright idiot. When he hears a tyrant or
+king eulogized, he fancies that he is listening to the praises of
+some keeper of cattle-a swineherd, or shepherd, or perhaps a cowherd,
+who is congratulated on the quantity of milk which he squeezes from
+them; and he remarks that the creature whom they tend, and out of
+whom they squeeze the wealth, is of a less traitable and more insidious
+nature. Then, again, he observes that the great man is of necessity
+as ill-mannered and uneducated as any shepherd-for he has no leisure,
+and he is surrounded by a wall, which is his mountain-pen. Hearing
+of enormous landed proprietors of ten thousand acres and more, our
+philosopher deems this to be a trifle, because he has been accustomed
+to think of the whole earth; and when they sing the, praises of family,
+and say that someone is a gentleman because he can show seven generations
+of wealthy ancestors, he thinks that their sentiments only betray
+a dull and narrow vision in those who utter them, and who are not
+educated enough to look at the whole, nor to consider that every man
+has had thousands and ten thousands of progenitors, and among them
+have been rich and poor, kings and slaves, Hellenes and barbarians,
+innumerable. And when people pride themselves on having a pedigree
+of twenty-five ancestors, which goes back to Heracles, the son of
+Amphitryon, he cannot understand their poverty of ideas. Why are they
+unable to calculate that Amphitryon had a twenty-fifth ancestor, who
+might have been anybody, and was such as fortune made him and he had
+a fiftieth, and so on? He amuses himself with the notion that they
+cannot count, and thinks that a little arithmetic would have got rid
+of their senseless vanity. Now, in all these cases our philosopher
+is derided by the vulgar, partly because he is thought to despise
+them, and also because he is ignorant of what is before him, and always
+at a loss. 
+
+Theod. That is very true, Socrates. 
+
+Soc. But, O my friend, when he draws the other into upper air, and
+gets him out of his pleas and rejoinders into the contemplation of
+justice and injustice in their own nature and in their difference
+from one another and from all other things; or from the commonplaces
+about the happiness of a king or of a rich man to the consideration
+of government, and of human happiness and misery in general-what they
+are, and how a man is to attain the one and avoid the other-when that
+narrow, keen, little legal mind is called to account about all this,
+he gives the philosopher his revenge; for dizzied by the height at
+which he is hanging, whence he looks down into space, which is a strange
+experience to him, he being dismayed, and lost, and stammering broken
+words, is laughed at, not by Thracian handmaidens or any other uneducated
+persons, for they have no eye for the situation, but by every man
+who has not been brought up a slave. Such are the two characters,
+Theodorus: the one of the freeman, who has becomes trained in liberty
+and leisure, whom you call the philosopher-him we cannot blame because
+he appears simple and of no account when he has to perform some menial
+task, such as packing up bed-clothes, or flavouring a sauce or fawning
+speech; the other character is that of the man who is able to do all
+this kind of service smartly and neatly, but knows not how to wear
+his cloak like a gentleman; still less with the music of discourse
+can he hymn the true life aright which is lived by immortals or men
+blessed of heaven. 
+
+Theod. If you could only persuade everybody, Socrates, as you do me,
+of the truth of your words, there would be more peace and fewer evils
+among men. 
+
+Soc. Evils, Theodorus, can never pass away; for there must always
+remain something which is antagonistic to good. Having no place among
+the gods in heaven, of necessity they hover around the mortal nature,
+and this earthly sphere. Wherefore we ought to fly away from earth
+to heaven as quickly as we can; and to fly away is to become like
+God, as far as this is possible; and to become like him, is to become
+holy, just, and wise. But, O my friend, you cannot easily convince
+mankind that they should pursue virtue or avoid vice, not merely in
+order that a man may seem to be good, which is the reason given by
+the world, and in my judgment is only a repetition of an old wives
+fable. Whereas, the truth is that God is never in any way unrighteous-he
+is perfect righteousness; and he of us who is the most righteous is
+most like him. Herein is seen the true cleverness of a man, and also
+his nothingness and want of manhood. For to know this is true wisdom
+and virtue, and ignorance of this is manifest folly and vice. All
+other kinds of wisdom or cleverness, which seem only, such as the
+wisdom of politicians, or the wisdom of the arts, are coarse and vulgar.
+The unrighteous man, or the sayer and doer of unholy things, had far
+better not be encouraged in the illusion that his roguery is clever;
+for men glory in their shame -they fancy that they hear others saying
+of them, "These are not mere good-for nothing persons, mere burdens
+of the earth, but such as men should be who mean to dwell safely in
+a state." Let us tell them that they are all the more truly what they
+do not think they are because they do not know it; for they do not
+know the penalty of injustice, which above all things they ought to
+know-not stripes and death, as they suppose, which evil-doers often
+escape, but a penalty which cannot be escaped. 
+
+Theod. What is that? 
+
+Soc. There are two patterns eternally set before them; the one blessed
+and divine, the other godless and wretched: but they do not see them,
+or perceive that in their utter folly and infatuation they are growing
+like the one and unlike the other, by reason of their evil deeds;
+and the penalty is, that they lead a life answering to the pattern
+which they are growing like. And if we tell them, that unless they
+depart from their cunning, the place of innocence will not receive
+them after death; and that here on earth, they will live ever in the
+likeness of their own evil selves, and with evil friends-when they
+hear this they in their superior cunning will seem to be listening
+to the talk of idiots. 
+
+Theod. Very true, Socrates. 
+
+Soc. Too true, my friend, as I well know; there is, however, one peculiarity
+in their case: when they begin to reason in private about their dislike
+of philosophy, if they have the courage to hear the argument out and
+do not run away, they grow at last strangely discontented with themselves;
+their rhetoric fades away, and they become helpless as children. These
+however are digressions from which we must now desist, or they will
+overflow, and drown the original argument; to which, if you please,
+we will now return. 
+
+Theod. For my part, Socrates, I would rather have the digressions,
+for at my age I find them easier to follow; but if you wish, let us
+go back to the argument. 
+
+Soc. Had we not reached the point at which the partisans of the perpetual
+flux, who say that things are as they seem to each one, were confidently
+maintaining that the ordinances which the state commanded 2nd thought
+just, were just to the state which imposed them, while they were in
+force; this was especially asserted of justice; but as to the good,
+no one had any longer the hardihood to contend of any ordinances which
+the state thought and enacted to be good that these, while they were
+in force, were really good;-he who said so would be playing with the
+name "good," and would, not touch the real question-it would be a
+mockery, would it not? 
+
+Theod. Certainly it would. 
+
+Soc. He ought not to speak of the name, but of the thing which is
+contemplated under the name. 
+
+Theod. Right. 
+
+Soc. Whatever be the term used, the good or expedient is the aim of
+legislation, and as far as she has an opinion, the state imposes all
+laws with a view to the greatest expediency; can legislation have
+any other aim? 
+
+Theod. Certainly not. 
+
+Soc. But is the aim attained always? do not mistakes often happen?
+
+Theod. Yes, I think that there are mistakes. 
+
+Soc. The possibility of error will be more distinctly recognized,
+if we put the question in reference to the whole class under which
+the good or expedient fall That whole class has to do with the future,
+and laws are passed under the idea that they will be useful in after-time;
+which, in other words, is the future. 
+
+Theod. Very true. 
+
+Soc. Suppose now, that we ask Protagoras, or one of his disciples,
+a question:-O, Protagoras, we will say to him, Man is, as you declare,
+the measure of all things-white, heavy, light: of all such things
+he is the judge; for he has the criterion of them in himself, and
+when he thinks that things are such as he experiences them to be,
+he thinks what is and is true to himself. Is it not so? 
+
+Theod. Yes. 
+
+Soc. And do you extend your doctrine, Protagoras (as we shall further
+say), to the future as well as to the present; and has he the criterion
+not only of what in his opinion is but of what will be, and do things
+always happen to him as he expected? For example, take the case of
+heat:-When an ordinary man thinks that he is going to have a fever,
+and that this kind of heat is coming on, and another person, who is
+a physician, thinks the contrary, whose opinion is likely to prove
+right? Or are they both right?-he will have a heat and fever in his
+own judgment, and not have a fever in the physician's judgment?
+
+Theod. How ludicrous! 
+
+Soc. And the vinegrower, if I am not mistaken, is a better judge of
+the sweetness or dryness of the vintage which is not yet gathered
+than the harp-player? 
+
+Theod. Certainly. 
+
+Soc. And in musical composition-the musician will know better than
+the training master what the training master himself will hereafter
+think harmonious or the reverse? 
+
+Theod. Of course. 
+
+Soc. And the cook will be a better judge than the guest, who is not
+a cook, of the pleasure to be derived from the dinner which is in
+preparation; for of present or past pleasure we are not as yet arguing;
+but can we say that every one will be to himself the best judge of
+the pleasure which will seem to be and will be to him in the future?-nay,
+would not you, Protagoras, better guess which arguments in a court
+would convince any one of us than the ordinary man? 
+
+Theod. Certainly, Socrates, he used to profess in the strongest manner
+that he was the superior of all men in this respect. 
+
+Soc. To be sure, friend: who would have paid a large sum for the privilege
+of talking to him, if he had really persuaded his visitors that neither
+a prophet nor any other man was better able to judge what will be
+and seem to be in the future than every one could for himself?
+
+Theod. Who indeed? 
+
+Soc. And legislation and expediency are all concerned with the future;
+and every one will admit that states, in passing laws, must often
+fail of their highest interests? 
+
+Theod. Quite true. 
+
+Soc. Then we may fairly argue against your master, that he must admit
+one man to be wiser than another, and that the wiser is a measure:
+but I, who know nothing, am not at all obliged to accept the honour
+which the advocate of Protagoras was just now forcing upon me, whether
+I would or not, of being a measure of anything. 
+
+Theod. That is the best refutation of him, Socrates; although he is
+also caught when he ascribes truth to the opinions of others, who
+give the lie direct to his own opinion. 
+
+Soc. There are many ways, Theodorus, in which the doctrine that every
+opinion of: every man is true may be refuted; but there is more difficulty,
+in proving that states of feeling, which are present to a man, and
+out of which arise sensations and opinions in accordance with them,
+are also untrue. And very likely I have been talking nonsense about
+them; for they may be unassailable, and those who say that there is
+clear evidence of them, and that they are matters of knowledge, may
+probably be right; in which case our friend Theaetetus was not so
+far from the mark when he identified perception and knowledge. And
+therefore let us draw nearer, as the advocate of Protagoras desires;
+and the truth of the universal flux a ring: is the theory sound or
+not? at any rate, no small war is raging about it, and there are combination
+not a few. 
+
+Theod. No small, war, indeed, for in most the sect makes rapid strides,
+the disciples of Heracleitus are most energetic. upholders of the
+doctrine. 
+
+Soc. Then we are the more bound, my dear Theodorus, to examine the
+question from the foundation as it is set forth by themselves.
+
+Theod. Certainly we are. About these speculations of Heracleitus,
+which, as you say, are as old as Homer, or even older still, the Ephesians
+themselves, who profess to know them, are downright mad, and you cannot
+talk with them on the subject. For, in accordance with their text-books,
+they are always in motion; but as for dwelling upon an argument or
+a question, and quietly asking and answering in turn, they can no
+more do so than they can fly; or rather, the determination of these
+fellows not to have a particle of rest in them is more than the utmost
+powers of negation can express. If you ask any of them a question,
+he will produce, as from a quiver, sayings brief and dark, and shoot
+them at you; and if you inquire the reason of what he has said, you
+will be hit by some other newfangled word, and will make no way with
+any of them, nor they with one another; their great care is, not to
+allow of any settled principle either in their arguments or in their
+minds, conceiving, as I imagine, that any such principle would be
+stationary; for they are at war with the stationary, and do what they
+can to drive it out everywhere. 
+
+Soc. I suppose, Theodorus, that you have only seen them when they
+were fighting, and have never stayed with them in time of peace, for
+they are no friends of yours; and their peace doctrines are only communicated
+by them at leisure, as I imagine, to those disciples of theirs whom
+they want to make like themselves. 
+
+Theod. Disciples! my good sir, they have none; men of their sort are
+not one another's disciples, but they grow up at their own sweet will,
+and get their inspiration anywhere, each of them saying of his neighbour
+that he knows nothing. Fro these men, then, as I was going to remark,
+you will never get a reason, whether with their will or without their
+will; we must take the question out of their hands, and make the analysis
+ourselves, as if we were doing geometrical problem. 
+
+Soc. Quite right too; but as touching the aforesaid problem, have
+we not heard from the ancients, who concealed their wisdom from the
+many in poetical figures, that Oceanus and Tethys, the origin of all
+things, are streams, and that nothing is at rest? And now the moderns,
+in their superior wisdom, have declared the same openly, that the
+cobbler too may hear and learn of them, and no longer foolishly imagine
+that some things are at rest and others in motion-having learned that
+all is motion, he will duly honour his teachers. I had almost forgotten
+the opposite doctrine, Theodorus, 
+
+Alone Being remains unmoved, which is the name for the all. This is
+the language of Parmenides, Melissus, and their followers, who stoutly
+maintain that all being is one and self-contained, and has no place
+which to move. What shall we do, friend, with all these people; for,
+advancing step by step, we have imperceptibly got between the combatants,
+and, unless we can protect our retreat, we shall pay the penalty of
+our rashness-like the players in the palaestra who are caught upon
+the line, and are dragged different ways by the two parties. Therefore
+I think that we had better begin by considering those whom we first
+accosted, "the river-gods," and, if we find any truth in them, we
+will help them to pull us over, and try to get away from the others.
+But if the partisans of "the whole" appear to speak more truly, we
+will fly off from the party which would move the immovable, to them.
+And if I find that neither of them have anything reasonable to say,
+we shall be in a ridiculous position, having so great a conceit of
+our own poor opinion and rejecting that of ancient and famous men.
+O Theodorus, do you think that there is any use in proceeding when
+the danger is so great? 
+
+Theod. Nay, Socrates, not to examine thoroughly what the two parties
+have to say would be quite intolerable. 
+
+Soc. Then examine we must, since you, who were so reluctant. to begin,
+are so eager to proceed. The nature of motion appears to be the question
+with which we begin. What do they mean when they say that all things
+are in motion? Is there only one kind of motion, or, as I rather incline
+to think, two? should like to have your opinion upon this point in
+addition to my own, that I may err, if I must err, in your company;
+tell me, then, when a thing changes from one place to another, or
+goes round in the same place, is not that what is called motion?
+
+Theod. Yes. 
+
+Soc. Here then we have one kind of motion. But when a thing, remaining
+on the same spot, grows old, or becomes black from being white, or
+hard from being soft, or undergoes any other change, may not this
+be properly called motion of another kind? 
+
+Theod. I think so. 
+
+Soc. Say rather that it must be so. Of motion then there are these
+two kinds, "change," and "motion in place." 
+
+Theod. You are right. 
+
+Soc. And now, having made this distinction, let us address ourselves
+to those who say that all is motion, and ask them whether all things
+according to them have the two kinds of motion, and are changed as
+well as move in place, or is one thing moved in both ways, and another
+in one only? 
+
+Theod. Indeed, I do not know what to answer; but I think they would
+say that all things are moved in both ways. 
+
+Soc. Yes, comrade; for, if not, they would have to say that the same
+things are in motion and at rest, and there would be no more truth
+in saying that all things are in motion, than that all things are
+at rest. 
+
+Theod. To be sure. 
+
+Soc. And if they are to be in motion, and nothing is to be devoid
+of motion, all things must always have every sort of motion?
+
+Theod. Most true. 
+
+Soc. Consider a further point: did we not understand them to explain
+the generation of heat, whiteness, or anything else, in some such
+manner as the following:-were they not saying that each of them is
+moving between the agent and the patient, together with a perception,
+and that the patient ceases to be a perceiving power and becomes a
+percipient, and the agent a quale instead of a quality? I suspect
+that quality may appear a strange and uncouth term to you, and that
+you do not understand the abstract expression. Then I will take concrete
+instances: I mean to say that the producing power or agent becomes
+neither heat nor whiteness but hot and white, and the like of other
+things. For I must repeat what I said before, that neither the agent
+nor patient have any absolute existence, but when they come together
+and generate sensations and their objects, the one becomes a thing
+a certain quality, and the other a percipient. You remember?
+
+Theod. Of course. 
+
+Soc. We may leave the details of their theory unexamined, but we must
+not forget to ask them the only question with which we are concerned:
+Are all things in motion and flux? 
+
+Theod. Yes, they will reply. 
+
+Soc. And they are moved in both those ways which we distinguished,
+that is to Way, they move in place and are also changed?
+
+Theod. Of course, if the motion is to be perfect. 
+
+Soc. If they only moved in place and were not changed, we should be
+able to say what is the nature of the things which are in motion and
+flux. 
+
+Theod. Exactly. 
+
+Soc. But now, since not even white continues to flow white, and whiteness
+itself is a flux or change which is passing into another colour, and
+is never to be caught standing still, can the name of any colour be
+rightly used at all? 
+
+Theod. How is that possible, Socrates, either in the case of this
+or of any other quality-if while we are using the word the object
+is escaping in the flux? 
+
+Soc. And what would you say of perceptions, such as sight and hearing,
+or any other kind of perception? Is there any stopping in the act
+of seeing and hearing? 
+
+Theod. Certainly not, if all things are in motion. 
+
+Soc. Then we must not speak of seeing any more than of not-seeing,
+nor of any other perception more than of any non-perception, if all
+things partake of every kind of motion? 
+
+Theod. Certainly not. 
+
+Soc. Yet perception is knowledge: so at least Theaetetus and I were
+saying. 
+
+Theod. Very true. 
+
+Soc. Then when we were asked what is knowledge, we no more answered
+what is knowledge than what is not knowledge? 
+
+Theod. I suppose not. 
+
+Soc. Here, then, is a fine result: we corrected our first answer in
+our eagerness to prove that nothing is at rest. But if nothing is
+at rest, every answer upon whatever subject is equally right: you
+may say that a thing is or is not thus; or, if you prefer, "becomes"
+thus; and if we say "becomes," we shall not then hamper them with
+words expressive of rest. 
+
+Theod. Quite true. 
+
+Soc. Yes, Theodorus, except in saying "thus" and "not thus." But you
+ought not to use the word "thus," for there is no motion in "thus"
+or in "not thus." The maintainers of the doctrine have as yet no words
+in which to express themselves, and must get a new language. I know
+of no word that will suit them, except perhaps "no how," which is
+perfectly indefinite. 
+
+Theod. Yes, that is a manner of speaking in which they will be quite
+at home. 
+
+Soc. And so, Theodorus, we have got rid of your friend without assenting
+to his doctrine, that every man is the measure of all things-a wise
+man only is a measure; neither can we allow that knowledge is perception,
+certainly not on the hypothesis of a perpetual flux, unless perchance
+our friend Theaetetus is able to convince us that it is.
+
+Theod. Very good, Socrates; and now that the argument about the doctrine
+of Protagoras has been completed, I am absolved from answering; for
+this was the agreement. 
+
+Theaet. Not, Theodorus, until you and Socrates have discussed the
+doctrine of those who say that all things are at rest, as you were
+proposing. 
+
+Theod. You, Theaetetus, who are a young rogue, must not instigate
+your elders to a breach of faith, but should prepare to answer Socrates
+in the remainder of the argument. 
+
+Theaet. Yes, if he wishes; but I would rather have heard about the
+doctrine of rest. 
+
+Theod. Invite Socrates to an argument-invite horsemen to the open
+plain; do but ask him, and he will answer. 
+
+Soc. Nevertheless, Theodorus, I am afraid that I shall not </pre></body></html>

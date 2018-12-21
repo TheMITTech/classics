@@ -1,0 +1,962 @@
+
+<BASE HREF="http://classics.mit.edu/Plutarch/numa_pom.1b.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Plutarch/numa_pom.1b.txt"><font color=blue>classics.mit.edu/Plutarch/numa_pom.1b.txt</font></a>.<br>
+<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Plutarch/numa_pom.1b.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
+<html><body><pre>
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Plutarch/numa_pom.html
+
+Numa Pompilius
+By Plutarch
+
+(legendary, died 7th century B.C.E.)
+
+
+Translated by John Dryden
+
+Though the pedigrees of noble families of Rome go back in exact form
+as far as Numa Pompilius, yet there is great diversity amongst historians
+concerning the time in which he reigned; a certain writer called Clodius,
+in a book of his entitled Strictures on Chronology, avers that the
+ancient registers of Rome were lost when the city was sacked by the
+Gauls, and that those which are now extant were counterfeited, to
+flatter and serve the humour of some men who wished to have themselves
+derived from some ancient and noble lineage, though in reality with
+no claim to it. And though it be commonly reported that Numa was a
+scholar and a familiar acquaintance of Pythagoras, yet it is again
+contradicted by others, who affirm that he was acquainted with neither
+the Greek language nor learning, and that he was a person of that
+natural talent and ability as of himself to attain to virtue, or else
+that he found some barbarian instructor superior to Pythagoras. Some
+affirm, also, that Pythagoras was not contemporary with Numa, but
+lived at least five generations after him; and that some other Pythagoras,
+a native of Sparta, who, in the sixteenth Olympiad, in the third year
+of which Numa became king, won a prize at the Olympic race, might,
+in his travel through Italy, have gained acquaintance with Numa, and
+assisted him in the constitution of his kingdom; whence it comes that
+many Laconian laws and customs appear amongst the Roman institutions.
+Yet, in any case, Numa was descended of the Sabines, who declare themselves
+to be a colony of the Lacedaemonians. And chronology, in general,
+is uncertain; especially when fixed by the lists of victors in the
+Olympic games, which were published at a late period by Hippias the
+Elean, and rest on no positive authority. Commencing, however, at
+a convenient point, we will proceed to give the most noticeable events
+that are recorded of the life of Numa. 
+
+It was the thirty-seventh year, counted from the foundation of Rome,
+when Romulus, then reigning, did, on the fifth day of the month of
+July, called the Caprotine Nones, offer a public sacrifice at the
+Goat's Marsh, in presence of the senate and people of Rome. Suddenly
+the sky was darkened, a thick cloud of storm and rain settled on the
+earth; the common people fled in affright, and were dispersed; and
+in this whirlwind Romulus disappeared, his body being never found
+either living or dead. A foul suspicion presently attached to the
+patricians, and rumours were current among the people as if that they,
+weary of kingly government, and exasperated of late by the imperious
+deportment of Romulus towards them, had plotted against his life and
+made him away, that so they might assume the authority and government
+into their own hands. This suspicion they sought to turn aside by
+decreeing divine honours to Romulus, as to one not dead but translated
+to a higher condition. And Proculus, a man of note, took oath that
+he saw Romulus caught up into heaven in his arms and vestments, and
+heard him, as he ascended, cry out that they should hereafter style
+him by the name of Quirinus. 
+
+This trouble, being appeased, was followed by another, about the election
+of a new king; for the minds of the original Romans and the new inhabitants
+were not as yet grown into that perfect unity of temper, but that
+there were diversities of factions amongst the commonalty and jealousies
+and emulations amongst the senators; for though all agreed that it
+was necessary to have a king, yet what person or of which nation was
+matter of dispute. For those who had been builders of the city with
+Romulus, and had already yielded a share of their lands and dwellings
+to the Sabines, were indignant at any pretension on their part to
+rule over their benefactors. On the other side, the Sabines could
+plausibly allege, that, at their king Tatius's decease, they had peaceably
+submitted to the sole command of Romulus; so now their turn was come
+to have a king chosen out of their own nation; nor did they esteem
+themselves to have combined with the Romans as inferiors, nor to have
+contributed less than they to the increase of Rome, which, without
+their numbers and association, could scarcely have merited the name
+of a city. 
+
+Thus did both parties argue and dispute their cause; but lest meanwhile
+discord, in the absence of all command, should occasion general confusion,
+it was agreed that the hundred and fifty senators should interchangeably
+execute the office of supreme magistrate, and each in succession,
+with the ensigns of royalty, should offer the solemn sacrifices and
+despatch public business for the space of six hours by day and six
+by night; which vicissitude and equal distribution of power would
+preclude all rivalry amongst the senators and envy from the people,
+when they should behold one, elevated to the degree of a king, levelled
+within the space of a day to the condition of a private citizen. This
+form of government is termed, by the Romans, interregnum. Nor yet
+could they, by this plausible and modest way of rule, escape suspicion
+and clamour of the vulgar, as though they were changing the form of
+government to an oligarchy, and designing to keep the supreme power
+in a sort of wardship under themselves, without ever proceeding to
+choose a king. Both parties came at length to the conclusion that
+the one should choose a king out of the body of the other; the Romans
+make a choice of a Sabine, or the Sabines name a Roman; this was esteemed
+the best expedient to put an end to all party spirit, and the prince
+who should be chosen would have an equal affection to the one party
+as his electors and to the other as his kinsmen. The Sabines remitted
+the choice to the original Romans, and they, too, on their part, were
+more inclinable to receive a Sabine king elected by themselves than
+to see a Roman exalted by the Sabines. Consultations being accordingly
+held, they named Numa Pompilius, of the Sabine race, a person of that
+high reputation for excellence, that, though he were not actually
+residing at Rome, yet he was no sooner nominated than accepted by
+the Sabines, with acclamation almost greater than that of the electors
+themselves. 
+
+The choice being declared and made known to the people, principal
+men of both parties were appointed to visit and entreat him, that
+he would accept the administration of the government. Numa resided
+at a famous city of the Sabines called Cures, whence the Romans and
+Sabines gave themselves the joint name of Quirites. Pomponius, an
+illustrious person, was his father, and he the youngest of his four
+sons, being (as it had been divinely ordered) born on the twenty-first
+day of April, the day of the foundation of Rome. He was endued with
+a soul rarely tempered by nature, and disposed to virtue, which he
+had yet more subdued by discipline, a severe life, and the study of
+philosophy; means which had not only succeeded in expelling the baser
+passions, but also the violent and rapacious temper which barbarians
+are apt to think highly of; true bravery, in his judgment, was regarded
+as consisting in the subjugation of our passions by reason.
+
+He banished all luxury and softness from his own home, and while citizens
+alike and strangers found in him an incorruptible judge and counsellor,
+in private he devoted himself not to amusement or lucre, but to the
+worship of the immortal gods, and rational contemplation of their
+divine power and nature. So famous was he, that Tatius, the colleague
+of Romulus, chose him for his son-in-law, and gave him his only daughter,
+which, however, did not stimulate his vanity to desire to dwell with
+his father-in-law at Rome; he rather chose to inhabit with his Sabines,
+and cherish his own father in his old age; and Tatia, also, preferred
+the private conditions of her husband before the honours and splendour
+she might have enjoyed with her father. She is said to have died after
+she had been married thirteen years, and then Numa, leaving the conversation
+of the town, betook himself to a country life, and in a solitary manner
+frequented the groves and fields consecrated to the gods, passing
+his life in desert places. And this in particular gave occasion to
+the story about the goddess, namely, that Numa did not retire from
+human society out of any melancholy or disorder of mind, but because
+he had tasted the joys of more elevated intercourse, and, admitted
+to celestial wedlock in the love and converse of the goddess Egeria,
+had attained to blessedness, and to a divine wisdom. 
+
+The story evidently resembles those very ancient fables which the
+Phrygians have received and still recount of Attis, the Bithynians
+of Herodotus, the Arcadians of Endymion, not to mention several others
+who were thought blessed and beloved of the gods; nor does it seem
+strange if God, a lover, not of horses or birds, but men, should not
+disdain to dwell with the virtuous and converse with the wise and
+temperate soul, though it be altogether hard, indeed, to believe,
+that any god or daemon is capable of a sensual or bodily love and
+passion for any human form or beauty. Though, indeed, the wise Egyptians
+do not plausibly make the distinction, that it may be possible for
+a divine spirit so to apply itself to the nature of a woman, as to
+imbreed in her the first beginnings of generation, while on the other
+side they conclude it impossible for the male kind to have any intercourse
+or mixture by the body with any divinity, not considering, however,
+that what takes place on the one side must also take place on the
+other; intermixture, by force of terms, is reciprocal. Not that it
+is otherwise than befitting to suppose that the gods feel towards
+men affection, and love, in the sense of affection, and in the form
+of care and solicitude for their virtue and their good dispositions.
+And, therefore, it was no error of those who feigned, that Phorbas,
+Hyacinthus, and Admetus were beloved by Apollo; or that Hippolytus
+the Sicyonian was so much in his favour, that, as often as he sailed
+from Sicyon to Cirrha, the Pythian prophetess uttered this heroic
+verse expressive of the god's attention and joy: 
+
+"Now doth Hippolytus return again, 
+And venture his dear life upon the main." 
+
+It is reported, also, that Pan became enamoured of Pindar for his
+verses, and the divine power rendered honour to Hesiod and Archilochus
+after their death for the sake of the Muses; there is a statement,
+also, that Aesculapius sojourned with Sophocles in his lifetime, of
+which many proofs still exist, and that, when he was dead, another
+deity took care for his funeral rites. And so if any credit may be
+given to these instances, why should we judge it incongruous, that
+a like spirit of the gods should visit Zaleucus, Minos, Zoroaster,
+Lycurgus, and Numa, the controllers of kingdoms, and the legislators
+for commonwealths? Nay, it may be reasonable to believe, that the
+gods, with a serious purpose, assist at the councils and serious debates
+of such men, to inspire and direct them; and visit poets and musicians,
+if at all in their more sportive moods; but for difference of opinion
+here, as Bacchylides said, "the road is broad." For there is no absurdity
+in the account also given, that Lycurgus and Numa, and other famous
+lawgivers, having the task of subduing perverse and refractory multitudes,
+and of introducing great innovations, themselves made this pretension
+to divine authority, which, if not true, assuredly was expedient for
+the interests of those it imposed upon. 
+
+Numa was about forty years of age when the ambassadors came to make
+him offers of the kingdom; the speakers were Proculus and Velesus,
+one or other of whom it had been thought the people would elect as
+their new king; the original Romans being for Proculus, and the Sabines
+for Velesus. Their speech was very short, supposing that, when they
+came to tender a kingdom, there needed little to persuade to an acceptance;
+but, contrary to their expectations, they found that they had to use
+many reasons and entreaties to induce one, that lived in peace and
+quietness, to accept the government of a city whose foundation and
+increase had been made, in a manner, in war. In presence of his father
+and his kinsman Marcius he returned answer that "Every alteration
+of a man's life is dangerous to him; but madness only could induce
+one who needs nothing, and is satisfied with everything, to quit a
+life he is accustomed to; which, whatever else it is deficient in,
+at any rate has the advantage of certainty over one wholly doubtful
+and unknown. Though, indeed, the difficulties of this government cannot
+even be called unknown; Romulus, who first held it, did not escape
+the suspicion of having plotted against the life of his colleague
+Tatius; nor the senate the like accusation, of having treasonably
+murdered Romulus. Yet Romulus had the advantage to be thought divinely
+born and miraculously preserved and nurtured. My birth was mortal;
+I was reared and instructed by men that are known to you. The very
+points of my character that are most commended mark me as unfit to
+reign, love of retirement and of studies inconsistent with business,
+a passion that has become inveterate in me for peace, for unwarlike
+occupations, and for the society of men whose meetings are but those
+of worship and of kindly intercourse, whose lives in general are spent
+upon their farms and their pastures. I should but be, methinks, a
+laughingstock, while I should go about to inculcate the worship of
+the gods and give lessons in the love of justice and the abhorrence
+of violence and war, to a city whose needs are rather for a captain
+than for a king." 
+
+The Romans, perceiving by these words that he was declining to accept
+the kingdom, were the more instant and urgent with him that he would
+not forsake and desert them in this condition, and suffer them to
+relapse, as they must, into their former sedition and civil discord,
+there being no person on whom both parties could accord but on himself.
+And, at length, his father and Marcius, taking him aside, persuaded
+him to accept a gift so noble in itself, and tendered to him rather
+from heaven than from men. "Though," said they, "you neither desire
+riches, being content with what you have, nor court the fame of authority,
+as having already the more valuable fame of virtue, yet you will consider
+that government itself is a service of God, who now calls out into
+action your qualities of justice and wisdom, which were not meant
+to be left useless and unemployed. Cease, therefore, to avoid and
+turn your back upon an office which, to a wise man, is a field for
+great and honourable actions, for the magnificent worship of the gods,
+and for the introduction of habits of piety, which authority alone
+can effect amongst a people. Tatius, though a foreigner, was beloved,
+and the memory of Romulus has received divine honours; and who knows
+but that this people, being victorious, may be satiated with war,
+and, content with the trophies and spoils they have acquired, may
+be, above all things, desirous to have a pacific and justice-loving
+prince to lead them to good order and quiet? But if, indeed, their
+desires are uncontrollably and madly set on war, were it not better,
+then, to have the reins held by such a moderating hand as is able
+to divert the fury another way, and that your native city and the
+whole Sabine nation should possess in you a bond of goodwill and friendship
+with this young and growing power?" 
+
+With these reasons and persuasions several auspicious omens are said
+to have concurred, and the zeal, also, of his fellow-citizens, who,
+on understanding what message the Roman ambassadors had brought him,
+entreated him to accompany them, and to accept the kingdom as a means
+to unanimity and concord between the nations. 
+
+Numa, yielding to these inducements, having first performed divine
+sacrifice, proceeded to Rome, being met in his way by the senate and
+people, who, with an impatient desire, came forth to receive him;
+the women, also, welcomed him with joyful acclamations, and sacrifices
+were offered for him in all the temples, and so universal was the
+joy, that they seemed to be receiving, not a new king, but a new kingdom.
+In this manner he descended into the forum, where Spurius Vettius,
+whose turn it was to be interrex at that hour, put it to the vote;
+and all declared him king. Then the regalities and robes of authority
+were brought to him; but he refused to be invested with them until
+he had first consulted and been confirmed by the gods; so being accompanied
+by the priests and augurs, he ascended the Capitol, which at that
+time the Romans called the Tarpeian Hill. Then the chief of the augurs
+covered Numa's head, and turned his face towards the south, and, standing
+behind him, laid his right hand on his head, and prayed, turning his
+eyes every way, in expectation of some auspicious signal from the
+gods. It was wonderful, meantime, with what silence and devotion the
+multitude stood assembled in the forum, in similar expectation and
+suspense, till auspicious birds appeared and passed on the right.
+Then Numa, apparelling himself in his royal robes, descended from
+the hill to the people, by whom he was received and congratulated
+with shouts and acclamations of welcome, as a holy king, and beloved
+of all the gods. 
+
+The first thing he did at his entrance into government was to dismiss
+the band of three hundred men which had been Romulus's life-guard,
+called by him Celeres, saying that he would not distrust those who
+put confidence in him; nor rule over a people that distrusted him.
+The next thing he did was to add to the two priests of Jupiter and
+Mars a third, in honour of Romulus, whom he called the Flamen Quirinalis.
+The Romans anciently called their priests Flamines, by corruption
+of the word Pilamines, from a certain cap which they wore, called
+Pileus. In those times Greek words were more mixed with the Latin
+than at present; thus also the royal robe, which is called, Laena,
+Juba says, is the same as the Greek Chlaena; and that the name of
+Camillus, given to the boy with both his parents living, who serves
+in the temple of Jupiter, was taken from the name given by some Greeks
+to Mercury, denoting his office of attendance on the gods.
+
+When Numa had, by such measures, won the favour and affection of the
+people, he set himself without delay to the task of bringing the hard
+and iron Roman temper to somewhat more of gentleness and equity. Plato's
+expression of a city in high fever was never more applicable than
+to Rome at that time; in its origin formed by daring and warlike spirits,
+whom bold and desperate adventure brought thither from every quarter,
+it had found in perpetual wars and incursions on its neighbours its
+after sustenance and means of growth, and in conflict with danger
+the source of new strength; like piles, which the blows of the hammer
+serve to fix into the ground. Wherefore Numa, judging it no slight
+undertaking to mollify and bend to peace the presumptuous and stubborn
+spirits of this people, began to operate upon them with the sanctions
+of religion. He sacrificed often and used processions and religious
+dances, in which most commonly he officiated in person; by such combinations
+of solemnity with refined and humanizing pleasures, seeking to win
+over and mitigate their fiery and warlike tempers. At times, also,
+he filled their imaginations with religious terrors, professing that
+strange apparitions had been seen, and dreadful voices heard; thus
+subduing and humbling their minds by a sense of supernatural fears.
+
+This method which Numa used made it believed that he had been much
+conversant with Pythagoras; for in the philosophy of the one, as in
+the policy of the other, man's relations to the deity occupy a great
+place. It is said, also, that the solemnity of his exterior garb and
+gestures was adopted by him from the same feeling with Pythagoras.
+For it is said of Pythagoras, that he had taught an eagle to come
+at his call, and stoop down to him in his flight; and that, as he
+passed among the people assembled at the Olympic games, he showed
+them his golden thigh; besides many other strange and miraculous seeming
+practices, on which Timon the Philasian wrote the distich-
+
+"Who, of the glory of a juggler proud, 
+With solemn talk imposed upon the crowd." 
+
+In like manner Numa spoke of a certain goddess or mountain nymph that
+was in love with him, and met him in secret, as before related; and
+professed that he entertained familiar conversation with the Muses,
+to whose teaching he ascribed the greatest part of his revelations;
+and amongst them, above all, he recommended to the veneration of the
+Romans one in particular, whom he named Tacita, the silent; which
+he did perhaps in imitation and honour of the Pythagorean silence.
+His opinion, also, of images is very agreeable to the doctrine of
+Pythagoras; who conceived of the first principle of being as transcending
+sense and passion, invisible and incorrupt, and only to be apprehended
+by abstract intelligence. So Numa forbade the Romans to represent
+God in the form of man or beast, nor was there any painted or graven
+image of a deity admitted amongst them for the space of the first
+hundred and seventy years, all of which time their temples and chapels
+were kept free and pure from images; to such baser objects they deemed
+it impious to liken the highest, and all access to God impossible,
+except by the pure act of the intellect. His sacrifices, also, had
+great similitude to the ceremonial of Pythagoras, for they were not
+celebrated with effusion of blood, but consisted of flour, wine, and
+the least costly offerings. Other external proofs, too, are urged
+to show the connection Numa had with Pythagoras. The comic writer
+Epicharmus, an ancient author, and of the school of Pythagoras, in
+a book of his dedicated to Antenor, records that Pythagoras was made
+a freeman of Rome. Again, Numa gave to one of his four sons the name
+of Mamercus, which was the name of one of the sons of Pythagoras;
+from whence, as they say, sprang that ancient patrician family of
+the Aemilli, for that the king gave him in sport the surname of Aemilius,
+for his engaging and graceful manner in speaking. I remember, too,
+that when I was at Rome, I heard many say, that, when the oracle directed
+two statues to be raised, one to the wisest and another to the most
+valiant man in Greece, they erected two of brass, one representing
+Alcibiades, and the other Pythagoras. 
+
+But to pass by these matters, which are full of uncertainty and not
+so important as to be worth our time to insist on them, the original
+constitution of the priests, called Pontifices, is ascribed unto Numa,
+and he himself was, it is said, the first of them; and that they have
+the name of Pontifices from potens, powerful, because they attend
+the service of the gods, who have power to command over all. Others
+make the word refer to exceptions of impossible cases; the priests
+were to perform all the duties possible to them; if anything lay beyond
+their power, the exception was not to be cavilled at. The most common
+opinion is the most absurd, which derives this word from pons, and
+assigns the priests the title of bridge-makers. The sacrifices performed
+on the bridge were amongst the most sacred and ancient, and the keeping
+and repairing of the bridge attached, like any other public sacred
+office, to the priesthood. It was accounted not simply unlawful, but
+a positive sacrilege, to pull down the wooden bridge; which moreover
+is said, in obedience to an oracle, to have been built entirely of
+timber and fastened with wooden pins, without nails or cramps of iron.
+The stone bridge was built a very long time after when Aemilius was
+quaestor, and they do, indeed, say also that the wooden bridge was
+not so old as Numa's time, but was finished by Ancus Marcius, when
+he was king, who was the grandson of Numa by his daughter.
+
+The office of Pontifex Maximus, or chief priest, was to declare and
+interpret the divine law, or, rather, to preside over sacred rites;
+he not only prescribed rules for public ceremony, but regulated the
+sacrifices of private persons, not suffering them to vary from established
+custom, and giving information to every one of what was requisite
+for purposes of worship or supplication. He was also guardian of the
+vestal virgins, the institution of whom, and of their perpetual fire,
+was attributed to Numa, who, perhaps, fancied the charge of pure and
+uncorrupted flames would be fitly intrusted to chaste and unpolluted
+persons, or that fire, which consumes, but produces nothing, bears
+an analogy to the virgin estate. In Greece, wherever a perpetual holy
+fire is kept, as at Delphi and Athens the charge of it is committed,
+not to virgins, but widows past the time of marriage. And in case
+by any accident it should happen that this fire became extinct, as
+the holy lamp was at Athens under the tyranny of Aristion, and at
+Delphi, when that temple was burnt by the Medes, as also in the time
+of the Mithridatic and Roman civil war, when not only the fire was
+extinguished, but the altar demolished, then, afterwards, in kindling
+this fire again, it was esteemed an impiety to light it from common
+sparks or flame, or from anything but the pure and unpolluted rays
+of the sun, which they usually effect by concave mirrors, of a figure
+formed by the revolution of an isosceles rectangular triangle, all
+the lines from the circumference of which meeting in a centre, by
+holding it in the light of the sun they can collect and concentrate
+all its rays at this one point of convergence; where the air will
+now become rarefied, and any light, dry, combustible matter will kindle
+as soon as applied, under the effect of the rays, which here acquired
+the substance and active force of fire. Some are of opinion that these
+vestals had no other business than the preservation of this fire;
+but others conceive that they were keepers of other divine secrets
+concealed from all but themselves, of which we have told all that
+may lawfully be asked or told, in the life of Camillus. Gegania and
+Verenia, it is recorded, were the names of the first two virgins consecrated
+and ordained by Numa; Canuleia and Tarpeia succeeded: Servius afterwards
+added two, and the number of four has continued the present time.
+
+The statutes prescribed by Numa for the vestals were these: that they
+should take a vow of virginity for the space of thirty years, the
+first ten of which they were to spend in learning their duties, the
+second ten in performing them, and the remaining ten in teaching and
+instructing others. Thus the whole term being completed, it was lawful
+for them to marry, and, leaving the sacred order, to choose any condition
+of life that pleased them; but this permission few, as they say, made
+use of; and in cases where they did so, it was observed that their
+change was not a happy one, but accompanied ever after with regret
+and melancholy; so that the greater number, from religious fears and
+scruples, forbore, and continued to old age and death in the strict
+observance of a single life. 
+
+For this condition he compensated by great privileges and prerogatives;
+as that they had power to make a will in the lifetime of their father;
+that they had a free administration of their own affairs without guardian
+or tutor, which was the privilege of women who were the mothers of
+three children; when they go abroad, they have the fasces carried
+before them; and if in their walks they chance to meet a criminal
+on his way to execution, it saves his life, upon oath made that the
+meeting was an accidental one, and not concerted or of set purpose.
+Any one who presses upon the chair on which they are carried, is put
+to death. If these vestals commit any minor fault, they are punishable
+by the high priest only, who scourges the offender, sometimes with
+her clothes off, in a dark place, with a curtain drawn between; but
+she that has broken her vow is buried alive near the gate called Collina,
+where a little mound of earth stands inside the city, reaching some
+little distance, called in Latin agger; under it a narrow room is
+constructed, to which a descent is made by stairs; here they prepare
+a bed, and light a lamp, and leave a small quantity of victuals, such
+as bread, water, a pail of milk, and some oil; that so that body which
+had been consecrated and devoted to the most sacred service of religion
+might not be said to perish by such a death as famine. The culprit
+herself is put in a litter, which they cover over, and tie her down
+with cords on it, so that nothing she utters may be heard. They then
+take her to the forum; all people silently go out of the way as she
+passes, and such as follow accompany the bier with solemn and speechless
+sorrow; and indeed, there is not any spectacle more appalling, nor
+any day observed by the city with greater appearance of gloom and
+sadness. When they come to the place of execution, the officers loose
+the cords, and then the high priest, lifting his hands to heaven,
+pronounces certain prayers to himself before the act; then he brings
+out the prisoner, being still covered, and placing her upon the steps
+that lead down to the cell, turns away his face with the rest of the
+priests; the stairs are drawn up after she has gone down, and a quantity
+of earth is heaped up over the entrance to the cell, so as to prevent
+it from being distinguished from the rest of the mound. This is the
+punishment of those who break their vow of virginity. 
+
+It is said, also, that Numa built the temple of Vesta, which was intended
+for a repository of the holy fire, of a circular form, not to represent
+the figure of the earth, as if that were the same as Vesta, but that
+of the general universe, in the centre of which the Pythagoreans place
+the element of fire, and give it the name of Vesta and the unit; and
+do not hold that the earth is immovable, or that it is situated in
+the centre of the globe, but that it keeps a circular motion about
+the seat of fire, and is not in the number of the primary elements;
+in this agreeing with the opinion of Plato, who, they say, in his
+later life, conceived that the earth held a lateral position, and
+that the central and sovereign space was reserved for some nobler
+body. 
+
+There was yet a farther use of the priests, and that was to give people
+directions in the national usages at funeral rites. Numa taught them
+to regard these offices, not as a pollution, but as a duty paid to
+the gods below, into whose hands the better part of us is transmitted;
+especially they were to worship the goddess Libitina, who presided
+over all the ceremonies performed at burials; whether they meant hereby
+Proserpina, or, as the most learned of the Romans conceive, Venus,
+not inaptly attributing the beginning and end of man's life to the
+agency of one and the same diety. Numa also prescribed rules for regulating
+the days of mourning, according to certain times and ages. As, for
+example, a child of three years was not to be mourned for at all;
+one older, up to ten years, for as many months as it was years old;
+and the longest time of mourning for any person whatsoever was not
+to exceed the term of ten months; which was the time appointed for
+women that lost their husbands to continue in widowhood. If any married
+again before that time, by the laws of Numa, she was to sacrifice
+a cow big with calf. 
+
+Numa, also, was founder of several other orders of priests, two of
+which I shall mention, the Salii and the Fecials, which are among
+the clearest proofs of the devoutness and sanctity of his character.
+These Fecials, or guardians of peace, seem to have had their name
+from their office, which was to put a stop to disputes by conference
+and speech; for it was not allowable to take up arms until they had
+declared all hopes of accommodation to be at an end, for in Greek,
+too, we call it peace when disputes are settled by words, and not
+by force. The Romans commonly despatched the Fecials, or heralds,
+to those who had offered them injury, requesting satisfaction; and,
+in case they refused, they then called the gods to witness, and, with
+imprecations upon themselves and their country should they be acting
+unjustly, so declared war; against their will, or without their consent,
+it was lawful neither for soldier nor king to take up arms; the war
+was begun with them, and when they had first handed it over to the
+commander as a just quarrel, then his business was to deliberate of
+the manner and ways to carry it on. It is believed that the slaughter
+and destruction which the Gauls made of the Romans was a judgment
+on the city for neglect of this religious proceeding; for that when
+these barbarians besieged the Clusinians, Fabius Ambustus was despatched
+to their camp to negotiate peace for the besieged; and, on their returning
+a rude refusal, Fabius imagined that his office of ambassador was
+at an end, and, rashly engaging on the side of the Clusinians, challenged
+the bravest of the enemy to a single combat. It was the fortune of
+Fabius to kill his adversary, and to take his spoils; but when the
+Gauls discovered it, they sent a herald to Rome to complain against
+him; since, before war was declared, he had, against the law of nations,
+made a breach of the peace. The matter being debated in the senate,
+the Fecials were of opinion that Fabius ought to be consigned into
+the hands of the Gauls; but he, being forewarned of their judgment,
+fled to the people, by whose protection and favour he escaped the
+sentence. On this, the Gauls marched with their army to Rome, where
+having taken the capitol, they sacked the city. The particulars of
+all which are fully given in the history of Camillus. 
+
+The origin of the Salii is this. In the eighth year of the reign of
+Numa, a terrible pestilence, which traversed all Italy, ravaged likewise
+the city of Rome; and the citizens being in distress and despondent,
+a brazen target, they say, fell from heaven into hands of Numa, who
+gave them this marvellous account of it: that Egeria and the Muses
+had assured him it was sent from heaven for the cure and safety of
+the city, and that, to keep it secure, he was ordered by them to make
+eleven others, so like in dimensions and form to the original that
+no thief should be able to distinguish the true from the counterfeit.
+He farther declared, that he was commanded to consecrate to the Muses
+the place, and the fields about it, where they had been chiefly wont
+to meet with him, and that the spring which watered the fields should
+be hallowed for the use of the vestal virgins, who were to wash and
+cleanse the penetralia of their sanctuary with those holy waters.
+The truth of all which was speedily verified by the cessation of the
+pestilence. Numa displayed the target to the artificers and bade them
+show their skill in making others like it; all despaired, until at
+length one Mamurius Veturius, an excellent workman, happily hit upon
+it, and made all so exactly the same that Numa himself was at a loss
+and could not distinguish. The keeping of these targets was committed
+to the charge of certain priests, called Salii, who did not receive
+their name, as some tell the story, from Salius, a dancing-master,
+born in Samothrace, or at Mantinea who taught the way of dancing in
+arms; but more truly from that jumping dance which the Salii themselves
+use, when in the month of March they carry the sacred targets through
+the city; at which procession they are habited in short frocks of
+purple, girt with a broad belt studded with brass; on their heads
+they wear a brass helmet and carry in their hands short daggers, which
+they clash every now and then against the targets. But the chief thing
+is the dance itself. They move with much grace, performing, in quick
+time and close order, various intricate figures, with a great display
+of strength and agility. The targets were called Ancilia from their
+form; for they are not made round, nor like proper targets, of a complete
+circumference, but are cut out into a wavy line, the ends of which
+are rounded off and turned in at the thickest part towards each other;
+so that their shape is curvilinear, or, in Greek, ancylon; or the
+name may come from ancon, the elbow, on which they are carried. Thus
+Juba writes, who is eager to make it Greek. But it might be, for that
+matter, from its having come down anecathen, from above; or from its
+akesis, or cure of diseases; or auchmon lysis, because it put an end
+to a drought; or from its anaschesis, or relief from calamities, which
+is the origin of the Athenian name Anaces, given to Castor and Pollux;
+if we must, that is, reduce it to Greek. The reward which Mamurius
+received for his art was to be mentioned and commemorated in the verses
+which the Salii sang, as they danced in their arms through the city;
+though some will have it that they do not say Veturium Mamuium, but
+Veterem Memoriam, ancient remembrance. 
+
+After Numa had in this manner instituted these several orders of priests,
+he erected, near the temple of Vesta, what is called to this day Regia,
+or king's house, where he spent the most part of his time performing
+divine service, instructing the priests, or conversing with them on
+sacred subjects. He had another house upon the Mount Quirinalis, the
+site of which they show to this day. In all public processions and
+solemn prayers, criers were sent before to give notice to the people
+that they should forbear their work, and rest. They say that the Pythagoreans
+did not allow people to worship and pray to their gods by the way,
+but would have them go out from their houses direct, with their minds
+set upon the duty, and Numa, in like manner, wished that his citizens
+should neither see nor hear any religious service in a perfunctory
+and inattentive manner, but, laying aside all other occupations, should
+apply their minds to religion as to a most serious business; and that
+the streets should be free from all noises and cries that accompany
+manual labour, and clear for the sacred solemnity. Some traces of
+this custom remain at Rome to this day, for, when the consul begins
+to take auspices or do sacrifice, they call out to the people, Hoc
+age, Attend to this, whereby the auditors then present are admonished
+to compose and recollect themselves. Many other of his precepts resemble
+those of the Pythagoreans. The Pythagoreans said, for example, "Thou
+shalt not make a peck-measure thy seat to sit on. Thou shalt not stir
+the fire with a sword. When thou goest out upon a journey, look not
+behind thee. When thou sacrificest to the celestial gods, let it be
+with an odd number, and when to the terrestrial, with even." The significance
+of each of which precepts they would not commonly disclose. So some
+of Numa's traditions have no obvious meaning. "Thou shalt not make
+libation to the gods of wine from an unpruned vine. No sacrifices
+shall be performed without meal. Turn round to pay adoration to the
+gods; sit after you have worshipped." The first two directions seem
+to denote the cultivation and subduing of the earth as a part of religion;
+and as to the turning which the worshippers are to use in divine adoration,
+it is said to represent the rotatory motion of the world. But, in
+my opinion, the meaning rather is, that the worshipper, since the
+temples front the east, enters with his back to the rising sun; there,
+faces round to the east, and so turns back to the god of the temple,
+by this circular movement referring the fulfilment of his prayers
+to both divinities. Unless, indeed, this change of posture may have
+a mystical meaning, like the Egyptian wheels, and signify to us the
+instability of human fortune, and that, in whatever way God changes
+and turns our lot and condition, we should rest contented, and accept
+it as right and fitting. They say, also, that the sitting after worship
+was to be by way of omen of their petitions being granted, and the
+blessing they asked assured to them. Again, as different courses of
+actions are divided by intervals of rest, they might seat themselves
+after the completion of what they had done, to seek favour of the
+gods for beginning something else. And this would very well suit with
+what we had before; the lawgiver wants to habituate us to make our
+petitions to the deity not by the way, and, as it were, in a hurry,
+when we have other things to do, but with time and leisure to attend
+to it. By such discipline and schooling in religion, the city passed
+insensibly into such a submissiveness of temper, and stood in such
+awe and reverence of the virtue of Numa, that they received, with
+an undoubted assurance, whatever he delivered though never so fabulous,
+and thought nothing incredible or impossible from him. 
+
+There goes a story that he once invited a great number of citizens
+to an entertainment, at which the dishes in which the meat was served
+were very homely and plain, and the repast itself poor and ordinary
+fare; the guests seated, he began to tell them that the goddess that
+consulted with him was then at that time come to him; when on a sudden
+the room was furnished with all sorts of costly drinking-vessels,
+and the tables loaded with rich meats, and a most sumptuous entertainment.
+But the dialogue which is reported to have passed between him and
+Jupiter surpasses all the fabulous legends that were ever invented.
+They say that before Mount Aventine was inhabited or enclosed within
+the walls of the city, two demigods, Picus and Faunus, frequented
+the springs and thick shades of that place; which might be two satyrs,
+or Pans except that they went about Italy playing the same sorts of
+tricks, by skill in drugs and magic, as are ascribed by the Greeks
+to the Dactyli of Mount Ida. Numa contrived one day to surprise these
+demigods, by mixing wine and honey in the waters of the spring of
+which they usually drank. On finding themselves ensnared, they changed
+themselves into various shapes, dropping their own form and assuming
+every kind of unusual and hideous appearance; but when they saw they
+were safely entrapped, and in no possibility of getting free, they
+revealed to him many secrets and future events; and particularly a
+charm for thunder and lightning, still in use, performed with onions
+and hair and pilchards. Some say they did not tell him the charm,
+but by their magic brought down Jupiter out of heaven; and that he
+then, in an angry manner answering the inquiries, told Numa, that,
+if he would charm the thunder and lightning, he must do it with heads.
+"How," said Numa, "with the heads of onions?" "No," replied Jupiter,
+"of men." But Numa, willing to elude the cruelty of this receipt,
+turned it another way, saying, "Your meaning is, the hairs of men's
+heads." "No," replied Jupiter, "with living"- "pilchards," said Numa,
+interrupting him. These answers he had learnt from Egeria. Jupiter
+returned again to heaven, pacified and ileos, or propitious. The place
+was, in remembrance of him, called Ilicium, from this Greek word;
+and the spell in this manner effected. 
+
+These stories, laughable as they are, show us the feelings which people
+then, by force of habit, entertained towards the deity. And Numa's
+own thoughts are said to have been fixed to that degree on divine
+objects, that he once, when a message was brought to him that "Enemies
+are approaching," answered with a smile, "And I am sacrificing." It
+was he, also, that built the temples of Faith and Terminus, and taught
+the Romans that the name of Faith was the most solemn oath that they
+could swear. They still use it; and to the god Terminus, or Boundary,
+they offer to this day both public and private sacrifices, upon the
+borders and stone-marks of their land; living victims now, though
+anciently those sacrifices were solemnized without blood; for Numa
+reasoned that the god of boundaries, who watched over peace, and testified
+to fair dealing, should have no concern with blood. It is very clear
+that it was this king who first prescribed bounds to the territory
+of Rome; for Romulus would but have openly betrayed how much he had
+encroached on his neighbours' lands, had he ever set limits to his
+own; for boundaries are, indeed, a defence to those who choose to
+observe them, but are only a testimony against the dishonesty of those
+who break through them. The truth is, the portion of lands which the
+Romans possessed at the beginning was very narrow, until Romulus enlarged
+them by war; all those acquisitions Numa now divided amongst the indigent
+commonalty, wishing to do away with that extreme want which is a compulsion
+to dishonesty, and, by turning the people to husbandry, to bring them,
+as well as their lands, into better order. For there is no employment
+that gives so keen and quick a relish for peace as husbandry and a
+country life, which leave in men all that kind of courage that makes
+them ready to fight in defence of their own, while it destroys the
+licence that breaks out into acts of injustice and rapacity. Numa,
+therefore, hoping agriculture would be a sort of charm to captivate
+the affections of his people to peace, and viewing it rather as a
+means to moral than to economical profit, divided all the lands into
+several parcels, to which he gave the name of pagus, or parish, and
+over every one of them he ordained chief overseers; and, taking a
+delight sometimes to inspect his colonies in person, he formed his
+judgment of every man's habits by the results; of which being witness
+himself, he preferred those to honours and employments who had done
+well, and by rebukes and reproaches incited the indolent and careless
+to improvement. But of all his measures the most commended was his
+distribution of the people by their trades into companies or guilds;
+for as the city consisted, or rather did not consist of, but was divided
+into, two different tribes, the diversity between which could not
+be effaced and in the meantime prevented all unity and caused perpetual
+tumult and ill-blood, reflecting how hard substances that do not readily
+mix when in the lump may, by being beaten into powder, in that minute
+form he combined, he resolved to divide the whole population into
+a number of small divisions, and thus hoped, by introducing other
+distinctions, to obliterate the original and great distinction, which
+would be lost among the smaller. So, distinguishing the whole people
+by the several arts and trades, he formed the companies of musicians,
+goldsmiths, carpenters, dyers, shoemakers, skinners, braziers, and
+potters; and all other handicraftsmen he composed and reduced into
+a single company, appointing every one their proper courts, councils,
+and religious observances. In this manner all factious distinctions
+began, for the first time, to pass out of use, no person any longer
+being either thought of or spoken of under the notion of a Sabine
+or a Roman, a Romulian or a Tatian; and the new division became a
+source of general harmony and intermixture. 
+
+He is also much to be commended for the repeal, or rather amendment,
+of that law which gives power to fathers to sell their children; he
+exempted such as were married, conditionally that it had been with
+the liking and consent of their parents; for it seemed a hard thing
+that a woman who had given herself in marriage to a man whom she judged
+free should afterwards find herself living with a slave.
+
+He attempted, also, the formation of a calendar, not with absolute
+exactness, yet not without some scientific knowledge. During the reign
+of Romulus, they had let their months run on without any certain or
+equal term; some of them contained twenty days, others thirty-five,
+others more; they had no sort of knowledge of the inequality in the
+motions of the sun and moon; they only kept to the one rule that the
+whole course of the year contained three hundred and sixty days. Numa,
+calculating the difference between the lunar and the solar year at
+eleven days, for that the moon completed her anniversary course in
+three hundred and fifty-four days, and the sun in three hundred and
+sixty-five, to remedy this incongruity doubled the eleven days, and
+every other year added an intercalary month, to follow February, consisting
+of twenty-two days, and called by the Romans the month Mercedinus.
+This amendment, however, itself, in course of time, came to need other
+amendments. He also altered the order of the months; for March, which
+was reckoned the first he put into the third place; and January, which
+was the eleventh, he made the first; and February, which was the twelfth
+and last, the second. Many will have it, that it was Numa, also, who
+added the two months of January and February; for in the beginning
+they had had a year of ten months; as there are barbarians who count
+only three; the Arcadians, in Greece, had but four; the Acarnanians,
+six. The Egyptian year at first, they say, was of one month; afterwards,
+of four; and so, though they live in the newest of all countries,
+they have the credit of being a more ancient nation than any, and
+reckon, in their genealogies, a prodigious number of years, counting
+months, that is, as years. That the Romans, at first, comprehended
+the whole year within ten, and not twelve months, plainly appears
+by the name of the last, December, meaning the tenth month; and that
+March was the first is likewise evident, for the fifth month after
+it was called Quintilis, and the sixth Sextilis, and so the rest;
+whereas, if January and February had, in this account, preceded March,
+Quintilis would have been fifth in name and seventh in reckoning.
+It was also natural that March, dedicated to Mars, should be Romulus's
+first and April, named from Venus, or Aphrodite, his second month;
+in it they sacrifice to Venus, and the women bathe on the calends,
+or first day of it, with myrtle garlands on their heads. But others,
+because of its being p and not ph, will not allow of the derivation
+of this word from Aphrodite, but say it is called April from aperio,
+Latin for to open, because that this month is high spring, and opens
+and discloses the buds and flowers. The next is called May, from Maia,
+the mother of Mercury, to whom it is sacred; then June follows, so
+called from Juno; some, however, derive them from the two ages, old
+and young, majores, being their name for older, and juniores for younger
+men. To the other months they gave denominations according to their
+order; so the fifth was called Quintilis, Sextilis the sixth, and
+the rest, September, October, November, and December. Afterwards Quintilis
+received the name of Julius, from Caesar, who defeated Pompey; as
+also Sextilis that of Augustus, from the second Caesar, who had that
+title. Domitian, also, in imitation, gave the two other following
+months his own names, of Germanicus and Domitianus; but, on his being
+slain, they recovered their ancient denominations of September and
+October. The two last are the only ones that have kept their names
+throughout without any alteration. Of the months which were added
+or transposed in their order by Numa, February comes from februa;
+and is as much a Purification month; in it they make offerings to
+the dead, and celebrate the Lupercalia, which, in most points, resembles
+a purification. January was also called from janus, and precedence
+given to it by Numa before March, which was dedicated to the god Mars;
+because, as I conceive, he wished to take every opportunity of intimating
+that the arts and studies of peace are to be preferred before those
+of war. For this Janus, whether in remote antiquity he were a demigod
+or a king, was certainly a great lover of civil and social unity,
+and one who reclaimed men from brutal and savage living; for which
+reason they figure him with two faces, to represent the two states
+and conditions out of the one of which he brought mankind, to lead
+them into the other. His temple at Rome has two gates, which they
+call the gates of war, because they stand open in the time of war,
+and shut in the times of peace; of which latter there was very seldom
+an example, for, as the Roman empire was enlarged and extended, it
+was so encompassed with barbarous nations and enemies to be resisted,
+that it was seldom or never at peace. Only in the time of Augustus
+Caesar, after he had overcome Antony, this temple was shut; as likewise
+once before, when Marcus Atilius and Titus Manlius were consuls; but
+then it was not long before, wars breaking out, the gates were again
+opened. But, during the reign of Numa, those gates were never seen
+open a single day, but continued constantly shut for a space of forty-three
+years together; such an entire and universal cessation of war existed.
+For not only had the people of Rome itself been softened and charmed
+into a peaceful temper by the just and mild rule of a pacific prince,
+but even the neighbouring cities, as if some salubrious and gentle
+air had blown from Rome upon them, began to experience a change of
+feeling, and partook in the general longing for the sweets of peace
+and order, and for life employed in the quiet tillage of soil, bringing
+up of children, and worship of the gods. Festival days and sports,
+and the secure and peaceful interchange of friendly visits and hospitalities
+prevailed all through the whole of Italy. The love of virtue and justice
+flowed from Numa's wisdom as from a fountain, and the serenity of
+his spirit diffused itself, like a calm, on all sides; so that the
+hyperboles of poets were flat and tame to express what then existed;
+as that- 
+
+"Over the iron shield the spiders hang their threads," or that-
+
+"Rust eats the pointed spear and double-edged sword. 
+No more is heard the trumpet's brazen roar, 
+Sweet sleep is banished from our eyes no more." 
+
+For during the whole reign of Numa, there was neither war, nor sedition,
+nor innovation in the state, nor any envy or ill-will to his person,
+nor plot or conspiracy from views of ambition. Either fear of the
+gods that were thought to watch over him, or reverence for his virtue,
+or divine felicity of fortune that in his days preserved human innocence,
+made his reign, by whatever means, a living example and verification
+of that saying which Plato, long afterwards, ventured to pronounce,
+that the sole and only hope of respite or remedy for human evils was
+in some happy conjunction of events which should unite in a single
+person the power of a king and the wisdom of a philosopher, so as
+to elevate virtue to control and mastery over vice. The wise man is
+blessed in himself, and blessed also are the auditors who can bear
+and receive those words which flow from his mouth; and perhaps, too,
+there is no need of compulsion or menaces to affect the multitude,
+for the mere sight itself of a shining and conspicuous example of
+virtue in the life of their prince will bring them spontaneously to
+virtue, and to a conformity with that blameless and blessed life of
+good-will and mutual concord, supported by temperance and justice,
+which is the highest benefit that human means can confer; and he is
+the truest ruler who can best introduce it into the hearts and practice
+of his subjects. It is the praise of Numa that no one seems ever to
+have discerned this so clearly as he. 
+
+As to his children and wives, there is a diversity of reports by several
+authors; some will have it that he never had any other wife than Tatia;
+nor more children than one daughter called Pompilia; others will have
+it that he left also four sons, namely, Pompo, Pinus, Calpus, and
+Mamercus, every one of whom had issue, and from them descended the
+noble and illustrious families of Pomponii, Pinarii, Calpurnii, and
+Mamerci, which for this reason took also the surname of Rex, or King.
+But there is a third set of writers who say that these pedigrees are
+but a piece of flattery used by writers who, to gain favour with these
+great families, made them fictitious genealogies from the lineage
+of Numa; and that Pompilia was not the daughter of Tatia, but Lucretia,
+another wife whom he married after he came to his kingdom; however,
+all of them agree in opinion that she was married to the son of that
+Marcius who persuaded him to accept the government, and accompanied
+him to Rome, where, as a mark of honour, he was chosen into the senate,
+and after the death of Numa, standing in competition with Tullus Hostilius
+for the kingdom, and being disappointed of the election, in discontent
+killed himself; his son Marcius, however, who had married Pompilia,
+continuing at Rome, was the father of Ancus Marcius, who succeeded
+Tullus Hostilius in the kingdom, and was but five years of age when
+Numa died. 
+
+Numa lived something above eighty years, and then, as Piso writes,
+was not taken out of the world by a sudden or acute disease, but died
+of old age and by a gradual and gentle decline. At his funeral all
+the glories of his life were consummated, when all the neighbouring
+states in alliance and amity with Rome met to honour and grace the
+rites of his interment with garlands and public presents; the senators
+carried the bier on which his corpse was laid, and the priests followed
+and accompanied the solemn procession; while a general crowd, in which
+women and children took part, followed with such cries and weeping
+as if they had bewailed the death and loss of some most dear relation
+taken away in the flower of age, and not an old and worn-out king.
+It is said that his body, by his particular command, was not burnt,
+but that they made, in conformity with his order, two stone coffins,
+and buried both under the hill Janiculum, in one of which his body
+was laid, and the other his sacred books, which, as the Greek legislators
+their tables, he had written out for himself, but had so long inculcated
+the contents of them, whilst he lived, into the minds and hearts of
+the priests, that their understandings became fully possessed with
+the whole spirit and purpose of them; and he therefore bade that they
+should be buried with his body, as though such holy precepts could
+not without irreverence he left to circulate in mere lifeless writings.
+For this very reason, they say, the Pythagoreans bade that their precepts
+should not be committed to paper, but rather preserved in the living
+memories of those who were worthy to receive them; and when some of
+their out-of-the-way and abstruse geometrical processes had been divulged
+to an unworthy person, they said the gods threatened to punish this
+wickedness and profanity by a signal and wide-spreading calamity.
+With these several instances concurring to show a similarity in the
+lives of Numa and Pythagoras, we may easily pardon those who seek
+to establish the fact of a real acquaintance between them.
+
+Valerius Antias writes that the books which were buried in the aforesaid
+chest or coffin of stone were twelve volumes of holy writ and twelve
+others of Greek philosophy, and that about four hundred years afterwards,
+when P. Cornelius and M. Baebius were consuls, in a time of heavy
+rains, a violent torrent washed away the earth, and dislodged the
+chests of stone; and, their covers falling off, one of them was found
+wholly empty, without the least relic of any human body; in the other
+were the books before mentioned, which the praetor Petilius having
+read and perused, made oath in the senate, that, in his opinion, it
+was not fit for their contents to be made public to the people; whereupon
+the volumes were all carried to the Comitium, and there burnt.
+
+It is the fortune of all good men that their virtue rises in glory
+after their deaths, and that the envy which evil men conceive against
+them never outlives them long; some have the happiness even to see
+it die before them; but in Numa's case, also, the fortunes of the
+succeeding kings served as foils to set off the brightness of his
+reputation. For after him there were five kings, the last of whom
+ended his old age in banishment, being deposed from his crown; of
+the other four, three were assassinated and murdered by treason; the
+other, who was Tullus Hostilius, that immediately succeeded Numa,
+derided his virtues, and especially his devotion to religious worship,
+as a cowardly and mean-spirited occupation, and diverted the minds
+of the people to war; but was checked in these youthful insolences,
+and was himself driven by an acute and tormenting disease into superstitions
+wholly different from Numa's piety, and left others also to participate
+in these terrors when he died by the stroke of a thunderbolt.
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.
+</pre></body></html>

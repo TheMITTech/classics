@@ -1,0 +1,2124 @@
+Provided by The Internet Classics Archive.
+See bottom for copyright. Available online at
+    http://classics.mit.edu//Aristotle/sophist_refut.html
+
+On Sophistical Refutations
+By Aristotle
+
+
+Translated by W. A. Pickard-Cambridge
+
+----------------------------------------------------------------------
+
+SECTION 1
+
+Part 1 
+
+Let us now discuss sophistic refutations, i.e. what appear to be
+refutations but are really fallacies instead. We will begin in the
+natural order with the first. 
+
+That some reasonings are genuine, while others seem to be so but are
+not, is evident. This happens with arguments, as also elsewhere, through
+a certain likeness between the genuine and the sham. For physically
+some people are in a vigorous condition, while others merely seem
+to be so by blowing and rigging themselves out as the tribesmen do
+their victims for sacrifice; and some people are beautiful thanks
+to their beauty, while others seem to be so, by dint of embellishing
+themselves. So it is, too, with inanimate things; for of these, too,
+some are really silver and others gold, while others are not and merely
+seem to be such to our sense; e.g. things made of litharge and tin
+seem to be of silver, while those made of yellow metal look golden.
+In the same way both reasoning and refutation are sometimes genuine,
+sometimes not, though inexperience may make them appear so: for inexperienced
+people obtain only, as it were, a distant view of these things. For
+reasoning rests on certain statements such that they involve necessarily
+the assertion of something other than what has been stated, through
+what has been stated: refutation is reasoning involving the contradictory
+of the given conclusion. Now some of them do not really achieve this,
+though they seem to do so for a number of reasons; and of these the
+most prolific and usual domain is the argument that turns upon names
+only. It is impossible in a discussion to bring in the actual things
+discussed: we use their names as symbols instead of them; and therefore
+we suppose that what follows in the names, follows in the things as
+well, just as people who calculate suppose in regard to their counters.
+But the two cases (names and things) are not alike. For names are
+finite and so is the sum-total of formulae, while things are infinite
+in number. Inevitably, then, the same formulae, and a single name,
+have a number of meanings. Accordingly just as, in counting, those
+who are not clever in manipulating their counters are taken in by
+the experts, in the same way in arguments too those who are not well
+acquainted with the force of names misreason both in their own discussions
+and when they listen to others. For this reason, then, and for others
+to be mentioned later, there exists both reasoning and refutation
+that is apparent but not real. Now for some people it is better worth
+while to seem to be wise, than to be wise without seeming to be (for
+the art of the sophist is the semblance of wisdom without the reality,
+and the sophist is one who makes money from an apparent but unreal
+wisdom); for them, then, it is clearly essential also to seem to accomplish
+the task of a wise man rather than to accomplish it without seeming
+to do so. To reduce it to a single point of contrast it is the business
+of one who knows a thing, himself to avoid fallacies in the subjects
+which he knows and to be able to show up the man who makes them; and
+of these accomplishments the one depends on the faculty to render
+an answer, and the other upon the securing of one. Those, then, who
+would be sophists are bound to study the class of arguments aforesaid:
+for it is worth their while: for a faculty of this kind will make
+a man seem to be wise, and this is the purpose they happen to have
+in view. 
+
+Clearly, then, there exists a class of arguments of this kind, and
+it is at this kind of ability that those aim whom we call sophists.
+Let us now go on to discuss how many kinds there are of sophistical
+arguments, and how many in number are the elements of which this faculty
+is composed, and how many branches there happen to be of this inquiry,
+and the other factors that contribute to this art. 
+
+Part 2
+
+Of arguments in dialogue form there are four classes: 
+Didactic, Dialectical, Examination-arguments, and Contentious arguments.
+Didactic arguments are those that reason from the principles appropriate
+to each subject and not from the opinions held by the answerer (for
+the learner should take things on trust): dialectical arguments are
+those that reason from premisses generally accepted, to the contradictory
+of a given thesis: examination-arguments are those that reason from
+premisses which are accepted by the answerer and which any one who
+pretends to possess knowledge of the subject is bound to know-in what
+manner, has been defined in another treatise: contentious arguments
+are those that reason or appear to reason to a conclusion from premisses
+that appear to be generally accepted but are not so. The subject,
+then, of demonstrative arguments has been discussed in the Analytics,
+while that of dialectic arguments and examination-arguments has been
+discussed elsewhere: let us now proceed to speak of the arguments
+used in competitions and contests. 
+
+Part 3
+
+First we must grasp the number of aims entertained by those who argue
+as competitors and rivals to the death. These are five in number,
+refutation, fallacy, paradox, solecism, and fifthly to reduce the
+opponent in the discussion to babbling-i.e. to constrain him to repeat
+himself a number of times: or it is to produce the appearance of each
+of these things without the reality. For they choose if possible plainly
+to refute the other party, or as the second best to show that he is
+committing some fallacy, or as a third best to lead him into paradox,
+or fourthly to reduce him to solecism, i.e. to make the answerer,
+in consequence of the argument, to use an ungrammatical expression;
+or, as a last resort, to make him repeat himself. 
+
+Part 4
+
+There are two styles of refutation: for some depend on the language
+used, while some are independent of language. Those ways of producing
+the false appearance of an argument which depend on language are six
+in number: they are ambiguity, amphiboly, combination, division of
+words, accent, form of expression. Of this we may assure ourselves
+both by induction, and by syllogistic proof based on this-and it may
+be on other assumptions as well-that this is the number of ways in
+which we might fall to mean the same thing by the same names or expressions.
+Arguments such as the following depend upon ambiguity. 'Those learn
+who know: for it is those who know their letters who learn the letters
+dictated to them'. For to 'learn' is ambiguous; it signifies both
+'to understand' by the use of knowledge, and also 'to acquire knowledge'.
+Again, 'Evils are good: for what needs to be is good, and evils must
+needs be'. For 'what needs to be' has a double meaning: it means what
+is inevitable, as often is the case with evils, too (for evil of some
+kind is inevitable), while on the other hand we say of good things
+as well that they 'need to be'. Moreover, 'The same man is both seated
+and standing and he is both sick and in health: for it is he who stood
+up who is standing, and he who is recovering who is in health: but
+it is the seated man who stood up, and the sick man who was recovering'.
+For 'The sick man does so and so', or 'has so and so done to him'
+is not single in meaning: sometimes it means 'the man who is sick
+or is seated now', sometimes 'the man who was sick formerly'. Of course,
+the man who was recovering was the sick man, who really was sick at
+the time: but the man who is in health is not sick at the same time:
+he is 'the sick man' in the sense not that he is sick now, but that
+he was sick formerly. Examples such as the following depend upon amphiboly:
+'I wish that you the enemy may capture'. Also the thesis, 'There must
+be knowledge of what one knows': for it is possible by this phrase
+to mean that knowledge belongs to both the knower and the known. Also,
+'There must be sight of what one sees: one sees the pillar: ergo the
+pillar has sight'. Also, 'What you profess to-be, that you profess
+to-be: you profess a stone to-be: ergo you profess-to-be a stone'.
+Also, 'Speaking of the silent is possible': for 'speaking of the silent'
+also has a double meaning: it may mean that the speaker is silent
+or that the things of which he speaks are so. There are three varieties
+of these ambiguities and amphibolies: (1) When either the expression
+or the name has strictly more than one meaning, e.g. aetos and the
+'dog'; (2) when by custom we use them so; (3) when words that have
+a simple sense taken alone have more than one meaning in combination;
+e.g. 'knowing letters'. For each word, both 'knowing' and 'letters',
+possibly has a single meaning: but both together have more than one-either
+that the letters themselves have knowledge or that someone else has
+it of them. 
+
+Amphiboly and ambiguity, then, depend on these modes of speech. Upon
+the combination of words there depend instances such as the following:
+'A man can walk while sitting, and can write while not writing'. For
+the meaning is not the same if one divides the words and if one combines
+them in saying that 'it is possible to walk-while-sitting' and write
+while not writing]. The same applies to the latter phrase, too, if
+one combines the words 'to write-while-not-writing': for then it means
+that he has the power to write and not to write at once; whereas if
+one does not combine them, it means that when he is not writing he
+has the power to write. Also, 'He now if he has learnt his letters'.
+Moreover, there is the saying that 'One single thing if you can carry
+a crowd you can carry too'. 
+
+Upon division depend the propositions that 5 is 2 and 3, and odd,
+and that the greater is equal: for it is that amount and more besides.
+For the same phrase would not be thought always to have the same meaning
+when divided and when combined, e.g. 'I made thee a slave once a free
+man', and 'God-like Achilles left fifty a hundred men'. 
+
+An argument depending upon accent it is not easy to construct in unwritten
+discussion; in written discussions and in poetry it is easier. Thus
+(e.g.) some people emend Homer against those who criticize as unnatural
+his expression to men ou kataputhetai ombro. For they solve the difficulty
+by a change of accent, pronouncing the ou with an acuter accent. Also,
+in the passage about Agamemnon's dream, they say that Zeus did not
+himself say 'We grant him the fulfilment of his prayer', but that
+he bade the dream grant it. Instances such as these, then, turn upon
+the accentuation. 
+
+Others come about owing to the form of expression used, when what
+is really different is expressed in the same form, e.g. a masculine
+thing by a feminine termination, or a feminine thing by a masculine,
+or a neuter by either a masculine or a feminine; or, again, when a
+quality is expressed by a termination proper to quantity or vice versa,
+or what is active by a passive word, or a state by an active word,
+and so forth with the other divisions previously' laid down. For it
+is possible to use an expression to denote what does not belong to
+the class of actions at all as though it did so belong. Thus (e.g.)
+'flourishing' is a word which in the form of its expression is like
+'cutting' or 'building': yet the one denotes a certain quality-i.e.
+a certain condition-while the other denotes a certain action. In the
+same manner also in the other instances. 
+
+Refutations, then, that depend upon language are drawn from these
+common-place rules. Of fallacies, on the other hand, that are independent
+of language there are seven kinds: 
+
+(1) that which depends upon Accident: 
+(2) the use of an expression absolutely or not absolutely but with
+some qualification of respect or place, or time, or relation:
+
+(3) that which depends upon ignorance of what 'refutation' is:
+
+(4) that which depends upon the consequent: 
+(5) that which depends upon assuming the original conclusion:
+
+(6) stating as cause what is not the cause: 
+(7) the making of more than one question into one. 
+
+Part 5
+
+Fallacies, then, that depend on Accident occur whenever any attribute
+is claimed to belong in like manner to a thing and to its accident.
+For since the same thing has many accidents there is no necessity
+that all the same attributes should belong to all of a thing's predicates
+and to their subject as well. Thus (e.g.), 'If Coriscus be different
+from "man", he is different from himself: for he is a man': or 'If
+he be different from Socrates, and Socrates be a man, then', they
+say, 'he has admitted that Coriscus is different from a man, because
+it so happens (accidit) that the person from whom he said that he
+(Coriscus) is different is a man'. 
+
+Those that depend on whether an expression is used absolutely or in
+a certain respect and not strictly, occur whenever an expression used
+in a particular sense is taken as though it were used absolutely,
+e.g. in the argument 'If what is not is the object of an opinion,
+then what is not is': for it is not the same thing 'to be x' and 'to
+be' absolutely. Or again, 'What is, is not, if it is not a particular
+kind of being, e.g. if it is not a man.' For it is not the same thing
+'not to be x' and 'not to be' at all: it looks as if it were, because
+of the closeness of the expression, i.e. because 'to be x' is but
+little different from 'to be', and 'not to be x' from 'not to be'.
+Likewise also with any argument that turns upon the point whether
+an expression is used in a certain respect or used absolutely. Thus
+e.g. 'Suppose an Indian to be black all over, but white in respect
+of his teeth; then he is both white and not white.' Or if both characters
+belong in a particular respect, then, they say, 'contrary attributes
+belong at the same time'. This kind of thing is in some cases easily
+seen by any one, e.g. suppose a man were to secure the statement that
+the Ethiopian is black, and were then to ask whether he is white in
+respect of his teeth; and then, if he be white in that respect, were
+to suppose at the conclusion of his questions that therefore he had
+proved dialectically that he was both white and not white. But in
+some cases it often passes undetected, viz. in all cases where, whenever
+a statement is made of something in a certain respect, it would be
+generally thought that the absolute statement follows as well; and
+also in all cases where it is not easy to see which of the attributes
+ought to be rendered strictly. A situation of this kind arises, where
+both the opposite attributes belong alike: for then there is general
+support for the view that one must agree absolutely to the assertion
+of both, or of neither: e.g. if a thing is half white and half black,
+is it white or black? 
+
+Other fallacies occur because the terms 'proof' or 'refutation' have
+not been defined, and because something is left out in their definition.
+For to refute is to contradict one and the same attribute-not merely
+the name, but the reality-and a name that is not merely synonymous
+but the same name-and to confute it from the propositions granted,
+necessarily, without including in the reckoning the original point
+to be proved, in the same respect and relation and manner and time
+in which it was asserted. A 'false assertion' about anything has to
+be defined in the same way. Some people, however, omit some one of
+the said conditions and give a merely apparent refutation, showing
+(e.g.) that the same thing is both double and not double: for two
+is double of one, but not double of three. Or, it may be, they show
+that it is both double and not double of the same thing, but not that
+it is so in the same respect: for it is double in length but not double
+in breadth. Or, it may be, they show it to be both double and not
+double of the same thing and in the same respect and manner, but not
+that it is so at the same time: and therefore their refutation is
+merely apparent. One might, with some violence, bring this fallacy
+into the group of fallacies dependent on language as well.
+
+Those that depend on the assumption of the original point to be proved,
+occur in the same way, and in as many ways, as it is possible to beg
+the original point; they appear to refute because men lack the power
+to keep their eyes at once upon what is the same and what is different.
+
+The refutation which depends upon the consequent arises because people
+suppose that the relation of consequence is convertible. For whenever,
+suppose A is, B necessarily is, they then suppose also that if B is,
+A necessarily is. This is also the source of the deceptions that attend
+opinions based on sense-perception. For people often suppose bile
+to be honey because honey is attended by a yellow colour: also, since
+after rain the ground is wet in consequence, we suppose that if the
+ground is wet, it has been raining; whereas that does not necessarily
+follow. In rhetoric proofs from signs are based on consequences. For
+when rhetoricians wish to show that a man is an adulterer, they take
+hold of some consequence of an adulterous life, viz. that the man
+is smartly dressed, or that he is observed to wander about at night.
+There are, however, many people of whom these things are true, while
+the charge in question is untrue. It happens like this also in real
+reasoning; e.g. Melissus' argument, that the universe is eternal,
+assumes that the universe has not come to be (for from what is not
+nothing could possibly come to be) and that what has come to be has
+done so from a first beginning. If, therefore, the universe has not
+come to be, it has no first beginning, and is therefore eternal. But
+this does not necessarily follow: for even if what has come to be
+always has a first beginning, it does not also follow that what has
+a first beginning has come to be; any more than it follows that if
+a man in a fever be hot, a man who is hot must be in a fever.
+
+The refutation which depends upon treating as cause what is not a
+cause, occurs whenever what is not a cause is inserted in the argument,
+as though the refutation depended upon it. This kind of thing happens
+in arguments that reason ad impossible: for in these we are bound
+to demolish one of the premisses. If, then, the false cause be reckoned
+in among the questions that are necessary to establish the resulting
+impossibility, it will often be thought that the refutation depends
+upon it, e.g. in the proof that the 'soul' and 'life' are not the
+same: for if coming-to-be be contrary to perishing, then a particular
+form of perishing will have a particular form of coming-to-be as its
+contrary: now death is a particular form of perishing and is contrary
+to life: life, therefore, is a coming to-be, and to live is to come-to-be.
+But this is impossible: accordingly, the 'soul' and 'life' are not
+the same. Now this is not proved: for the impossibility results all
+the same, even if one does not say that life is the same as the soul,
+but merely says that life is contrary to death, which is a form of
+perishing, and that perishing has 'coming-to-be' as its contrary.
+Arguments of that kind, then, though not inconclusive absolutely,
+are inconclusive in relation to the proposed conclusion. Also even
+the questioners themselves often fail quite as much to see a point
+of that kind. 
+
+Such, then, are the arguments that depend upon the consequent and
+upon false cause. Those that depend upon the making of two questions
+into one occur whenever the plurality is undetected and a single answer
+is returned as if to a single question. Now, in some cases, it is
+easy to see that there is more than one, and that an answer is not
+to be given, e.g. 'Does the earth consist of sea, or the sky?' But
+in some cases it is less easy, and then people treat the question
+as one, and either confess their defeat by failing to answer the question,
+or are exposed to an apparent refutation. Thus 'Is A and is B a man?'
+'Yes.' 'Then if any one hits A and B, he will strike a man' (singular),'not
+men' (plural). Or again, where part is good and part bad, 'is the
+whole good or bad?' For whichever he says, it is possible that he
+might be thought to expose himself to an apparent refutation or to
+make an apparently false statement: for to say that something is good
+which is not good, or not good which is good, is to make a false statement.
+Sometimes, however, additional premisses may actually give rise to
+a genuine refutation; e.g. suppose a man were to grant that the descriptions
+'white' and 'naked' and 'blind' apply to one thing and to a number
+of things in a like sense. For if 'blind' describes a thing that cannot
+see though nature designed it to see, it will also describe things
+that cannot see though nature designed them to do so. Whenever, then,
+one thing can see while another cannot, they will either both be able
+to see or else both be blind; which is impossible. 
+
+Part 6
+
+The right way, then, is either to divide apparent proofs and refutations
+as above, or else to refer them all to ignorance of what 'refutation'
+is, and make that our starting-point: for it is possible to analyse
+all the aforesaid modes of fallacy into breaches of the definition
+of a refutation. In the first place, we may see if they are inconclusive:
+for the conclusion ought to result from the premisses laid down, so
+as to compel us necessarily to state it and not merely to seem to
+compel us. Next we should also take the definition bit by bit, and
+try the fallacy thereby. For of the fallacies that consist in language,
+some depend upon a double meaning, e.g. ambiguity of words and of
+phrases, and the fallacy of like verbal forms (for we habitually speak
+of everything as though it were a particular substance)-while fallacies
+of combination and division and accent arise because the phrase in
+question or the term as altered is not the same as was intended. Even
+this, however, should be the same, just as the thing signified should
+be as well, if a refutation or proof is to be effected; e.g. if the
+point concerns a doublet, then you should draw the conclusion of a
+'doublet', not of a 'cloak'. For the former conclusion also would
+be true, but it has not been proved; we need a further question to
+show that 'doublet' means the same thing, in order to satisfy any
+one who asks why you think your point proved. 
+
+Fallacies that depend on Accident are clear cases of ignoratio elenchi
+when once 'proof' has been defined. For the same definition ought
+to hold good of 'refutation' too, except that a mention of 'the contradictory'
+is here added: for a refutation is a proof of the contradictory. If,
+then, there is no proof as regards an accident of anything, there
+is no refutation. For supposing, when A and B are, C must necessarily
+be, and C is white, there is no necessity for it to be white on account
+of the syllogism. So, if the triangle has its angles equal to two
+right-angles, and it happens to be a figure, or the simplest element
+or starting point, it is not because it is a figure or a starting
+point or simplest element that it has this character. For the demonstration
+proves the point about it not qua figure or qua simplest element,
+but qua triangle. Likewise also in other cases. If, then, refutation
+is a proof, an argument which argued per accidens could not be a refutation.
+It is, however, just in this that the experts and men of science generally
+suffer refutation at the hand of the unscientific: for the latter
+meet the scientists with reasonings constituted per accidens; and
+the scientists for lack of the power to draw distinctions either say
+'Yes' to their questions, or else people suppose them to have said
+'Yes', although they have not. 
+
+Those that depend upon whether something is said in a certain respect
+only or said absolutely, are clear cases of ignoratio elenchi because
+the affirmation and the denial are not concerned with the same point.
+For of 'white in a certain respect' the negation is 'not white in
+a certain respect', while of 'white absolutely' it is 'not white,
+absolutely'. If, then, a man treats the admission that a thing is
+'white in a certain respect' as though it were said to be white absolutely,
+he does not effect a refutation, but merely appears to do so owing
+to ignorance of what refutation is. 
+
+The clearest cases of all, however, are those that were previously
+described' as depending upon the definition of a 'refutation': and
+this is also why they were called by that name. For the appearance
+of a refutation is produced because of the omission in the definition,
+and if we divide fallacies in the above manner, we ought to set 'Defective
+definition' as a common mark upon them all. 
+
+Those that depend upon the assumption of the original point and upon
+stating as the cause what is not the cause, are clearly shown to be
+cases of ignoratio elenchi through the definition thereof. For the
+conclusion ought to come about 'because these things are so', and
+this does not happen where the premisses are not causes of it: and
+again it should come about without taking into account the original
+point, and this is not the case with those arguments which depend
+upon begging the original point. 
+
+Those that depend upon the assumption of the original point and upon
+stating as the cause what is not the cause, are clearly shown to be
+cases of ignoratio elenchi through the definition thereof. For the
+conclusion ought to come about 'because these things are so', and
+this does not happen where the premisses are not causes of it: and
+again it should come about without taking into account the original
+point, and this is not the case with those arguments which depend
+upon begging the original point. 
+
+Those that depend upon the consequent are a branch of Accident: for
+the consequent is an accident, only it differs from the accident in
+this, that you may secure an admission of the accident in the case
+of one thing only (e.g. the identity of a yellow thing and honey and
+of a white thing and swan), whereas the consequent always involves
+more than one thing: for we claim that things that are the same as
+one and the same thing are also the same as one another, and this
+is the ground of a refutation dependent on the consequent. It is,
+however, not always true, e.g. suppose that and B are the same as
+C per accidens; for both 'snow' and the 'swan' are the same as something
+white'. Or again, as in Melissus' argument, a man assumes that to
+'have been generated' and to 'have a beginning' are the same thing,
+or to 'become equal' and to 'assume the same magnitude'. For because
+what has been generated has a beginning, he claims also that what
+has a beginning has been generated, and argues as though both what
+has been generated and what is finite were the same because each has
+a beginning. Likewise also in the case of things that are made equal
+he assumes that if things that assume one and the same magnitude become
+equal, then also things that become equal assume one magnitude: i.e.
+he assumes the consequent. Inasmuch, then, as a refutation depending
+on accident consists in ignorance of what a refutation is, clearly
+so also does a refutation depending on the consequent. We shall have
+further to examine this in another way as well. 
+
+Those fallacies that depend upon the making of several questions into
+one consist in our failure to dissect the definition of 'proposition'.
+For a proposition is a single statement about a single thing. For
+the same definition applies to 'one single thing only' and to the
+'thing', simply, e.g. to 'man' and to 'one single man only' and likewise
+also in other cases. If, then, a 'single proposition' be one which
+claims a single thing of a single thing, a 'proposition', simply,
+will also be the putting of a question of that kind. Now since a proof
+starts from propositions and refutation is a proof, refutation, too,
+will start from propositions. If, then, a proposition is a single
+statement about a single thing, it is obvious that this fallacy too
+consists in ignorance of what a refutation is: for in it what is not
+a proposition appears to be one. If, then, the answerer has returned
+an answer as though to a single question, there will be a refutation;
+while if he has returned one not really but apparently, there will
+be an apparent refutation of his thesis. All the types of fallacy,
+then, fall under ignorance of what a refutation is, some of them because
+the contradiction, which is the distinctive mark of a refutation,
+is merely apparent, and the rest failing to conform to the definition
+of a proof. 
+
+Part 7
+
+The deception comes about in the case of arguments that depend on
+ambiguity of words and of phrases because we are unable to divide
+the ambiguous term (for some terms it is not easy to divide, e.g.
+'unity', 'being', and 'sameness'), while in those that depend on combination
+and division, it is because we suppose that it makes no difference
+whether the phrase be combined or divided, as is indeed the case with
+most phrases. Likewise also with those that depend on accent: for
+the lowering or raising of the voice upon a phrase is thought not
+to alter its meaning-with any phrase, or not with many. With those
+that depend on the of expression it is because of the likeness of
+expression. For it is hard to distinguish what kind of things are
+signified by the same and what by different kinds of expression: for
+a man who can do this is practically next door to the understanding
+of the truth. A special reason why a man is liable to be hurried into
+assent to the fallacy is that we suppose every predicate of everything
+to be an individual thing, and we understand it as being one with
+the thing: and we therefore treat it as a substance: for it is to
+that which is one with a thing or substance, as also to substance
+itself, that 'individually' and 'being' are deemed to belong in the
+fullest sense. For this reason, too, this type of fallacy is to be
+ranked among those that depend on language; in the first place, because
+the deception is effected the more readily when we are inquiring into
+a problem in company with others than when we do so by ourselves (for
+an inquiry with another person is carried on by means of speech, whereas
+an inquiry by oneself is carried on quite as much by means of the
+object itself); secondly a man is liable to be deceived, even when
+inquiring by himself, when he takes speech as the basis of his inquiry:
+moreover the deception arises out of the likeness (of two different
+things), and the likeness arises out of the language. With those fallacies
+that depend upon Accident, deception comes about because we cannot
+distinguish the sameness and otherness of terms, i.e. their unity
+and multiplicity, or what kinds of predicate have all the same accidents
+as their subject. Likewise also with those that depend on the Consequent:
+for the consequent is a branch of Accident. Moreover, in many cases
+appearances point to this-and the claim is made that if is inseparable
+from B, so also is B from With those that depend upon an imperfection
+in the definition of a refutation, and with those that depend upon
+the difference between a qualified and an absolute statement, the
+deception consists in the smallness of the difference involved; for
+we treat the limitation to the particular thing or respect or manner
+or time as adding nothing to the meaning, and so grant the statement
+universally. Likewise also in the case of those that assume the original
+point, and those of false cause, and all that treat a number of questions
+as one: for in all of them the deception lies in the smallness of
+the difference: for our failure to be quite exact in our definition
+of 'premiss' and of 'proof' is due to the aforesaid reason.
+
+Part 8
+
+Since we know on how many points apparent syllogisms depend, we know
+also on how many sophistical syllogisms and refutations may depend.
+By a sophistical refutation and syllogism I mean not only a syllogism
+or refutation which appears to be valid but is not, but also one which,
+though it is valid, only appears to be appropriate to the thing in
+question. These are those which fail to refute and prove people to
+be ignorant according to the nature of the thing in question, which
+was the function of the art of examination. Now the art of examining
+is a branch of dialectic: and this may prove a false conclusion because
+of the ignorance of the answerer. Sophistic refutations on the other
+hand, even though they prove the contradictory of his thesis, do not
+make clear whether he is ignorant: for sophists entangle the scientist
+as well with these arguments. 
+
+That we know them by the same line of inquiry is clear: for the same
+considerations which make it appear to an audience that the points
+required for the proof were asked in the questions and that the conclusion
+was proved, would make the answerer think so as well, so that false
+proof will occur through all or some of these means: for what a man
+has not been asked but thinks he has granted, he would also grant
+if he were asked. Of course, in some cases the moment we add the missing
+question, we also show up its falsity, e.g. in fallacies that depend
+on language and on solecism. If then, fallacious proofs of the contradictory
+of a thesis depend on their appearing to refute, it is clear that
+the considerations on which both proofs of false conclusions and an
+apparent refutation depend must be the same in number. Now an apparent
+refutation depends upon the elements involved in a genuine one: for
+the failure of one or other of these must make the refutation merely
+apparent, e.g. that which depends on the failure of the conclusion
+to follow from the argument (the argument ad impossible) and that
+which treats two questions as one and so depends upon a flaw in the
+premiss, and that which depends on the substitution of an accident
+for an essential attribute, and-a branch of the last-that which depends
+upon the consequent: more over, the conclusion may follow not in fact
+but only verbally: then, instead of proving the contradictory universally
+and in the same respect and relation and manner, the fallacy may be
+dependent on some limit of extent or on one or other of these qualifications:
+moreover, there is the assumption of the original point to be proved,
+in violation of the clause 'without reckoning in the original point'.
+Thus we should have the number of considerations on which the fallacious
+proofs depend: for they could not depend on more, but all will depend
+on the points aforesaid. 
+
+A sophistical refutation is a refutation not absolutely but relatively
+to some one: and so is a proof, in the same way. For unless that which
+depends upon ambiguity assumes that the ambiguous term has a single
+meaning, and that which depends on like verbal forms assumes that
+substance is the only category, and the rest in the same way, there
+will be neither refutations nor proofs, either absolutely or relatively
+to the answerer: whereas if they do assume these things, they will
+stand, relatively to the answerer; but absolutely they will not stand:
+for they have not secured a statement that does have a single meaning,
+but only one that appears to have, and that only from this particular
+man. 
+
+Part 9
+
+The number of considerations on which depend the refutations of those
+who are refuted, we ought not to try to grasp without a knowledge
+of everything that is. This, however, is not the province of any special
+study: for possibly the sciences are infinite in number, so that obviously
+demonstrations may be infinite too. Now refutations may be true as
+well as false: for whenever it is possible to demonstrate something,
+it is also possible to refute the man who maintains the contradictory
+of the truth; e.g. if a man has stated that the diagonal is commensurate
+with the side of the square, one might refute him by demonstrating
+that it is incommensurate. Accordingly, to exhaust all possible refutations
+we shall have to have scientific knowledge of everything: for some
+refutations depend upon the principles that rule in geometry and the
+conclusions that follow from these, others upon those that rule in
+medicine, and others upon those of the other sciences. For the matter
+of that, the false refutations likewise belong to the number of the
+infinite: for according to every art there is false proof, e.g. according
+to geometry there is false geometrical proof, and according to medicine
+there is false medical proof. By 'according to the art', I mean 'according
+to the principles of it'. Clearly, then, it is not of all refutations,
+but only of those that depend upon dialectic that we need to grasp
+the common-place rules: for these stand in a common relation to every
+art and faculty. And as regards the refutation that is according to
+one or other of the particular sciences it is the task of that particular
+scientist to examine whether it is merely apparent without being real,
+and, if it be real, what is the reason for it: whereas it is the business
+of dialecticians so to examine the refutation that proceeds from the
+common first principles that fall under no particular special study.
+For if we grasp the startingpoints of the accepted proofs on any subject
+whatever we grasp those of the refutations current on that subject.
+For a refutation is the proof of the contradictory of a given thesis,
+so that either one or two proofs of the contradictory constitute a
+refutation. We grasp, then, the number of considerations on which
+all such depend: if, however, we grasp this, we also grasp their solutions
+as well; for the objections to these are the solutions of them. We
+also grasp the number of considerations on which those refutations
+depend, that are merely apparent-apparent, I mean, not to everybody,
+but to people of a certain stamp; for it is an indefinite task if
+one is to inquire how many are the considerations that make them apparent
+to the man in the street. Accordingly it is clear that the dialectician's
+business is to be able to grasp on how many considerations depends
+the formation, through the common first principles, of a refutation
+that is either real or apparent, i.e. either dialectical or apparently
+dialectical, or suitable for an examination. 
+
+Part 10
+
+It is no true distinction between arguments which some people draw
+when they say that some arguments are directed against the expression,
+and others against the thought expressed: for it is absurd to suppose
+that some arguments are directed against the expression and others
+against the thought, and that they are not the same. For what is failure
+to direct an argument against the thought except what occurs whenever
+a man does not in using the expression think it to be used in his
+question in the same sense in which the person questioned granted
+it? And this is the same thing as to direct the argument against the
+expression. On the other hand, it is directed against the thought
+whenever a man uses the expression in the same sense which the answerer
+had in mind when he granted it. If now any (i.e. both the questioner
+and the person questioned), in dealing with an expression with more
+than one meaning, were to suppose it to have one meaning-as e.g. it
+may be that 'Being' and 'One' have many meanings, and yet both the
+answerer answers and the questioner puts his question supposing it
+to be one, and the argument is to the effect that 'All things are
+one'-will this discussion be directed any more against the expression
+than against the thought of the person questioned? If, on the other
+hand, one of them supposes the expression to have many meanings, it
+is clear that such a discussion will not be directed against the thought.
+Such being the meanings of the phrases in question, they clearly cannot
+describe two separate classes of argument. For, in the first place,
+it is possible for any such argument as bears more than one meaning
+to be directed against the expression and against the thought, and
+next it is possible for any argument whatsoever; for the fact of being
+directed against the thought consists not in the nature of the argument,
+but in the special attitude of the answerer towards the points he
+concedes. Next, all of them may be directed to the expression. For
+'to be directed against the expression' means in this doctrine 'not
+to be directed against the thought'. For if not all are directed against
+either expression or thought, there will be certain other arguments
+directed neither against the expression nor against the thought, whereas
+they say that all must be one or the other, and divide them all as
+directed either against the expression or against the thought, while
+others (they say) there are none. But in point of fact those that
+depend on mere expression are only a branch of those syllogisms that
+depend on a multiplicity of meanings. For the absurd statement has
+actually been made that the description 'dependent on mere expression'
+describes all the arguments that depend on language: whereas some
+of these are fallacies not because the answerer adopts a particular
+attitude towards them, but because the argument itself involves the
+asking of a question such as bears more than one meaning.
+
+It is, too, altogether absurd to discuss Refutation without first
+discussing Proof: for a refutation is a proof, so that one ought to
+discuss proof as well before describing false refutation: for a refutation
+of that kind is a merely apparent proof of the contradictory of a
+thesis. Accordingly, the reason of the falsity will be either in the
+proof or in the contradiction (for mention of the 'contradiction'
+must be added), while sometimes it is in both, if the refutation be
+merely apparent. In the argument that speaking of the silent is possible
+it lies in the contradiction, not in the proof; in the argument that
+one can give what one does not possess, it lies in both; in the proof
+that Homer's poem is a figure through its being a cycle it lies in
+the proof. An argument that does not fail in either respect is a true
+proof. 
+
+But, to return to the point whence our argument digressed, are mathematical
+reasonings directed against the thought, or not? And if any one thinks
+'triangle' to be a word with many meanings, and granted it in some
+different sense from the figure which was proved to contain two right
+angles, has the questioner here directed his argument against the
+thought of the former or not? 
+
+Moreover, if the expression bears many senses, while the answerer
+does not understand or suppose it to have them, surely the questioner
+here has directed his argument against his thought! Or how else ought
+he to put his question except by suggesting a distinction-suppose
+one's question to be speaking of the silent possible or not?'-as follows,
+'Is the answer "No" in one sense, but "Yes" in another?' If, then,
+any one were to answer that it was not possible in any sense and the
+other were to argue that it was, has not his argument been directed
+against the thought of the answerer? Yet his argument is supposed
+to be one of those that depend on the expression. There is not, then,
+any definite kind of arguments that is directed against the thought.
+Some arguments are, indeed, directed against the expression: but these
+are not all even apparent refutations, let alone all refutations.
+For there are also apparent refutations which do not depend upon language,
+e.g. those that depend upon accident, and others. 
+
+If, however, any one claims that one should actually draw the distinction,
+and say, 'By "speaking of the silent" I mean, in one sense this and
+in the other sense that', surely to claim this is in the first place
+absurd (for sometimes the questioner does not see the ambiguity of
+his question, and he cannot possibly draw a distinction which he does
+not think to be there): in the second place, what else but this will
+didactic argument be? For it will make manifest the state of the case
+to one who has never considered, and does not know or suppose that
+there is any other meaning but one. For what is there to prevent the
+same thing also happening to us in cases where there is no double
+meaning? 'Are the units in four equal to the twos? Observe that the
+twos are contained in four in one sense in this way, in another sense
+in that'. Also, 'Is the knowledge of contraries one or not? Observe
+that some contraries are known, while others are unknown'. Thus the
+man who makes this claim seems to be unaware of the difference between
+didactic and dialectical argument, and of the fact that while he who
+argues didactically should not ask questions but make things clear
+himself, the other should merely ask questions. 
+
+----------------------------------------------------------------------
+
+SECTION 2
+
+Part 11 
+
+Moreover, to claim a 'Yes' or 'No' answer is the business not of
+a man who is showing something, but of one who is holding an examination.
+For the art of examining is a branch of dialectic and has in view
+not the man who has knowledge, but the ignorant pretender. He, then,
+is a dialectician who regards the common principles with their application
+to the particular matter in hand, while he who only appears to do
+this is a sophist. Now for contentious and sophistical reasoning:
+(1) one such is a merely apparent reasoning, on subjects on which
+dialectical reasoning is the proper method of examination, even though
+its conclusion be true: for it misleads us in regard to the cause:
+also (2) there are those misreasonings which do not conform to the
+line of inquiry proper to the particular subject, but are generally
+thought to conform to the art in question. For false diagrams of geometrical
+figures are not contentious (for the resulting fallacies conform to
+the subject of the art)-any more than is any false diagram that may
+be offered in proof of a truth-e.g. Hippocrates' figure or the squaring
+of the circle by means of the lunules. But Bryson's method of squaring
+the circle, even if the circle is thereby squared, is still sophistical
+because it does not conform to the subject in hand. So, then, any
+merely apparent reasoning about these things is a contentious argument,
+and any reasoning that merely appears to conform to the subject in
+hand, even though it be genuine reasoning, is a contentious argument:
+for it is merely apparent in its conformity to the subject-matter,
+so that it is deceptive and plays foul. For just as a foul in a race
+is a definite type of fault, and is a kind of foul fighting, so the
+art of contentious reasoning is foul fighting in disputation: for
+in the former case those who are resolved to win at all costs snatch
+at everything, and so in the latter case do contentious reasoners.
+Those, then, who do this in order to win the mere victory are generally
+considered to be contentious and quarrelsome persons, while those
+who do it to win a reputation with a view to making money are sophistical.
+For the art of sophistry is, as we said,' a kind of art of money-making
+from a merely apparent wisdom, and this is why they aim at a merely
+apparent demonstration: and quarrelsome persons and sophists both
+employ the same arguments, but not with the same motives: and the
+same argument will be sophistical and contentious, but not in the
+same respect; rather, it will be contentious in so far as its aim
+is an apparent victory, while in so far as its aim is an apparent
+wisdom, it will be sophistical: for the art of sophistry is a certain
+appearance of wisdom without the reality. The contentious argument
+stands in somewhat the same relation to the dialectical as the drawer
+of false diagrams to the geometrician; for it beguiles by misreasoning
+from the same principles as dialectic uses, just as the drawer of
+a false diagram beguiles the geometrician. But whereas the latter
+is not a contentious reasoner, because he bases his false diagram
+on the principles and conclusions that fall under the art of geometry,
+the argument which is subordinate to the principles of dialectic will
+yet clearly be contentious as regards other subjects. Thus, e.g. though
+the squaring of the circle by means of the lunules is not contentious,
+Bryson's solution is contentious: and the former argument cannot be
+adapted to any subject except geometry, because it proceeds from principles
+that are peculiar to geometry, whereas the latter can be adapted as
+an argument against all the number of people who do not know what
+is or is not possible in each particular context: for it will apply
+to them all. Or there is the method whereby Antiphon squared the circle.
+Or again, an argument which denied that it was better to take a walk
+after dinner, because of Zeno's argument, would not be a proper argument
+for a doctor, because Zeno's argument is of general application. If,
+then, the relation of the contentious argument to the dialectical
+were exactly like that of the drawer of false diagrams to the geometrician,
+a contentious argument upon the aforesaid subjects could not have
+existed. But, as it is, the dialectical argument is not concerned
+with any definite kind of being, nor does it show anything, nor is
+it even an argument such as we find in the general philosophy of being.
+For all beings are not contained in any one kind, nor, if they were,
+could they possibly fall under the same principles. Accordingly, no
+art that is a method of showing the nature of anything proceeds by
+asking questions: for it does not permit a man to grant whichever
+he likes of the two alternatives in the question: for they will not
+both of them yield a proof. Dialectic, on the other hand, does proceed
+by questioning, whereas if it were concerned to show things, it would
+have refrained from putting questions, even if not about everything,
+at least about the first principles and the special principles that
+apply to the particular subject in hand. For suppose the answerer
+not to grant these, it would then no longer have had any grounds from
+which to argue any longer against the objection. Dialectic is at the
+same time a mode of examination as well. For neither is the art of
+examination an accomplishment of the same kind as geometry, but one
+which a man may possess, even though he has not knowledge. For it
+is possible even for one without knowledge to hold an examination
+of one who is without knowledge, if also the latter grants him points
+taken not from thing that he knows or from the special principles
+of the subject under discussion but from all that range of consequences
+attaching to the subject which a man may indeed know without knowing
+the theory of the subject, but which if he do not know, he is bound
+to be ignorant of the theory. So then clearly the art of examining
+does not consist in knowledge of any definite subject. For this reason,
+too, it deals with everything: for every 'theory' of anything employs
+also certain common principles. Hence everybody, including even amateurs,
+makes use in a way of dialectic and the practice of examining: for
+all undertake to some extent a rough trial of those who profess to
+know things. What serves them here is the general principles: for
+they know these of themselves just as well as the scientist, even
+if in what they say they seem to the latter to go wildly astray from
+them. All, then, are engaged in refutation; for they take a hand as
+amateurs in the same task with which dialectic is concerned professionally;
+and he is a dialectician who examines by the help of a theory of reasoning.
+Now there are many identical principles which are true of everything,
+though they are not such as to constitute a particular nature, i.e.
+a particular kind of being, but are like negative terms, while other
+principles are not of this kind but are special to particular subjects;
+accordingly it is possible from these general principles to hold an
+examination on everything, and that there should be a definite art
+of so doing, and, moreover, an art which is not of the same kind as
+those which demonstrate. This is why the contentious reasoner does
+not stand in the same condition in all respects as the drawer of a
+false diagram: for the contentious reasoner will not be given to misreasoning
+from any definite class of principles, but will deal with every class.
+
+These, then, are the types of sophistical refutations: and that it
+belongs to the dialectician to study these, and to be able to effect
+them, is not difficult to see: for the investigation of premisses
+comprises the whole of this study. 
+
+Part 12
+
+So much, then, for apparent refutations. As for showing that the answerer
+is committing some fallacy, and drawing his argument into paradox-for
+this was the second item of the sophist's programme-in the first place,
+then, this is best brought about by a certain manner of questioning
+and through the question. For to put the question without framing
+it with reference to any definite subject is a good bait for these
+purposes: for people are more inclined to make mistakes when they
+talk at large, and they talk at large when they have no definite subject
+before them. Also the putting of several questions, even though the
+position against which one is arguing be quite definite, and the claim
+that he shall say only what he thinks, create abundant opportunity
+for drawing him into paradox or fallacy, and also, whether to any
+of these questions he replies 'Yes' or replies 'No', of leading him
+on to statements against which one is well off for a line of attack.
+Nowadays, however, men are less able to play foul by these means than
+they were formerly: for people rejoin with the question, 'What has
+that to do with the original subject?' It is, too, an elementary rule
+for eliciting some fallacy or paradox that one should never put a
+controversial question straight away, but say that one puts it from
+the wish for information: for the process of inquiry thus invited
+gives room for an attack. 
+
+A rule specially appropriate for showing up a fallacy is the sophistic
+rule, that one should draw the answerer on to the kind of statements
+against which one is well supplied with arguments: this can be done
+both properly and improperly, as was said before.' Again, to draw
+a paradoxical statement, look and see to what school of philosophers
+the person arguing with you belongs, and then question him as to some
+point wherein their doctrine is paradoxical to most people: for with
+every school there is some point of that kind. It is an elementary
+rule in these matters to have a collection of the special 'theses'
+of the various schools among your propositions. The solution recommended
+as appropriate here, too, is to point out that the paradox does not
+come about because of the argument: whereas this is what his opponent
+always really wants. 
+
+Moreover, argue from men's wishes and their professed opinions. For
+people do not wish the same things as they say they wish: they say
+what will look best, whereas they wish what appears to be to their
+interest: e.g. they say that a man ought to die nobly rather than
+to live in pleasure, and to live in honest poverty rather than in
+dishonourable riches; but they wish the opposite. Accordingly, a man
+who speaks according to his wishes must be led into stating the professed
+opinions of people, while he who speaks according to these must be
+led into admitting those that people keep hidden away: for in either
+case they are bound to introduce a paradox; for they will speak contrary
+either to men's professed or to their hidden opinions. 
+
+The widest range of common-place argument for leading men into paradoxical
+statement is that which depends on the standards of Nature and of
+the Law: it is so that both Callicles is drawn as arguing in the Gorgias,
+and that all the men of old supposed the result to come about: for
+nature (they said) and law are opposites, and justice is a fine thing
+by a legal standard, but not by that of nature. Accordingly, they
+said, the man whose statement agrees with the standard of nature you
+should meet by the standard of the law, but the man who agrees with
+the law by leading him to the facts of nature: for in both ways paradoxical
+statements may be committed. In their view the standard of nature
+was the truth, while that of the law was the opinion held by the majority.
+So that it is clear that they, too, used to try either to refute the
+answerer or to make him make paradoxical statements, just as the men
+of to-day do as well. 
+
+Some questions are such that in both forms the answer is paradoxical;
+e.g. 'Ought one to obey the wise or one's father?' and 'Ought one
+to do what is expedient or what is just?' and 'Is it preferable to
+suffer injustice or to do an injury?' You should lead people, then,
+into views opposite to the majority and to the philosophers; if any
+one speaks as do the expert reasoners, lead him into opposition to
+the majority, while if he speaks as do the majority, then into opposition
+to the reasoners. For some say that of necessity the happy man is
+just, whereas it is paradoxical to the many that a king should be
+happy. To lead a man into paradoxes of this sort is the same as to
+lead him into the opposition of the standards of nature and law: for
+the law represents the opinion of the majority, whereas philosophers
+speak according to the standard of nature and the truth.
+
+Part 13
+
+Paradoxes, then, you should seek to elicit by means of these common-place
+rules. Now as for making any one babble, we have already said what
+we mean by 'to babble'. This is the object in view in all arguments
+of the following kind: If it is all the same to state a term and to
+state its definition, the 'double' and 'double of half' are the same:
+if then 'double' be the 'double of half', it will be the 'double of
+half of half'. And if, instead of 'double', 'double of half' be again
+put, then the same expression will be repeated three times, 'double
+of half of half of half'. Also 'desire is of the pleasant, isn't it?'
+desire is conation for the pleasant: accordingly, 'desire' is 'conation
+for the pleasant for the pleasant'. 
+
+All arguments of this kind occur in dealing (1) with any relative
+terms which not only have relative genera, but are also themselves
+relative, and are rendered in relation to one and the same thing,
+as e.g. conation is conation for something, and desire is desire of
+something, and double is double of something, i.e. double of half:
+also in dealing (2) with any terms which, though they be not relative
+terms at all, yet have their substance, viz. the things of which they
+are the states or affections or what not, indicated as well in their
+definition, they being predicated of these things. Thus e.g. 'odd'
+is a 'number containing a middle': but there is an 'odd number': therefore
+there is a 'number-containing-a-middle number'. Also, if snubness
+be a concavity of the nose, and there be a snub nose, there is therefore
+a 'concave-nose nose'. 
+
+People sometimes appear to produce this result, without really producing
+it, because they do not add the question whether the expression 'double',
+just by itself, has any meaning or no, and if so, whether it has the
+same meaning, or a different one; but they draw their conclusion straight
+away. Still it seems, inasmuch as the word is the same, to have the
+same meaning as well. 
+
+Part 14
+
+We have said before what kind of thing 'solecism' is.' It is possible
+both to commit it, and to seem to do so without doing so, and to do
+so without seeming to do so. Suppose, as Protagoras used to say that
+menis ('wrath') and pelex ('helmet') are masculine: according to him
+a man who calls wrath a 'destructress' (oulomenen) commits a solecism,
+though he does not seem to do so to other people, where he who calls
+it a 'destructor' (oulomenon) commits no solecism though he seems
+to do so. It is clear, then, that any one could produce this effect
+by art as well: and for this reason many arguments seem to lead to
+solecism which do not really do so, as happens in the case of refutations.
+
+Almost all apparent solecisms depend upon the word 'this' (tode),
+and upon occasions when the inflection denotes neither a masculine
+nor a feminine object but a neuter. For 'he' (outos) signifies a masculine,
+and 'she' (aute) feminine; but 'this' (touto), though meant to signify
+a neuter, often also signifies one or other of the former: e.g. 'What
+is this?' 'It is Calliope'; 'it is a log'; 'it is Coriscus'. Now in
+the masculine and feminine the inflections are all different, whereas
+in the neuter some are and some are not. Often, then, when 'this'
+(touto) has been granted, people reason as if 'him' (touton) had been
+said: and likewise also they substitute one inflection for another.
+The fallacy comes about because 'this' (touto) is a common form of
+several inflections: for 'this' signifies sometimes 'he' (outos) and
+sometimes 'him' (touton). It should signify them alternately; when
+combined with 'is' (esti) it should be 'he', while with 'being' it
+should be 'him': e.g. 'Coriscus (Kopiskos) is', but 'being Coriscus'
+(Kopiskon). It happens in the same way in the case of feminine nouns
+as well, and in the case of the so-called 'chattels' that have feminine
+or masculine designations. For only those names which end in o and
+n, have the designation proper to a chattel, e.g. xulon ('log'), schoinion
+('rope'); those which do not end so have that of a masculine or feminine
+object, though some of them we apply to chattels: e.g. askos ('wineskin')
+is a masculine noun, and kline ('bed') a feminine. For this reason
+in cases of this kind as well there will be a difference of the same
+sort between a construction with 'is' (esti) or with 'being' (to einai).
+Also, Solecism resembles in a certain way those refutations which
+are said to depend on the like expression of unlike things. For, just
+as there we come upon a material solecism, so here we come upon a
+verbal: for 'man' is both a 'matter' for expression and also a 'word':
+and so is white'. 
+
+It is clear, then, that for solecisms we must try to construct our
+argument out of the aforesaid inflections. 
+
+These, then, are the types of contentious arguments, and the subdivisions
+of those types, and the methods for conducting them aforesaid. But
+it makes no little difference if the materials for putting the question
+be arranged in a certain manner with a view to concealment, as in
+the case of dialectics. Following then upon what we have said, this
+must be discussed first. 
+
+Part 15
+
+With a view then to refutation, one resource is length-for it is difficult
+to keep several things in view at once; and to secure length the elementary
+rules that have been stated before' should be employed. One resource,
+on the other hand, is speed; for when people are left behind they
+look ahead less. Moreover, there is anger and contentiousness, for
+when agitated everybody is less able to take care of himself. Elementary
+rules for producing anger are to make a show of the wish to play foul,
+and to be altogether shameless. Moreover, there is the putting of
+one's questions alternately, whether one has more than one argument
+leading to the same conclusion, or whether one has arguments to show
+both that something is so, and that it is not so: for the result is
+that he has to be on his guard at the same time either against more
+than one line, or against contrary lines, of argument. In general,
+all the methods described before of producing concealment are useful
+also for purposes of contentious argument: for the object of concealment
+is to avoid detection, and the object of this is to deceive.
+
+To counter those who refuse to grant whatever they suppose to help
+one's argument, one should put the question negatively, as though
+desirous of the opposite answer, or at any rate as though one put
+the question without prejudice; for when it is obscure what answer
+one wants to secure, people are less refractory. Also when, in dealing
+with particulars, a man grants the individual case, when the induction
+is done you should often not put the universal as a question, but
+take it for granted and use it: for sometimes people themselves suppose
+that they have granted it, and also appear to the audience to have
+done so, for they remember the induction and assume that the questions
+could not have been put for nothing. In cases where there is no term
+to indicate the universal, still you should avail yourself of the
+resemblance of the particulars to suit your purpose; for resemblance
+often escapes detection. Also, with a view to obtaining your premiss,
+you ought to put it in your question side by side with its contrary.
+E.g. if it were necessary to secure the admission that 'A man should
+obey his father in everything', ask 'Should a man obey his parents
+in everything, or disobey them in everything?'; and to secure that
+'A number multiplied by a large number is a large number', ask 'Should
+one agree that it is a large number or a small one?' For then, if
+compelled to choose, one will be more inclined to think it a large
+one: for the placing of their contraries close beside them makes things
+look big to men, both relatively and absolutely, and worse and better.
+
+A strong appearance of having been refuted is often produced by the
+most highly sophistical of all the unfair tricks of questioners, when
+without proving anything, instead of putting their final proposition
+as a question, they state it as a conclusion, as though they had proved
+that 'Therefore so-and-so is not true' 
+
+It is also a sophistical trick, when a paradox has been laid down,
+first to propose at the start some view that is generally accepted,
+and then claim that the answerer shall answer what he thinks about
+it, and to put one's question on matters of that kind in the form
+'Do you think that...?' For then, if the question be taken as one
+of the premisses of one's argument, either a refutation or a paradox
+is bound to result; if he grants the view, a refutation; if he refuses
+to grant it or even to admit it as the received opinion, a paradox;
+if he refuses to grant it, but admits that it is the received opinion,
+something very like a refutation, results. 
+
+Moreover, just as in rhetorical discourses, so also in those aimed
+at refutation, you should examine the discrepancies of the answerer's
+position either with his own statements, or with those of persons
+whom he admits to say and do aright, moreover with those of people
+who are generally supposed to bear that kind of character, or who
+are like them, or with those of the majority or of all men. Also just
+as answerers, too, often, when they are in process of being confuted,
+draw a distinction, if their confutation is just about to take place,
+so questioners also should resort to this from time to time to counter
+objectors, pointing out, supposing that against one sense of the words
+the objection holds, but not against the other, that they have taken
+it in the latter sense, as e.g. Cleophon does in the Mandrobulus.
+They should also break off their argument and cut down their other
+lines of attack, while in answering, if a man perceives this being
+done beforehand, he should put in his objection and have his say first.
+One should also lead attacks sometimes against positions other than
+the one stated, on the understood condition that one cannot find lines
+of attack against the view laid down, as Lycophron did when ordered
+to deliver a eulogy upon the lyre. To counter those who demand 'Against
+what are you directing your effort?', since one is generally thought
+bound to state the charge made, while, on the other hand, some ways
+of stating it make the defence too easy, you should state as your
+aim only the general result that always happens in refutations, namely
+the contradiction of his thesis -viz. that your effort is to deny
+what he has affirmed, or to affirm what he denied: don't say that
+you are trying to show that the knowledge of contraries is, or is
+not, the same. One must not ask one's conclusion in the form of a
+premiss, while some conclusions should not even be put as questions
+at all; one should take and use it as granted. 
+
+Part 16
+
+We have now therefore dealt with the sources of questions, and the
+methods of questioning in contentious disputations: next we have to
+speak of answering, and of how solutions should be made, and of what
+requires them, and of what use is served by arguments of this kind.
+
+The use of them, then, is, for philosophy, twofold. For in the first
+place, since for the most part they depend upon the expression, they
+put us in a better condition for seeing in how many senses any term
+is used, and what kind of resemblances and what kind of differences
+occur between things and between their names. In the second place
+they are useful for one's own personal researches; for the man who
+is easily committed to a fallacy by some one else, and does not perceive
+it, is likely to incur this fate of himself also on many occasions.
+Thirdly and lastly, they further contribute to one's reputation, viz.
+the reputation of being well trained in everything, and not inexperienced
+in anything: for that a party to arguments should find fault with
+them, if he cannot definitely point out their weakness, creates a
+suspicion, making it seem as though it were not the truth of the matter
+but merely inexperience that put him out of temper. 
+
+Answerers may clearly see how to meet arguments of this kind, if our
+previous account was right of the sources whence fallacies came, and
+also our distinctions adequate of the forms of dishonesty in putting
+questions. But it is not the same thing take an argument in one's
+hand and then to see and solve its faults, as it is to be able to
+meet it quickly while being subjected to questions: for what we know,
+we often do not know in a different context. Moreover, just as in
+other things speed is enhanced by training, so it is with arguments
+too, so that supposing we are unpractised, even though a point be
+clear to us, we are often too late for the right moment. Sometimes
+too it happens as with diagrams; for there we can sometimes analyse
+the figure, but not construct it again: so too in refutations, though
+we know the thing on which the connexion of the argument depends,
+we still are at a loss to split the argument apart. 
+
+Part 17
+
+First then, just as we say that we ought sometimes to choose to prove
+something in the general estimation rather than in truth, so also
+we have sometimes to solve arguments rather in the general estimation
+than according to the truth. For it is a general rule in fighting
+contentious persons, to treat them not as refuting, but as merely
+appearing to refute: for we say that they don't really prove their
+case, so that our object in correcting them must be to dispel the
+appearance of it. For if refutation be an unambiguous contradiction
+arrived at from certain views, there could be no need to draw distinctions
+against amphiboly and ambiguity: they do not effect a proof. The only
+motive for drawing further distinctions is that the conclusion reached
+looks like a refutation. What, then, we have to beware of, is not
+being refuted, but seeming to be, because of course the asking of
+amphibolies and of questions that turn upon ambiguity, and all the
+other tricks of that kind, conceal even a genuine refutation, and
+make it uncertain who is refuted and who is not. For since one has
+the right at the end, when the conclusion is drawn, to say that the
+only denial made of One's statement is ambiguous, no matter how precisely
+he may have addressed his argument to the very same point as oneself,
+it is not clear whether one has been refuted: for it is not clear
+whether at the moment one is speaking the truth. If, on the other
+hand, one had drawn a distinction, and questioned him on the ambiguous
+term or the amphiboly, the refutation would not have been a matter
+of uncertainty. Also what is incidentally the object of contentious
+arguers, though less so nowadays than formerly, would have been fulfilled,
+namely that the person questioned should answer either 'Yes' or 'No':
+whereas nowadays the improper forms in which questioners put their
+questions compel the party questioned to add something to his answer
+in correction of the faultiness of the proposition as put: for certainly,
+if the questioner distinguishes his meaning adequately, the answerer
+is bound to reply either 'Yes' or 'No'. 
+
+If any one is going to suppose that an argument which turns upon ambiguity
+is a refutation, it will be impossible for an answerer to escape being
+refuted in a sense: for in the case of visible objects one is bound
+of necessity to deny the term one has asserted, and to assert what
+one has denied. For the remedy which some people have for this is
+quite unavailing. They say, not that Coriscus is both musical and
+unmusical, but that this Coriscus is musical and this Coriscus unmusical.
+But this will not do, for to say 'this Coriscus is unmusical', or
+'musical', and to say 'this Coriscus' is so, is to use the same expression:
+and this he is both affirming and denying at once. 'But perhaps they
+do not mean the same.' Well, nor did the simple name in the former
+case: so where is the difference? If, however, he is to ascribe to
+the one person the simple title 'Coriscus', while to the other he
+is to add the prefix 'one' or 'this', he commits an absurdity: for
+the latter is no more applicable to the one than to the other: for
+to whichever he adds it, it makes no difference. 
+
+All the same, since if a man does not distinguish the senses of an
+amphiboly, it is not clear whether he has been confuted or has not
+been confuted, and since in arguments the right to distinguish them
+is granted, it is evident that to grant the question simply without
+drawing any distinction is a mistake, so that, even if not the man
+himself, at any rate his argument looks as though it had been refuted.
+It often happens, however, that, though they see the amphiboly, people
+hesitate to draw such distinctions, because of the dense crowd of
+persons who propose questions of the kind, in order that they may
+not be thought to be obstructionists at every turn: then, though they
+would never have supposed that that was the point on which the argument
+turned, they often find themselves faced by a paradox. Accordingly,
+since the right of drawing the distinction is granted, one should
+not hesitate, as has been said before. 
+
+If people never made two questions into one question, the fallacy
+that turns upon ambiguity and amphiboly would not have existed either,
+but either genuine refutation or none. For what is the difference
+between asking 'Are Callias and Themistocles musical?' and what one
+might have asked if they, being different, had had one name? For if
+the term applied means more than one thing, he has asked more than
+one question. If then it be not right to demand simply to be given
+a single answer to two questions, it is evident that it is not proper
+to give a simple answer to any ambiguous question, not even if the
+predicate be true of all the subjects, as some claim that one should.
+For this is exactly as though he had asked 'Are Coriscus and Callias
+at home or not at home?', supposing them to be both in or both out:
+for in both cases there is a number of propositions: for though the
+simple answer be true, that does not make the question one. For it
+is possible for it to be true to answer even countless different questions
+when put to one, all together with either a 'Yes' or a 'No': but still
+one should not answer them with a single answer: for that is the death
+of discussion. Rather, the case is like as though different things
+has actually had the same name applied to them. If then, one should
+not give a single answer to two questions, it is evident that we should
+not say simply 'Yes' or 'No' in the case of ambiguous terms either:
+for the remark is simply a remark, not an answer at all, although
+among disputants such remarks are loosely deemed to be answers, because
+they do not see what the consequence is. 
+
+As we said, then, inasmuch as certain refutations are generally taken
+for such, though not such really, in the same way also certain solutions
+will be generally taken for solutions, though not really such. Now
+these, we say, must sometimes be advanced rather than the true solutions
+in contentious reasonings and in the encounter with ambiguity. The
+proper answer in saying what one thinks is to say 'Granted'; for in
+that way the likelihood of being refuted on a side issue is minimized.
+If, on the other hand, one is compelled to say something paradoxical,
+one should then be most careful to add that 'it seems' so: for in
+that way one avoids the impression of being either refuted or paradoxical.
+Since it is clear what is meant by 'begging the original question',
+and people think that they must at all costs overthrow the premisses
+that lie near the conclusion, and plead in excuse for refusing to
+grant him some of them that he is begging the original question, so
+whenever any one claims from us a point such as is bound to follow
+as a consequence from our thesis, but is false or paradoxical, we
+must plead the same: for the necessary consequences are generally
+held to be a part of the thesis itself. Moreover, whenever the universal
+has been secured not under a definite name, but by a comparison of
+instances, one should say that the questioner assumes it not in the
+sense in which it was granted nor in which he proposed it in the premiss:
+for this too is a point upon which a refutation often depends.
+
+If one is debarred from these defences one must pass to the argument
+that the conclusion has not been properly shown, approaching it in
+the light of the aforesaid distinction between the different kinds
+of fallacy. 
+
+In the case, then, of names that are used literally one is bound to
+answer either simply or by drawing a distinction: the tacit understandings
+implied in our statements, e.g. in answer to questions that are not
+put clearly but elliptically-it is upon this that the consequent refutation
+depends. For example, 'Is what belongs to Athenians the property of
+Athenians?' Yes. 'And so it is likewise in other cases. But observe;
+man belongs to the animal kingdom, doesn't he?' Yes. 'Then man is
+the property of the animal kingdom.' But this is a fallacy: for we
+say that man 'belongs to' the animal kingdom because he is an animal,
+just as we say that Lysander 'belongs to' the Spartans, because he
+is a Spartan. It is evident, then, that where the premiss put forward
+is not clear, one must not grant it simply. 
+
+Whenever of two things it is generally thought that if the one is
+true the other is true of necessity, whereas, if the other is true,
+the first is not true of necessity, one should, if asked which of
+them is true, grant the smaller one: for the larger the number of
+premisses, the harder it is to draw a conclusion from them. If, again,
+the sophist tries to secure that has a contrary while B has not, suppose
+what he says is true, you should say that each has a contrary, only
+for the one there is no established name. 
+
+Since, again, in regard to some of the views they express, most people
+would say that any one who did not admit them was telling a falsehood,
+while they would not say this in regard to some, e.g. to any matters
+whereon opinion is divided (for most people have no distinct view
+whether the soul of animals is destructible or immortal), accordingly
+(1) it is uncertain in which of two senses the premiss proposed is
+usually meant-whether as maxims are (for people call by the name of
+'maxims' both true opinions and general assertions) or like the doctrine
+'the diagonal of a square is incommensurate with its side': and moreover
+(2) whenever opinions are divided as to the truth, we then have subjects
+of which it is very easy to change the terminology undetected. For
+because of the uncertainty in which of the two senses the premiss
+contains the truth, one will not be thought to be playing any trick,
+while because of the division of opinion, one will not be thought
+to be telling a falsehood. Change the terminology therefore, for the
+change will make the position irrefutable. 
+
+Moreover, whenever one foresees any question coming, one should put
+in one's objection and have one's say beforehand: for by doing so
+one is likely to embarrass the questioner most effectually.
+
+Part 18
+
+Inasmuch as a proper solution is an exposure of false reasoning, showing
+on what kind of question the falsity depends, and whereas 'false reasoning'
+has a double meaning-for it is used either if a false conclusion has
+been proved, or if there is only an apparent proof and no real one-there
+must be both the kind of solution just described,' and also the correction
+of a merely apparent proof, so as to show upon which of the questions
+the appearance depends. Thus it comes about that one solves arguments
+that are properly reasoned by demolishing them, whereas one solves
+merely apparent arguments by drawing distinctions. Again, inasmuch
+as of arguments that are properly reasoned some have a true and others
+a false conclusion, those that are false in respect of their conclusion
+it is possible to solve in two ways; for it is possible both by demolishing
+one of the premisses asked, and by showing that the conclusion is
+not the real state of the case: those, on the other hand, that are
+false in respect of the premisses can be solved only by a demolition
+of one of them; for the conclusion is true. So that those who wish
+to solve an argument should in the first place look and see if it
+is properly reasoned, or is unreasoned; and next, whether the conclusion
+be true or false, in order that we may effect the solution either
+by drawing some distinction or by demolishing something, and demolishing
+it either in this way or in that, as was laid down before. There is
+a very great deal of difference between solving an argument when being
+subjected to questions and when not: for to foresee traps is difficult,
+whereas to see them at one's leisure is easier. 
+
+Part 19
+
+Of the refutations, then, that depend upon ambiguity and amphiboly
+some contain some question with more than one meaning, while others
+contain a conclusion bearing a number of senses: e.g. in the proof
+that 'speaking of the silent' is possible, the conclusion has a double
+meaning, while in the proof that 'he who knows does not understand
+what he knows' one of the questions contains an amphiboly. Also the
+double-edged saying is true in one context but not in another: it
+means something that is and something that is not. 
+
+Whenever, then, the many senses lie in the conclusion no refutation
+takes place unless the sophist secures as well the contradiction of
+the conclusion he means to prove; e.g. in the proof that 'seeing of
+the blind' is possible: for without the contradiction there was no
+refutation. Whenever, on the other hand, the many senses lie in the
+questions, there is no necessity to begin by denying the double-edged
+premiss: for this was not the goal of the argument but only its support.
+At the start, then, one should reply with regard to an ambiguity,
+whether of a term or of a phrase, in this manner, that 'in one sense
+it is so, and in another not so', as e.g. that 'speaking of the silent'
+is in one sense possible but in another not possible: also that in
+one sense 'one should do what must needs be done', but not in another:
+for 'what must needs be' bears a number of senses. If, however, the
+ambiguity escapes one, one should correct it at the end by making
+an addition to the question: 'Is speaking of the silent possible?'
+'No, but to speak of while he is silent is possible.' Also, in cases
+which contain the ambiguity in their premisses, one should reply in
+like manner: 'Do people-then not understand what they know? "Yes,
+but not those who know it in the manner described': for it is not
+the same thing to say that 'those who know cannot understand what
+they know', and to say that 'those who know something in this particular
+manner cannot do so'. In general, too, even though he draws his conclusion
+in a quite unambiguous manner, one should contend that what he has
+negated is not the fact which one has asserted but only its name;
+and that therefore there is no refutation. 
+
+Part 20
+
+It is evident also how one should solve those refutations that depend
+upon the division and combination of words: for if the expression
+means something different when divided and when combined, as soon
+as one's opponent draws his conclusion one should take the expression
+in the contrary way. All such expressions as the following depend
+upon the combination or division of the words: 'Was X being beaten
+with that with which you saw him being beaten?' and 'Did you see him
+being beaten with that with which he was being beaten?' This fallacy
+has also in it an element of amphiboly in the questions, but it really
+depends upon combination. For the meaning that depends upon the division
+of the words is not really a double meaning (for the expression when
+divided is not the same), unless also the word that is pronounced,
+according to its breathing, as eros and eros is a case of double meaning.
+(In writing, indeed, a word is the same whenever it is written of
+the same letters and in the same manner- and even there people nowadays
+put marks at the side to show the pronunciation- but the spoken words
+are not the same.) Accordingly an expression that depends upon division
+is not an ambiguous one. It is evident also that not all refutations
+depend upon ambiguity as some people say they do. 
+
+The answerer, then, must divide the expression: for 'I-saw-a-man-being-beaten
+with my eyes' is not the same as to say 'I saw a man being-beaten-with-my-eyes'.
+Also there is the argument of Euthydemus proving 'Then you know now
+in Sicily that there are triremes in Piraeus': and again, 'Can a good
+man who is a cobbler be bad?' 'No.' 'But a good man may be a bad cobbler:
+therefore a good cobbler will be bad.' Again, 'Things the knowledge
+of which is good, are good things to learn, aren't they?' 'Yes.' 'The
+knowledge, however, of evil is good: therefore evil is a good thing
+to know.' 'Yes. But, you see, evil is both evil and a thing-to-learn,
+so that evil is an evil-thing-to-learn, although the knowledge of
+evils is good.' Again, 'Is it true to say in the present moment that
+you are born?' 'Yes.' 'Then you are born in the present moment.' 'No;
+the expression as divided has a different meaning: for it is true
+to say-in-the-present-moment that "you are born", but not "You are
+born-in-the-present-moment".' Again, 'Could you do what you can, and
+as you can?' 'Yes.' 'But when not harping, you have the power to harp:
+and therefore you could harp when not harping.' 'No: he has not the
+power to harp-while-not-harping; merely, when he is not doing it,
+he has the power to do it.' Some people solve this last refutation
+in another way as well. For, they say, if he has granted that he can
+do anything in the way he can, still it does not follow that he can
+harp when not harping: for it has not been granted that he will do
+anything in every way in which he can; and it is not the same thing'
+to do a thing in the way he can' and 'to do it in every way in which
+he can'. But evidently they do not solve it properly: for of arguments
+that depend upon the same point the solution is the same, whereas
+this will not fit all cases of the kind nor yet all ways of putting
+the questions: it is valid against the questioner, but not against
+his argument. 
+
+----------------------------------------------------------------------
+
+SECTION 3
+
+Part 21 
+
+Accentuation gives rise to no fallacious arguments, either as written
+or as spoken, except perhaps some few that might be made up; e.g.
+the following argument. 'Is ou katalueis a house?' 'Yes.' 'Is then
+ou katalueis the negation of katalueis?' 'Yes.' 'But you said that
+ou katalueis is a house: therefore the house is a negation.' How one
+should solve this, is clear: for the word does not mean the same when
+spoken with an acuter and when spoken with a graver accent.
+
+Part 22
+
+It is clear also how one must meet those fallacies that depend on
+the identical expressions of things that are not identical, seeing
+that we are in possession of the kinds of predications. For the one
+man, say, has granted, when asked, that a term denoting a substance
+does not belong as an attribute, while the other has shown that some
+attribute belongs which is in the Category of Relation or of Quantity,
+but is usually thought to denote a substance because of its expression;
+e.g. in the following argument: 'Is it possible to be doing and to
+have done the same thing at the same time?' 'No.' 'But, you see, it
+is surely possible to be seeing and to have seen the same thing at
+the same time, and in the same aspect.' Again, 'Is any mode of passivity
+a mode of activity?' 'No.' 'Then "he is cut", "he is burnt", "he is
+struck by some sensible object" are alike in expression and all denote
+some form of passivity, while again "to say", "to run", "to see" are
+like one like one another in expression: but, you see, "to see" is
+surely a form of being struck by a sensible object; therefore it is
+at the same time a form of passivity and of activity.' Suppose, however,
+that in that case any one, after granting that it is not possible
+to do and to have done the same thing in the same time, were to say
+that it is possible to see and to have seen it, still he has not yet
+been refuted, suppose him to say that 'to see' is not a form of 'doing'
+(activity) but of 'passivity': for this question is required as well,
+though he is supposed by the listener to have already granted it,
+when he granted that 'to cut' is a form of present, and 'to have cut'
+a form of past, activity, and so on with the other things that have
+a like expression. For the listener adds the rest by himself, thinking
+the meaning to be alike: whereas really the meaning is not alike,
+though it appears to be so because of the expression. The same thing
+happens here as happens in cases of ambiguity: for in dealing with
+ambiguous expressions the tyro in argument supposes the sophist to
+have negated the fact which he (the tyro) affirmed, and not merely
+the name: whereas there still wants the question whether in using
+the ambiguous term he had a single meaning in view: for if he grants
+that that was so, the refutation will be effected. 
+
+Like the above are also the following arguments. It is asked if a
+man has lost what he once had and afterwards has not: for a man will
+no longer have ten dice even though he has only lost one die. No:
+rather it is that he has lost what he had before and has not now;
+but there is no necessity for him to have lost as much or as many
+things as he has not now. So then, he asks the questions as to what
+he has, and draws the conclusion as to the whole number that he has:
+for ten is a number. If then he had asked to begin with, whether a
+man no longer having the number of things he once had has lost the
+whole number, no one would have granted it, but would have said 'Either
+the whole number or one of them'. Also there is the argument that
+'a man may give what he has not got': for he has not got only one
+die. No: rather it is that he has given not what he had not got, but
+in a manner in which he had not got it, viz. just the one. For the
+word 'only' does not signify a particular substance or quality or
+number, but a manner relation, e.g. that it is not coupled with any
+other. It is therefore just as if he had asked 'Could a man give what
+he has not got?' and, on being given the answer 'No', were to ask
+if a man could give a thing quickly when he had not got it quickly,
+and, on this being granted, were to conclude that 'a man could give
+what he had not got'. It is quite evident that he has not proved his
+point: for to 'give quickly' is not to give a thing, but to give in
+a certain manner; and a man could certainly give a thing in a manner
+in which he has not got it, e.g. he might have got it with pleasure
+and give it with pain. 
+
+Like these are also all arguments of the following kind: 'Could a
+man strike a blow with a hand which he has not got, or see with an
+eye which he has not got?' For he has not got only one eye. Some people
+solve this case, where a man has more than one eye, or more than one
+of anything else, by saying also that he has only one. Others also
+solve it as they solve the refutation of the view that 'what a man
+has, he has received': for A gave only one vote; and certainly B,
+they say, has only one vote from A. Others, again, proceed by demolishing
+straight away the proposition asked, and admitting that it is quite
+possible to have what one has not received; e.g. to have received
+sweet wine, but then, owing to its going bad in the course of receipt,
+to have it sour. But, as was said also above,' all these persons direct
+their solutions against the man, not against his argument. For if
+this were a genuine solution, then, suppose any one to grant the opposite,
+he could find no solution, just as happens in other cases; e.g. suppose
+the true solution to be 'So-and-so is partly true and partly not',
+then, if the answerer grants the expression without any qualification,
+the sophist's conclusion follows. If, on the other hand, the conclusion
+does not follow, then that could not be the true solution: and what
+we say in regard to the foregoing examples is that, even if all the
+sophist's premisses be granted, still no proof is effected.
+
+Moreover, the following too belong to this group of arguments. 'If
+something be in writing did some one write it?' 'Yes.' 'But it is
+now in writing that you are seated-a false statement, though it was
+true at the time when it was written: therefore the statement that
+was written is at the same time false and true.' But this is fallacious,
+for the falsity or truth of a statement or opinion indicates not a
+substance but a quality: for the same account applies to the case
+of an opinion as well. Again, 'Is what a learner learns what he learns?'
+'Yes.' 'But suppose some one learns "slow" quick'. Then his (the sophist's)
+words denote not what the learner learns but how he learns it. Also,
+'Does a man tread upon what he walks through? 'Yes.' 'But X walks
+through a whole day.' No, rather the words denote not what he walks
+through, but when he walks; just as when any one uses the words 'to
+drink the cup' he denotes not what he drinks, but the vessel out of
+which he drinks. Also, 'Is it either by learning or by discovery that
+a man knows what he knows?' 'Yes.' 'But suppose that of a pair of
+things he has discovered one and learned the other, the pair is not
+known to him by either method.' No: 'what' he knows, means' every
+single thing' he knows, individually; but this does not mean 'all
+the things' he knows, collectively. Again, there is the proof that
+there is a 'third man' distinct from Man and from individual men.
+But that is a fallacy, for 'Man', and indeed every general predicate,
+denotes not an individual substance, but a particular quality, or
+the being related to something in a particular manner, or something
+of that sort. Likewise also in the case of 'Coriscus' and 'Coriscus
+the musician' there is the problem, Are they the same or different?'
+For the one denotes an individual substance and the other a quality,
+so that it cannot be isolated; though it is not the isolation which
+creates the 'third man', but the admission that it is an individual
+substance. For 'Man' cannot be an individual substance, as Callias
+is. Nor is the case improved one whit even if one were to call the
+clement he has isolated not an individual substance but a quality:
+for there will still be the one beside the many, just as 'Man' was.
+It is evident then that one must not grant that what is a common predicate
+applying to a class universally is an individual substance, but must
+say that denotes either a quality, or a relation, or a quantity, or
+something of that kind. 
+
+Part 23
+
+It is a general rule in dealing with arguments that depend on language
+that the solution always follows the opposite of the point on which
+the argument turns: e.g. if the argument depends upon combination,
+then the solution consists in division; if upon division, then in
+combination. Again, if it depends on an acute accent, the solution
+is a grave accent; if on a grave accent, it is an acute. If it depends
+on ambiguity, one can solve it by using the opposite term; e.g. if
+you find yourself calling something inanimate, despite your previous
+denial that it was so, show in what sense it is alive: if, on the
+other hand, one has declared it to be inanimate and the sophist has
+proved it to be animate, say how it is inanimate. Likewise also in
+a case of amphiboly. If the argument depends on likeness of expression,
+the opposite will be the solution. 'Could a man give what he has not
+got? 'No, not what he has not got; but he could give it in a way in
+which he has not got it, e.g. one die by itself.' Does a man know
+either by learning or by discovery each thing that he knows, singly?
+but not the things that he knows, collectively.' Also a man treads,
+perhaps, on any thing he walks through, but not on the time he walks
+through. Likewise also in the case of the other examples.
+
+Part 24
+
+In dealing with arguments that depend on Accident, one and the same
+solution meets all cases. For since it is indeterminate when an attribute
+should be ascribed to a thing, in cases where it belongs to the accident
+of the thing, and since in some cases it is generally agreed and people
+admit that it belongs, while in others they deny that it need belong,
+we should therefore, as soon as the conclusion has been drawn, say
+in answer to them all alike, that there is no need for such an attribute
+to belong. One must, however, be prepared to adduce an example of
+the kind of attribute meant. All arguments such as the following depend
+upon Accident. 'Do you know what I am going to ask you? you know the
+man who is approaching', or 'the man in the mask'? 'Is the statue
+your work of art?' or 'Is the dog your father?' 'Is the product of
+a small number with a small number a small number?' For it is evident
+in all these cases that there is no necessity for the attribute which
+is true of the thing's accident to be true of the thing as well. For
+only to things that are indistinguishable and one in essence is it
+generally agreed that all the same attributes belong; whereas in the
+case of a good thing, to be good is not the same as to be going to
+be the subject of a question; nor in the case of a man approaching,
+or wearing a mask, is 'to be approaching' the same thing as 'to be
+Coriscus', so that suppose I know Coriscus, but do not know the man
+who is approaching, it still isn't the case that I both know and do
+not know the same man; nor, again, if this is mine and is also a work
+of art, is it therefore my work of art, but my property or thing or
+something else. (The solution is after the same manner in the other
+cases as well.) 
+
+Some solve these refutations by demolishing the original proposition
+asked: for they say that it is possible to know and not to know the
+same thing, only not in the same respect: accordingly, when they don't
+know the man who is coming towards them, but do know Corsicus, they
+assert that they do know and don't know the same object, but not in
+the same respect. Yet, as we have already remarked, the correction
+of arguments that depend upon the same point ought to be the same,
+whereas this one will not stand if one adopts the same principle in
+regard not to knowing something, but to being, or to being is a in
+a certain state, e.g. suppose that X is father, and is also yours:
+for if in some cases this is true and it is possible to know and not
+to know the same thing, yet with that case the solution stated has
+nothing to do. Certainly there is nothing to prevent the same argument
+from having a number of flaws; but it is not the exposition of any
+and every fault that constitutes a solution: for it is possible for
+a man to show that a false conclusion has been proved, but not to
+show on what it depends, e.g. in the case of Zeno's argument to prove
+that motion is impossible. So that even if any one were to try to
+establish that this doctrine is an impossible one, he still is mistaken,
+and even if he proved his case ten thousand times over, still this
+is no solution of Zeno's argument: for the solution was all along
+an exposition of false reasoning, showing on what its falsity depends.
+If then he has not proved his case, or is trying to establish even
+a true proposition, or a false one, in a false manner, to point this
+out is a true solution. Possibly, indeed, the present suggestion may
+very well apply in some cases: but in these cases, at any rate, not
+even this would be generally agreed: for he knows both that Coriscus
+is Coriscus and that the approaching figure is approaching. To know
+and not to know the same thing is generally thought to be possible,
+when e.g. one knows that X is white, but does not realize that he
+is musical: for in that way he does know and not know the same thing,
+though not in the same respect. But as to the approaching figure and
+Coriscus he knows both that it is approaching and that he is Coriscus.
+
+A like mistake to that of those whom we have mentioned is that of
+those who solve the proof that every number is a small number: for
+if, when the conclusion is not proved, they pass this over and say
+that a conclusion has been proved and is true, on the ground that
+every number is both great and small, they make a mistake.
+
+Some people also use the principle of ambiguity to solve the aforesaid
+reasonings, e.g. the proof that 'X is your father', or 'son', or 'slave'.
+Yet it is evident that if the appearance a proof depends upon a plurality
+of meanings, the term, or the expression in question, ought to bear
+a number of literal senses, whereas no one speaks of A as being 'B's
+child' in the literal sense, if B is the child's master, but the combination
+depends upon Accident. 'Is A yours?' 'Yes.' 'And is A a child?' 'Yes.'
+'Then the child A is yours,' because he happens to be both yours and
+a child; but he is not 'your child'. 
+
+There is also the proof that 'something "of evils" is good'; for wisdom
+is a 'knowledge "of evils"'. But the expression that this is 'of so
+and-so' (='so-and-so's') has not a number of meanings: it means that
+it is 'so-and-so's property'. We may suppose of course, on the other
+hand, that it has a number of meanings-for we also say that man is
+'of the animals', though not their property; and also that any term
+related to 'evils' in a way expressed by a genitive case is on that
+account a so-and-so 'of evils', though it is not one of the evils-but
+in that case the apparently different meanings seem to depend on whether
+the term is used relatively or absolutely. 'Yet it is conceivably
+possible to find a real ambiguity in the phrase "Something of evils
+is good".' Perhaps, but not with regard to the phrase in question.
+It would occur more nearly, suppose that 'A servant is good of the
+wicked'; though perhaps it is not quite found even there: for a thing
+may be 'good' and be 'X's' without being at the same time 'X's good'.
+Nor is the saying that 'Man is of the animals' a phrase with a number
+of meanings: for a phrase does not become possessed of a number of
+meanings merely suppose we express it elliptically: for we express
+'Give me the Iliad' by quoting half a line of it, e.g. 'Give me "Sing,
+goddess, of the wrath..."' 
+
+Part 25
+
+Those arguments which depend upon an expression that is valid of a
+particular thing, or in a particular respect, or place, or manner,
+or relation, and not valid absolutely, should be solved by considering
+the conclusion in relation to its contradictory, to see if any of
+these things can possibly have happened to it. For it is impossible
+for contraries and opposites and an affirmative and a negative to
+belong to the same thing absolutely; there is, however, nothing to
+prevent each from belonging in a particular respect or relation or
+manner, or to prevent one of them from belonging in a particular respect
+and the other absolutely. So that if this one belongs absolutely and
+that one in a particular respect, there is as yet no refutation. This
+is a feature one has to find in the conclusion by examining it in
+comparison with its contradictory. 
+
+All arguments of the following kind have this feature: 'Is it possible
+for what is-not to be? "No." But, you see, it is something, despite
+its not being.' Likewise also, Being will not be; for it will not
+he some particular form of being. Is it possible for the same man
+at the same time to be a keeper and a breaker of his oath?' 'Can the
+same man at the same time both obey and disobey the same man?' Or
+isn't it the case that being something in particular and Being are
+not the same? On the other hand, Not-being, even if it be something,
+need not also have absolute 'being' as well. Nor if a man keeps his
+oath in this particular instance or in this particular respect, is
+he bound also to be a keeper of oaths absolutely, but he who swears
+that he will break his oath, and then breaks it, keeps this particular
+oath only; he is not a keeper of his oath: nor is the disobedient
+man 'obedient', though he obeys one particular command. The argument
+is similar, also, as regards the problem whether the same man can
+at the same time say what is both false and true: but it appears to
+be a troublesome question because it is not easy to see in which of
+the two connexions the word 'absolutely' is to be rendered-with 'true'
+or with 'false'. There is, however, nothing to prevent it from being
+false absolutely, though true in some particular respect or relation,
+i.e. being true in some things, though not 'true' absolutely. Likewise
+also in cases of some particular relation and place and time. For
+all arguments of the following kind depend upon this.' Is health,
+or wealth, a good thing?' 'Yes.' 'But to the fool who does not use
+it aright it is not a good thing: therefore it is both good and not
+good.' 'Is health, or political power, a good thing?' 'Yes. "But sometimes
+it is not particularly good: therefore the same thing is both good
+and not good to the same man.' Or rather there is nothing to prevent
+a thing, though good absolutely, being not good to a particular man,
+or being good to a particular man, and yet not good or here. 'Is that
+which the prudent man would not wish, an evil?' 'Yes.' 'But to get
+rid of, he would not wish the good: therefore the good is an evil.'
+But that is a mistake; for it is not the same thing to say 'The good
+is an evil' and 'to get rid of the good is an evil'. Likewise also
+the argument of the thief is mistaken. For it is not the case that
+if the thief is an evil thing, acquiring things is also evil: what
+he wishes, therefore, is not what is evil but what is good; for to
+acquire something good is good. Also, disease is an evil thing, but
+not to get rid of disease. 'Is the just preferable to the unjust,
+and what takes place justly to what takes place unjustly? 'Yes.' 'But
+to to be put to death unjustly is preferable.' 'Is it just that each
+should have his own?' 'Yes.' 'But whatever decisions a man comes to
+on the strength of his personal opinion, even if it be a false opinion,
+are valid in law: therefore the same result is both just and unjust.'
+Also, should one decide in favour of him who says what is unjust?'
+'The former.' 'But you see, it is just for the injured party to say
+fully the things he has suffered; and these are fallacies. For because
+to suffer a thing unjustly is preferable, unjust ways are not therefore
+preferable, though in this particular case the unjust may very well
+be better than the just. Also, to have one's own is just, while to
+have what is another's is not just: all the same, the decision in
+question may very well be a just decision, whatever it be that the
+opinion of the man who gave the decision supports: for because it
+is just in this particular case or in this particular manner, it is
+not also just absolutely. Likewise also, though things are unjust,
+there is nothing to prevent the speaking of them being just: for because
+to speak of things is just, there is no necessity that the things
+should be just, any more than because to speak of things be of use,
+the things need be of use. Likewise also in the case of what is just.
+So that it is not the case that because the things spoken of are unjust,
+the victory goes to him who speaks unjust things: for he speaks of
+things that are just to speak of, though absolutely, i.e. to suffer,
+they are unjust. 
+
+Part 26
+
+Refutations that depend on the definition of a refutation must, according
+to the plan sketched above, be met by comparing together the conclusion
+with its contradictory, and seeing that it shall involve the same
+attribute in the same respect and relation and manner and time. If
+this additional question be put at the start, you should not admit
+that it is impossible for the same thing to be both double and not
+double, but grant that it is possible, only not in such a way as was
+agreed to constitute a refutation of your case. All the following
+arguments depend upon a point of that kind. 'Does a man who knows
+A to be A, know the thing called A?' and in the same way, 'is one
+who is ignorant that A is A ignorant of the thing called A?' 'Yes.'
+'But one who knows that Coriscus is Coriscus might be ignorant of
+the fact that he is musical, so that he both knows and is ignorant
+of the same thing.' Is a thing four cubits long greater than a thing
+three cubits long?' 'Yes.' 'But a thing might grow from three to four
+cubits in length; 'now what is 'greater' is greater than a 'less':
+accordingly the thing in question will be both greater and less than
+itself in the same respect. 
+
+Part 27
+
+As to refutations that depend on begging and assuming the original
+point to be proved, suppose the nature of the question to be obvious,
+one should not grant it, even though it be a view generally held,
+but should tell him the truth. Suppose, however, that it escapes one,
+then, thanks to the badness of arguments of that kind, one should
+make one's error recoil upon the questioner, and say that he has brought
+no argument: for a refutation must be proved independently of the
+original point. Secondly, one should say that the point was granted
+under the impression that he intended not to use it as a premiss,
+but to reason against it, in the opposite way from that adopted in
+refutations on side issues. 
+
+Part 28
+
+Also, those refutations that bring one to their conclusion through
+the consequent you should show up in the course of the argument itself.
+The mode in which consequences follow is twofold. For the argument
+either is that as the universal follows on its particular-as (e.g.)
+'animal' follows from 'man'-so does the particular on its universal:
+for the claim is made that if A is always found with B, then B also
+is always found with A. Or else it proceeds by way of the opposites
+of the terms involved: for if A follows B, it is claimed that A's
+opposite will follow B's opposite. On this latter claim the argument
+of Melissus also depends: for he claims that because that which has
+come to be has a beginning, that which has not come to be has none,
+so that if the heaven has not come to be, it is also eternal. But
+that is not so; for the sequence is vice versa. 
+
+Part 29
+
+In the case of any refutations whose reasoning depends on some addition,
+look and see if upon its subtraction the absurdity follows none the
+less: and then if so, the answerer should point this out, and say
+that he granted the addition not because he really thought it, but
+for the sake of the argument, whereas the questioner has not used
+it for the purpose of his argument at all. 
+
+Part 30
+
+To meet those refutations which make several questions into one, one
+should draw a distinction between them straight away at the start.
+For a question must be single to which there is a single answer, so
+that one must not affirm or deny several things of one thing, nor
+one thing of many, but one of one. But just as in the case of ambiguous
+terms, an attribute belongs to a term sometimes in both its senses,
+and sometimes in neither, so that a simple answer does one, as it
+happens, no harm despite the fact that the question is not simple,
+so it is in these cases of double questions too. Whenever, then, the
+several attributes belong to the one subject, or the one to the many,
+the man who gives a simple answer encounters no obstacle even though
+he has committed this mistake: but whenever an attribute belongs to
+one subject but not to the other, or there is a question of a number
+of attributes belonging to a number of subjects and in one sense both
+belong to both, while in another sense, again, they do not, then there
+is trouble, so that one must beware of this. Thus (e.g.) in the following
+arguments: Supposing to be good and B evil, you will, if you give
+a single answer about both, be compelled to say that it is true to
+call these good, and that it is true to call them evil and likewise
+to call them neither good nor evil (for each of them has not each
+character), so that the same thing will be both good and evil and
+neither good nor evil. Also, since everything is the same as itself
+and different from anything else, inasmuch as the man who answers
+double questions simply can be made to say that several things are
+'the same' not as other things but 'as themselves', and also that
+they are different from themselves, it follows that the same things
+must be both the same as and different from themselves. Moreover,
+if what is good becomes evil while what is evil is good, then they
+must both become two. So of two unequal things each being equal to
+itself, it will follow that they are both equal and unequal to themselves.
+
+Now these refutations fall into the province of other solutions as
+well: for 'both' and 'all' have more than one meaning, so that the
+resulting affirmation and denial of the same thing does not occur,
+except verbally: and this is not what we meant by a refutation. But
+it is clear that if there be not put a single question on a number
+of points, but the answerer has affirmed or denied one attribute only
+of one subject only, the absurdity will not come to pass.
+
+Part 31
+
+With regard to those who draw one into repeating the same thing a
+number of times, it is clear that one must not grant that predications
+of relative terms have any meaning in abstraction by themselves, e.g.
+that 'double' is a significant term apart from the whole phrase 'double
+of half' merely on the ground that it figures in it. For ten figures
+in 'ten minus one' and in 'not do', and generally the affirmation
+in the negation; but for all that, suppose any one were to say, 'This
+is not white', he does not say that it is white. The bare word 'double',
+one may perhaps say, has not even any meaning at all, any more than
+has 'the' in 'the half': and even if it has a meaning, yet it has
+not the same meaning as in the combination. Nor is 'knowledge' the
+same thing in a specific branch of it (suppose it, e.g. to be 'medical
+knowledge') as it is in general: for in general it was the 'knowledge
+of the knowable'. In the case of terms that are predicated of the
+terms through which they are defined, you should say the same thing,
+that the term defined is not the same in abstraction as it is in the
+whole phrase. For 'concave' has a general meaning which is the same
+in the case of a snub nose, and of a bandy leg, but when added to
+either substantive nothing prevents it from differentiating its meaning;
+in fact it bears one sense as applied to the nose, and another as
+applied to the leg: for in the former connexion it means 'snub' and
+in the latter 'bandyshaped'; i.e. it makes no difference whether you
+say 'a snub nose' or 'a concave nose'. Moreover, the expression must
+not be granted in the nominative case: for it is a falsehood. For
+snubness is not a concave nose but something (e.g. an affection) belonging
+to a nose: hence, there is no absurdity in supposing that the snub
+nose is a nose possessing the concavity that belongs to a nose.
+
+Part 32
+
+With regard to solecisms, we have previously said what it is that
+appears to bring them about; the method of their solution will be
+clear in the course of the arguments themselves. Solecism is the result
+aimed at in all arguments of the following kind: 'Is a thing truly
+that which you truly call it?' 'Yes'. 'But, speaking of a stone, you
+call him real: therefore of a stone it follows that "him is real".'
+No: rather, talking of a stone means not saying which' but 'whom',
+and not 'that' but 'him'. If, then, any one were to ask, 'Is a stone
+him whom you truly call him?' he would be generally thought not to
+be speaking good Greek, any more than if he were to ask, 'Is he what
+you call her?' Speak in this way of a 'stick' or any neuter word,
+and the difference does not break out. For this reason, also, no solecism
+is incurred, suppose any one asks, 'Is a thing what you say it to
+be?' 'Yes'. 'But, speaking of a stick, you call it real: therefore,
+of a stick it follows that it is real.' 'Stone', however, and 'he'
+have masculine designations. Now suppose some one were to ask, 'Can
+"he" be a she" (a female)?', and then again, 'Well, but is not he
+Coriscus?' and then were to say, 'Then he is a "she",' he has not
+proved the solecism, even if the name 'Coriscus' does signify a 'she',
+if, on the other hand, the answerer does not grant this: this point
+must be put as an additional question: while if neither is it the
+fact nor does he grant it, then the sophist has not proved his case
+either in fact or as against the person he has been questioning. In
+like manner, then, in the above instance as well it must be definitely
+put that 'he' means the stone. If, however, this neither is so nor
+is granted, the conclusion must not be stated: though it follows apparently,
+because the case (the accusative), that is really unlike, appears
+to be like the nominative. 'Is it true to say that this object is
+what you call it by name?' 'Yes'. 'But you call it by the name of
+a shield: this object therefore is "of a shield".' No: not necessarily,
+because the meaning of 'this object' is not 'of a shield' but 'a shield':
+'of a shield' would be the meaning of 'this object's'. Nor again if
+'He is what you call him by name', while 'the name you call him by
+is Cleon's', is he therefore 'Cleon's': for he is not 'Cleon's', for
+what was said was that 'He, not his, is what I call him by name'.
+For the question, if put in the latter way, would not even be Greek.
+'Do you know this?' 'Yes.' 'But this is he: therefore you know he'.
+No: rather 'this' has not the same meaning in 'Do you know this?'
+as in 'This is a stone'; in the first it stands for an accusative,
+in the second for a nominative case. 'When you have understanding
+of anything, do you understand it?' 'Yes.' 'But you have understanding
+of a stone: therefore you understand of a stone.' No: the one phrase
+is in the genitive, 'of a stone', while the other is in the accusative,
+'a stone': and what was granted was that 'you understand that, not
+of that, of which you have understanding', so that you understand
+not 'of a stone', but 'the stone'. 
+
+Thus that arguments of this kind do not prove solecism but merely
+appear to do so, and both why they so appear and how you should meet
+them, is clear from what has been said. 
+
+Part 33
+
+We must also observe that of all the arguments aforesaid it is easier
+with some to see why and where the reasoning leads the hearer astray,
+while with others it is more difficult, though often they are the
+same arguments as the former. For we must call an argument the same
+if it depends upon the same point; but the same argument is apt to
+be thought by some to depend on diction, by others on accident, and
+by others on something else, because each of them, when worked with
+different terms, is not so clear as it was. Accordingly, just as in
+fallacies that depend on ambiguity, which are generally thought to
+be the silliest form of fallacy, some are clear even to the man in
+the street (for humorous phrases nearly all depend on diction; e.g.
+'The man got the cart down from the stand'; and 'Where are you bound?'
+'To the yard arm'; and 'Which cow will calve afore?' 'Neither, but
+both behind;' and 'Is the North wind clear?' 'No, indeed; for it has
+murdered the beggar and the merchant." Is he a Good enough-King?'
+'No, indeed; a Rob-son': and so with the great majority of the rest
+as well), while others appear to elude the most expert (and it is
+a symptom of this that they often fight about their terms, e.g. whether
+the meaning of 'Being' and 'One' is the same in all their applications
+or different; for some think that 'Being' and 'One' mean the same;
+while others solve the argument of Zeno and Parmenides by asserting
+that 'One' and 'Being' are used in a number of senses), likewise also
+as regards fallacies of Accident and each of the other types, some
+of the arguments will be easier to see while others are more difficult;
+also to grasp to which class a fallacy belongs, and whether it is
+a refutation or not a refutation, is not equally easy in all cases.
+
+An incisive argument is one which produces the greatest perplexity:
+for this is the one with the sharpest fang. Now perplexity is twofold,
+one which occurs in reasoned arguments, respecting which of the propositions
+asked one is to demolish, and the other in contentious arguments,
+respecting the manner in which one is to assent to what is propounded.
+Therefore it is in syllogistic arguments that the more incisive ones
+produce the keenest heart-searching. Now a syllogistic argument is
+most incisive if from premisses that are as generally accepted as
+possible it demolishes a conclusion that is accepted as generally
+as possible. For the one argument, if the contradictory is changed
+about, makes all the resulting syllogisms alike in character: for
+always from premisses that are generally accepted it will prove a
+conclusion, negative or positive as the case may be, that is just
+as generally accepted; and therefore one is bound to feel perplexed.
+An argument, then, of this kind is the most incisive, viz. the one
+that puts its conclusion on all fours with the propositions asked;
+and second comes the one that argues from premisses, all of which
+are equally convincing: for this will produce an equal perplexity
+as to what kind of premiss, of those asked, one should demolish. Herein
+is a difficulty: for one must demolish something, but what one must
+demolish is uncertain. Of contentious arguments, on the other hand,
+the most incisive is the one which, in the first place, is characterized
+by an initial uncertainty whether it has been properly reasoned or
+not; and also whether the solution depends on a false premiss or on
+the drawing of a distinction; while, of the rest, the second place
+is held by that whose solution clearly depends upon a distinction
+or a demolition, and yet it does not reveal clearly which it is of
+the premisses asked, whose demolition, or the drawing of a distinction
+within it, will bring the solution about, but even leaves it vague
+whether it is on the conclusion or on one of the premisses that the
+deception depends. 
+
+Now sometimes an argument which has not been properly reasoned is
+silly, supposing the assumptions required to be extremely contrary
+to the general view or false; but sometimes it ought not to be held
+in contempt. For whenever some question is left out, of the kind that
+concerns both the subject and the nerve of the argument, the reasoning
+that has both failed to secure this as well, and also failed to reason
+properly, is silly; but when what is omitted is some extraneous question,
+then it is by no means to be lightly despised, but the argument is
+quite respectable, though the questioner has not put his questions
+well. 
+
+Just as it is possible to bring a solution sometimes against the argument,
+at others against the questioner and his mode of questioning, and
+at others against neither of these, likewise also it is possible to
+marshal one's questions and reasoning both against the thesis, and
+against the answerer and against the time, whenever the solution requires
+a longer time to examine than the period available. 
+
+Part 34
+
+As to the number, then, and kind of sources whence fallacies arise
+in discussion, and how we are to show that our opponent is committing
+a fallacy and make him utter paradoxes; moreover, by the use of what
+materials solescism is brought about, and how to question and what
+is the way to arrange the questions; moreover, as to the question
+what use is served by all arguments of this kind, and concerning the
+answerer's part, both as a whole in general, and in particular how
+to solve arguments and solecisms-on all these things let the foregoing
+discussion suffice. It remains to recall our original proposal and
+to bring our discussion to a close with a few words upon it.
+
+Our programme was, then, to discover some faculty of reasoning about
+any theme put before us from the most generally accepted premisses
+that there are. For that is the essential task of the art of discussion
+(dialectic) and of examination (peirastic). Inasmuch, however, as
+it is annexed to it, on account of the near presence of the art of
+sophistry (sophistic), not only to be able to conduct an examination
+dialectically but also with a show of knowledge, we therefore proposed
+for our treatise not only the aforesaid aim of being able to exact
+an account of any view, but also the aim of ensuring that in standing
+up to an argument we shall defend our thesis in the same manner by
+means of views as generally held as possible. The reason of this we
+have explained; for this, too, was why Socrates used to ask questions
+and not to answer them; for he used to confess that he did not know.
+We have made clear, in the course of what precedes, the number both
+of the points with reference to which, and of the materials from which,
+this will be accomplished, and also from what sources we can become
+well supplied with these: we have shown, moreover, how to question
+or arrange the questioning as a whole, and the problems concerning
+the answers and solutions to be used against the reasonings of the
+questioner. We have also cleared up the problems concerning all other
+matters that belong to the same inquiry into arguments. In addition
+to this we have been through the subject of Fallacies, as we have
+already stated above. 
+
+That our programme, then, has been adequately completed is clear.
+But we must not omit to notice what has happened in regard to this
+inquiry. For in the case of all discoveries the results of previous
+labours that have been handed down from others have been advanced
+bit by bit by those who have taken them on, whereas the original discoveries
+generally make advance that is small at first though much more useful
+than the development which later springs out of them. For it may be
+that in everything, as the saying is, 'the first start is the main
+part': and for this reason also it is the most difficult; for in proportion
+as it is most potent in its influence, so it is smallest in its compass
+and therefore most difficult to see: whereas when this is once discovered,
+it is easier to add and develop the remainder in connexion with it.
+This is in fact what has happened in regard to rhetorical speeches
+and to practically all the other arts: for those who discovered the
+beginnings of them advanced them in all only a little way, whereas
+the celebrities of to-day are the heirs (so to speak) of a long succession
+of men who have advanced them bit by bit, and so have developed them
+to their present form, Tisias coming next after the first founders,
+then Thrasymachus after Tisias, and Theodorus next to him, while several
+people have made their several contributions to it: and therefore
+it is not to be wondered at that the art has attained considerable
+dimensions. Of this inquiry, on the other hand, it was not the case
+that part of the work had been thoroughly done before, while part
+had not. Nothing existed at all. For the training given by the paid
+professors of contentious arguments was like the treatment of the
+matter by Gorgias. For they used to hand out speeches to be learned
+by heart, some rhetorical, others in the form of question and answer,
+each side supposing that their arguments on either side generally
+fall among them. And therefore the teaching they gave their pupils
+was ready but rough. For they used to suppose that they trained people
+by imparting to them not the art but its products, as though any one
+professing that he would impart a form of knowledge to obviate any
+pain in the feet, were then not to teach a man the art of shoe-making
+or the sources whence he can acquire anything of the kind, but were
+to present him with several kinds of shoes of all sorts: for he has
+helped him to meet his need, but has not imparted an art to him. Moreover,
+on the subject of Rhetoric there exists much that has been said long
+ago, whereas on the subject of reasoning we had nothing else of an
+earlier date to speak of at all, but were kept at work for a long
+time in experimental researches. If, then, it seems to you after inspection
+that, such being the situation as it existed at the start, our investigation
+is in a satisfactory condition compared with the other inquiries that
+have been developed by tradition, there must remain for all of you,
+or for our students, the task of extending us your pardon for the
+shortcomings of the inquiry, and for the discoveries thereof your
+warm thanks. 
+
+THE END
+
+----------------------------------------------------------------------
+
+Copyright statement:
+The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
+World Wide Web presentation is copyright (C) 1994-2000, Daniel
+C. Stevenson, Web Atomics.
+All rights reserved under international and pan-American copyright
+conventions, including the right of reproduction in whole or in part
+in any form. Direct permission requests to classics@classics.mit.edu.
+Translation of "The Deeds of the Divine Augustus" by Augustus is
+copyright (C) Thomas Bushnell, BSG.
